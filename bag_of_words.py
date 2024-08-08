@@ -13,12 +13,14 @@ test_vectors = bag_of_word.transform(test_data)
 # Get the unique words
 unique_words = bag_of_word.get_feature_names_out()
 
-# vocabulary size
-print("Vocabulary size:", len(bag_of_word.vocabulary_))
-# train_vectors.shape & test_vectors.shape = (number of samples, vocabulary size)
-print("Training data shape:", train_vectors.shape)
-print("Test data shape:", test_vectors.shape)
-# # array of unique words
-# print("Feature names:", unique_words)
+# print(test_data[1])
 
-print("Bag of words created successfully!")
+# # vocabulary size
+# print("Vocabulary size:", len(bag_of_word.vocabulary_))
+# # train_vectors.shape & test_vectors.shape = (number of samples, vocabulary size)
+# print("Training data shape:", train_vectors.shape)
+# print("Test data shape:", test_vectors.shape)
+# # # array of unique words
+# # print("Feature names:", unique_words)
+
+# print("Bag of words created successfully!")

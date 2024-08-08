@@ -1,0 +1,7828 @@
+Instance 1 out of 364
+Text: FWPC
+
+Falling Waters Presbyterian Church
+
+  • Home
+  • Our Mission
+  • About Us
+  • Church Staff
+  •...
+Predicted class: christianity
+LIME Explanation:
+2nd: 0.02089098603381651
+information: 0.021286933740994843
+previous: -0.02315869876626284
+music: 0.02379322477486921
+study: 0.02383427591486689
+regular: 0.023950831224374015
+about: -0.024875535504752425
+sunday: 0.02494499012983564
+above: 0.024995063787927294
+10: 0.028651198797002
+
+-----------------------------------
+Instance 2 out of 364
+Text: Logo Logo Logo Logo Logo
+
+  • Learn More
+  • Get Involved
+  • New Members
+  • Upcoming Events
+  • Re...
+Predicted class: christianity
+LIME Explanation:
+logo: 0.016199350498170364
+that: 0.017561050131666877
+twitter_ic: 0.018030637237068284
+if: 0.018479061221633956
+designs: 0.01909640994762886
+upcoming: 0.01921706822987674
+new: 0.019815954194617243
+our: 0.019828967056404287
+everything: 0.023379217237204725
+church: 0.08321770908070311
+
+-----------------------------------
+Instance 3 out of 364
+Text: 
+                   Welcome to The Skeptic Tank's WEB Pages!
+
+Fred Rice
+
+You have loaded The Skeptic...
+Predicted class: atheism
+LIME Explanation:
+currently: 0.044045370715007394
+the: -0.046666519244797436
+here: 0.048309665136790185
+sciences: 0.04916931131554298
+which: -0.05011075431166764
+deeply: -0.05115069125031045
+scientology: 0.06302865610429412
+get: -0.07416648936838612
+church: 0.09481836531939779
+science: -0.40258310728542
+
+-----------------------------------
+Instance 4 out of 364
+Text: [sabtop] [kora] [morm]
+
+[next quote]
+
+[sabcropped]              Hebrew Scriptures                   ...
+Predicted class: atheism
+LIME Explanation:
+every: 0.04554822346283359
+apologists: 0.047649591585522955
+testament: 0.048772141073277736
+joshua: 0.05896787463141532
+gay: -0.06791527171459436
+anti: 0.08453126871206294
+and: -0.21916185961003684
+science: -0.2725851864887265
+gmail: -0.33268988102040487
+com: 0.36264978514971463
+
+-----------------------------------
+Instance 5 out of 364
+Text: ^theNew Atheists                                                                                    ...
+Predicted class: atheism
+LIME Explanation:
+are: -0.012367347014770004
+proof: 0.013688032325740732
+themes: 0.01429238308074937
+out: 0.01570482324880895
+beliefs: 0.016300974701057784
+of: 0.017884725574385692
+science: 0.02135456564786097
+encyclopedia: 0.022406695370439482
+and: -0.09529305036362391
+atheist: -0.10319887992756673
+
+-----------------------------------
+Instance 6 out of 364
+Text: *
+
+  • This week’s broadcasts
+  • Today Truth and Love (Part 2 of 2)
+        
+  • Jan 11 Truth and L...
+Predicted class: christianity
+LIME Explanation:
+13: -0.03951152575536736
+to: 0.04343435784091376
+care: -0.04359374725849482
+blog: 0.04757459571646038
+gospel: -0.049442022690708166
+the: 0.06064235308538254
+20: -99404199.7500421
+17: 99404199.77892493
+faith: -17206821096.83779
+hope: 17206821096.857952
+
+-----------------------------------
+Instance 7 out of 364
+Text: Store
+
+Click on the slide!
+
+  • <<
+  • Click to navigate! 01 HIGH HORSE TOUR LONDON 2016
+  • >>
+  • ...
+Predicted class: christianity
+LIME Explanation:
+policy: 0.01470872029946785
+high: 0.01486552098863498
+navigate: 0.017285797866804908
+com: 0.01955414640986601
+by: 0.023471610490211146
+news: 0.03132378841306513
+356: 0.03146486510171303
+click: 0.05723759496532174
+copyright: -0.08439303631923392
+the: 0.28171471116763036
+
+-----------------------------------
+Instance 8 out of 364
+Text:                             Famous Dead Nontheists
+
+A list of famous dead people who have rejected G...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 9 out of 364
+Text: Usher's Temple C.M.E. Church
+Login   Search
+[nav_top]        [content_to]
+                 Skip Navi...
+Predicted class: christianity
+LIME Explanation:
+gallery: 0.016965809982426538
+and: 0.018599683768527896
+church: 0.019181712274271703
+century: 0.01921931171762743
+temple: 0.019493110717180413
+by: 0.02123326669497388
+full: 0.02211438502010632
+the: 0.03468120389551215
+faith: -43473928572.292755
+based: 43473928572.298996
+
+-----------------------------------
+Instance 10 out of 364
+Text: Skip Navigation
+[Immaculate_Conception_School]
+
+  • Community Home
+  • |
+  • Location & Directions
+
+...
+Predicted class: atheism
+LIME Explanation:
+mission: 0.03702176582385045
+request: 0.03849301671397851
+students: 0.041954418795737455
+girl: 0.04489779229941884
+program: 0.04910551243419943
+today: -0.050429673291811326
+to: 0.06346355330812012
+school: 0.09752719793340793
+and: -0.10223657451791347
+science: -0.4350223163649474
+
+-----------------------------------
+Instance 11 out of 364
+Text: Carbon Dating
+
+A COMIC ABOUT SCIENCE AND RELATIONSHIPS
+
+  • Store
+  • Archive
+  • Characters
+  • Med...
+Predicted class: atheism
+LIME Explanation:
+homeopathy: -0.021944109216089015
+transcript: -0.02204690735730121
+we: 0.022132789341880704
+features: 0.022308099180865567
+chapter: 0.024413334063031717
+horoscope: -0.02600020276704121
+gmos: -0.02720728405100672
+supplements: -0.032871085791364
+re: -0.042178058014295076
+and: -0.12953032578415333
+
+-----------------------------------
+Instance 12 out of 364
+Text:             [gen_48]
+                 AboutBuy 'Godless in America'Buy 'mere atheism'My Blog/What's ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 13 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+new: 0.01055823954842743
+00: 0.011133957802184381
+29: 0.011209298501335412
+meetups: 0.011394707886417303
+14: 0.011506352481037286
+member: 0.011603487842971556
+freethinker: 0.015919922687821934
+state: 0.029671356040164795
+atheist: -0.09036085808746996
+science: -0.13107733561433066
+
+-----------------------------------
+Instance 14 out of 364
+Text: Make your own free website on Tripod.com
+Make your own free website on Tripod.com
+[spacer]          ...
+Predicted class: christianity
+LIME Explanation:
+into: 0.022254227594851572
+your: -0.022353450238180417
+requests: 0.02423141119425377
+blogs: -0.02496620684274004
+would: 0.026839680591989858
+sweet: -0.027722142495262177
+last: 0.02876346443481829
+it: 0.02938059716507044
+church: 0.03076956817957686
+18: -0.031984910128932405
+
+-----------------------------------
+Instance 15 out of 364
+Text: The Atheist Pig
+
+This is a picture of The Atheist Pig A hammy critic of religion and nonsensical
+bel...
+Predicted class: atheism
+LIME Explanation:
+that: 0.005583173142041235
+no: -0.005721368325836716
+17th: -0.006902998158933951
+characters: 0.007487417872282172
+7th: -0.007860577848900792
+when: 0.008375048465770663
+11th: 0.008629449484115282
+anything: 0.008711030536079281
+16th: -0.013247864009770844
+atheist: -0.03910034716030225
+
+-----------------------------------
+Instance 16 out of 364
+Text: bg image(grnprch.jpg)
+
+                                                               COPYRIGHT NOTI...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 17 out of 364
+Text: University of Ediacara
+
+The Virtual University's Virtual Home
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
+Predicted class: atheism
+LIME Explanation:
+the: 0.00843271683945585
+to: 0.008829102522245218
+thumb: 0.01089580421916553
+list: 0.011092148282476426
+david: 0.011948461550942967
+local: 0.011995161595265291
+online: 0.012850300218814767
+talk: -0.01790171264610579
+origins: 0.026784320329761843
+university: -0.06033511554917355
+
+-----------------------------------
+Instance 18 out of 364
+Text:                                   [Bethsbeat]
+ 
+ 
+
+        On a rainy Friday night, one of CCM's fai...
+Predicted class: christianity
+LIME Explanation:
+back: -0.023982603840402232
+there: 0.024243301769411956
+our: 0.027763695969441823
+concert: 0.0279194287245709
+on: 0.02940496050490428
+with: 0.02994984807680162
+never: -0.03252084397208692
+relationship: -0.03356936370049747
+blend: 0.03494299831713227
+up: 0.0386246704383681
+
+-----------------------------------
+Instance 19 out of 364
+Text: Who2
+Biographies
+  Browse 
+[                    ]
+  • A-to-Z List
+  • Who Was Born on My Birthday?
+ ...
+Predicted class: atheism
+LIME Explanation:
+comedian: 0.00787688152248458
+tv: -0.008014919910261882
+rights: 0.008280747209026515
+church: 0.008910861862826483
+birthday: -0.009058685259956161
+best: 0.00909168345300564
+personality: 0.009412558568360296
+at: -0.009427931800418147
+musician: 0.009478428273652102
+atheist: -0.016665211395860784
+
+-----------------------------------
+Instance 20 out of 364
+Text: [javascript_disabled]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
+Predicted class: christianity
+LIME Explanation:
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egon: 0.0
+egomaniac: 0.0
+egotistically: 0.0
+ｍａｘドライビングスクール千: 0.0
+javascript_disabled: 0.16625813930783453
+index: 0.17129063898270735
+tp: 0.2384561929181813
+
+-----------------------------------
+Instance 21 out of 364
+Text: skip to main | skip to sidebar
+
+Debunking Christianity
+
+Got A Title for My Next Published Book
+
+By J...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 22 out of 364
+Text: Refresh (0 sec) /unsupportedbrowser?_fb_noscript=1
+
+Facebook logo
+
+Email or Phone       Password
+   ...
+Predicted class: atheism
+LIME Explanation:
+chrome: 0.024073241395737358
+activity: 0.024971845631810697
+sites: 0.02539397388305069
+phone: 0.02735625410466743
+sec: 0.02896390060818568
+that: 0.029803062379410997
+re: 0.03896177119700661
+page: -0.0948798709313785
+refresh: -0.09947262761205325
+get: -0.1570947317663402
+
+-----------------------------------
+Instance 23 out of 364
+Text:   • About Me (Lindsey)
+  • Contact Me!
+  • Disclosure
+  • Media Kit & PR
+
+Growing Kids Ministry
+
+Sha...
+Predicted class: christianity
+LIME Explanation:
+dragon: 0.018029074041785033
+egyptian: 0.018396720943781524
+jonathan: 0.019912933290628286
+zoo: 0.019970054789222848
+holidays: 0.020085549137579806
+raving: 0.020115208210304176
+chatting: 0.020240435628138445
+decorating: 0.020291245719869233
+november: 0.020894468381064894
+camp: 0.021475204421461818
+
+-----------------------------------
+Instance 24 out of 364
+Text:   • About
+  • Advertise
+  • Books
+  • Contact
+  • Debate Handbook
+  • History
+  • Journeys
+  • Best ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 25 out of 364
+Text:   • Welcome!
+  • Worship
+  • Church Life
+  • Children & Youth
+  • Caring
+  • Staff
+  • Directions
+  ...
+Predicted class: christianity
+LIME Explanation:
+answers: -0.021915881839611292
+blog: 0.022146715839838117
+our: 0.02528025886776791
+your: 0.02575526064872713
+do: 0.02710925825130391
+presbyterian: 0.030008197871960986
+through: 0.031706939220435805
+as: -0.03195255558385727
+the: 0.033706040723452825
+church: 0.03568480392816816
+
+-----------------------------------
+Instance 26 out of 364
+Text: Refresh (0 sec) https://mobile.twitter.com/i/nojs_router?path=%2F
+ Sign up Log In
+
+See what’s happen...
+Predicted class: atheism
+LIME Explanation:
+est: 0.008725513085703957
+any: -0.008923145950880755
+was: 0.009688856615315036
+get: -0.009945118441016082
+visit: 0.010949252516188826
+said: 0.012814983168822191
+likes: 0.01741337091147323
+or: -0.01832993624119891
+science: -0.030063979764524802
+fire: -0.03303387142834576
+
+-----------------------------------
+Instance 27 out of 364
+Text: [entertainm]
+
+ 1. Entertainment
+
+About.com
+Urban Legends
+[                    ]Search
+  • Urban Lege...
+Predicted class: atheism
+LIME Explanation:
+tannenbaum: 0.013730669991429068
+1999: -0.014385715955015291
+web: 0.014781643003938165
+letters: 0.015179386424342106
+2016: 0.01563908059852488
+cbs: 0.016232770682452873
+buildings: 0.016569485875184968
+have: 0.01779490581005501
+forum: -0.0870038104101748
+atheist: -0.12540794397568591
+
+-----------------------------------
+Instance 28 out of 364
+Text: 化粧水口コミ　ランキングおすすめ
+
+[gbms1]  [gbmb] [gbmk] [gbmg]
+
+
+ 
+
+口コミで人気の化粧水をお得に試せるトライアルセットを
+おすすめランキングとしてご紹介します。
+...
+Predicted class: atheism
+LIME Explanation:
+北海道: 0.029495671341772584
+また: 0.03002952970421304
+ax: 0.03225640691730742
+です: 0.03308659166983499
+います: 0.034658152823030274
+39: 0.03942259952767427
+メニュー: 0.04056895621745712
+した: 0.0424431422220304
+ます: 0.06362886386535735
+copyright: -0.45162537754646015
+
+-----------------------------------
+Instance 29 out of 364
+Text: THE WALK [FaithWalk]
+  
+Login | Sign Up
+[Search              ]
+Menu
+
+  • Home
+  • New to THE WALK
+  ...
+Predicted class: christianity
+LIME Explanation:
+blog: -0.021309874762222375
+one: 0.02211233759772755
+neighbor: 0.023029093965920143
+know: -0.023728694857229147
+8pm: 0.02460073031352936
+and: 0.024867252865942695
+we: 0.025839400020030018
+church: 0.026742053581505866
+current: 0.03103922040897687
+online: 0.031655176841136154
+
+-----------------------------------
+Instance 30 out of 364
+Text: The Secular Web
+
+Menu
+
+  • Home
+  •  
+  • What's New
+  •  
+  • Support Us
+  •  
+  • Bookstore
+  • Ki...
+Predicted class: atheism
+LIME Explanation:
+do: 0.02180742506439238
+articles: 0.02241640844646999
+law: 0.023043606885439445
+of: 0.023997824279968615
+secular: 0.024991423334059553
+donate: 0.026136361006457536
+though: -0.02764240231790289
+under: 0.02959889134136017
+us: 0.03221041894680193
+atheism: -0.48366110630374076
+
+-----------------------------------
+Instance 31 out of 364
+Text:   Institute for Advanced Abrahamic Religious Studies The dead man-god fiction
+
+
+                    ...
+Predicted class: atheism
+LIME Explanation:
+things: 0.0314241171875779
+science: 0.03535833877941179
+semitism: -0.03910964334868709
+new: 0.04025255359826889
+of: 0.04172457642754321
+anti: 0.04516456251523822
+christianity: 0.05425800358111946
+dusk: 0.06415493689131438
+dawn: -0.0889017220936452
+and: -0.2617329102931379
+
+-----------------------------------
+Instance 32 out of 364
+Text: bg image(Images/background%201.jpg)
+┌───────────────────────────────────────────────────────────────...
+Predicted class: christianity
+LIME Explanation:
+loving: 0.02346607940493085
+in: 0.024208460897611233
+the: 0.024290674808774962
+radio: -0.024635729883531535
+by: 0.02504570140276752
+we: 0.025201230144533272
+mass: 0.025471031681880016
+of: 0.02566267628507666
+kenya: 0.02901398367998344
+important: 0.032466903525158616
+
+-----------------------------------
+Instance 33 out of 364
+Text:        • Home
+NNFR   • About
+       • Contact
+
+Science Based Living- Shedding Fear and Superstition ...
+Predicted class: atheism
+LIME Explanation:
+assistant: -0.031245060607180946
+as: 0.03298050553037335
+to: 0.03468135085290096
+religious: -0.03705178692174735
+dental: 0.04350598822865113
+non: 0.049180756184077065
+get: -0.05010999656988709
+humanist: -0.06649189169163604
+forum: -0.06917760363130879
+science: -0.06935377694863855
+
+-----------------------------------
+Instance 34 out of 364
+Text: Toggle navigationHymnGuru
+
+  • Search
+  • Authors
+  • Composers
+  • Contact
+
+  • Log In
+
+Logo 4bc629...
+Predicted class: atheism
+LIME Explanation:
+log: 0.02227912095718062
+search: 0.022938588674539486
+of: 0.023559928277612947
+in: 0.023782058955304712
+privacy: 0.024287153582163955
+details: 0.029052797185580917
+opening: 0.03390808326127661
+terms: 0.03947454877763059
+hymns: 0.045318830887452456
+copyright: -0.4486954210720168
+
+-----------------------------------
+Instance 35 out of 364
+Text: Image
+image
+   image
+   image
+         
+
+
+
+
+
+          
+         Image 1 Image 2 Image 3 Image 4 Ima...
+Predicted class: christianity
+LIME Explanation:
+sunday: 0.02279413052757338
+members: 0.02511688538153003
+god: -0.025962637807912886
+focused: 0.025984126529701123
+feel: 0.027168273131738002
+please: 0.027309085059102532
+it: 0.02833067279485211
+office: -0.029509069722186036
+210: 0.029704795080291654
+you: 0.038990614971353775
+
+-----------------------------------
+Instance 36 out of 364
+Text: Advertisement
+
+[INS::INS]
+
+Science Blogs
+
+Go to [Select Blog...                                     ...
+Predicted class: christianity
+LIME Explanation:
+both: -0.02463902112021454
+far: 0.025317626172218197
+ranging: 0.02537537911861928
+system: -0.0254783891823733
+home: 0.025682145068100723
+valid: 0.026559319366518577
+new: 0.027940265605837546
+synopsis: 0.029117768240166812
+living: 0.030555934123320562
+uncertain: 0.1844953499626638
+
+-----------------------------------
+Instance 37 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+read: -0.009092560009880818
+seeks: -0.009141321524256141
+just: -0.009195896389421032
+ny: -0.010148390886602535
+00: 0.010166804323449215
+by: 0.011686781953148456
+stone: 0.01211334103723754
+you: -0.012126582716119943
+atheists: 0.015094772856468005
+science: -0.017467394101698154
+
+-----------------------------------
+Instance 38 out of 364
+Text: 
+  • Home
+  • Library
+      □ Learn About The Church   >>
+          ☆ I Believe Series
+          ☆ L...
+Predicted class: christianity
+LIME Explanation:
+nelson: 0.012490216995971056
+marriage: 0.012563093129888183
+other: 0.013433444162014014
+ye: 0.013607358527263521
+curry: -0.013614224283624821
+smith: 0.01362140255965244
+topic: 0.01438513404364832
+washington: -0.015314922174009576
+2011: 0.017614166371816495
+by: 0.04487159582368237
+
+-----------------------------------
+Instance 39 out of 364
+Text: Domestic-Church.Com
+
+                                                                               ...
+Predicted class: christianity
+LIME Explanation:
+communications: 0.03277493029267702
+apparitions: -0.03342437464377548
+obedience: -0.03491303309094779
+1876: 0.035068785014438206
+her: -0.03753166423768405
+all: 0.03776484028333261
+it: -0.038508002987521814
+run: 0.04104819515642657
+for: -0.04397554312090867
+to: 0.06081385314258722
+
+-----------------------------------
+Instance 40 out of 364
+Text: ┌─────┐
+│Home │
+│Index│
+└─────┘
+┌─────┐
+│Home │
+│Index│
+└─────┘
+
+Ramblings on false beliefs
+
+       ...
+Predicted class: christianity
+LIME Explanation:
+question: 0.023952033622482827
+abortion: -0.024049057869097994
+defending: 0.024183622541716715
+learn: 0.024295389799257182
+rains: -0.02559436269140361
+believer: -0.025649081217605934
+equally: 0.02784047812935626
+or: 0.05245526331292185
+christian: 0.07353986422116712
+christ: 0.13111468287406325
+
+-----------------------------------
+Instance 41 out of 364
+Text:                                        [new]                                                        ...
+Predicted class: christianity
+LIME Explanation:
+continues: 0.022480337146846958
+more: -0.022762045095863187
+questions: 0.022796179678547468
+out: 0.02349762954823856
+isaiah: 0.023689454166495084
+thur: -0.025408655755561563
+awards: 0.025591794922744573
+didn: -0.031070425175126617
+the: 0.03261724963739026
+with: 0.03442192308064551
+
+-----------------------------------
+Instance 42 out of 364
+Text: 208-888-1182 Find us on a map   
+[                    ]
+[Search]
+Holy Apostles Catholic Church
+
+  • ...
+Predicted class: christianity
+LIME Explanation:
+of: 0.016692003061681747
+anointing: 0.016740541916178898
+in: 0.017165692937877647
+news: 0.017453706797299507
+bang: 0.01760828317868492
+foster: 0.0184270484695609
+like: 0.018603932330210248
+presence: 0.01920578001595633
+schools: 0.01928718200649076
+find: 0.019446029152472476
+
+-----------------------------------
+Instance 43 out of 364
+Text:   • Blog
+  • About
+  • PROJECTS
+  • LINKS
+  • CONTACT
+  • BIO
+
+cross
+Troy Conrad
+
+
+We Are Capable of...
+Predicted class: atheism
+LIME Explanation:
+page: -0.03812284506668626
+from: 0.03821290773011567
+tbt: 0.03843522274211257
+2016: -0.04079536676543621
+troy: 0.041900238984933336
+florida: -0.042834681042805814
+they: -0.0444549197445047
+marc: 0.047011708679927336
+was: 0.061055508391713816
+get: -0.36569422258002077
+
+-----------------------------------
+Instance 44 out of 364
+Text: Skip links
+
+  • Skip to site navigation
+  • Skip to content
+  • Skip to footer
+
+  • Skip to content ...
+Predicted class: atheism
+LIME Explanation:
+legal: 0.052448784450813836
+privacy: 0.05279172871381875
+information: -0.05326514683218921
+centres: 0.0569631402219076
+quality: 0.06197175884438548
+of: 0.06264444701129875
+you: -0.06941870108828865
+care: -0.0716871226655115
+with: 0.0747548640290754
+by: -0.25550930863702614
+
+-----------------------------------
+Instance 45 out of 364
+Text: St Joseph Catholic Primary School
+
+  • Home
+  • About Us
+    Vision and Mission
+    Community
+  • Fo...
+Predicted class: christianity
+LIME Explanation:
+day: -0.024982846479830057
+strive: 0.02533118019333462
+by: -0.02571100522746267
+manner: -0.027600971829184872
+atmosphere: 0.028351891472703106
+to: 0.02898880831339401
+students: 0.02913392276786254
+participate: 0.031219937771820697
+related: -0.03202892694811318
+and: 0.052483355334621756
+
+-----------------------------------
+Instance 46 out of 364
+Text: bg image(bgblue2.jpg)
+ 
+
+[logo]           [knightstitle]
+                 Pope Pius XII Council 5045...
+Predicted class: christianity
+LIME Explanation:
+pope: 0.021382034527205544
+is: 0.022832680779319554
+at: -0.02374365505767688
+parish: 0.024475598911216225
+christ: 0.03273882012574165
+the: 0.035618753393048305
+2010: -454562980.866296
+2009: 454562980.8743138
+jpg: -45910861067.07634
+image: 45910861067.092186
+
+-----------------------------------
+Instance 47 out of 364
+Text: The Singing School at Abilene Christian University
+
+…doing all things for the building up of the chu...
+Predicted class: christianity
+LIME Explanation:
+have: 0.020785775191258
+01: -0.022776111433132153
+here: 0.023137243363235003
+goal: 0.02672430575698568
+us: 0.02828696890172015
+registrations: 0.02912695695486527
+program: 0.03065916000485381
+university: -0.03589053480691678
+10: 0.04492130205368699
+church: 0.14735137031531859
+
+-----------------------------------
+Instance 48 out of 364
+Text: Log in or Sign up
+
+  • Welcome to Christian Forums
+
+  • Live Feed
+  • Help
+  • Statement of Faith
+  ...
+Predicted class: atheism
+LIME Explanation:
+obama: 0.0007094342198876605
+random: -0.0007531259626521177
+21: 0.000787290947448756
+no: 0.0009179136887673524
+trump: -0.0009797866055388385
+may: -0.0011085886174763903
+14: 0.0012577188871322296
+10: 0.0018439413503493136
+forum: -0.0022309815297983466
+by: 0.002305045282435253
+
+-----------------------------------
+Instance 49 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+thumb_9053: -0.007051399846805899
+blog: -0.007278585171060549
+inte: 0.007422223874967956
+atheist: -0.007473250090761631
+photos: 0.007481349695985989
+topics: 0.007726585418883471
+service: 0.008010081985116596
+january: 0.008470363130975133
+humanist: -0.012685162726401782
+science: -0.01620131824334551
+
+-----------------------------------
+Instance 50 out of 364
+Text: Jump to navigation
+
+[ ] x
+
+  • Columns►[ ]
+      □ Columns ◀
+      □ Virginia
+      □ Ken
+      □ Go...
+Predicted class: atheism
+LIME Explanation:
+will: 0.026486089592494794
+old: 0.02685532301145416
+still: -0.028619667978457268
+your: 0.02884188237165145
+read: 0.029499760440534005
+my: -0.03070141200130338
+used: -0.031001742176927163
+facebook: 0.04061567824461307
+this: -0.044048903680403734
+refresh: -0.481269279464175
+
+-----------------------------------
+Instance 51 out of 364
+Text:                                 The SkepDoc
+[design_0063_5]                 ━━━━━━━━━━━━━━━━━━━━━━━━...
+Predicted class: atheism
+LIME Explanation:
+site: 0.016930277883285216
+force: -0.01703222139330906
+of: 0.017366086810186695
+on: 0.01839628455493864
+alternative: 0.02108482333270662
+md: 0.021209972569454356
+editor: 0.02425392466952893
+free: 0.02449998394864731
+based: 0.02717481392664897
+science: -0.17695573117647265
+
+-----------------------------------
+Instance 52 out of 364
+Text:                                   [humtoplogo3]                                                     ...
+Predicted class: atheism
+LIME Explanation:
+ourselves: 0.019258038562739273
+way: 0.019426061704518455
+universe: 0.01986800671088636
+source: 0.023464558007909628
+before: 0.024185814098093866
+and: -0.025236272640689807
+of: 0.025786894705950275
+is: 0.027169301504593298
+science: -0.03668734722682203
+humanist: -0.08502074530148249
+
+-----------------------------------
+Instance 53 out of 364
+Text: [Bradenton_logo]
+
+Search
+
+Preparing the hearts and minds of God's children
+
+Quicklinks
+
+  • Link1
+  ...
+Predicted class: atheism
+LIME Explanation:
+powered: 0.02414277069446924
+by: 0.025452430089478256
+criteria: 0.028415641620283594
+00: 0.028661436011630605
+featuring: -0.029393130494427495
+search: 0.03143572771003585
+hero: -0.032442194429062335
+now: 0.034828788040292206
+employment: 0.038644442260015635
+get: -0.4023398459100472
+
+-----------------------------------
+Instance 54 out of 364
+Text: Skip to navigation Skip to content
+
+Center for Scientific Creation
+
+In the Beginning: Compelling Evi...
+Predicted class: christianity
+LIME Explanation:
+us: -0.025593989220385287
+warming: -0.026750791001547067
+how: 0.027083539534694584
+within: 0.028224778507595367
+readers: -0.030276568811633205
+be: 0.030334701303371358
+skip: -0.031395186209486683
+scientific: -0.034199208180793715
+theory: -0.035946806121576025
+more: -0.04025032446360571
+
+-----------------------------------
+Instance 55 out of 364
+Text: HOME
+
+  • HOME
+  • ABOUT US
+      □ Get Involved
+      □ Upcoming Events
+      □ Raise the Roof
+    ...
+Predicted class: atheism
+LIME Explanation:
+groups: 0.037891886505623175
+life: 0.038188165527268246
+escape: 0.03983466313406306
+summer: -0.03983524052684329
+even: -0.043385152573345
+ms: 0.04642769182004217
+grind: -0.04648054410388626
+staff: 0.049126774449127504
+com: 0.05329156147191747
+get: -0.4341938693929949
+
+-----------------------------------
+Instance 56 out of 364
+Text: tonyyouens.com
+
+UK skeptic website
+
+Articles, investigations and commentary about paranormal claims
+...
+Predicted class: atheism
+LIME Explanation:
+talking: -0.020538995411352377
+commentary: -0.021210753733362495
+psychic: 0.02162432322248154
+medium: -0.024521327557168893
+reading: -0.025207953520152534
+joe: 0.02933597300644699
+menu: 0.03426886824373668
+claims: 0.036821295654768195
+britain: 0.037909715170526305
+humanist: -0.4826220416122236
+
+-----------------------------------
+Instance 57 out of 364
+Text: Adventist Virtual Learning Network
+
+  • Home
+  •  | 
+  • About
+  •  | 
+  • Conference
+  •  | 
+  • Co...
+Predicted class: christianity
+LIME Explanation:
+take: 0.014823979395012227
+here: 0.014921484609389267
+of: 0.015348275015218614
+other: 0.01614799617035545
+2005: 0.016914147934143624
+the: 0.01848240586318222
+login: 0.020966641998803676
+you: 0.02100660008972807
+schedule: 0.022636897809539355
+for: 0.034517634194080875
+
+-----------------------------------
+Instance 58 out of 364
+Text: Danny Yee's Book Reviews
+Subjects | Titles | Authors | Best Books | Search | Latest
+
+The Cathars
+
+Ma...
+Predicted class: christianity
+LIME Explanation:
+as: 0.013952894494156503
+danny: 0.01442381019929688
+italian: 0.014851279841561196
+course: -0.01516459522746266
+really: 0.016012860948940288
+issues: 0.016569665494380985
+review: 0.017829468731091848
+subjects: 0.019577917606364743
+on: 0.020805732911956358
+the: 0.04419828353124751
+
+-----------------------------------
+Instance 59 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+name: 0.013686222823251529
+your: 0.013983728637870247
+make: -0.014025223491229463
+182: -0.014467178240153653
+il: 0.014900605789146449
+help: 0.015131750093586777
+chicagoland: 0.015730488210842813
+agnostics: 0.01662305640476233
+atheist: -0.03898852364293748
+atheists: -0.06780952506607887
+
+-----------------------------------
+Instance 60 out of 364
+Text:   • Home
+  • 
+  • About Us
+  • 
+  • Calendar of Events
+  • 
+  • Local Allies
+
+Notice: Call for Nomin...
+Predicted class: atheism
+LIME Explanation:
+privilege: 0.0035962887499479002
+for: -0.003627682403144003
+election: 0.0037220150490478187
+foundation: -0.003805188970044367
+person: 0.004174261756851683
+atheist: -0.004219078755142468
+can: 0.004376478191972503
+julia: 0.004418487426320926
+silverman: -0.004882183084027357
+sales: 0.005259582847278102
+
+-----------------------------------
+Instance 61 out of 364
+Text:   • 
+  • Home
+
+  • Library
+  • WebSR
+  • Webmail
+  • SMP
+  • PassWord Change
+  • Turnitin
+
+ 
+ 
+
+  • ...
+Predicted class: christianity
+LIME Explanation:
+school: -0.023890628165253197
+higher: -0.025005652308991072
+language: 0.02724356964316341
+2016: -0.028156096925116628
+about: -0.02822280755736564
+calendar: 0.028277230854092724
+apply: 0.028326744232043885
+english: 0.029913622482130958
+fees: 0.03055387995730342
+27: -0.036026411518027435
+
+-----------------------------------
+Instance 62 out of 364
+Text: Loading ...
+Sorry, an error occurred while loading the content.
+Sign In
+
+  • More From Yahoo
+      □...
+Predicted class: christianity
+LIME Explanation:
+my: 0.01995014535005822
+about: 0.020976002840336048
+saves: 0.022612008425000697
+is: 0.022731393694271285
+view: 0.022811144310774294
+groups: 0.02430637213490201
+terms: 0.025320616844212274
+finance: 0.02545119257790885
+to: 0.025501620137684516
+back: 0.02764828893561651
+
+-----------------------------------
+Instance 63 out of 364
+Text: 1836-1879
+portrait
+
+December 14, 1836, Astley, Worcestershire, England.
+
+June 3, 1879, Caswell Bay (...
+Predicted class: christianity
+LIME Explanation:
+see: 0.0287273524891307
+evergreen: 0.029089658991939233
+dwell: -0.029601085379933334
+ancient: 0.030699034866442466
+every: 0.03168035922336908
+telling: 0.03323460403445748
+pointing: -0.033559523004510136
+sovereign: -0.034892295257809784
+82: 0.0350157315912153
+broad: -0.0422032715728488
+
+-----------------------------------
+Instance 64 out of 364
+Text: About.com
+
+  • Food
+  • Health
+  • Home
+  • Money
+  • Style
+  • Tech
+  • Travel
+  • More
+      □ Aut...
+Predicted class: atheism
+LIME Explanation:
+siena: 0.013573371306109354
+pope: 0.01392542537492352
+harassment: 0.014286731580556423
+be: 0.014386610273902607
+was: 0.015090618777211243
+the: 0.016556808120070265
+our: 0.023009049055557784
+confidante: 0.025622318373560292
+church: 0.03238471600944663
+science: -0.48262494321534044
+
+-----------------------------------
+Instance 65 out of 364
+Text: Freethinkers of Ventura County
+
+"Question Belief"
+
+free-think-er n. A person who forms opinions on t...
+Predicted class: atheism
+LIME Explanation:
+to: 0.02064546314773799
+free: -0.020979226858314597
+would: 0.021455388322986584
+rationalists: 0.022204848717137775
+information: 0.02323585749191403
+opinions: 0.026154609762136183
+request: 0.02637279635525177
+is: 0.028248578268289134
+county: 0.03617198288438453
+atheists: -0.4672552632316972
+
+-----------------------------------
+Instance 66 out of 364
+Text: Home Blog Store [English        ]
+
+The Holy Bible
+
+Bible Contradictions  
+
+Source: [sab]
+Book: [All]...
+Predicted class: atheism
+LIME Explanation:
+unicef: 0.019228311208284506
+modified: 0.019682440161061278
+even: -0.01976885270038159
+out: -0.019810519446264847
+discuss: 0.021016083045050076
+come: 0.022213974212306697
+swallowed: 0.022325723973843307
+gideon: -0.02340288455204654
+church: 0.07647479154404258
+sex: -0.14082431945944793
+
+-----------------------------------
+Instance 67 out of 364
+Text: 
+Wylie Church of Christ
+
+  • Home
+  • About Us
+  • Calendar
+  • Education
+  • Missions
+  • Contact U...
+Predicted class: christianity
+LIME Explanation:
+joy: 0.017277539145113513
+devotional: 0.01817052204535888
+his: 0.01881797845506
+heard: 0.020240185801522995
+make: 0.02051610804809879
+proclaim: -0.020969454926958685
+of: 0.02413841514814915
+us: 0.025042715368069506
+church: 0.029940066122541634
+evening: 0.04003166447868629
+
+-----------------------------------
+Instance 68 out of 364
+Text: []
+
+  • About
+  • News
+  • Events
+  • links
+  • Library
+
+About
+
+ 
+
+64
+
+HNPS is a non-profit 501(c)(3...
+Predicted class: atheism
+LIME Explanation:
+drinking: 0.012609333622020854
+regular: 0.012754648904600088
+we: 0.01337085698003423
+humanist: -0.013681323821667906
+science: -0.013766073729028574
+church: -0.013792116345909794
+library: -0.01431720951859941
+skeptically: 0.014372343468198613
+op: -0.1250676695369614
+co: 0.131752483074152
+
+-----------------------------------
+Instance 69 out of 364
+Text: Rail Bender
+
+Life is not meant to be lived in a straight line. Bend the rail.
+
+Wednesday, November 4...
+Predicted class: atheism
+LIME Explanation:
+wipe: 0.007913025905525967
+chariots: -0.008104904363056638
+freethinking: 0.008189055070482579
+time: 0.008231169238127221
+flexibility: -0.008876668063592065
+prosperity: -0.009247489509044759
+need: 0.009731380474475975
+generation: 0.01044171622400299
+said: -0.010840143030808743
+atheist: -0.028184330526689675
+
+-----------------------------------
+Instance 70 out of 364
+Text: Rydal Penrhos School
+
+Welcome to Rydal Penrhos School
+
+[TeddyZach-140x10]
+
+Swimming: Final preparati...
+Predicted class: christianity
+LIME Explanation:
+1404: 0.01990083582996359
+senior: 0.020411993697145567
+made: 0.022068624028462776
+extravaganza: 0.022480698905796636
+how: 0.022642171629528404
+routes: 0.023138739779978514
+underway: 0.023868059372218437
+creative: 0.02497000501150428
+email: 0.026612931066410217
+open: 0.028684885584750346
+
+-----------------------------------
+Instance 71 out of 364
+Text: [palgrave_l] www.palgrave.com
+ 
+ 
+Loading..
+Your cart is empty.
+
+...you'll find more products in the...
+Predicted class: atheism
+LIME Explanation:
+what: 0.0024071190046760604
+lonesome: 0.002458149432388416
+group: 0.0025051380823160516
+english: 0.0025503998313278963
+social: 0.0025799033555261477
+giving: 0.0027337118037372024
+new: -0.0028487293734600462
+award: 0.0029182264384577006
+you: 0.0034870070185423893
+science: -0.005434548519071359
+
+-----------------------------------
+Instance 72 out of 364
+Text:   •  
+  •  
+  •  
+  •  
+
+[                    ]
+Australian Skeptics Inc
+
+  • Home
+  • News
+      □ E...
+Predicted class: atheism
+LIME Explanation:
+wishing: 0.029569909362025228
+via: -0.031656747449876094
+australian: 0.03195683721312082
+by: 0.03224653157402677
+science: -0.039234839232324834
+skeptic: -0.05192495112866599
+la: 0.052142597631371385
+university: -0.059420284066006225
+based: 0.07814636565643192
+and: -0.10465718223051271
+
+-----------------------------------
+Instance 73 out of 364
+Text:   • About Us
+      □ Welcome
+      □ I'm New
+      □ Staff
+      □ Shepherds
+      □ Contact Us
+    ...
+Predicted class: christianity
+LIME Explanation:
+we: -0.024718046553898154
+worship: 0.0259860139953343
+10: 0.027085988012731994
+parkway: 0.0303240495283546
+is: 0.03089226142552264
+spacer: 0.04336831261160907
+1910: 0.04533140729386893
+the: 0.06753011932654529
+home: -0.08811795024550412
+block: 0.0884354039625911
+
+-----------------------------------
+Instance 74 out of 364
+Text: [header]
+[01] [03] [02]
+[01] [03] [02]
+[loading]
+[ind] Home    About  Ministries Sacraments Events T...
+Predicted class: christianity
+LIME Explanation:
+2013: 0.01896260211099121
+funds: 0.020261605682877368
+desperate: -0.021631963385662253
+holy: 0.02205123306803258
+image: -0.02229869709303512
+beginning: -0.023108349428607292
+seeking: -0.026872505884557647
+with: 0.02794087395351464
+66: -0.31251811526987
+15: 0.31915877082951183
+
+-----------------------------------
+Instance 75 out of 364
+Text: Macedonia World Baptist Missions, Inc.
+
+  •  
+  •  
+  •  
+
+[                    ] []
+  • Home
+  • Ab...
+Predicted class: christianity
+LIME Explanation:
+home: 0.018745903946864182
+resources: 0.01886212778852689
+to: 0.020047778622219726
+baptist: 0.02046912772579419
+last: 0.020513932096812935
+do: 0.020729026879707853
+about: 0.020806205030102335
+itinerary: 0.02200946406479949
+email: 0.022416866722027393
+headquarters: 0.02717177939342775
+
+-----------------------------------
+Instance 76 out of 364
+Text: 216 Wyoming Mill Road - Dover, DE 19904 Sundays: 8:30am (Praise) | 9:45pm
+(Worship Together!)| 11:00...
+Predicted class: christianity
+LIME Explanation:
+fourth: 0.025920122169630008
+11: -0.026298490637311638
+proclaim: 0.027695020692359698
+requests: 0.028885774134737894
+us: 0.03154543376248338
+to: 0.03355229761254286
+del: -0.20050540867072023
+pen: 0.2060807564063321
+697: -0.5429055105961429
+302: 0.5478786697561883
+
+-----------------------------------
+Instance 77 out of 364
+Text: [logo]
+
+  • Home
+  • About
+      □ History
+      □ Disabled Facilities
+      □ Directory
+      □ Ses...
+Predicted class: christianity
+LIME Explanation:
+sermons: 0.025155938582808072
+and: 0.02555862137162057
+in: 0.03101804986380475
+the: -0.042587910796044355
+one: -0.10703309942993973
+life: 0.11507456570260984
+taking: -3730151492.074723
+car: 3730151492.077593
+130: -60805658702.78985
+119: 60805658702.80559
+
+-----------------------------------
+Instance 78 out of 364
+Text: Image
+
+  • About
+  • Committees
+  • Congregations
+  • Calendar
+      □ Events
+      □ Stated Meeting...
+Predicted class: christianity
+LIME Explanation:
+community: 0.015444704885388717
+presbyteries: 0.01706466599555733
+of: 0.01750441730547208
+churches: 0.017914310197436945
+indian: 0.018805671477238654
+services: 0.020581032230399164
+oklahoma: 0.02361924376465542
+to: 0.025810683646705215
+org: 0.027757982695521405
+the: 0.03366972669947403
+
+-----------------------------------
+Instance 79 out of 364
+Text:   • Downey Library
+  • Who runs this?
+  • About Margaret
+  • Link to us
+  • RationalTube
+
+Home
+
+Marg...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 80 out of 364
+Text: The CFI Web Network [-----  Make a Selection  -----]
+Our Mission   |   Newsroom   |   Contact Us   |...
+Predicted class: atheism
+LIME Explanation:
+10: -0.03091121865306235
+minute: 0.034070273767876844
+cfi: 0.03888042233419566
+freedom: 0.04112093394550162
+on: -0.04577140960674036
+15: 0.052993757890378274
+science: -0.07084201943940655
+and: -0.07816842578320835
+university: -0.09316729981844439
+humanist: -0.09603829419904934
+
+-----------------------------------
+Instance 81 out of 364
+Text: ValerieTarico.com
+
+AwayPoint: Between An Island of Certainties and the Unknown Shore
+[cropped-header...
+Predicted class: atheism
+LIME Explanation:
+now: -0.04302714525194476
+com: 0.04358898854381254
+this: 0.048758042312674124
+motherhood: 0.050958631900012874
+life: 0.05346350107760525
+at: -0.055637091830476756
+church: 0.10685054490508203
+mid: 0.21114533314682796
+winter: -0.2155461006469751
+science: -0.40056879818607416
+
+-----------------------------------
+Instance 82 out of 364
+Text: 
+  • Admissions
+  • Academics
+  • Online Education
+  • Extended Campus
+  • Athletics
+  • Giving
+  • ...
+Predicted class: atheism
+LIME Explanation:
+here: 0.010188699244556914
+information: -0.010431861468679334
+down: 0.010734463419616173
+current: 0.01075524844036322
+about: 0.010830467765326516
+trouble: 0.012363625828209466
+not: 0.012777201616688227
+of: 0.013145214286752858
+access: 0.017754856669149985
+university: -0.17614191275266047
+
+-----------------------------------
+Instance 83 out of 364
+Text: Wednesday, January 13, 2016
+   
+Text Size
+ 
+
+Site Search powered by Ajax
+
+[ Search...          ]
+  •...
+Predicted class: atheism
+LIME Explanation:
+pride: 0.014040613263355222
+wicked: -0.014495342530778336
+shown: 0.017105162321586334
+10: -0.017292131534678984
+sinners: -0.018279225162090355
+one: 0.018358740731234797
+young: 0.019345683901145265
+rip: 0.020251028392500536
+ultimately: 0.02208843791425138
+sex: -0.45010917175893933
+
+-----------------------------------
+Instance 84 out of 364
+Text: Current customers:
+[                    ] [                    ] [Login]
+gkg.net logo
+
+  • Domain Na...
+Predicted class: christianity
+LIME Explanation:
+expert: 0.01924375262834851
+new: 0.01932006066274098
+from: 0.02006837010224615
+saving: 0.02033996531755046
+cheaper: 0.020731943472730788
+money: 0.02327942836486361
+development: 0.023897541980971118
+services: 0.027428722001184274
+in: 0.02973833723820632
+easy: 0.02990147332921635
+
+-----------------------------------
+Instance 85 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 86 out of 364
+Text:                          Chinese translation in traditional & simplified script
+
+                   ...
+Predicted class: christianity
+LIME Explanation:
+have: 0.013710340007642732
+mingle: 0.014188216951559592
+mean: -0.01422564244846861
+granted: 0.01551899551343119
+quran: 0.01554950849540202
+get: -0.017896483114702436
+heaven: 0.022243845276493042
+46: -0.029068894334804297
+10: 0.03398544873180534
+worship: 0.18621088768105068
+
+-----------------------------------
+Instance 87 out of 364
+Text: [ico_facebo] [ico_twitte]
+
+  • Vision
+  • Accountability
+  • Donate
+  • News
+  • Contact
+
+
+Staff of ...
+Predicted class: atheism
+LIME Explanation:
+found: 0.019827969487321507
+subscribed: 0.0205976507066654
+thank: 0.0207326819576211
+long: 0.020923168342265954
+women: 0.020984864448285963
+not: 0.021311236042181037
+girls: 0.03182737765552778
+enable: 0.03484071307002781
+page: -0.20365115377570397
+copyright: -0.21931201696045005
+
+-----------------------------------
+Instance 88 out of 364
+Text:  
+
+  • Home
+  • Episodes
+  • Gallery
+  • About
+  • Support
+  • Store
+  • Contact
+
+  • Home
+  • Episo...
+Predicted class: atheism
+LIME Explanation:
+unless: 0.0214805645555126
+proud: 0.021817081718783903
+like: 0.022246743845327505
+it: 0.02257954060170454
+and: -0.022692678086836532
+calls: 0.024502365570981684
+awesome: 0.024911964530643132
+critical: 0.030116131939650292
+the: 0.04081982224123235
+atheists: -0.47954899965502484
+
+-----------------------------------
+Instance 89 out of 364
+Text: logo
+
+  • Video favorites
+
+  • Home
+  • What is Humanism?
+  • Who are we?
+  • What Do We Do?
+  • War...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 90 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+in: 0.03390711324654353
+repeats: 0.03398516246437037
+to: -0.03469182781478612
+open: -0.035369771280903635
+naturalism: 0.0363705082640643
+dinner: -0.040999156255231615
+we: 0.044413111764818776
+atheists: -0.06702707857986256
+science: -0.08684756366412089
+atheist: -0.09139391148068678
+
+-----------------------------------
+Instance 91 out of 364
+Text: LogoLogoLogoLogo
+
+  • HOME
+  • About
+      □ What We Believe
+      □ Minister
+  • Ministries
+      □...
+Predicted class: christianity
+LIME Explanation:
+can: -0.0228270722011928
+no: 0.02302418616322726
+jeans: 0.023357025705249994
+what: 0.02541190150375175
+us: 0.026116424151424213
+bible: 0.026454498322446063
+you: 0.02673880629032275
+the: 0.027644122333434013
+15am: 0.02766976913575589
+sunday: 0.029750619989562497
+
+-----------------------------------
+Instance 92 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+culturati: -0.017167391433280294
+religious: 0.017599304444833683
+presentation: -0.017967084296091312
+humanist: -0.021453347633320824
+atheist: -0.022030258029722506
+tom: -0.022274088491000453
+meetups: 0.024316044687382132
+science: -0.036781581313485225
+meetupstatic: -0.08761926203687781
+photos1: 0.0960029124821906
+
+-----------------------------------
+Instance 93 out of 364
+Text: Skip to content
+
+  • About St Paul’s
+      □ History of St Paul’s
+      □ Funerals
+      □ Our Faith...
+Predicted class: christianity
+LIME Explanation:
+legacy: -0.024707939363201908
+headline: 0.02512114533449572
+weddings: 0.02577850452860206
+time: 0.025843304902782523
+more: 0.026320088255595023
+world: 0.02669574149713809
+funerals: -0.027203621562849584
+mission: 0.02823716947388844
+church: 0.028545111665216536
+parochial: 0.037105205774671204
+
+-----------------------------------
+Instance 94 out of 364
+Text: bg image()
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+        ...
+Predicted class: christianity
+LIME Explanation:
+lady: 0.019291731959180228
+independently: 0.01930644572061537
+image: 0.019471113538740883
+leads: 0.019701624218501537
+external: 0.021314975303840217
+prohibited: 0.021812808179003246
+good: 0.021951552469360702
+operates: 0.02340656001510903
+references: 0.027443316875435896
+the: 0.0869821315963208
+
+-----------------------------------
+Instance 95 out of 364
+Text: [left_co_top] embed(fla/main.swf)                                                            [right_...
+Predicted class: christianity
+LIME Explanation:
+join: 0.032352084577856086
+the: 0.0344851488392332
+9500: 8272930018.518091
+567: -8272930018.524072
+swf: 8539323944.634273
+americans: 28785436522.60938
+african: -28785436522.61917
+main: -35070182609.690384
+fla: -67855345063.372345
+embed: 94386203728.42891
+
+-----------------------------------
+Instance 96 out of 364
+Text: homepage
+
+                                Send me email.
+
+
+                 Web site and contents (C...
+Predicted class: christianity
+LIME Explanation:
+other: 0.02292530997834001
+bugs: 0.022995117210225322
+photo: 0.023447346605463673
+video: 0.025570534950362274
+2010: 0.02570386088658462
+portraits: 0.027430391088903428
+free: 0.02766308682299052
+contents: 0.028707247439318278
+work: 0.03375038040742424
+bio: 0.03741547375012523
+
+-----------------------------------
+Instance 97 out of 364
+Text: [topleft]      Church of St.Peter, Bushey Heath, Hertfordshire       [topright]
+                    ...
+Predicted class: christianity
+LIME Explanation:
+donations: 0.024065732628383445
+peter: 0.024524372175679657
+st: 0.02479667625791349
+interior: 0.025193577009143472
+glass: 0.02603697087967084
+nave: 0.027757390623949628
+heath: 0.027828225275384744
+church: 0.02845665424273044
+of: 0.03265733091790955
+bushey: 0.036194141854520426
+
+-----------------------------------
+Instance 98 out of 364
+Text: God Hates Pork
+
+Leviticus 11:3-8
+
+Sidebar[Skip]
+
+Leviticus 11:3 You may eat any animal that has a sp...
+Predicted class: christianity
+LIME Explanation:
+don: 0.030677778667549612
+split: 0.03103096445823586
+for: 0.031248412930053298
+eat: 0.031249845584729985
+or: 0.037215502781884284
+you: -0.037445482778865044
+we: 0.057011811723648644
+the: 0.06606188952488706
+get: -0.16732787563147022
+church: 0.1768193191738226
+
+-----------------------------------
+Instance 99 out of 364
+Text:  
+The Oasis The Oasis
+
+  • Home
+  • New Here?
+      □ Welcome
+      □ Our Beliefs
+      □ Our Missio...
+Predicted class: atheism
+LIME Explanation:
+road: 0.02268766312924872
+watch: -0.023064416903665747
+expect: 0.027446036266988452
+rest: -0.02882996665745508
+photo: 0.03092663254870743
+pastor: 0.031518372418993065
+redner: 0.038727434207703124
+journey: -0.04260078664090782
+into: 0.05891439582295916
+administration: -0.2926396442864253
+
+-----------------------------------
+Instance 100 out of 364
+Text: 
+Comments RSS Comments
+Site RSS Site
+        The Baptist      CELEBRATING LIFE IN     [             ...
+Predicted class: christianity
+LIME Explanation:
+our: 0.02341005291177428
+young: 0.02450276774578065
+health: 0.02457810233005466
+almost: 0.026357135559032074
+on: 0.0296766525903053
+and: 0.03019404761693824
+loving: 0.03162866811861553
+fun: -0.035618646301679324
+non: -0.3720563237036963
+professional: 0.38235218206130167
+
+-----------------------------------
+Instance 101 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+re: -0.005450144902377381
+589: 0.005550864743026087
+home: 0.006065389413281125
+gold: -0.006129221547030183
+confirm: 0.00670069652925144
+visible: -0.006941004228362083
+contact: 0.00862482637396372
+thumb_4422: 0.010284846232500412
+atheist: -0.017208446691274443
+humanist: -0.02003385806894689
+
+-----------------------------------
+Instance 102 out of 364
+Text: bg image(../background.gif)
+
+Returning now to what I was saying about locutions, these may come from...
+Predicted class: atheism
+LIME Explanation:
+worrying: -0.015090612387929187
+trifling: 0.015554718566284029
+wounds: -0.015800095002517014
+ready: 0.015823366985517943
+wronged: -0.0158950707704777
+church: 0.017845282944473902
+shown: 0.01802916738718031
+hast: 0.019510591101585484
+unexpectedly: 0.0222619450374792
+sex: -0.4491088324143881
+
+-----------------------------------
+Instance 103 out of 364
+Text: top-menu
+
+  • Logic Wear
+  • Shop
+  • Sizing Chart
+  • Account
+  • Checkout
+  • Support
+
+CultOfDusty...
+Predicted class: atheism
+LIME Explanation:
+his: -0.016883647960106295
+videos: -0.018229493792713703
+death: 0.01827867772380972
+religion: 0.01915608323989524
+einstein: 0.02092064876384763
+support: 0.021124163529392313
+smarter: 0.02411529690036105
+video: 0.02463146545888219
+the: 0.0259489945877897
+atheist: -0.21039329428313802
+
+-----------------------------------
+Instance 104 out of 364
+Text: 
+Download Acrobat version
+
+                              Christ and Culture
+
+                       ...
+Predicted class: atheism
+LIME Explanation:
+owe: 0.019180389930604877
+abandons: 0.019530718605870235
+logic: -0.01956163623075002
+popularly: 0.01973829253159879
+deceptive: 0.021800493924049594
+wake: -0.022391607899538608
+searching: 0.022847578769435016
+derive: -0.023647954869258563
+science: -0.04606016792759204
+trend: -0.2748485829678313
+
+-----------------------------------
+Instance 105 out of 364
+Text: Welcome, Guest. Please login or register.
+[          ] [          ] [Login] 
+January 12, 2016, 05:12...
+Predicted class: christianity
+LIME Explanation:
+it: 0.0344677175301279
+05: 0.03468584714116978
+church: 0.035549440332429655
+smoking: -0.03629580572491819
+is: 0.03838117396181587
+2nd: -0.038466168748459546
+gardening: -0.042374142195995015
+pm: 0.04279532755586737
+teaching: -0.06632467981388171
+nations: 0.08648333982357867
+
+-----------------------------------
+Instance 106 out of 364
+Text: skip to main | skip to sidebar
+[3773743800]
+●
+
+  • Home
+    Main Page
+  • About Us
+    info, officer...
+Predicted class: atheism
+LIME Explanation:
+enjoying: 0.004077427104801019
+10: 0.0041078640360079815
+at: -0.004203555768973235
+without: 0.004369060890303208
+school: 0.00446445349862438
+talk: -0.004497698627885641
+going: 0.0048116872189307965
+plans: 0.004930769720831993
+attribution: 0.006046559806579798
+groups: 0.006329448771690769
+
+-----------------------------------
+Instance 107 out of 364
+Text: Encounter Devotionals by Zach Wood
+
+Welcome to my Encounter Devotionals Blog Site. I appreciate you ...
+Predicted class: christianity
+LIME Explanation:
+surround: 0.026723108047726343
+only: 0.029188461515230038
+thursday: -0.02925183764007594
+promise: -0.02944374934301632
+many: 0.030422535932238388
+hurt: 0.03056426406589461
+too: 0.031043986777724446
+ago: -0.036303440737354635
+also: -0.041821171930428225
+church: 0.06997050719989119
+
+-----------------------------------
+Instance 108 out of 364
+Text: Skip to main content area
+Home
+Franciscan Friars
+Friar Login
+
+Follow Us:
+
+[facebook]
+
+  • About
+    ...
+Predicted class: atheism
+LIME Explanation:
+friars: 0.030114011827236897
+abuse: -0.030123169666441626
+serra: 0.031144067244820998
+ministries: 0.03469152603317904
+joy: -0.038151340975141806
+center: 0.03849821987102708
+province: 0.03879300202162256
+prayer: -0.03942151227450229
+francis: 0.0482393954042606
+homepage: -0.3202054715958812
+
+-----------------------------------
+Instance 109 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+street: 0.010020961932412212
+email: 0.010561006027947725
+global_374: 0.011018830666850764
+meetups: 0.011750987223396419
+47: 0.012092925318051865
+religion: -0.012488654796118362
+church: 0.015599795482917386
+christian: 0.023910657840043793
+science: 0.0460179616816169
+atheist: -0.15522631312381577
+
+-----------------------------------
+Instance 110 out of 364
+Text: God Hates Crustaceans
+
+Eat  Shellfish, Burn in Hell
+
+Sidebar [Skip]
+
+Satan's Clams
+
+bloodyclams
+
+Sat...
+Predicted class: atheism
+LIME Explanation:
+crustaceans: -0.04122787077001583
+cause: 0.041386942879587885
+unto: 0.04366836751001894
+11: 0.04640516763457728
+has: 0.04934815199930318
+be: 0.05996167620784337
+on: -0.06652242199842896
+so: -0.11592353678117634
+called: 0.14349316493585704
+add: -0.16522449242296147
+
+-----------------------------------
+Instance 111 out of 364
+Text:   • Home
+  • Worship
+  • Ministries
+      □ Sunday School
+      □ Children's Ministry
+      □ Youth ...
+Predicted class: christianity
+LIME Explanation:
+lakeview: 0.018944595102112036
+lake: 0.019101032789013723
+memorial: 0.019269239212901138
+of: 0.019363730637179333
+fax: 0.021339206761998145
+we: -0.021550511839435998
+umc: 0.02222036316501318
+senior: 0.023456339347001733
+history: 0.02350779386329329
+youth: 0.024986215321250633
+
+-----------------------------------
+Instance 112 out of 364
+Text: at St. Cloud State University
+
+Secular Student Alliance
+
+  • Home
+  • About Us
+  • Executive Board
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 113 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+in: 0.003991232529941251
+agnostics: -0.003991919980581454
+all: 0.004014439527145835
+of: 0.004018715900346551
+11: -0.004179625990434063
+founded: -0.004264944373198681
+us: -0.005028901117990267
+freethinkers: 0.00517740941860734
+log: -0.005216899274570962
+atheists: -0.007083572407080625
+
+-----------------------------------
+Instance 114 out of 364
+Text: LifeRing Secular Recovery
+[                    ] [Go]
+  • Home
+  • About US
+      □ New to LifeRing?...
+Predicted class: atheism
+LIME Explanation:
+periodically: -0.030628185158312587
+bookstore: 0.03199809494064919
+your: 0.03361881242627206
+recovery: -0.034527438743562434
+sharing: 0.03639257689147302
+two: 0.03727022323480401
+if: -0.03974229660165849
+org: -0.0480589548132336
+science: -0.19853259039527021
+forum: -0.20677823282058252
+
+-----------------------------------
+Instance 115 out of 364
+Text:   • Welcome
+  • About Us...
+  • Peace Notes
+  • Ministries
+  • Contact Us
+
+Prince of Peace Lutheran ...
+Predicted class: christianity
+LIME Explanation:
+hospitality: 0.01863762320374371
+accessible: 0.018730530454417107
+peace: 0.020121691057448213
+nursery: 0.020426805848017787
+20: 0.020661365423202578
+proclaim: 0.02145051605404422
+love: 0.021646362649124656
+17: 0.02229435549676818
+matthew: 0.024899295619902354
+of: 0.0273603565510211
+
+-----------------------------------
+Instance 116 out of 364
+Text: The AHA FoundationThe AHA Foundation
+
+  • Home
+  • About Us
+      □ Ayaan Hirsi Ali
+      □ Our Peop...
+Predicted class: atheism
+LIME Explanation:
+hill: 0.01168772034230546
+ny: -0.011867624750745279
+lead: 0.01341401260690399
+work: 0.013517056792314946
+accomplice: -0.013743953284168263
+sharp: 0.013833988415907588
+domestic: -0.014799302019442358
+against: 0.015075584568500961
+see: 0.018257889205991938
+get: -0.1980484057328461
+
+-----------------------------------
+Instance 117 out of 364
+Text: Secular Society
+
+Offering an alternative to the religious groups on campus since 2009
+
+Search [     ...
+Predicted class: atheism
+LIME Explanation:
+dogma: 0.009711906088933537
+primary: 0.009776844470887452
+informed: 0.010092865752429148
+sex: -0.010118383254531696
+events: 0.010364030173578105
+the: -0.01061249928833547
+and: -0.011302856114108905
+sexual: 0.012538813289763273
+church: 0.01467436416963156
+science: -0.026539581302202648
+
+-----------------------------------
+Instance 118 out of 364
+Text: bg image(../2.jpg)
+┏━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
+Predicted class: christianity
+LIME Explanation:
+before: 0.021362402207971563
+may: 0.022961496162077603
+cultural: 0.024078902172045488
+index: 0.025203282325305765
+the: 0.026672876007157634
+intellectual: 0.027655629029691896
+evaluating: 0.029206836778957766
+study: 0.030615716327265553
+jpg: -0.0317890377865088
+image: 0.04202347626462154
+
+-----------------------------------
+Instance 119 out of 364
+Text: Secular Yakking
+
+  • Home Page
+
+[Search...           ] [Search]
+Secular Yakking header image 1
+
+Epid...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 120 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 121 out of 364
+Text: [wpc0c41461]
+Home Bishop of Stamford Eparchy of Stamford Parishes Safe Environment Media 
+Related Li...
+Predicted class: christianity
+LIME Explanation:
+greater: 0.015068621452265759
+souvenirs: 0.015750522530496597
+were: 0.01588221712259918
+one: -0.016554434263921548
+contemplating: -0.01695548199214837
+october: 0.01710526376110863
+environment: -0.017421876110238425
+is: 0.018999974023226306
+evangelization: 0.019119388267538565
+church: 0.042660702549850785
+
+-----------------------------------
+Instance 122 out of 364
+Text: [Fellowship]
+
+  • Home
+  • Map
+  • Contact
+      □ Donate
+  • About
+      □ Purposes
+  • History
+  •...
+Predicted class: atheism
+LIME Explanation:
+ministry: 0.030643352663894376
+hand: 0.03128634214064109
+for: 0.03134676835794593
+going: -0.03245125988654052
+food: 0.03436784471681572
+humanists: -0.03713724869197886
+10: 0.03973227315272994
+in: -0.04064687119668939
+science: -0.07444483775746188
+church: -0.11287223951259133
+
+-----------------------------------
+Instance 123 out of 364
+Text: [counter]
+
+                    Welcome to the home page of Steven Carr
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
+Predicted class: atheism
+LIME Explanation:
+me: 0.016248281311692016
+site: -0.01695410387589115
+2004: 0.017117798626330793
+for: 0.018451365375017435
+aim: -0.01887132821595614
+jpg: -0.019589161953322557
+secular: 0.01983688769656047
+the: 0.02978773553991094
+atheists: -0.08904204152340084
+atheism: -0.1157388316662634
+
+-----------------------------------
+Instance 124 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+group: 0.004876303172087396
+co: -0.005207662702819629
+will: -0.00521965107085167
+marco: 0.005596926014753418
+ago: 0.0065428394805169396
+up: -0.006601710182353905
+tuesday: 0.006693987646294631
+secular: -0.006914306233068149
+12: -0.007021091328599919
+you: 0.008778351324664214
+
+-----------------------------------
+Instance 125 out of 364
+Text: Principia Discordia - Welcome to our FNORD
+
+  • Read the Principia Discordia
+  • Read the Black Iron...
+Predicted class: christianity
+LIME Explanation:
+keeping: 0.026650761973587643
+other: 0.030406830081040094
+forums: 0.03161554262461185
+twitter: 0.031712172363771496
+discordia: 0.03282402182421014
+this: 0.03354222692057621
+the: 0.05557876278611861
+full: -20983978041.48965
+pictures: -41967956082.90359
+chock: 62951934124.40997
+
+-----------------------------------
+Instance 126 out of 364
+Text:                                Welcome to Christ's Church Online
+  • Navigation Menu               h...
+Predicted class: christianity
+LIME Explanation:
+new: 0.020632449793818165
+send: 0.020647300536830275
+day: 0.021236600646996007
+second: 0.021527076300138268
+proof: 0.023268156144945543
+chain: 0.024016608423488274
+bookmark: 0.0240390569901109
+evangelist: 0.02424014934966578
+holy: 0.0244139141500134
+spirit: 0.028057400364162616
+
+-----------------------------------
+Instance 127 out of 364
+Text: Thinking big (and little) thoughts about
+
+God, salvation, the gospel, church, life, war, people, mus...
+Predicted class: christianity
+LIME Explanation:
+compassion: 0.02048914186132715
+first: -0.02061316293159828
+walk: 0.02097265043053847
+nature: 0.023267840333523217
+cannibal: 0.02509536588385306
+memo: 0.02527015749036765
+contact: 0.02886361816855207
+far: 0.02955952312280384
+superstition: 0.030491837090175618
+chuck: 0.03129427454309278
+
+-----------------------------------
+Instance 128 out of 364
+Text: TheocracyWatch     The Rise of the Religious Right in the Republican Party
+Logo
+                    ...
+Predicted class: atheism
+LIME Explanation:
+during: -0.010061856861337407
+contact: 0.010391946091569746
+her: 0.010510241623605953
+after: -0.010626881486305223
+rightful: -0.013252048659562672
+parsley: 0.013813978345039725
+small: 0.01506588420683138
+jay: 0.0163357982368379
+humanists: -0.02979715662695886
+critics: -0.06948749625826517
+
+-----------------------------------
+Instance 129 out of 364
+Text:                                      Home
+                                       
+
+
+                ...
+Predicted class: christianity
+LIME Explanation:
+videos: 0.019376702027423778
+nestled: 0.02050024912264868
+to: 0.02136622391843813
+high: 0.021757765215853375
+youth: 0.022041629206761643
+camp: 0.02236460694761889
+google: 0.0224894963107545
+the: 0.02355748867368715
+printed: 0.023837578441816103
+outdoor: 0.02442271876667511
+
+-----------------------------------
+Instance 130 out of 364
+Text: Toggle navigation [nqlogo2]
+
+  • Browse quotes by subject
+      □ A
+      □ B
+      □ C
+      □ D
+  ...
+Predicted class: atheism
+LIME Explanation:
+atheist: -0.0034980644761975085
+up: 0.003528550664485141
+will: 0.003550447212668443
+out: 0.003673557012955413
+detroit: 0.0036808043961543643
+was: -0.003928228880049097
+want: 0.004021224657130878
+about: 0.0045654128063384695
+most: 0.00464934022875473
+by: -0.004967989836410908
+
+-----------------------------------
+Instance 131 out of 364
+Text: *
+
+Unintelligent Design
+
+From Uncyclopedia, the content-free encyclopedia
+
+Jump to: navigation, sear...
+Predicted class: atheism
+LIME Explanation:
+crew: -0.0005216349524315968
+viking: 0.0005309389685600335
+sea: 0.000556166921083968
+you: 0.000564821369543378
+thus: -0.0006053725233762383
+has: -0.0006831994828121194
+anti: -0.0008548647872406795
+claim: 0.0008918189445796751
+did: 0.0009417200012885993
+stupidity: -0.0016063452935701887
+
+-----------------------------------
+Instance 132 out of 364
+Text: embed
+(
+dovel_new.swf)
+                      Read        Emergency               Submit Your All Abo...
+Predicted class: christianity
+LIME Explanation:
+ministry: 0.014894900260548
+william: 0.015612387084025315
+commit: -0.016920095544916056
+company: 0.01711535137825436
+part: 0.01801699600163564
+namibia: 0.01855954076705715
+20: 0.021034539008525033
+32: -0.023611142851648653
+27: 0.02420981280751538
+daughter: 0.026267163322247565
+
+-----------------------------------
+Instance 133 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+science: -0.007380344512013466
+with: -0.007390800803936739
+february: -0.00744646631329071
+tba: 0.007610372235605366
+supernatural: 0.007977616921605478
+rsvp: 0.009274530659150036
+lee: 0.009853785237633285
+2015: -0.010187989065902698
+in: 0.012094445580989913
+atheist: -0.013415433379508882
+
+-----------------------------------
+Instance 134 out of 364
+Text: Military Association of Atheists & Freethinkers
+
+  • Home
+  • Community
+      □ Community
+      □ Me...
+Predicted class: atheism
+LIME Explanation:
+christian: 0.0909297033440081
+christ: -0.27557932061117413
+zzzamazon: -256669677.45743886
+first: 256669677.46021706
+org: -514257510.1518597
+militaryatheists: 514257510.1855438
+sized: -620467110.9251069
+atom: 620467110.9441463
+000: -40436543111.05482
+10: 40436543111.05934
+
+-----------------------------------
+Instance 135 out of 364
+Text:                                      • Home
+                                    • Welcome
+          ...
+Predicted class: christianity
+LIME Explanation:
+baptism: 0.017792794608919336
+on: 0.018505733309296647
+10: 0.020866258098451773
+believe: 0.02170137704589458
+please: 0.02188984742035297
+request: 0.022258139788885526
+of: 0.027248521446649583
+johnson: 0.028278874312324998
+happening: 0.038070767476846144
+church: 0.04329192245741237
+
+-----------------------------------
+Instance 136 out of 364
+Text:   • Service Times
+  • MyTCA
+  • Contact
+
+Menu Close [logo]
+
+  • Come
+      □ Our Values
+      □ Our ...
+Predicted class: christianity
+LIME Explanation:
+am: 0.02051325256562763
+pantry: 0.03229885620678477
+watch: 0.03485186183758224
+groups: 0.03525298617454537
+service: 0.03927481887252427
+connect: 0.041095515297719994
+our: 0.04202252470424087
+growth: 0.06516508021503171
+social: -286149585202.84674
+ico: 286149585202.862
+
+-----------------------------------
+Instance 137 out of 364
+Text: bg image(backgrounds/tileBkgrd.jpg)
+
+         Home  *  Our Pastor  *   Directions  *  Audio / Video ...
+Predicted class: christianity
+LIME Explanation:
+help: -0.023382343784512274
+and: 0.025701324507331706
+church: 0.025878472407201432
+ewing: 0.02590711640606736
+sermon: -0.0264061846444336
+shiloh: 0.026449525438862274
+prayer: -0.02712922845123796
+armstrong: 0.028638237671979313
+1300: -0.031063838133264136
+30: 0.04599717539520351
+
+-----------------------------------
+Instance 138 out of 364
+Text: Little Chapel United Methodist Church
+
+  • Home
+  • Today's Devotional
+  • Our Pastor
+  • Our Missio...
+Predicted class: christianity
+LIME Explanation:
+is: 0.02089463927147833
+humankind: 0.02099023597482956
+and: 0.022965935312158844
+to: 0.023668105595814035
+45: 0.02406262141134963
+request: 0.024809538705831205
+devotional: 0.02511536823359792
+wednesday: 0.026607484833205707
+our: 0.03261287421019351
+00: 0.04142994839658826
+
+-----------------------------------
+Instance 139 out of 364
+Text: Phoenix Revival Center                                                                              ...
+Predicted class: christianity
+LIME Explanation:
+official: 0.019955840477601183
+please: 0.02083799092504315
+our: 0.022166215656577587
+united: 0.02233604698735157
+are: 0.02243380466375424
+revival: 0.025093152518355998
+we: 0.026227866711003515
+phoenix: 0.027032596061226866
+page: 0.029782225947047873
+602: 0.03045767046683635
+
+-----------------------------------
+Instance 140 out of 364
+Text: jump to content
+my subreddits
+announcementsArtAskRedditaskscienceawwblogbookscreepydataisbeautifulDI...
+Predicted class: atheism
+LIME Explanation:
+the: -0.019614930793674785
+knew: 0.019742711326580672
+few: 0.019809875249115254
+post: 0.020013778936953393
+art: -0.020154112719355965
+14: 0.021477725392297062
+secular: -0.02946044444504661
+this: 0.034982611881886505
+atheist: -0.06421436089635806
+science: -0.06799780267073723
+
+-----------------------------------
+Instance 141 out of 364
+Text: Where are we headed?
+
+humanism, atheism, நாத்திகம், am not ok, senseless thoughts, where are we head...
+Predicted class: atheism
+LIME Explanation:
+partners: 0.011406747253774824
+magistrate: -0.011594839372224166
+chance: 0.01181624567281322
+relationships: 0.011942388664290827
+391: 0.012512471723788757
+abnormal: 0.015040294937591583
+by: -0.019252811384373982
+atheism: -0.022512385194809022
+atheist: -0.025317126851014917
+get: -0.033326148117792644
+
+-----------------------------------
+Instance 142 out of 364
+Text: youtubeiconFollow us on TwitterFollow us on Facebook
+
+  • Home
+  • About CCR
+      □ Spirituality of...
+Predicted class: christianity
+LIME Explanation:
+north: 0.019154072546032262
+00pm: 0.019661546879579488
+enabled: 0.020020093715552363
+what: 0.02009638572921248
+view: 0.020495086083995983
+leadership: 0.021093965225138685
+national: 0.02388869114790159
+javascript: 0.024502743527653508
+prayer: 0.024663808949547218
+holidays: -0.03537265899912796
+
+-----------------------------------
+Instance 143 out of 364
+Text: ↓ Skip to Main Content
+Christikon
+
+  • Home
+  • 2016 Calendar
+  • Camp Programs
+      □ Christikon C...
+Predicted class: christianity
+LIME Explanation:
+residential: 0.021884835202273863
+us: 0.021934505042386976
+to: 0.022346126151020686
+bus: 0.02343695410358216
+656: -0.02449779252340273
+assistant: 0.026765005071076858
+932: 0.026854347630533168
+on: 0.03199760249706923
+1969: 0.032281489895777005
+road: 0.03408916391449441
+
+-----------------------------------
+Instance 144 out of 364
+Text: religionisbullshit.net
+
+articles and opinions on the absurdity and danger of religious beliefs
+
+  • ...
+Predicted class: atheism
+LIME Explanation:
+essential: -0.030736470313548807
+blog: 0.03132209287665624
+memory: 0.031630231984899525
+god: -0.03238601911545038
+get: -0.03438232127129637
+12: -0.0381223413338163
+call: -0.04248428584119705
+20: 0.043885150892673606
+science: -0.055172210701909974
+atheist: -0.1189762169700519
+
+-----------------------------------
+Instance 145 out of 364
+Text: [logo]
+                                  [INS::INS]
+
+The towns are stunned by the sound of the muezz...
+Predicted class: christianity
+LIME Explanation:
+odor: -0.006599761751832755
+founder: -0.006652700392670833
+powerful: -0.006746509597476841
+professionally: -0.006848545241479926
+number: -0.007110981549251672
+random: 0.00713333595556501
+traces: -0.007739038536939073
+called: 0.009035628112174407
+argues: 0.0093524134364357
+augustus: 0.4730802471301832
+
+-----------------------------------
+Instance 146 out of 364
+Text:                                 Is there a God?
+
+                            Davide Andrea, 8/12/02
+...
+Predicted class: atheism
+LIME Explanation:
+omnipotent: 0.03538222720748102
+anguish: 0.037006640408493933
+all: 0.037093242038121345
+is: 0.03753989489994348
+those: 0.04199309180681492
+would: -0.04245325416118885
+human: -0.0429287574250292
+on: 0.05006681146072179
+by: -0.07445601063458752
+science: -0.2396918167998012
+
+-----------------------------------
+Instance 147 out of 364
+Text: Support BFA Students on M-Trips
+   
+Black Forest Academy Black Forest Academy
+
+  • About BFA
+      □...
+Predicted class: atheism
+LIME Explanation:
+it: 0.02066208910447854
+anywhere: 0.02073573845165487
+email: 0.02219048479884692
+countries: 0.023693682795704597
+12: -0.024858721972470788
+campuses: 0.026250551248139426
+55: -0.034173198673448
+00: -0.19736646904781652
+05: 0.26531114968717384
+copyright: -0.5013625931694262
+
+-----------------------------------
+Instance 148 out of 364
+Text: Free shipping on all online retail orders over $100. (48 states)
+• Login • Your Account
+- 0 Items
+b
+...
+Predicted class: christianity
+LIME Explanation:
+we: 0.024675471006688147
+privacy: 0.024719411130860694
+my: 0.025314288680180416
+account: -0.026643820093706676
+could: -0.027912590887169065
+frankincense: 0.028924811045941426
+bless: 0.032100783573613664
+illuminated: 0.04132133919760916
+monday: 0.07117890879791706
+friday: -0.08027781034231629
+
+-----------------------------------
+Instance 149 out of 364
+Text: Landover Baptist is America's Favorite Church!
+ CHURCH SEARCH™ | NEWS ARCHIVES | READER MAIL | RSS F...
+Predicted class: christianity
+LIME Explanation:
+news: 0.015207179431432256
+radio: 0.016731243675800752
+shocking: 0.017182044327646594
+that: 0.017787981176529185
+flynt: 0.018918224285668625
+com: 0.020127851264532693
+share: 0.020873387734070156
+get: -0.02132550691229171
+magazines: 0.022887815986878352
+church: 0.03329331744774185
+
+-----------------------------------
+Instance 150 out of 364
+Text:  
+[                    ] 
+About.com
+
+  • Food
+  • Health
+  • Home
+  • Money
+  • Style
+  • Tech
+  • T...
+Predicted class: atheism
+LIME Explanation:
+worship: 0.015338959864263623
+liberation: -0.016346637374537183
+thank: 0.016463874149587047
+today: 0.016710455852487184
+it: 0.016957407848032943
+atheism: -0.01708898848343341
+scientific: 0.01737314921696592
+espan: -0.017845552301024935
+both: 0.02145284050039454
+atheist: -0.04138599436238768
+
+-----------------------------------
+Instance 151 out of 364
+Text: Jump to Navigation
+World Pantheist Movement
+
+Main menu
+
+  • Join
+      □ Renew
+  • Support us
+      ...
+Predicted class: atheism
+LIME Explanation:
+activities: -0.023976285090683596
+the: 0.024052716012798278
+or: 0.024840373722024963
+interests: 0.02488338196673424
+major: -0.02747440420422374
+species: 0.02938945396000157
+worship: 0.15882203895758384
+atheist: -0.2567268466911791
+58: -14254118145.043186
+14: 14254118145.046846
+
+-----------------------------------
+Instance 152 out of 364
+Text:  Style: [BT Regular][Change]
+                 Online reading group and book discussion forum
+      H...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 153 out of 364
+Text: Gregory the Great
+
+Gregory the Great was pope from 590-604 and left behind a substantial literary
+he...
+Predicted class: christianity
+LIME Explanation:
+gregory: 0.018471671165583473
+revised: 0.019018762321526397
+ages: -0.019487674262569418
+nos: 0.019705851491009205
+is: 0.021526037018771763
+half: 0.022614935792346202
+35: 0.024025373252273607
+book: 0.025170770463935545
+of: 0.03895310960516775
+the: 0.04856031574759925
+
+-----------------------------------
+Instance 154 out of 364
+Text: Archdiocese of Glasgow, Scotland
+
+St Simon's Parish of Partick, Glasgow, Scotland
+
+  • Home
+  • Hist...
+Predicted class: christianity
+LIME Explanation:
+30: 0.025172178298704887
+eve: 0.0265056737843801
+sunday: 0.02715175610239958
+catholic: 0.02790705906589939
+2nd: 0.028394549918499927
+17th: 0.02859918104136709
+16th: -0.031073705820034322
+ed: 0.03194753027149282
+david: -0.0322746875221832
+church: 0.16058664384189195
+
+-----------------------------------
+Instance 155 out of 364
+Text: Black Sun Journal - Atheism - Religion
+
+  • Home
+  • About
+  • Climate Facts
+  • Energy Transition
+ ...
+Predicted class: atheism
+LIME Explanation:
+one: 0.005838144352111168
+third: 0.005839970875131847
+utterly: -0.005984659024673703
+tours: 0.00606099345669959
+facebook: -0.006331550568175334
+subscribe: 0.006437125930737771
+atheism: -0.006653832366696357
+powerful: -0.0077310738829371095
+atheist: -0.008831787338867428
+we: 0.010323009283893507
+
+-----------------------------------
+Instance 156 out of 364
+Text: Home Bay Area Skeptics                               Search this site: 
+                            ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 157 out of 364
+Text: Skip to main content
+US Catholic Faith in Real Life
+
+  • Culture
+  • Justice
+  • Lifestyle
+  • News
+...
+Predicted class: christianity
+LIME Explanation:
+dad: -0.025020335656406618
+comments: 0.026631289052431447
+553: 0.026967094872510033
+communion: 0.027804077569745688
+religious: 0.027927997442301157
+add: 0.029032303115026126
+form: 0.033208031707734474
+twist: -0.03600142074125172
+church: 0.04853733283731091
+ministry: 0.0505245440386013
+
+-----------------------------------
+Instance 158 out of 364
+Text:  
+Little Church On The Hill
+
+Menu
+
+Skip to content
+
+  • Home
+  • Worship
+      □ Family Night
+  • Ge...
+Predicted class: christianity
+LIME Explanation:
+opportunity: 0.02274630708436048
+youth: 0.023235983543508136
+15: 0.023587954354680467
+10: 0.023953720455512792
+lists: 0.023965813740388402
+us: 0.025158329251308634
+church: 0.029880576259041502
+the: 0.03162549868049599
+worship: 0.035592000557847406
+19: 0.039132068855180405
+
+-----------------------------------
+Instance 159 out of 364
+Text:            Metroplex Atheists                                                                       ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 160 out of 364
+Text: Skip to navigation
+ 
+ 
+
+  • 
+  • 
+  • 
+
+Home - DUMC
+DUMC Logo (2)
+
+Blended Worship 9:30 Sunday Morni...
+Predicted class: christianity
+LIME Explanation:
+visit: 0.01563579752553671
+luncheon: 0.016071784197625078
+relationships: 0.016086936710391745
+that: 0.016653197495156265
+javascript: 0.01675219874596108
+report: 0.017046988704147153
+30: 0.01789533839166584
+be: 0.018285956372022617
+girl: 0.02265939200455436
+text: 0.02368922945236279
+
+-----------------------------------
+Instance 161 out of 364
+Text: bg image(images/backgrounds/bluestripe.gif)
+[cr-newhead][address]
+*                                 ...
+Predicted class: christianity
+LIME Explanation:
+hour: 0.016215434514829253
+myanmar: 0.016598129662392963
+broadcasters: 0.016793565261693396
+apathy: -0.017419939760700217
+national: 0.018098386680155044
+click: 0.01964851161047469
+share: 0.02035261996171608
+bullets: 0.024301142859805558
+ministry: 0.02446976077691263
+international: 0.03416932379223241
+
+-----------------------------------
+Instance 162 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+visible: 0.016220532793443244
+strives: 0.0162735705154879
+regardless: 0.017623091191502977
+community: -0.018741986757303777
+meetup: 0.023343629387988344
+that: -0.025107248401424614
+art: -0.02738417315146463
+church: 0.03409727883368638
+atheist: -0.06847568083773413
+humanists: -0.07752266810633915
+
+-----------------------------------
+Instance 163 out of 364
+Text: Peachtree Christian Church
+[Search...           ] [search_btn]
+
+Sunday Worship: 9 am | 11 am
+1580 Pe...
+Predicted class: christianity
+LIME Explanation:
+12: 0.01957346658848885
+adults: 0.02081393332784625
+calendar: -0.021132540717315854
+lunch: 0.021533884089002985
+giving: 0.023243484650892713
+party: 0.024735793600095344
+orders: 0.02537231421824495
+hall: 0.025696918740106853
+1580: 0.02720385297747483
+peachtree: 0.03558039154271685
+
+-----------------------------------
+Instance 164 out of 364
+Text: --FRAME--
+    MENU FRAME
+    MAIN FRAME
+    LOW FRAME
+                                              ...
+Predicted class: christianity
+LIME Explanation:
+history: 0.022462099034452912
+critiques: 0.02414224090372147
+modernity: 0.024576827564127976
+update: -0.024957782820294514
+simplicity: 0.02537370758962295
+personal: 0.026055874993602717
+books: 0.02663333229132952
+frame: 0.03281809673946755
+page: -0.19832323121238826
+the: 0.27967249646125103
+
+-----------------------------------
+Instance 165 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+you: -0.03925152542002175
+292: 0.039326407669928475
+find: -0.0406725036780395
+freethinkers: 0.04210869779422546
+are: -0.04221499330167038
+rsvp: 0.051199601009041584
+event: 0.07666209646916575
+re: -0.08762942845876137
+get: -0.11770748321011869
+atheist: -0.2295171705841508
+
+-----------------------------------
+Instance 166 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+your: 0.024583747614117215
+meet: -0.025121729292755433
+report: 0.026436283245424828
+friends: 0.02699213490499877
+www: -0.03138844014134412
+buddhists: 0.03206646177466514
+confirm: 0.03984111354526301
+and: -0.07563175397281158
+science: 0.09545769529255234
+atheist: -0.19696751204411317
+
+-----------------------------------
+Instance 167 out of 364
+Text: Benedictine Monks - St. Benedict's Abbey - Benet Lake, Wisconsin
+Make a Donation
+
+St. Benedict's Abb...
+Predicted class: christianity
+LIME Explanation:
+find: 0.026473886820286268
+located: 0.02664070661047391
+our: 0.028309323354067047
+the: 0.031064017474972647
+rotator: 0.03763719889978481
+html: 0.04817549704920239
+index: 0.06905042766315281
+american: -0.0948899372976673
+swiss: 0.09856327799467732
+atlas: -0.13194743932036496
+
+-----------------------------------
+Instance 168 out of 364
+Text: Brooklin Village Church
+Leading our community home to Christ
+
+  • Home
+  • About BVC
+      □ Meet Ou...
+Predicted class: christianity
+LIME Explanation:
+2016: 0.024450767258544604
+those: 0.026489639491417277
+striving: 0.02660141905986898
+the: 0.027084827997205015
+worship: 0.02764802662392714
+compassionate: 0.029381461151720176
+header1: 0.035254127001644396
+jesus: 0.04083051393845632
+plac: -0.32768781832974764
+thumb: 0.3339267423504508
+
+-----------------------------------
+Instance 169 out of 364
+Text: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+     Don't let the...
+Predicted class: christianity
+LIME Explanation:
+red: 0.03221406094197837
+updated: 0.033833877949843015
+confidence: 0.034302912364475795
+vote: -0.034580781445429476
+you: 0.035415660515055424
+here: 0.03630104966173138
+this: -0.03638640486552726
+is: 0.03683096611815732
+last: 0.03935037733987975
+opportunities: -0.0394458739306832
+
+-----------------------------------
+Instance 170 out of 364
+Text: bg image(images/worldbg.gif)
+
+                                                                There ...
+Predicted class: christianity
+LIME Explanation:
+made: -0.024358910489621424
+support: -0.02533758900224238
+visits: 0.025908165064915643
+chosen: -0.027721533758005706
+schooled: -0.028128578711321732
+check: -0.029078870236092177
+teach: 0.04230477479801262
+home: 0.06444961493640629
+university: -0.19353489491759754
+church: 0.2812630241337031
+
+-----------------------------------
+Instance 171 out of 364
+Text: The Atheist Doctor Podcast podcast of a Filipino Atheist Doctor on atheism,
+science, social issues, ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 172 out of 364
+Text: Skip to Login Skip to Content Skip to Secondary Navigation
+Stanford University
+ 
+
+  •  
+    See All ...
+Predicted class: atheism
+LIME Explanation:
+respectful: -0.0019456951574684557
+please: -0.002021109458880277
+professional: 0.0020742519251276846
+as: 0.0021067638128003385
+interest: 0.002186478607500373
+com: 0.0023449882740891165
+university: -0.0024879283885500033
+in: -0.0025750345804718784
+student: 0.0026107119979424213
+faculty: -0.0029967877193874414
+
+-----------------------------------
+Instance 173 out of 364
+Text: Foundation Beyond Belief
+
+  • My fbb
+  • Login
+  • Give!
+
+[                    ]
+  •  
+  •  
+  •  
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 174 out of 364
+Text: Skip to content
+
+  • Home
+  • Events
+  • Blog
+  • Podcast
+      □ iTunes
+      □ Stitcher
+      □ RS...
+Predicted class: atheism
+LIME Explanation:
+2013: 0.032308939988055646
+search: 0.032585071078575785
+we: 0.03401438573412697
+address: 0.035803904156984576
+to: 0.03866111937058691
+group: 0.04210382699110608
+page: 0.049199152349357525
+community: -0.053756891951308325
+science: -0.22573369537465626
+and: -0.2617479503214829
+
+-----------------------------------
+Instance 175 out of 364
+Text:                                    [cdinfo]
+                  Sacred Texts  Evil  Index  Previous  N...
+Predicted class: atheism
+LIME Explanation:
+faith: 0.010376386228201804
+after: 0.010632787266125047
+designs: 0.010708850157458491
+influence: 0.010861897337155023
+reconciled: 0.011498560032711791
+exterminated: 0.014427799413887867
+judiciary: 0.014727534027967502
+practice: 0.016935714979316174
+preached: 0.017072404679082033
+suis: -0.4672515426516009
+
+-----------------------------------
+Instance 176 out of 364
+Text: 住宅の在り方：店舗併用住宅へのリフォーム
+
+住宅参考書
+
+  • TOP
+  • 人気
+  • 住宅
+  • 外構
+  • 建物
+  • 快適
+  • 継続
+
+新着写真
+
+新築
+
+バリアフリーの現状
+...
+Predicted class: atheism
+LIME Explanation:
+そして: 0.02610176908352518
+rights: 0.036890680892647076
+all: 0.03971482628450551
+reserved: 0.045907231870139155
+それは: 0.04844697580323656
+top: 0.04896224416871585
+10: 0.06002530437319376
+また: 0.06966887713197638
+2014: 0.10870866918170052
+copyright: -0.4394592637959998
+
+-----------------------------------
+Instance 177 out of 364
+Text: [index_grlabel3]
+[index_grlabel1]
+[index_grlabel4]
+[index_grlabel2]
+
+Download the updated version Th...
+Predicted class: christianity
+LIME Explanation:
+including: -0.026071825989367588
+last: 0.027208037645349705
+challenge: 0.02853540117066391
+for: 0.03048283267291634
+on: 0.030561858630063506
+longing: 0.03064640472427521
+bearing: 0.0349392971692582
+who: -0.03919086074015509
+science: -0.05183126539807057
+christ: 0.11983313980243315
+
+-----------------------------------
+Instance 178 out of 364
+Text:   
+
+  • 0Shopping Cart
+
+CFI-Okanagan
+
+  • Home
+  • About
+      □ What is CFI
+      □ Our Members
+   ...
+Predicted class: atheism
+LIME Explanation:
+january: 0.027840653808641116
+atheists: -0.19303265978936626
+atheist: -0.19902089679400928
+small: -8128343096.275068
+logo: 8128343096.28304
+lac: 11199764170.933287
+la: -11199764170.943808
+rights: -14971528951.106003
+slider: -32893814923.726402
+human: 47865343874.84385
+
+-----------------------------------
+Instance 179 out of 364
+Text: Logo
+
+Service Times
+
+Sunday Bible Class 9:30am
+Sunday Worship 10:25am & 5:00pm
+Wednesday Evening 7:0...
+Predicted class: christianity
+LIME Explanation:
+30am: 0.023418069234883952
+we: 0.02379879396354358
+listen: 0.024162803591691727
+by: 0.024387313665375193
+youth: 0.024980118577598225
+ministers: 0.027064783297319893
+christian: 0.02924427251235814
+blank: 0.030813177764212295
+bible: 0.031120053100055566
+visit: 0.039418423189382074
+
+-----------------------------------
+Instance 180 out of 364
+Text: The Ottawa Skeptics
+
+  • Pages
+
+      □ About Us
+      □ Conduct Guidelines
+      □ Contact
+      □ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 181 out of 364
+Text: [logo]
+[font2]
+[font1]
+[                    ] [SUBMIT]
+  • Conference Center
+  • eNews Sign-up
+  • D...
+Predicted class: christianity
+LIME Explanation:
+plan: 0.02382152066997064
+what: -0.024253238070286575
+2016: 0.02519135238641675
+retreats: 0.02554997058216482
+vbs: 0.025630717953000492
+back: 0.025666366216750187
+mo: 0.02584318596967983
+youth: 0.026355401695553175
+campaign: 0.027898362850196583
+high: 0.03688759841407248
+
+-----------------------------------
+Instance 182 out of 364
+Text: [wpeb2a9d32]
+[wp2bf4dfa2]
+Ruislip Manor Methodist Church
+Torrington Road, Ruislip
+Faith Exploration....
+Predicted class: christianity
+LIME Explanation:
+see: 0.01954676499044502
+visit: 0.02023171819981852
+youth: 0.02028751263692608
+the: 0.021184852519218783
+manor: 0.02275667368230047
+facilities: 0.031067554759373894
+to: 0.0326392877054708
+http: 241886546.1110143
+www: 249073328.04215816
+co: -490959874.1425383
+
+-----------------------------------
+Instance 183 out of 364
+Text: [asas_logo]
+Register Now [facebook] [twitter] [search-ico] [key]
+
+  • Our School
+      □ Headmaster'...
+Predicted class: christianity
+LIME Explanation:
+ico: 0.020393546709985694
+register: 0.021740132963761448
+fees: 0.022078769852520694
+outdoor: -0.022181245896146947
+explore: 0.02288394447564051
+chinese: 0.025892204723607672
+education: 0.027205703106730574
+teacher: 0.028514448698584004
+school: 0.03087338676181414
+past: 0.0311718780837237
+
+-----------------------------------
+Instance 184 out of 364
+Text:   •  
+  • I Can Has
+  • Pop Culture
+  • FAIL Blog
+  • Memebase
+  • Geek Universe
+  • Loquillo
+  • Kn...
+Predicted class: atheism
+LIME Explanation:
+beach: 0.018134133115421516
+393: 0.018493009847397362
+as: 0.01918021430512541
+updated: -0.019679383233729714
+devil: 0.020325644352012825
+initial: 0.022873789011767655
+pseudo: -0.0261162898775569
+religious: 0.027895026834043445
+forum: -0.03878252054117582
+by: -0.10644315628527132
+
+-----------------------------------
+Instance 185 out of 364
+Text: Sac City Freethinkers
+
+Promoting free thought at City College
+
+  • Home
+  • Calendar
+  • Meetings
+  ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 186 out of 364
+Text: Rant In A-Minor
+
+Search Form Keyword [search keyword ...       ] [ ]
+  • Home
+  • About
+  • Links
+
+T...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 187 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 188 out of 364
+Text: [logo-print]
+Receive this in your inbox
+TheHumanist.com
+
+TheHumanist.com
+
+Search for: [             ...
+Predicted class: atheism
+LIME Explanation:
+this: 0.014725068997890079
+read: 0.015441311542889136
+genealogies: 0.015925902139529588
+pious: 0.017830644370088564
+twenty: 0.01883197247965812
+international: 0.019163464471941286
+science: -0.02135212401269971
+secret: 0.027014447957279822
+humanists: -0.03141228214852616
+and: -0.14935500928331522
+
+-----------------------------------
+Instance 189 out of 364
+Text:  
+
+Menu
+
+  • Home
+  • I’m New
+  • About Us
+      □ Beliefs
+      □ Leadership
+          ☆ Lead Pasto...
+Predicted class: christianity
+LIME Explanation:
+calendar: 0.02095904386079266
+location: 0.023008615833910763
+make: 0.024747366112446847
+lives: 0.025241062047326665
+about: 0.025585409438941473
+new: 0.028449664371538484
+we: 0.033647857141659264
+copyright: -0.07169019873341327
+church: 0.09205342703930963
+the: 0.1001635740339183
+
+-----------------------------------
+Instance 190 out of 364
+Text:  
+
+CAN'T WAIT TO MEET YOU!!!!!
+
+
+       Close Window
+
+bg image(/images/Image/bg.jpg)
+[logo]
+ 
+
+     ...
+Predicted class: christianity
+LIME Explanation:
+copied: 0.022155598063571407
+floating1: 0.023255095062474248
+calendar: 0.023454093739323743
+to: 0.0246756706237549
+or: 0.02727665958054652
+faithhighway: 0.027409072875844546
+not: 0.03082231534939284
+wait: 0.031201696964473037
+ministry1: 0.0322903384121993
+logo: 0.03800426260510612
+
+-----------------------------------
+Instance 191 out of 364
+Text: angryatheist.info
+
+  • About
+
+Le jeu 5-Card Stud
+
+5-Card Stud poker était à la fois le favori de tou...
+Predicted class: atheism
+LIME Explanation:
+uncategorized: 0.021398099769828153
+2015: 0.021824400970169286
+certain: 0.024707741961106734
+du: 0.025124619691065386
+la: 0.02521177011784242
+stud: 0.025536691793967465
+jeu: 0.027250165317165023
+poker: 0.0405388135268754
+ligne: 0.050112135259353714
+copyright: -0.46988838865407817
+
+-----------------------------------
+Instance 192 out of 364
+Text: bg image(back.gif)
+                      [100X22]           Sign In Sign-Up
+                        ...
+Predicted class: christianity
+LIME Explanation:
+morning: 0.023341157561477834
+sunday: 0.023385702437998538
+avenue: 0.02339517454264059
+45011: 0.02432774372764747
+10: -0.02438485989119076
+come: 0.024685132383156724
+intense: -0.02519129897620312
+his: -0.02542005890636139
+independent: 0.02598461603285118
+59: 0.02887601068439087
+
+-----------------------------------
+Instance 193 out of 364
+Text: bg image(whitestreak.gif)
+
+[bibletrashTITLE]                                                        ...
+Predicted class: atheism
+LIME Explanation:
+start: 0.01401802728458959
+christ: 0.015341654020143302
+caused: -0.015669239284920047
+miracles: 0.016647216591628825
+place: 0.016881217044540694
+full: -0.016917012606988073
+science: 0.0174006106064817
+area: 0.021610750269054013
+america: -0.022479397421832085
+atheist: -0.10513665343875467
+
+-----------------------------------
+Instance 194 out of 364
+Text:  
+
+  • [fader_01]
+
+  • [fader_02]
+
+  • [fader_03]
+
+  • [fader_04]
+
+  • [fader_05]
+
+  • [fader_06]
+
+ ...
+Predicted class: christianity
+LIME Explanation:
+state: 0.02534890415354996
+activities: -0.025923080046799513
+athletes: -0.027033429526537568
+impoverished: -0.028208475007916536
+monday: 0.02914559371614946
+thirteen: -0.03032167802006475
+lock: -0.035570970999970405
+com: 0.2650457327334423
+admin: -0.2743885404713591
+senior: 0.3694845867673784
+
+-----------------------------------
+Instance 195 out of 364
+Text: Faith Presbyterian
+[events] [newcomers]
+
+  • Home
+  • About Us
+      □ Our Staff
+      □ Directions
+...
+Predicted class: christianity
+LIME Explanation:
+sc: 0.01967404799175098
+bender: 0.019908311356238956
+january: -0.020229511555921592
+recreation: 0.02046706957929875
+pastor: 0.021006956985579663
+lancaster: -0.021099622062616268
+nc: 0.021470635264775807
+christian: 0.02173277938800477
+road: 0.023765062051412027
+dr: 0.028256324318778076
+
+-----------------------------------
+Instance 196 out of 364
+Text: Make your own free website on Tripod.com
+Make your own free website on Tripod.com
+                  ...
+Predicted class: christianity
+LIME Explanation:
+joseph: 0.02535453256724617
+father: 0.025512918469621584
+keenly: -0.025586642583543952
+receive: 0.02578508224074958
+large: -0.025889299979795187
+always: 0.025907876189461984
+all: 0.02682283514597812
+need: -0.028916483355627062
+nazareth: 0.02966474452003438
+and: 0.03126516625239202
+
+-----------------------------------
+Instance 197 out of 364
+Text: [sunset]
+Home | What We Believe | Sermon | Ministries | God's Saving Grace | New
+Christians | Our St...
+Predicted class: christianity
+LIME Explanation:
+read: -0.017110826309155114
+god: 0.017900557546102005
+age: 0.0179732186489682
+churches: 0.018105229388101773
+new: 0.019576723665303764
+located: 0.023268448006376334
+the: 0.023483381018126245
+podcast: 0.025014747258660035
+non: -0.03501293926634709
+denominational: 0.03691450964490589
+
+-----------------------------------
+Instance 198 out of 364
+Text: Make your own free website on Tripod.com
+Make your own free website on Tripod.com
+[nature_t_top_l] [...
+Predicted class: christianity
+LIME Explanation:
+every: -0.022470281127012662
+learned: -0.023075031617693306
+childhood: 0.0240752167163631
+if: 0.024599712633736694
+is: 0.024871455039068166
+person: 0.026127415176817288
+will: -0.02640768962023746
+or: -0.026751952870029676
+in: 0.030203245374522944
+are: -0.04214322205643132
+
+-----------------------------------
+Instance 199 out of 364
+Text: nakedpastor
+
+  • HOME
+  • COMMUNITY
+  • SHOP
+  • BOOKS
+  • DAVID
+  • ADVERTISING
+  • IMAGE USE
+  • T...
+Predicted class: atheism
+LIME Explanation:
+your: -0.022859060692087603
+21: 0.022921345862802693
+daily: 0.0232016103364662
+friday: 0.024533314539611377
+motto: -0.025129467667919805
+winner: 0.025793472901803158
+choose: -0.0259763396257071
+posts: 0.02807364925625309
+words: 0.03156544244659144
+atheist: -0.4779679409194276
+
+-----------------------------------
+Instance 200 out of 364
+Text: Valley Covenant Church
+
+Toggle navigation
+
+  • About
+      □ History
+      □ Mission
+      □ Affilia...
+Predicted class: christianity
+LIME Explanation:
+breakfast: 0.013814478482015662
+contact: 0.014091291189505969
+2016: 0.014204585801342814
+past: 0.014471474074388731
+my: 0.014787563662155856
+most: 0.015481109598486274
+church: 0.015741945111039494
+18th: 0.016116454581467394
+the: 0.01629576209183055
+am: 0.016386411590604843
+
+-----------------------------------
+Instance 201 out of 364
+Text: *
+
+Awkward Moments Children's Bible
+
+  • Home
+  • The Books
+  • The Author
+  • Buy Signed Copies!
+
+N...
+Predicted class: christianity
+LIME Explanation:
+hired: 0.014577647569214529
+white: -0.014618338305093499
+mn: -0.014907466887579997
+month: -0.015268051474243325
+mobile: -0.01544823421917339
+consideration: -0.017483169331569928
+christian: 0.01959880087554451
+christ: 0.040622618533644635
+worship: 0.05476610746681231
+science: 0.4280469906123674
+
+-----------------------------------
+Instance 202 out of 364
+Text: Continental Theological Seminary
+Changing lives…to change the World!
+ 
+ 
+
+  • Current Students
+     ...
+Predicted class: christianity
+LIME Explanation:
+focus: 0.013223551008427608
+page: 0.014040110069290745
+institute: 0.015136300613771053
+request: 0.016221546348553186
+2015: 0.016309747210916405
+applied: 0.016871806658019642
+rights: 0.01811227542967912
+cts: 0.018835192432531133
+welcomes: 0.023051707587311877
+of: 0.03278565776252828
+
+-----------------------------------
+Instance 203 out of 364
+Text: Newchurch Methodist Church
+
+In the heart of the Rossendale Valley
+
+Main menu: Home | About Us | Cale...
+Predicted class: christianity
+LIME Explanation:
+share: 0.02296193627859585
+we: 0.02296990566993569
+mission: 0.02438020708785141
+1940: 0.024489659201497385
+contact: 0.027400306100673223
+but: -0.027763139679445166
+about: 0.028037723957726433
+home: -0.028439159137993674
+15pm: -0.04081104250427233
+11: 0.04921859034039921
+
+-----------------------------------
+Instance 204 out of 364
+Text: irReligion.orgirReligion.org
+
+Your last stop before eternal enlightenment
+
+  • Theist Perspectives
+ ...
+Predicted class: atheism
+LIME Explanation:
+dares: 0.006145215919513685
+watching: 0.006296424022270989
+arithmetic: 0.006361090869369148
+gained: -0.006731453679292764
+stop: 0.008381849847447614
+comments: -0.009057640710012426
+atheist: -0.009755839498932795
+science: -0.01008391229398838
+rainbow: 0.01964486670610243
+shitting: -0.02100103610743267
+
+-----------------------------------
+Instance 205 out of 364
+Text:  
+ 
+ 
+ 
+
+Morgan Mill UMC
+
+  • Home
+  • 
+  • Staff
+      □ Pastor
+        Rev. Stacy Roberts
+      □ ...
+Predicted class: christianity
+LIME Explanation:
+contents: -0.022644462562398486
+maternity: 0.02275596113517867
+sunday: 0.02419242969283982
+misc: -0.02517500481348626
+you: 0.026005658691296035
+little: 0.028696416448831686
+quick: 0.031470744420322876
+mill: 0.04341884182120324
+administration: -0.08834998096994094
+church: 0.1395047453782374
+
+-----------------------------------
+Instance 206 out of 364
+Text: --FRAME--
+    KIDMO, The Premiere Media-Driven Church Resource
+
+    , will grab the attention of you...
+Predicted class: christianity
+LIME Explanation:
+easy: -0.025634718679542944
+media: 0.0257156427562967
+bible: 0.025880472556363852
+with: -0.02595081367488652
+cd: -0.026331482086480274
+rom: 0.028986618704554643
+mid: 0.039125484852818755
+whats: 0.04338431300318168
+driven: -0.04390689286982522
+the: 0.09679650557597394
+
+-----------------------------------
+Instance 207 out of 364
+Text: Duomo Press: Featured Book
+
+Home Book Excerpts Purchase Press Kit Contact Us
+[zfrancis-window] [znd-...
+Predicted class: christianity
+LIME Explanation:
+been: 0.02298315500953959
+their: -0.023675875467197124
+aquinas: 0.023867197440029374
+pages: 0.025640034183078513
+isbn: 0.029161522490984967
+us: 0.029653323911423113
+we: -0.03119161996189134
+news: 0.039102432680520605
+re: 0.039198254324920176
+the: 0.04015401827422122
+
+-----------------------------------
+Instance 208 out of 364
+Text: Call Us Today! Toll Free: 800.553.0025
+
+  • Home
+  • Log In
+  • My Cart (0)
+  • Checkout
+
+[Product S...
+Predicted class: christianity
+LIME Explanation:
+host: 0.024625901703718776
+bulletins: 0.025071195808036895
+cross: -0.025104042751309407
+breads: -0.02601311039677911
+1998: -0.026871372935460987
+heart: 0.02738113440978273
+2016: 0.03487533221668382
+75: 0.04143445989969922
+90: -0.1223772514316925
+44: 0.12882280570921747
+
+-----------------------------------
+Instance 209 out of 364
+Text:                               [D3C74430DE] Image
+
+   Serving an international readership with the Ol...
+Predicted class: christianity
+LIME Explanation:
+woman: 0.015585435256927904
+john: 0.01575103290586228
+to: 0.016070881399111246
+someone: 0.01641310712680581
+without: 0.017031469836629804
+knowledge: 0.017078971213975454
+my: 0.01858384786268491
+male: 0.018609323578655926
+was: 0.022515794752612946
+new: -0.03574131953153775
+
+-----------------------------------
+Instance 210 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+meetup: 0.02463334199958883
+simple: 0.0298746246959686
+or: 0.03050013422202687
+members: -0.030856920672401148
+re: -0.03445143690776005
+gods: -0.04171619276932142
+we: 0.04197666378454386
+atheist: -0.056978995058191366
+science: 0.06582480553052485
+and: -0.08324105828059074
+
+-----------------------------------
+Instance 211 out of 364
+Text: Episcopal Bookstore
+
+Order online or by phone (800) 803-6223
+
+Weekdays: 9:30am - 5:30pm - Saturday: ...
+Predicted class: atheism
+LIME Explanation:
+family: 0.021728808479998123
+submit: 0.022242079058289815
+it: -0.022242573468379937
+22: 0.023117262648486597
+needs: -0.02343573136608648
+john: 0.023613631720428366
+liturgy: 0.02363367011645153
+church: 0.02685819951178383
+more: 0.028466869880934775
+seattle: -0.2627553502382457
+
+-----------------------------------
+Instance 212 out of 364
+Text: [ ] 
+[ ] About
+What We Do
+The Team
+Contact
+[ ] Radio & Film
+Podcast: The Mythicist Milwaukee Show
+Li...
+Predicted class: atheism
+LIME Explanation:
+take: 0.018943768323041028
+third: 0.019540813232976233
+speakers: 0.02214828023536418
+muslim: 0.02217866868208646
+want: 0.027932840816317785
+parties: 0.03009672426998796
+religions: 0.030143848639439565
+your: 0.04058296183715798
+to: 0.07296394115084745
+get: -0.39460907443676163
+
+-----------------------------------
+Instance 213 out of 364
+Text: East Memorial Baptist Church
+East Memorial Baptist Church
+
+Join Us For Worship
+
+Sunday@9:30 am
+
+Join...
+Predicted class: christianity
+LIME Explanation:
+our: 0.02444781642939113
+school: 0.024586374065197526
+prayer: 0.025075006654101045
+fishing: 0.02700828435593573
+sanctuary: 0.027129085384888094
+identify: -0.0271691509128055
+golf: -0.02767086897059004
+boats: 0.030283321231781717
+starting: 0.03583064732451417
+us: 0.047839615791223575
+
+-----------------------------------
+Instance 214 out of 364
+Text: ┏━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┓
+┃Rosaries│Chaplets, an...
+Predicted class: christianity
+LIME Explanation:
+blessed: 0.019942952770453787
+reserved: 0.021852968784239077
+have: 0.021935770300733962
+special: 0.02311686216564728
+in: 0.023689876750175632
+of: 0.024089453012240396
+to: 0.024308824914865634
+come: -0.02718285561555382
+saints: 0.0274161305597491
+the: 0.031233275168682212
+
+-----------------------------------
+Instance 215 out of 364
+Text: Leeds Atheist Society
+
+A society for atheists, rationalists, secularists and humanists
+[9]
+Skip to c...
+Predicted class: atheism
+LIME Explanation:
+red: -0.012985448807879784
+atheists: -0.013373883070766398
+governance: 0.013759373200620992
+biology: 0.014325192997613333
+university: -0.016163592658138392
+do: -0.017320796301533176
+running: -0.017972646315561353
+2006: -0.01863241557924198
+2007: 0.024839656866411874
+atheist: -0.04715373772921658
+
+-----------------------------------
+Instance 216 out of 364
+Text: Trinity Logo
+South Oxfordshire Methodists
+
+Trinity Church Abingdon
+
+Home
+
+Home | Church in Abingdon ...
+Predicted class: christianity
+LIME Explanation:
+think: 0.02182614303315131
+trinity: 0.02233542627471952
+other: 0.022417309853832015
+welcome: 0.022421122481094707
+straight: -0.026670083126262328
+very: 0.0272433887541038
+freely: -0.02914549862016976
+member: 0.029855416434393614
+at: 0.03366634865554193
+what: 0.035951120280859894
+
+-----------------------------------
+Instance 217 out of 364
+Text:                                           Here Be Dragons
+
+                                         ...
+Predicted class: atheism
+LIME Explanation:
+available: 0.031204332840792725
+general: 0.031421146381869845
+states: -0.03183404406193947
+for: 0.0396556408915328
+dragons: 0.050597006448991615
+ipod: -0.1327552716383037
+iphone: 0.1337823980963613
+quality: -0.17287421715439816
+high: 0.18636986417035528
+science: -0.4710984566081978
+
+-----------------------------------
+Instance 218 out of 364
+Text: [cropped-rsz_1gazlogo]
+
+  • Home
+  • e-paper
+  • About Us
+  • Who’s Who – Staff
+  • Contact Us
+  • B...
+Predicted class: christianity
+LIME Explanation:
+led: 0.02700919667083879
+in: 0.027583138070975264
+on: -0.027611759983065184
+august: 0.02768134678551811
+shortly: 0.027745014763691154
+2013: 0.028383761442588668
+europe: -0.03741992661775798
+2015: 0.04208017339681861
+the: 0.04984614285320315
+gazette: 0.05320998493098319
+
+-----------------------------------
+Instance 219 out of 364
+Text: Anglican Church
+ 
+
+St George's Magill
+
+  • Our Church…
+  • Profile
+  • Staff
+  • Sermons
+      □ Ser...
+Predicted class: christianity
+LIME Explanation:
+be: 0.01976556796060722
+sites: 0.019842750582100745
+08: 0.023302659299826094
+43: 0.02345510117423177
+to: 0.02416308762661014
+saviour: 0.024325381489607487
+office: 0.024948537361003744
+our: 0.02635862307190858
+esl: 0.02769999280823352
+1848: 0.02779927917660611
+
+-----------------------------------
+Instance 220 out of 364
+Text: [db86060cb68b2434]  
+Order Now
+
+TRUE TRUTHS 
+The Deceit, Arrogance, and Corruption of Religion  
+by ...
+Predicted class: christianity
+LIME Explanation:
+finally: 0.0198248850730128
+truths: 0.02049819748511009
+human: 0.020734583462149955
+true: 0.02189803389029296
+them: 0.025386507915853805
+guestbook: -0.025563357211183257
+listen: 0.026289119717744346
+spirit: 0.031538663543185755
+hatred: 0.03262868636399348
+the: 0.05371600060659584
+
+-----------------------------------
+Instance 221 out of 364
+Text: image displayed if flash reader not installed
+
+  • Home
+  • About Our Pastor
+  • Visitors
+  • Salvat...
+Predicted class: christianity
+LIME Explanation:
+displayed: 0.019816043507113003
+scheduled: 0.019883322792946766
+from: 0.020418405912382746
+pastor: 0.02348576677580543
+reader: 0.02378019063916286
+mansfield: 0.023805318272647563
+wednesday: 0.024340499945019665
+believe: 0.030498001709114545
+baptist: 0.0332901894113998
+church: 0.07054045228373078
+
+-----------------------------------
+Instance 222 out of 364
+Text: Trucking For Jesus Logo                             Truck Sketch
+
+
+
+Trucking For Jesus,
+Beating The ...
+Predicted class: christianity
+LIME Explanation:
+where: 0.017394547479985135
+message: 0.01845520680118178
+the: 0.019311331392345386
+1975: 0.01977604485089105
+above: 0.020605965992769707
+miracle: 0.02283836194667087
+now: 0.024004754292516462
+side: 0.024365442918986006
+to: 0.02480568556835775
+on: 0.03631016048739084
+
+-----------------------------------
+Instance 223 out of 364
+Text: Header
+St Pauls Egham Hythe
+
+  • Welcome
+  • About Us
+      □ Parish Mission Statement
+      □ Inclu...
+Predicted class: christianity
+LIME Explanation:
+st: -0.025312703530303376
+events: -0.025591186615044625
+us: 0.02594097253463859
+we: 0.02633837375760656
+welcome: 0.027153871139386096
+church: 0.028006231881009803
+and: 0.031297541002496806
+support: 0.033314327599808666
+weekly: 0.03348841835083705
+love: -0.04160185582824566
+
+-----------------------------------
+Instance 224 out of 364
+Text: * Skip to main content
+DTS Website Library Book Center Alumni Email CampusNet Community Online
+Login...
+Predicted class: christianity
+LIME Explanation:
+chat: -0.014823247441436595
+requirements: 0.01484174074379255
+version: 0.015617022396575309
+over: 0.016330332929649125
+español: 0.018026265893430145
+2015: -0.018188891262425972
+equipping: 0.0183669993212903
+payment: 0.021473415188819015
+wide: 0.022882808142436074
+an: 0.026538940737043215
+
+-----------------------------------
+Instance 225 out of 364
+Text: The Dominican Friars of the Province of St. Albert the Great
+
+ 
+The Dominican Central Province
+
+  • ...
+Predicted class: christianity
+LIME Explanation:
+second: 0.03168242167888004
+11: -0.03190506328620779
+preach: 0.034457102539581765
+patrick: 0.03507966171767803
+facebook: 0.036924865416150005
+12: 0.04209130742708749
+thirty: -0.042637017587429764
+fr: 0.05075783538061159
+44: 0.15574237962682264
+38: -0.18513311300875968
+
+-----------------------------------
+Instance 226 out of 364
+Text: logo
+  Home     |     About Us     |     Events     |     Links     |     Contact
+                  ...
+Predicted class: atheism
+LIME Explanation:
+entrance: 0.031723824372450075
+stairs: -0.032524100755200396
+opening: -0.032803081049398844
+logo: 0.034069091691074575
+visit: 0.03420022517591669
+you: 0.03505929087445215
+short: -0.03621535845648322
+this: -0.042197050963745444
+university: -0.1310483447357578
+and: -0.1330381810388839
+
+-----------------------------------
+Instance 227 out of 364
+Text:                  4101 Norbeck Road, Rockville, MD 20853 [Map]
+                             Phone: (3...
+Predicted class: christianity
+LIME Explanation:
+sun: 0.02125477479438268
+hours: 0.021517578272692364
+church: 0.021543654500820172
+00pm: 0.021751264125571216
+available: 0.02257030223246067
+home: 0.024284575001402037
+jan: 0.027839515665915863
+mon: -0.02788416482332015
+12: 0.029346349752086283
+fri: 0.0385537986494909
+
+-----------------------------------
+Instance 228 out of 364
+Text:   •   
+  •   
+
+  •  
+  •  
+  •  
+  •  
+
+More Options
+
+Subscribe to SI
+
+ 
+
+Donate Today
+
+Search CSI:
+...
+Predicted class: atheism
+LIME Explanation:
+gerbic: -0.018400348069921444
+standards: 0.02002642516010992
+grieving: 0.0200303563683079
+january: -0.021484870080859197
+without: -0.02239746469153776
+csi: 0.02919976906876792
+and: 0.0323095136907328
+by: -0.07210700822521024
+fire: -0.11851107671143153
+science: -0.12284990951084199
+
+-----------------------------------
+Instance 229 out of 364
+Text: _
+                        [home][calend][histor][schedu]
+
+                               [top_banner...
+Predicted class: christianity
+LIME Explanation:
+lutheran: 0.02066227632046755
+2015: 0.021967171888714818
+redeeming: 0.02275558500742804
+your: 0.023242851946788566
+service: -0.02423573866586563
+carry: -0.02456840732763768
+to: 0.02542050013016334
+out: 0.025773387079608946
+304: 0.026611973169184837
+the: 0.033917486862106064
+
+-----------------------------------
+Instance 230 out of 364
+Text: Skip navigation and go to content
+
+Covenant Community
+
+OFFICE HOURS: M-F 9AM - 12:30PM, 1:30 - 5PM
+
+...
+Predicted class: christianity
+LIME Explanation:
+menu: 0.02432426096122729
+news: 0.026229819959703596
+our: 0.02750673105204477
+venture: 0.029065294646576124
+ministries: 0.033137580179297174
+page: -0.04428160313046394
+church: 0.05417683672484634
+30pm: -0.09239678330867594
+the: 0.09638265341005398
+12: 0.10015039945949003
+
+-----------------------------------
+Instance 231 out of 364
+Text: bg image(lighttex.gif)
+
+Welcome to the Italy Missions Home Page!
+[blank][blank]
+
+This page is sponso...
+Predicted class: christianity
+LIME Explanation:
+or: 0.018192491202524374
+you: 0.019018390357917143
+any: 0.02138889903648435
+1973: -0.02295062496519411
+mission: 0.02453129531494614
+for: 0.02457511071197873
+links: 0.025391254964593542
+page: 0.02939850230578556
+1971: 0.04740103308006483
+the: 0.052877485554919404
+
+-----------------------------------
+Instance 232 out of 364
+Text: Atheist Ethicist
+
+A view of right and wrong, good and evil, in a universe without gods.
+
+Saturday, J...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 233 out of 364
+Text: Close
+Skip to main content
+sign in
+
+  • Saved for later
+  • Comment activity
+  • Edit profile
+  • Em...
+Predicted class: christianity
+LIME Explanation:
+wesley: -0.016108123594468164
+40: 0.016157068527316475
+complaints: 0.01626503839613229
+travel: 0.016685232498590087
+had: 0.01740096666003861
+preaching: 0.01767014253374838
+delivered: -0.01768865574751006
+calculated: 0.018006709996235142
+sex: -0.024299196489011014
+worship: 0.24319970605929364
+
+-----------------------------------
+Instance 234 out of 364
+Text: Logo                                                               Home Page
+BeliefsStaffMinistriesG...
+Predicted class: christianity
+LIME Explanation:
+it: 0.02119865468497476
+rights: 0.021449614857891184
+other: -0.021453122355055487
+for: 0.022290203773114237
+is: -0.02302622894846877
+taking: -0.02417510460904872
+and: 0.024688136418913327
+study: 0.026771040285773408
+bible: 0.029382640837808158
+reserved: 0.029976708656422834
+
+-----------------------------------
+Instance 235 out of 364
+Text: Haysville United Methodist Church
+
+  •  
+  •  
+  •  
+
+[                    ] []
+  • New to HUMC
+  • ...
+Predicted class: christianity
+LIME Explanation:
+hope: 0.019911013597116414
+methodist: 0.020142309664165456
+day: 0.020438150613404055
+telephone: -0.021075203093432388
+gallery: 0.021503478201774017
+music: 0.021566227502735937
+of: 0.021593843403467632
+contact: 0.023638826579445646
+pm: 0.024486685534233676
+forms: 0.026515912330660547
+
+-----------------------------------
+Instance 236 out of 364
+Text: Thoughts from a Godless Heathen
+
+God-free living in a God-heavy world
+
+Menu Skip to content
+
+  • Hom...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 237 out of 364
+Text:   • Home
+  • Info
+  • Events
+  • Clergy And Staff
+  • Watch Sermons
+  • Liberating Word
+  • Give Onl...
+Predicted class: christianity
+LIME Explanation:
+renewal: 0.02561666526504762
+art: -0.026071984348326072
+winners: 0.026299027217884116
+gave: -0.026520508382917536
+events: -0.027073175617174813
+sunday: -0.027637860287218746
+he: 0.030055261330509665
+jimmy: 0.030581394043662058
+even: 0.03093229944082146
+community: 0.04316234868787184
+
+-----------------------------------
+Instance 238 out of 364
+Text: ┏━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
+Predicted class: christianity
+LIME Explanation:
+may: 0.022222271715706714
+yahoo: -0.022924043816435445
+faith: 0.023950529774552528
+if: -0.024795603931406087
+the: 0.02637376248782643
+need: 0.02797648570833954
+you: 0.034175230264149044
+to: 0.03644882457527228
+817: -0.05455123820461601
+274: 0.05939544969319143
+
+-----------------------------------
+Instance 239 out of 364
+Text: Eau Gallie First Baptist Church
+Tuesday, January 12, 2016
+1501 W. Eau Gallie Blvd, Melbourne FL 3293...
+Predicted class: christianity
+LIME Explanation:
+forms: 0.014804076692618845
+current: 0.016005954639847997
+navigation: 0.01770701213794258
+harden: 0.01817804589700525
+gallery: 0.019539357413414858
+to: 0.02036567610946726
+matthew: 0.02207636756982361
+events: 0.02440833694139663
+operation: 0.02738424748390224
+the: 0.02981564669335476
+
+-----------------------------------
+Instance 240 out of 364
+Text: [adw-logo]
+
+  • Archbishop
+      □ Archbishop Emeritus – Cardinal Thomas S Williams ONZ DD
+      □ A...
+Predicted class: christianity
+LIME Explanation:
+jubilee: -0.03152480930588558
+isabella: -0.03202088204186923
+seasons: 0.032152028234752765
+grief: -0.03222968036976574
+her: 0.03337580635310655
+ministry: 0.03456177844154966
+get: -0.03488838257388283
+in: -0.03512461207814844
+leadership: -0.037431801768219336
+young: 0.03910779003614294
+
+-----------------------------------
+Instance 241 out of 364
+Text:   • Home
+  • About
+  • [                    ][Search]
+
+The Illegiterati
+
+We have opinions.
+
+Feeds:
+ ...
+Predicted class: christianity
+LIME Explanation:
+dear: 0.018706208167329305
+church: 0.01892109166803783
+bands: -0.01993712577833315
+ron: -0.020625638756706016
+out: 0.02092865700138829
+live: 0.020990479531203234
+covenant: -0.02309836293534321
+book: 0.024249799496962914
+science: -0.10079572938689725
+christ: 0.4022741317392588
+
+-----------------------------------
+Instance 242 out of 364
+Text:                                 [Jif-Logo3_v3]
+
+ 
+
+Journey in Faith
+Via de Cristo
+of Eastern Pennsyl...
+Predicted class: christianity
+LIME Explanation:
+christ: 0.014519148190721346
+to: 0.01481416457699924
+acrobat: 0.015551033860693876
+journey: 0.015873558772071212
+bring: 0.016463542858077995
+requires: 0.020267897686951742
+of: 0.022600220814320733
+in: 0.028913921834264722
+de: 0.03167097636718459
+cristo: 0.03489081317763022
+
+-----------------------------------
+Instance 243 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+jessica: -0.01555349299399441
+spiritual: 0.015917720513321888
+nyc: 0.0159871862277492
+critical: 0.016047644265745856
+join: -0.016583778460888914
+at: 0.017563973093045533
+fun: 0.01776014624711808
+area: 0.023369746547196927
+science: -0.03858383427093675
+atheist: -0.05100722920659001
+
+-----------------------------------
+Instance 244 out of 364
+Text: Make your own free website on Tripod.com
+Make your own free website on Tripod.com
+                  ...
+Predicted class: christianity
+LIME Explanation:
+manifesting: 0.021302543347625477
+say: 0.022059254856280682
+nuts: 0.023445849395710722
+counter: 0.02576154098231807
+click: 0.026212628372091967
+name: 0.02719978719401662
+is: 0.027415000824367944
+by: 0.029533597287754954
+free: 0.030332573587436296
+next: 0.040673945939883625
+
+-----------------------------------
+Instance 245 out of 364
+Text: Atheists for Jesus
+
+| Home | About AFJ | Podcasts | Book Excerpt | Reviews | Paul | Sermon on the
+Mo...
+Predicted class: atheism
+LIME Explanation:
+via: 0.026115488012341863
+podcasts: 0.030842772105612367
+policy: 0.03206146710406839
+synoptic: 0.03247781010006491
+christ: 0.033127017806660546
+constitutional: 0.03323730061932886
+dismissed: -0.03407968525709896
+describe: -0.03610294402405202
+paul: -0.0379710906662437
+atheist: -0.27842464466445394
+
+-----------------------------------
+Instance 246 out of 364
+Text: We Fucking Love Atheism
+
+We Fucking Love Atheism
+
+Search
+Primary Menu Skip to content
+
+  • Facebook
+...
+Predicted class: christianity
+LIME Explanation:
+june: -0.02324544734787964
+com: -0.023880344151386675
+2016: 0.0246651038668066
+barker: 0.026287448539112062
+silverman: -0.02740036949984622
+meta: 0.03166736927124607
+bill: 0.03260298181719413
+frank: 0.03338824671527415
+greg: 0.03386708671059369
+science: 0.08333089804978011
+
+-----------------------------------
+Instance 247 out of 364
+Text: skip to main | skip to sidebar
+Owatonna Church of Christ
+
+  • HOME
+  • TIMES/LOCATION
+  • ABOUT US
+ ...
+Predicted class: christianity
+LIME Explanation:
+know: 0.02159266536772469
+pages: 0.02216649510914327
+events: 0.02305956230485405
+says: 0.02334549805029455
+mn: 0.02357195850224056
+page: 0.023712656901584004
+life: 0.023718398307455327
+be: -0.02729821763763973
+our: 0.02876502756820517
+feb: -0.03545933577655774
+
+-----------------------------------
+Instance 248 out of 364
+Text:  [revisedhom]                                                                                       ...
+Predicted class: christianity
+LIME Explanation:
+samples: 0.02369362546981953
+news: -0.02382525788696349
+much: 0.02432649321809543
+kristyn: 0.02439281270471914
+keith: 0.02546227604828909
+belfast: 0.026214361810924427
+ww: 0.026785944596315538
+lord: 0.027020236105800538
+yes: 0.029837688148537135
+joy: 0.03373769794930047
+
+-----------------------------------
+Instance 249 out of 364
+Text: [logo-print]
+Receive this in your inbox
+TheHumanist.com
+
+TheHumanist.com
+
+Search for: [             ...
+Predicted class: atheism
+LIME Explanation:
+first: -0.03341714262639542
+politics: 0.03523094096689856
+books: 0.036419802314564494
+been: -0.03697900653830648
+january: 0.039450839574792236
+xenophobia: 0.03957582385040804
+humanists: -0.04640895840454278
+people: -0.05912089827803811
+example: 0.06018199122083586
+and: -0.21445510605611645
+
+-----------------------------------
+Instance 250 out of 364
+Text: [hp_final_nov]
+
+Your #1 Source for Humanist Books
+
+[logo]
+ 
+
+FAQs
+
+  • About Humanist Press
+
+ 
+
+Auth...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 251 out of 364
+Text: denbigh.orgdenbigh.org
+
++
+Navigation
+
+  • Home
+  • About
+      □ Mission Statement
+      □ Vision St...
+Predicted class: christianity
+LIME Explanation:
+old: -0.02758243564225356
+tragedy: -0.028658647089745068
+statement: 0.028896267860885467
+teen: -0.02902592490783424
+sunrise: 0.029295303847567927
+paul: -0.030006006905835565
+city: 0.030266344504741145
+with: -0.03115917345773693
+camp: -0.03161512856313834
+parent: 0.034275760382810334
+
+-----------------------------------
+Instance 252 out of 364
+Text: bg image(romim/romgr.gif)
+Constantine                      [ In Greek ]                       Consta...
+Predicted class: christianity
+LIME Explanation:
+press: 0.022071220152364082
+jesus: 0.022630747957386423
+dialogue: 0.02279756495798667
+and: 0.02662356499778053
+the: 0.026917805643438715
+of: -0.027756726922781576
+science: -0.09610673802328237
+bc: 0.41180439511269185
+1453: -0.43021901735085055
+christ: 0.43071585829380393
+
+-----------------------------------
+Instance 253 out of 364
+Text: CoverPhoto2015
+
+Header Text
+
+Welcome statement
+
+  • Home
+  • Calendar
+  • Gift Shop
+  • Kateri's Sto...
+Predicted class: christianity
+LIME Explanation:
+facebook: 0.0195653462780886
+from: 0.01999942361322202
+winners: 0.020155153761403193
+online: 0.02176037335574989
+just: 0.022436403323558445
+clear: 0.024624636626979435
+ko: 0.02547331963422538
+you: 0.026624344023489604
+is: 0.02803444534454956
+the: 0.03250240406065968
+
+-----------------------------------
+Instance 254 out of 364
+Text:   • Home
+  • About Us
+      □ About Us
+      □ About Humanism
+      □ History
+      □ Staff and Boar...
+Predicted class: atheism
+LIME Explanation:
+established: 0.026842226679161425
+four: 0.0270058226473209
+at: -0.027323935497790563
+more: 0.027835670575861293
+religious: 0.02801422919814108
+reports: 0.029131719701075
+three: 0.030341463587566776
+and: -0.04628143638533908
+atheist: -0.07902175191952754
+science: -0.1031307727838783
+
+-----------------------------------
+Instance 255 out of 364
+Text: 情報とお金-にじいろ
+
+様々な情報の紹介配信♪
+
+価格を知ることで安心することもある
+
+(2014年8月 5日 16:56) | トラックバック(0)
+最近、ダイエットとして糖質制限をはじめました。
+...
+Predicted class: christianity
+LIME Explanation:
+30: 0.022784544063605566
+24: 0.026153882787389785
+27: 0.026509616968629735
+29: 0.032438063736161725
+12: 0.03342418087599341
+28: 0.03555196693851354
+16: 0.038620131601451994
+ます: 0.038745538111686385
+2014年4月: 0.0390125354568576
+22: 0.03916941214967343
+
+-----------------------------------
+Instance 256 out of 364
+Text: The Atheist Experience (Live)
+
+Atheist           The Atheist Experience TV Show
+Experience Links
+   ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 257 out of 364
+Text: bg image(files/QuickSiteImages/bkgd.gif)
+[javascript_disabled]
+[logoBkgdBar]
+[body]
+[footer]
+[navBar...
+Predicted class: christianity
+LIME Explanation:
+because: 0.018438593283801707
+baptist: -0.018736576054936924
+first: 0.01973374507923564
+god: 0.02095282830161786
+through: 0.021180854878923877
+are: 0.02527254806699619
+gather: -0.025301174816213887
+our: 0.02716555582345464
+the: 0.03445522412966961
+and: 0.04366205202534682
+
+-----------------------------------
+Instance 258 out of 364
+Text: Exiled Preacher
+
+Displaced fragments: theology, ministry, interviews and reviews
+
+Pages
+
+  • Home
+  ...
+Predicted class: atheism
+LIME Explanation:
+clerks: 0.005581412278611118
+reform: -0.006307426314674054
+national: 0.006454557106195721
+proved: 0.006480629030777977
+berean: -0.006919021420761613
+stories: 0.00716866517600274
+cheer: 0.007352368126188782
+feed: -0.008763869019554844
+icon1: 0.00967690027556611
+sex: -0.01379575807269128
+
+-----------------------------------
+Instance 259 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 260 out of 364
+Text:                                  [index_htm_]
+                          HomeWriting Links Resources
+...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 261 out of 364
+Text: [logo]
+Toggle navigation
+
+  • Home
+  • About
+  • Calendar
+  • Classes
+  • Links
+  • Audio
+  • Video
+...
+Predicted class: atheism
+LIME Explanation:
+us: -0.022853853885285828
+we: -0.022883725767420645
+2016: 0.023532217240386625
+events: -0.023964834423930537
+business: 0.024235480236120294
+listen: 0.024522803175286247
+isaiah: 0.026041694302868963
+16: 0.02914260591151553
+holydays: 0.03833742980245573
+16th: -0.47081098125989007
+
+-----------------------------------
+Instance 262 out of 364
+Text: Christ Church
+
+A Lighthouse Of Hope For Hurting People
+
+  • Welcome To Our Website
+  • Basic Beliefs...
+Predicted class: christianity
+LIME Explanation:
+ministry: 0.026529273465574106
+vision: -0.026621066392094734
+icon_bible: -0.028958367257350064
+our: -0.029406256684555095
+warm: 0.030490797784354515
+they: 0.030875089403724982
+james: 0.031949114128821295
+purpose: 0.03826445055346494
+00: 0.04245798030733525
+christ: 0.05270642549086952
+
+-----------------------------------
+Instance 263 out of 364
+Text:   
+
+  • Twitter
+  • Facebook
+  • Instagram
+  • Mail
+
+828-450-3331
+Camp Cedar Cliff
+
+  • Summer Camp
+...
+Predicted class: atheism
+LIME Explanation:
+how: 0.02256209867330352
+best: 0.024174237762977942
+exactly: 0.026030271580159775
+enough: 0.026327581331654495
+be: 0.027566725651795274
+trail: 0.03393422765599625
+great: 0.03703530078915215
+the: 0.04837598758526
+by: -0.15840512177140906
+get: -0.18877014577116108
+
+-----------------------------------
+Instance 264 out of 364
+Text: New Covenant a PCA Church - Lewes Delaware
+Toggle navigation
+Menu
+
+  • Home
+  • About Us
+      □ Sta...
+Predicted class: christianity
+LIME Explanation:
+all: 0.018179097584552335
+ministry: 0.0191665042780295
+men: 0.01930025333361521
+home: 0.021107398806605893
+prayer: 0.021494284926414226
+band: 0.024161646705849884
+phone: 0.024298034448490824
+students: 0.0254112164438617
+navigation: 0.026499468158975015
+ministries: 0.032432672091697264
+
+-----------------------------------
+Instance 265 out of 364
+Text:  
+
+  • Comic archive
+  • New Readers
+  • Subscribe
+  • Contact
+
+Updated every Monday, Wednesday and ...
+Predicted class: atheism
+LIME Explanation:
+23: 0.013345079356121833
+science: -0.015277924956485521
+experience: -0.015720335555361654
+powered: 0.016519150750881634
+oh: 0.017110383295018232
+last: 0.020359441064245205
+subscribe: 0.024834397884282836
+atheism: -0.02593534889254441
+and: -0.05457118299204468
+atheist: -0.09810606012107957
+
+-----------------------------------
+Instance 266 out of 364
+Text:  
+  13 January 2016 •Login •Register    [Search    ] [Go]
+
+ Header 2
+ Home | About  | Worship | Need...
+Predicted class: christianity
+LIME Explanation:
+chartered: 0.028952005255636598
+button: -0.029293638737249487
+belfast: 0.029570703807631604
+accessible: 0.03007841587388095
+this: 0.030115121080369626
+worship: 0.046887238309168904
+the: 0.06777733778632455
+copyright: -0.0876711422276898
+get: 0.23880762372422693
+university: -0.25419015794597216
+
+-----------------------------------
+Instance 267 out of 364
+Text:   
+Challenging the Mind, Nurturing the Spirit.       (401) 789-0860
+Monsignor Matthew F. Clarke
+
+  •...
+Predicted class: atheism
+LIME Explanation:
+busy: 0.02112434681229136
+matthew: 0.021405182042140338
+mayo: -0.022160324682826044
+schedules: -0.022323124637839368
+school: 0.02289726639137273
+emphasis: 0.023188013916100904
+advertising: 0.024061751665114803
+businesses: -0.025285065882044426
+st: 0.02569335371357329
+science: -0.4760527124032597
+
+-----------------------------------
+Instance 268 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+such: 0.013453504834576939
+aug: 0.015749179953979824
+will: 0.015829295002381616
+terms: -0.01662894779917665
+clicking: 0.017450374917380728
+hill: 0.01758806065489408
+is: 0.024469511706564074
+atheist: -0.046935792502806564
+forum: -0.05690378401702324
+humanist: -0.08303459538964185
+
+-----------------------------------
+Instance 269 out of 364
+Text: embed(http://www.wmzp.com/templates/main/images/WillardPresby.swf)
+January 12, 2016
+[bodyBG_L]      ...
+Predicted class: christianity
+LIME Explanation:
+23: 0.01608068029329685
+john: 0.01692405809052629
+fellowship: 0.016968682968722237
+committee: 0.01725151862125233
+day: 0.01725261019952306
+2005: 0.018356602051605577
+farmer: -0.019928035569667005
+establishment: 0.021141532510812158
+00: 0.024929783921329125
+reminder: 0.02523212266769042
+
+-----------------------------------
+Instance 270 out of 364
+Text:   • District Church Directory
+  • District MinistriesCityServeEastern District GatewayHispanic Missi...
+Predicted class: christianity
+LIME Explanation:
+rachael: 0.02248038707766369
+committed: 0.025557238967871022
+annual: -0.025928392380521467
+one: -0.025995609631628763
+ministry: 0.02741040090616144
+eastern: 0.027696414339794976
+support: 0.03042843529010569
+office: 0.03216707337051812
+churches: 0.033688900774140274
+the: 0.04756493875286823
+
+-----------------------------------
+Instance 271 out of 364
+Text: Warning! This website requires javascript to run correctly. Please enable
+javascript in your browser...
+Predicted class: christianity
+LIME Explanation:
+kingdom: 0.0207985413050915
+northwest: -0.022165019519299497
+of: 0.023372082711526687
+staff: 0.02368944766269909
+baptist: 0.02609179766576566
+bring: 0.028661350096353563
+college: 0.029498686815792728
+esv: 0.0297474393974248
+sermons: 0.033818431820494356
+15: 0.03584882016535973
+
+-----------------------------------
+Instance 272 out of 364
+Text:  
+Prairie Hill Evangelical Free Church
+Building Friendships...Building Families...Building Faith.
+  ...
+Predicted class: christianity
+LIME Explanation:
+to: 0.020993991906420994
+worship: 0.022497484892262956
+bulletin: -0.02318188170268025
+lunch: -0.02366064547118288
+friendships: -0.024387706541250068
+the: 0.026268813874969016
+service: -0.027292103896134918
+staff: -0.028144618669158596
+forms: 0.028231328090030698
+us: 0.04341567830117507
+
+-----------------------------------
+Instance 273 out of 364
+Text: "And kill every woman who has slept with a man but save for yourselves every
+girl who has never slep...
+Predicted class: atheism
+LIME Explanation:
+permits: -0.021268655246879386
+error: -0.022736451395218224
+hearing: -0.02277282522615246
+innocent: 0.022824021576884304
+given: 0.02746586368659835
+son: -0.027718466507402964
+atheists: -0.02830346427101293
+pleasing: -0.03286747451659213
+church: 0.15619671658965986
+atheist: -0.27005897719753075
+
+-----------------------------------
+Instance 274 out of 364
+Text:  
+Ethical Society of Saint Louis
+"A Welcoming Home for Humanists"
+      
+ 
+More News
+
+  • Home
+  • M...
+Predicted class: atheism
+LIME Explanation:
+open: 0.013699156046923995
+or: 0.014275871180520015
+months: 0.014283356810760102
+privacy: -0.014691201817069672
+get: -0.018876432373652132
+childcare: 0.02092420324279038
+school: 0.021661783003156295
+are: 0.02688662496566347
+forum: -0.06885022057593057
+humanist: -0.0994152584747874
+
+-----------------------------------
+Instance 275 out of 364
+Text:                                                                                                     ...
+Predicted class: christianity
+LIME Explanation:
+tu: -0.024097392988614946
+junior: 0.027506413945478377
+faithful: 0.027532423402376577
+email: 0.029578776590264914
+contact: -0.03251377875748307
+graphics: 0.03573872102764468
+media: 0.040482080371937665
+embed: -0.05104029768823385
+740: -0.09794712777342604
+872: 0.1127220062242059
+
+-----------------------------------
+Instance 276 out of 364
+Text:    Forum | Welcome | Debate Rules | Links | Facebook | Twitter |      
+Donate
+
+              Debatin...
+Predicted class: atheism
+LIME Explanation:
+21: -0.015530969823728579
+to: -0.01561839751080486
+log: -0.015893766612813037
+2015: -0.015926656061215353
+gift: 0.016754350998846052
+username: -0.018763749659852814
+theme: 0.018784540965259687
+church: 0.018828035095375492
+photography: 0.021101347243382678
+science: -0.034933688050388635
+
+-----------------------------------
+Instance 277 out of 364
+Text: Give_Now
+facebook
+
+[agape-logo]
+
+Sunday Service Time: 10:00 am
+[Home                                ...
+Predicted class: christianity
+LIME Explanation:
+location: -0.024055635086481723
+06: -0.02452288263558928
+life: -0.024721167239021003
+2016: 0.025778847782239756
+30: 0.025992757609104074
+sermons: 0.027136735452079428
+planning: -0.028604735482950325
+community: 0.028968617620507814
+that: 0.02959203563916375
+00: 0.0332582635195009
+
+-----------------------------------
+Instance 278 out of 364
+Text:  
+
+  • Welcome
+  • Emmaus
+  • Chrysalis
+  • Calendar
+  • Prayers
+  • Serving
+  • Forms
+
+Fly with Chr...
+Predicted class: atheism
+LIME Explanation:
+follows: 0.022992760663070506
+summit: -0.023270076066567356
+29th: -0.023420073579321514
+ramsey: -0.024041266870334428
+from: -0.02501650323316357
+accountability: -0.028473276527062275
+page: 0.030005310874783996
+emmaus: 0.032402846512249416
+november: 0.035588592247457605
+get: -0.16253813547131568
+
+-----------------------------------
+Instance 279 out of 364
+Text: Close Alert
+
+nursing degrees online [nebraska-m]
+
+[Search              ] Search
+  • MyMethodist
+  • ...
+Predicted class: atheism
+LIME Explanation:
+only: 0.024856816766760683
+nursing: 0.02495547321403716
+listen: -0.025529844653698786
+webmaster: 0.02719898887126528
+that: 0.028035988492388034
+request: -0.03170230845358526
+week: -0.03467085401730185
+in: -0.035142239712631966
+three: 0.043587813607021075
+forum: -0.4787866890253678
+
+-----------------------------------
+Instance 280 out of 364
+Text: bg image(ltgray_backer.gif)
+[javascript_disabled]
+[shapes]
+[sky_5]
+[frpc_bf]
+[header_rp_5b3]
+       ...
+Predicted class: christianity
+LIME Explanation:
+time: -0.027193915861697143
+and: 0.035910012808153285
+of: 0.03726172412616299
+the: 0.053825475416565356
+00: -0.11136991354977643
+10: 0.116244484199041
+com: 0.7189184237599341
+msn: -0.7202513969359721
+15: -3321178711.3468027
+11: 3321178711.3583145
+
+-----------------------------------
+Instance 281 out of 364
+Text: ASK ATHEISTS quotes forum books sign up / login
+             3      0     0     0
+
+[arrow_l] [13354 ...
+Predicted class: atheism
+LIME Explanation:
+now: 0.001482153918311567
+doesn: 0.0014977688498501516
+prize: -0.0016369487821843393
+galileo: 0.0016957097972416862
+life: -0.0017250737947437673
+never: -0.0017644418826202677
+our: 0.001787279512653028
+had: -0.001957858184095541
+one: 0.002026281639832845
+atheist: -0.003713081128766936
+
+-----------------------------------
+Instance 282 out of 364
+Text: [selfphoto]
+
+Tudeley cum Capel with Five Oak Green LEP
+
+  • WELCOME
+  • OUR CHURCHES
+  • WHAT'S ON
+ ...
+Predicted class: christianity
+LIME Explanation:
+what: 0.023795439283414807
+partnership: 0.024295476178613593
+between: 0.024302060983500903
+contact: 0.024410791806450238
+for: 0.025030943996466014
+oak: 0.02532974591406189
+green: 0.027035491329102213
+all: 0.028425360708079942
+saints: 0.031011427080445908
+local: 0.03188668899120882
+
+-----------------------------------
+Instance 283 out of 364
+Text:                                Important Links:
+
+                  ---------------------------------...
+Predicted class: christianity
+LIME Explanation:
+photo: 0.021970657154808143
+with: 0.023512594413167463
+rush: 0.02564326243358756
+hit: 0.02680874878596063
+serve: 0.027274630259615167
+free: 0.02739103431109085
+view: 0.029375967832492713
+us: 0.04593219930196079
+358: -0.11182388218846272
+320: 0.11598985241735325
+
+-----------------------------------
+Instance 284 out of 364
+Text: To Be A Light
+
+For so the Lord has commanded us: ‘I have set you as a light to the Gentiles,
+That yo...
+Predicted class: christianity
+LIME Explanation:
+would: 0.0261642722031588
+confidence: 0.027925583827469472
+how: 0.028282950852097272
+to: 0.028292338570397365
+were: 0.028636543903285693
+present: -0.0319959518973143
+show: 0.03315076346123632
+2008: 0.03564918544903592
+get: -0.18577041667239624
+church: 0.2720077289776012
+
+-----------------------------------
+Instance 285 out of 364
+Text: The Secular Student Alliance of ECU
+
+Friday, February 10, 2012
+
+T-shirt time!
+
+Please click here to ...
+Predicted class: atheism
+LIME Explanation:
+awesome: 0.005438048130076098
+29th: -0.005823448530537356
+your: 0.006435183980149445
+ecu: 0.0069058485413512494
+cake: 0.00860991149671055
+than: 0.008674914216277124
+table: 0.009543514428089197
+16th: -0.016548205175587385
+atheists: -0.019546131900683456
+science: -0.028216341995602138
+
+-----------------------------------
+Instance 286 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+using: 0.0006844617696769059
+conference: 0.0006935097865753396
+about: 0.0007139384549279249
+central: 0.0008328077477459632
+ha: 0.0008388243924949887
+28: 0.0008448425233340878
+art: 0.0008611966001698353
+atheist: -0.001293697458757176
+as: 0.0014007029374279443
+group: -0.002528069076710672
+
+-----------------------------------
+Instance 287 out of 364
+Text: Classical Net
+
+The Internet's Premier Classical Music Source
+
+  • Home
+  • Basic Repertoire
+  • Comp...
+Predicted class: christianity
+LIME Explanation:
+give: 0.014964910009476418
+amazon: 0.015164567027133978
+for: 0.015305900538034163
+home: 0.015806882398469516
+mundi: 0.017137914824941973
+buying: 0.017254104762339524
+germany: 0.018452646395332253
+of: 0.019032720993651435
+sheet: 0.021102089175142346
+the: 0.03311965339544636
+
+-----------------------------------
+Instance 288 out of 364
+Text: Faith For Today
+
+  • Home
+  • Donate
+      □ Donate to Faithfortoday
+      □ Planned Giving
+  • Abou...
+Predicted class: atheism
+LIME Explanation:
+life: 0.03465194906509225
+or: -0.03580411085157989
+every: 0.03819136548965711
+god: 0.040767158072952954
+christian: 0.04188860031754357
+re: -0.06017086204805136
+and: -0.07384797773724332
+university: -0.08390038949012098
+church: 0.12192479508529823
+science: -0.34024130255347107
+
+-----------------------------------
+Instance 289 out of 364
+Text: Reformed Churches
+
+  • Homepage
+  • What is the gospel?
+  • Who we are
+  • What we believe
+  • Where...
+Predicted class: christianity
+LIME Explanation:
+icons: 0.0197294816099194
+light: 0.02063464077888571
+all: 0.021773502467175
+in: 0.022368746014557624
+diaconal: 0.023441905139880523
+and: 0.023676094061536486
+reflected: 0.029469557955891006
+apply: 0.02997287983471603
+is: 0.03078906346178661
+the: 0.041391915982945275
+
+-----------------------------------
+Instance 290 out of 364
+Text: International English Baptist Church of Hamburgenglish speaking church germany
+- services ministries...
+Predicted class: christianity
+LIME Explanation:
+and: 0.019081359788690532
+experienced: 0.01999752537031733
+visit: 0.0207088907213533
+our: 0.022468448631723134
+which: 0.023224621207219135
+where: 0.02352124325021334
+contact: -0.025071695401792164
+areas: 0.02574341707270784
+hamburg: 0.030602852325755513
+as: 0.033418149459165096
+
+-----------------------------------
+Instance 291 out of 364
+Text: Jonnie W. Logo
+Jonnie W's Youtube Jonnie W's Facebook Jonnie W's Twitter Jonnie W's Instagram
+Jonnie...
+Predicted class: christianity
+LIME Explanation:
+softly: 0.01406989536480853
+wanting: 0.014158470208825727
+setting: 0.015961172152320433
+director: 0.017497462570487725
+pastor: 0.0198673150708138
+in: 0.020730474088934147
+to: 0.025028966759310767
+and: 0.029207929347163705
+church: 0.04289760033238967
+ministry: 0.04744899262075378
+
+-----------------------------------
+Instance 292 out of 364
+Text:   • Home
+  • Shop
+  • Create
+  • Sell
+  • Gifts
+  • My Account
+  • My Likes
+  • Collections
+  • Save...
+Predicted class: atheism
+LIME Explanation:
+atheist: -0.011216218316930513
+postage: 0.013875154627574781
+to: 0.014470310632406337
+2010: 0.030630326418660148
+11: -0.03231568121311686
+26: 0.07825926334509728
+80: -0.08203975246552193
+2011: -1.1939059874264815
+19: -1.229256894867703
+12: 2.4227871876047526
+
+-----------------------------------
+Instance 293 out of 364
+Text: Worship Planning - ServiceBuilder Online Software
+
+Log In Sign Up
+
+  • 
+    Dashboard
+      □ Volunt...
+Predicted class: christianity
+LIME Explanation:
+coming: 0.018493295513433816
+public: -0.01878774118610633
+app: 0.019916874928151116
+availability: 0.01992669740118811
+print: 0.025509948679434336
+international: 0.02623967389691894
+messages: 0.026256475725194798
+elements: 0.027317128290228893
+copyright: -0.0746164320023692
+church: 0.25290752194479527
+
+-----------------------------------
+Instance 294 out of 364
+Text: The Odd Blog
+
+And when our cubs grow / We'll show you what war is good for
+
+  • Home
+  • Facts About...
+Predicted class: atheism
+LIME Explanation:
+visionary: 0.01973446576048118
+18: -0.01976906199832423
+go: 0.02018927576307749
+bats: 0.020481500827462678
+racism: -0.02108239955451943
+more: 0.024282094640459842
+partisan: -0.024568581408650213
+science: 0.03338674659125805
+christ: 0.08275012829887401
+2012: -0.10459767753349959
+
+-----------------------------------
+Instance 295 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+2015: 0.0206083228430335
+more: 0.0210749040945484
+meetup: -0.02274176005445519
+30: -0.024344570829569884
+rick: -0.02462313705256324
+to: 0.02530785033329249
+edition: 0.03095709844624237
+church: 0.032758797205373356
+humanists: -0.033969931368526135
+atheist: -0.050780109980530036
+
+-----------------------------------
+Instance 296 out of 364
+Text:                        [logo][logo_seper]               
+                       Marketing Via Rings
+...
+Predicted class: atheism
+LIME Explanation:
+30: 0.0015584972038506211
+atheistparents: -0.001597790520686707
+that: 0.0016357804396902823
+god: 0.0016775148172912045
+religion: -0.0017668864964800934
+topics: -0.001885826883149262
+more: 0.0018900898416943437
+free: 0.0022384148667395853
+as: 0.002637567588909627
+atheist: -0.002846313479847682
+
+-----------------------------------
+Instance 297 out of 364
+Text: bg image(cover.gif)
+
+                                        "The Book of Jesus"
+
+                  ...
+Predicted class: christianity
+LIME Explanation:
+the: 0.019387156888304995
+book: 0.020506248860875355
+transcriptions: -0.0212039902743779
+contents: 0.022003290713190786
+table: 0.022061983356792825
+from: 0.023365454969392734
+chronological: 0.0236377150124486
+of: 0.025378188408911435
+hidden: 0.028078064148438397
+davidic: 0.031176160748735224
+
+-----------------------------------
+Instance 298 out of 364
+Text: bg image(exptextb.jpg)
+
+                          chimp_ss.gif (28666 bytes)
+
+                      ...
+Predicted class: atheism
+LIME Explanation:
+of: 0.0029037613255606456
+family: -0.00290861559991518
+abuse: 0.0030754892078137456
+science: -0.003101052713019233
+one: -0.0032045505415550183
+been: 0.003307667058802333
+small: 0.003460127077505233
+or: 0.0034696048724521924
+an: -0.00386128157092297
+theory: 0.004311523383368535
+
+-----------------------------------
+Instance 299 out of 364
+Text: [blank]
+
+  • School
+      □ Mission Statement
+      □ Futures in Education
+      □ Contact Us
+      ...
+Predicted class: atheism
+LIME Explanation:
+miss: 0.02218848135975148
+kudos: -0.02236007202038662
+served: 0.024924678239977724
+boys: -0.02525660117543488
+with: 0.026014827523425908
+kansas: 0.030937206183754458
+by: -0.03208513967546078
+sac: 0.03326587201500179
+centered: 0.03817798424987771
+16th: -0.4200742872167987
+
+-----------------------------------
+Instance 300 out of 364
+Text:   • Home
+  • Sparks
+      □ Anvil Hats
+      □ Cosmic Shorts
+      □ Hermaphroditeaphobia
+      □ In...
+Predicted class: christianity
+LIME Explanation:
+tithing: -0.024607783331776545
+tools: -0.024804186781776077
+never: 0.025698439714765684
+than: -0.025971296376939283
+politics: 0.02630109573153747
+body: -0.027236090186579444
+road: -0.027405857703644433
+shadow: 0.03278022530100464
+two: -0.04368860630865876
+thirds: 0.04577422277627883
+
+-----------------------------------
+Instance 301 out of 364
+Text:                                                                                                     ...
+Predicted class: christianity
+LIME Explanation:
+search: 0.030002580851960513
+overcoming: -0.03032886455024259
+filled: 0.032191830207886324
+understand: -0.0333672179700082
+your: 0.037615306030321725
+making: 0.03937037987833467
+science: -0.039454780923635295
+world: 0.04472706735028374
+decision: -0.055601989582594206
+christ: 0.09313291433832857
+
+-----------------------------------
+Instance 302 out of 364
+Text: bg image(images/cgbac.gif)
+
+  • Home
+  • Information
+      □ About Us
+      □ About Us
+      □ State...
+Predicted class: christianity
+LIME Explanation:
+my: -0.023241258603045913
+do: 0.02325996456465055
+grace: 0.02367042430139514
+good: 0.02411566221018938
+des: 0.02416074906529757
+think: 0.025115958078761758
+immediately: -0.02562302800523108
+non: -0.033375832169246084
+28: -0.037313140141610815
+27: 0.04222263090431915
+
+-----------------------------------
+Instance 303 out of 364
+Text: Catholic Prayers
+
+Communicating With God Thru A Collection Of Prayers.
+
+●
+
+Monday, June 10, 2013
+
+Th...
+Predicted class: christianity
+LIME Explanation:
+patron: 0.01932712525073837
+bridget: 0.020613983021924045
+virtue: 0.020630541107619624
+reckon: 0.02104854385520748
+storms: 0.021122066123738632
+constancy: -0.021377993030710384
+error: 0.02249484792572861
+confidence: -0.02310231410132059
+bestow: 0.02764535777658762
+servant: -0.02820360528851014
+
+-----------------------------------
+Instance 304 out of 364
+Text: Donate Now
+[banner_143] [banner_143] [banner_143] [banner_143] [banner_143] [banner_144]
+
+  • HOME
+ ...
+Predicted class: christianity
+LIME Explanation:
+2016: 0.018966095816567215
+kelly: 0.019063592621776634
+or: 0.020591705669858393
+street: 0.021115522919267916
+from: 0.022541461424176536
+prevention: 0.023882752260337918
+our: 0.024509883723067616
+through: 0.032416921839730675
+the: 0.03587127264649476
+ministry: 0.0409434504434593
+
+-----------------------------------
+Instance 305 out of 364
+Text: 
+
+
+
+
+(Sorry, your browser does not support inline frames.)
+
+WEBLOG
+
+January 16th, 2016 (Permalink)
+
+...
+Predicted class: atheism
+LIME Explanation:
+6th: 0.0032762189050884335
+happens: 0.003401097836600812
+provide: 0.003477999757545693
+their: -0.0036320766432336713
+fallacies: 0.003659961225790522
+since: -0.0037473700510804197
+business: 0.003922789495521518
+happened: 0.004353056905235537
+here: -0.005971783532084567
+sexual: 0.007262016450888603
+
+-----------------------------------
+Instance 306 out of 364
+Text: 330m
+
+There have been an estimated 330 Million gods worshiped throughout history. And
+YOUR god is th...
+Predicted class: atheism
+LIME Explanation:
+cropped: -0.005537986712455392
+sister: -0.005556312980380229
+else: 0.005665281453662204
+man: 0.005710824345264382
+spark: 0.005842945985705002
+church: 0.005844120562318406
+need: -0.005886209177578607
+you: 0.006499992101881807
+are: 0.006867536198679034
+atheist: -0.012948015063404313
+
+-----------------------------------
+Instance 307 out of 364
+Text: The Pissy Bishop
+
+Welcome
+
+The Pissy Bishop is dedicated to nurturing freethought expression...
+
+The...
+Predicted class: atheism
+LIME Explanation:
+enable: 0.0209132852428707
+intellectual: 0.021034634660800064
+thoughtfully: 0.021076124536118457
+regional: 0.02228857322247203
+around: 0.02254529165551315
+birth: -0.02426092491595096
+as: 0.02516263057828999
+jesus: 0.025577860413921797
+or: 0.027686544695788313
+atheism: -0.46723332573233606
+
+-----------------------------------
+Instance 308 out of 364
+Text: Main Page
+
+From RationalWiki
+Jump to: navigation, search
+
+Welcome to RationalWiki!
+Now with less hel...
+Predicted class: atheism
+LIME Explanation:
+views: -0.009280418197721114
+at: 0.009468424757546952
+how: 0.00985412587376842
+read: 0.010518739702422007
+cc: -0.0112514178596082
+other: 0.011261594518276095
+look: 0.011330654946684122
+ergo: 0.014395783946608273
+forum: -0.01686876220478047
+science: -0.053808081582934104
+
+-----------------------------------
+Instance 309 out of 364
+Text: Deer Park Baptist Church
+
+An Accepting, Loving, and Serving Community of Faith...Welcome Home
+
+  • H...
+Predicted class: christianity
+LIME Explanation:
+serving: -0.01862973131042671
+we: 0.01981814598006496
+children: 0.020048789508772452
+special: 0.023031569992794335
+permission: 0.023525403409759033
+music: 0.024422900734708368
+45: -0.029152069284601283
+baptist: 0.0316480215058463
+history: 0.035095536610643775
+10: 0.04009422229550186
+
+-----------------------------------
+Instance 310 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 311 out of 364
+Text:  Our Daily Bread Ministries
+Toggle navigation Menu
+Donate
+[                    ] 
+  • Daily
+      □ ...
+Predicted class: christianity
+LIME Explanation:
+vain: -0.03808044406505138
+if: -0.03841167539867957
+us: 0.04069874474039995
+on: 0.043011059216661554
+locations: 0.04318161474685292
+ministry: 0.04729892517275831
+bread: -0.05038336084753838
+my: 0.05140490572580483
+to: 0.057551238464801924
+church: 0.0804725166170968
+
+-----------------------------------
+Instance 312 out of 364
+Text: bg image(bg6.jpg)
+                         Welcome to Saint Jude Parish
+                         147...
+Predicted class: christianity
+LIME Explanation:
+respect: 0.02009143531094825
+to: 0.020700858683117784
+god: 0.021413198301524765
+parish: 0.021633177674751532
+life: 0.02294910418033553
+are: 0.023788379551670145
+pastor: 0.02418980633703268
+church: 0.02495044368642788
+we: 0.025316874499775974
+family: 0.026938335182854052
+
+-----------------------------------
+Instance 313 out of 364
+Text: The Eloquent Atheist
+
+Positive Atheism with Humanist Nuances
+
+Skip to primary content
+Skip to second...
+Predicted class: atheism
+LIME Explanation:
+think: 0.0069035312129278
+posted: 0.007143986641724925
+atheist: -0.007279208440611652
+church: -0.007452436687670915
+old: 0.007718117466622873
+by: 0.008027061806799947
+secular: -0.00822378024433305
+based: 0.00838505661591916
+in: -0.00903926833164677
+2012: -0.0120797013111631
+
+-----------------------------------
+Instance 314 out of 364
+Text: Metropolitan Baptist Church
+Pages Navigation Menu
+
+  • Home
+  • About Us
+      □ Contact MBC
+      □...
+Predicted class: christianity
+LIME Explanation:
+information: 0.02087393708656005
+wide: 0.021752568490289354
+to: 0.021971551878828446
+hudson: 0.023453521508439556
+place: 0.024335593995678424
+test: 0.027912486899368996
+00: 0.03270638979131112
+church: 0.034843865541077365
+evening: -0.03960370281114149
+baptist: 0.04140748150633962
+
+-----------------------------------
+Instance 315 out of 364
+Text:  1.
+ 2.
+ 3.
+ 4.
+ 5.
+
+Welcome Sunday
+Unity fall view
+candle-ceremony
+tapestries west wall
+active-grou...
+Predicted class: atheism
+LIME Explanation:
+front: 0.027489987975443116
+map: 0.027911531840721218
+situations: 0.029493168367693615
+home: -0.030177622046474523
+for: 0.03128360729364476
+news: 0.031606031675154585
+get: -0.03366981279810405
+your: -0.03459160297033719
+church: -0.09449292174448651
+seattle: -0.10553839543384008
+
+-----------------------------------
+Instance 316 out of 364
+Text: Cranbrook School
+
+  • Cranbrook Connect
+  • Student Portal
+  • My Student Account
+
+ 
+
+  • • About
+  ...
+Predicted class: christianity
+LIME Explanation:
+apart: 0.021672676223726144
+us: 0.023090242470741526
+congratulations: -0.02321651297674028
+to: 0.0238958227757696
+nicholas: 0.026870328078526576
+why: 0.027020059657952008
+statement: 0.02901616909331154
+search: 0.029899486257758078
+school: 0.035362358088466654
+the: 0.04848499019434883
+
+-----------------------------------
+Instance 317 out of 364
+Text:  
+ 
+ 
+Who We Are
+First Time?
+Staff
+[v]
+What We Believe
+Your Northwest
+
+LifeGroups
+Missions
+Children
+...
+Predicted class: christianity
+LIME Explanation:
+northwest: 0.02186992907558351
+list: 0.022529186087651816
+7220: 0.022737264940767842
+and: 0.02281762667576254
+perfect: -0.02287252624413947
+11: 0.023416077945539925
+people: 0.023908496925388663
+story: 0.028081721087014778
+ministries: 0.03508536657738806
+our: 0.03628029178502321
+
+-----------------------------------
+Instance 318 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+www: -0.0005728891725208293
+january: -0.0005902920561358327
+county: -0.000609146348642857
+questions: -0.0007215358776995264
+useful: -0.0007830108274520003
+community: 0.0008304994413806529
+happy: 0.0008530185194724798
+people: 0.0010545968114469607
+list: 0.0011023612541140382
+atheist: -0.002172722273024325
+
+-----------------------------------
+Instance 319 out of 364
+Text: First United Methodist Church of Glendale 134 N Kenwood St., Glendale, CA 91206
+(818) 243-2105
+First...
+Predicted class: christianity
+LIME Explanation:
+services: 0.020297592172537196
+and: 0.02040913277553302
+care: 0.022011572578099863
+818: -0.022786447688484108
+stephen: 0.027511427549023245
+on: 0.02907306783841973
+site: -0.03647598948476225
+view: 0.037979457301988984
+of: 0.04611318778436677
+infant: 0.04746524825009932
+
+-----------------------------------
+Instance 320 out of 364
+Text: bg image(/imagelib/sitebuilder/layout/)
+Make your own free website on Tripod.com
+Make your own free ...
+Predicted class: christianity
+LIME Explanation:
+front: 0.017991551887849247
+photos: -0.018787179955216827
+to: 0.018807196640656998
+is: 0.018841150051804884
+this: 0.023324641364177473
+contact: 0.023564089313706283
+enjoy: 0.024071348748189954
+upcoming: 0.028006859402325026
+site: 0.02992169970454414
+spacer: 0.034661406189667
+
+-----------------------------------
+Instance 321 out of 364
+Text:                                Tract Dissections
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
+Predicted class: atheism
+LIME Explanation:
+mid: 0.024336452203747024
+rivera: 0.02481776554278304
+them: 0.024974930199792217
+has: 0.02680105454631135
+burn: 0.02849948592898572
+sex: -0.030031841333798687
+christ: 0.032891611928450214
+science: -0.03352847426519299
+get: -0.03415270325340475
+2012: -0.04368437814891607
+
+-----------------------------------
+Instance 322 out of 364
+Text: Pathway Community Church
+
+  •  
+  • About
+      □ Mission/Vision
+      □ Our Team
+  • I'm New
+      ...
+Predicted class: christianity
+LIME Explanation:
+team: 0.0161848619175555
+sermons: 0.017025818413902428
+home: 0.020531726565933876
+media: 0.020747090684362937
+wed: 0.02138520949721973
+point: 0.021472427345558372
+directory: 0.02309000076669033
+our: 0.024152958254221486
+community: 0.02833065029061061
+pathway: 0.03317164428334624
+
+-----------------------------------
+Instance 323 out of 364
+Text: skip to main | skip to sidebar
+Illini Secular Student Alliance
+About | Calendar | Facebook | ISSA Sh...
+Predicted class: atheism
+LIME Explanation:
+prevent: 0.0023982137128354336
+decided: 0.002536710263319269
+entire: -0.0025909901490063602
+chiropractic: 0.0027616848503987357
+allow: -0.0030907829275605495
+post: 0.0031450609581015004
+rock: 0.003350869768062042
+atheist: -0.0034505231149715085
+had: -0.003664663063895214
+pm: 0.004132484046068936
+
+-----------------------------------
+Instance 324 out of 364
+Text: Inland Northwest Freethought Society
+                                     [                    ]
+Inl...
+Predicted class: atheism
+LIME Explanation:
+search: 0.010767769505919076
+announcements: -0.01148754640091638
+them: 0.013313734974398726
+visit: 0.013729039276671686
+of: 0.016391408120404866
+best: 0.017941741647188918
+the: 0.019353148652136345
+and: 0.021189130280207333
+consider: 0.021967177646372526
+atheists: -0.17526809034218288
+
+-----------------------------------
+Instance 325 out of 364
+Text: bg
+
+ 
+
+Alpha
+
+ 
+
+Baptisms
+
+ 
+
+Bookings Calendar
+
+ 
+
+ Building
+
+ 
+
+CAP Money Course
+
+ 
+
+Children & Yo...
+Predicted class: christianity
+LIME Explanation:
+mail: 0.015110317897490544
+healing: 0.01532148867430874
+contact: 0.015341940584396608
+course: -0.01604784685671595
+for: 0.017336806220876074
+com: 0.01786712462064532
+and: 0.01954633219924875
+in: 0.021636693121259078
+bookings: 0.03139911252117271
+the: 0.04495048828443388
+
+-----------------------------------
+Instance 326 out of 364
+Text: bg image(newspnt.jpg)
+
+                        Pope Pius XII and the Holocaust
+━━━━━━━━━━━━━━━━━━━━━...
+Predicted class: christianity
+LIME Explanation:
+next: 0.01424859733930535
+quickly: 0.014368014564529411
+in: 0.015000082130056658
+opposed: 0.016115978828897672
+pilgrims: -0.016856199438394517
+out: 0.01695859222775022
+einstein: 0.017354743240919547
+remain: 0.01850566832949921
+messages: 0.01957007413433727
+gone: 0.020020500637472835
+
+-----------------------------------
+Instance 327 out of 364
+Text: EBON MUSINGS: THE ATHEISM PAGES                                     MEDITATIONS
+━━━━━━━━━━━━━━━━━━━━...
+Predicted class: atheism
+LIME Explanation:
+parody: -0.008428916446604698
+2000: -0.008575742410016325
+mind: -0.008737251539067991
+bring: 0.009389696567100212
+might: -0.00954581397977947
+musings: -0.010426232081099369
+symbol: 0.014683294120422373
+seeking: -0.015790922700042658
+atheist: -0.023718173485039205
+and: 0.023811039270477192
+
+-----------------------------------
+Instance 328 out of 364
+Text:                                      Sign In  |  Register  
+
+             [giftban]                 ...
+Predicted class: christianity
+LIME Explanation:
+books: 0.014002955196940435
+will: 0.014503847470490721
+month: 0.014770780814303379
+hymn: 0.01555122477825949
+all: 0.015822759624075124
+left: 0.01586510825310899
+the: 0.019308418600773425
+items: 0.0204318059733571
+email: 0.02193547502246476
+author: 0.022904023809907643
+
+-----------------------------------
+Instance 329 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+wednesday: -0.0178474898319384
+one: 0.01886089969650067
+21: -0.020338238782672012
+2016: 0.02461184182279767
+of: 0.026080132626666367
+group: 0.028171093405810484
+church: 0.1953390856091318
+atheist: -0.26425793561672484
+http: -35375555007.23207
+com: 35375555007.24233
+
+-----------------------------------
+Instance 330 out of 364
+Text: http://www.esvbible.org/devotions/rss/every-day-in-the-word/The popular reading
+plan features a read...
+Predicted class: christianity
+LIME Explanation:
+kneel: 0.020114560345285793
+tells: 0.020432640977128425
+spirits: -0.02064321172521602
+20: 0.020701001980589103
+again: 0.021234897672739002
+forget: 0.021510125033483388
+goats: -0.022495163699104096
+same: -0.024107129064833574
+bones: -0.02598087966063881
+voice: 0.026159091301672127
+
+-----------------------------------
+Instance 331 out of 364
+Text:   • Home
+  • Worship
+  • Ministries
+      □ Global Missions
+      □ Children & Family
+      □ Jr & S...
+Predicted class: christianity
+LIME Explanation:
+church: -0.021753050722085776
+nurtures: 0.022022544840728516
+servants: 0.022647037660747802
+10: 0.023243668552435284
+expands: 0.023711981017719562
+org: 0.024465374223617987
+30am: 0.025741403876277096
+and: 0.027041373667712195
+pastoral: 0.032203463828258186
+ministry: 0.04378341725678565
+
+-----------------------------------
+Instance 332 out of 364
+Text:  
+SouthEastern Youth Camp
+
+Changing lives in time and for eternity...
+
+  • facebook
+  • twitter
+  • ...
+Predicted class: christianity
+LIME Explanation:
+for: 0.0134747123207609
+26th: 0.01355450369246594
+want: 0.014137654762269943
+outreach: 0.014261216199035393
+us: 0.014570907748046126
+games: 0.015757857073019126
+with: 0.017786077823781787
+follow: 0.018288186364796195
+will: 0.018788899415888412
+we: 0.02502206556253028
+
+-----------------------------------
+Instance 333 out of 364
+Text: [ ] 
+[ ] Welcome
+Welcome
+Our Story
+Share Your Swag
+Custom orders
+Military Member?
+College Student?
+[...
+Predicted class: atheism
+LIME Explanation:
+are: 0.021910549584324673
+orders: 0.02307584048198476
+wear: 0.02438244584673348
+shop: 0.024802409151652407
+by: 0.02670433111575327
+least: 0.02680181952136829
+blogs: -0.0269352811255693
+add: -0.028017467525462757
+now: 0.030898582936675092
+atheist: -0.2787438609104806
+
+-----------------------------------
+Instance 334 out of 364
+Text: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BBCi   NEWS   SPORT   W...
+Predicted class: christianity
+LIME Explanation:
+many: 0.030460070969044933
+critics: -0.03192233582618169
+the: 0.03267427549479308
+point: 0.0340440487848958
+took: 0.03420844459769771
+relic: -0.03537322710564083
+radiation: -0.03786681636288729
+sex: 0.043023334698329856
+caused: 0.06278353301346372
+christ: 0.2348381084493373
+
+-----------------------------------
+Instance 335 out of 364
+Text: [382708_12_logo-image]
+
+  • I'M NEW HERE
+  • ABOUT
+      □ 
+      □ Purpose
+      □ Core Values
+    ...
+Predicted class: christianity
+LIME Explanation:
+home: 0.016397584777573408
+of: 0.01700298863753024
+to: 0.017513894605647534
+for: 0.01913469446500221
+ministry: 0.019835564568747948
+faith: 0.020509144721009225
+mid: -93426156988.82759
+week: 93426156988.83466
+30am: -153314719161.14926
+10: 153314719161.15576
+
+-----------------------------------
+Instance 336 out of 364
+Text: WOOF logo
+
+  • Home
+  • About Us
+  • Future Events
+  • Past Events
+  • Contact Us
+
+This group's wish...
+Predicted class: christianity
+LIME Explanation:
+attendance: 0.018254733990039188
+woof: 0.019182766246058507
+28: 0.019961840061383986
+group: 0.02002056527252741
+strongly: 0.021241524205822655
+february: 0.023099686105855152
+day: 0.023350353446757115
+101: 0.026952509046682997
+we: 0.0289511416350197
+the: 0.03849502699508354
+
+-----------------------------------
+Instance 337 out of 364
+Text: Freethought Alliance
+
+Supporting Science, Reason and the Separation of Church and State
+[logo-new1]
+...
+Predicted class: atheism
+LIME Explanation:
+events: 0.01673826527436838
+thinking: 0.017106973617749578
+from: -0.01989178811350496
+streaming: 0.019947618577536606
+also: 0.021619244770436266
+our: 0.023406039542931183
+church: -0.025305984625027866
+comments: -0.02582255108326905
+atheists: -0.03228499688947414
+science: -0.05247636086351565
+
+-----------------------------------
+Instance 338 out of 364
+Text: [episcopal-]
+[logo]
+[logo-2x]
+[cpi_logo]
+Toggle navigation [TEC-Sheild] Episcopal Diocese of Los Ang...
+Predicted class: christianity
+LIME Explanation:
+sunday: 0.027278154998987263
+00: -0.02747283228133359
+history: 0.02750798755379131
+wisdom: 0.027879330948326644
+ministry: 0.028546849375663798
+trust: -0.028845023902575092
+and: 0.029036207949749752
+services: -0.029078081657128593
+wednesday: 0.029558202860002453
+all: 0.03270939410045071
+
+-----------------------------------
+Instance 339 out of 364
+Text: You are an atheist!
+
+   By visiting this Web site you have announced to the world that you are an
+at...
+Predicted class: atheism
+LIME Explanation:
+remember: 0.004148690583643487
+ask: 0.004196761323850244
+godlessness: 0.0042702255460954335
+make: 0.004827318626621635
+comments: 0.004923599970246073
+converts: 0.00506690534356933
+an: -0.005087123026135563
+will: 0.005096480933724954
+the: -0.005159269199035411
+atheist: -0.008139784230051808
+
+-----------------------------------
+Instance 340 out of 364
+Text: Skip to content
+
+AgASA
+
+The Agnostic & Atheist Student Association
+
+Menu and widgets
+
+Meetings
+
+Meet...
+Predicted class: atheism
+LIME Explanation:
+surveillance: -0.00369464637762644
+museum: -0.0037931561459361223
+whoever: 0.0038542386802970273
+involved: -0.0038914471345762648
+short: 0.004244028621989793
+last: 0.004306185962959628
+first: -0.004894905956978618
+found: -0.005543861501334248
+atheist: -0.00623174135551243
+science: -0.006488632731252715
+
+-----------------------------------
+Instance 341 out of 364
+Text: Timberland Drive Church of Christ
+
+[search...           ]
+  • Skip to content
+
+  • Home
+  • About Us...
+Predicted class: christianity
+LIME Explanation:
+received: 0.02588026515989158
+deacons: -0.02715158276481896
+high: 0.027176275313974416
+adult: 0.02824149341622732
+us: 0.029118554490902386
+important: 0.0304734550113175
+october: 0.03163615621736331
+personal: 0.034995732410614225
+read: 0.03610289589016481
+27: -0.04801169207257455
+
+-----------------------------------
+Instance 342 out of 364
+Text: ↓ Skip to Main Content
+
+  • live
+  • Social
+  • Books
+  • Atheist blog List
+  • Subscribe
+
+rationalt...
+Predicted class: atheism
+LIME Explanation:
+2001: 0.007281039648324985
+reason: -0.007391608302410748
+we: 0.0076205909669966486
+evils: 0.008516126764650116
+god: -0.008998969215599797
+and: -0.009389950457303743
+two: -0.009396144249096938
+sex: -0.019120399269779622
+atheist: -0.023064085160073487
+same: 0.024009463977345373
+
+-----------------------------------
+Instance 343 out of 364
+Text: High Desert United Reformed Church
+
+A URCNA congregation in Apple Valley/Victorville, California
+
+  ...
+Predicted class: christianity
+LIME Explanation:
+times: 0.01803625024347933
+you: 0.018593305910573545
+november: 0.01929831242749262
+service: 0.019884079357118924
+desert: 0.021528965947681885
+10: 0.02521903160698183
+we: 0.025756618962247627
+never: 0.026705292741166432
+taught: 0.02871614538930361
+am: 0.028803679561682956
+
+-----------------------------------
+Instance 344 out of 364
+Text: 人身事故の定義
+
+  • メインメニュー
+
+      □ 定義の大切さ
+      □ 加害者の場合
+      □ 被害者の場合
+
+    サブメニュー
+
+      □ リンク集
+      □...
+Predicted class: atheism
+LIME Explanation:
+egomaniac: 0.0
+egoism: 0.0
+rights: 0.0741411167541949
+2014: 0.0755681540005905
+ます: 0.0758757159238579
+reserved: 0.08065155044428812
+img: 0.08673493554679756
+サイトマップ: 0.09345425094827631
+all: 0.09927125933315047
+copyright: -0.399158552944856
+
+-----------------------------------
+Instance 345 out of 364
+Text: The Humanist Institute
+Facebook Pinterest
+[Apply-butt]
+PayPal - The safer, easier way to pay online!...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 346 out of 364
+Text: Genazzano
+[Search Website      ] [SUBMIT]
+
+  • Our College
+      □ Introducing the Principal
+      □...
+Predicted class: christianity
+LIME Explanation:
+prospectus: 0.01452854253894693
+to: 0.01473412860389452
+out: 0.014967942158678235
+subject: 0.015533176956901044
+cricos: 0.016727986760320297
+history: 0.016775167054826238
+college: 0.018914356245479214
+more: 0.020141247350201938
+61: 0.02035175848020583
+the: 0.026050868918947374
+
+-----------------------------------
+Instance 347 out of 364
+Text: Main Page
+
+From LOLCat Bible Translation Project
+
+Jump to: navigation, search
+
+OH HAI!
+
+New Testamen...
+Predicted class: christianity
+LIME Explanation:
+job: 0.01614232450328256
+hai: 0.016159432512830658
+the: 0.01754063040555346
+far: 0.01768116781013742
+entire: 0.01873369207131624
+right: 0.01897817302896742
+site: 0.019302028130441296
+main: 0.020294647801625192
+daniel: 0.02088926862490935
+prayer: 0.028780350942736486
+
+-----------------------------------
+Instance 348 out of 364
+Text: Welcome! Please Login.
+
+Invalid Email / Username
+[                    ]
+Password
+[                  ...
+Predicted class: christianity
+LIME Explanation:
+edible: -0.02534823636914035
+are: -0.02599684562620323
+most: -0.02671570736389112
+worship: -0.02862763173813969
+or: 0.02968713354054438
+name: -0.03131312360402806
+to: -0.032213263843563614
+is: -0.04233800425111759
+james: 0.044483421967853105
+you: 0.04492212317768403
+
+-----------------------------------
+Instance 349 out of 364
+Text: Orthodox Christian Information Center
+[                              ] [Search]
+Advertise Contact Ab...
+Predicted class: christianity
+LIME Explanation:
+triumphalism: 0.014011597796536997
+1992: 0.01409539456510056
+distorts: -0.01414328796367249
+romans: 0.015547536255152601
+designed: 0.01832791737598022
+constantly: 0.018503699957830366
+eternal: -0.018753175614785234
+union: 0.01958711044778905
+study: 0.026270254686897632
+that: 0.028580276371292936
+
+-----------------------------------
+Instance 350 out of 364
+Text: [Select Language     ]   http://www.wikio.com Religion Bloglisting.net - The
+internets fastest growi...
+Predicted class: atheism
+LIME Explanation:
+paper: 0.0060856197356761715
+others: 0.006465900687548207
+women: 0.006952127338657987
+statistics: 0.007169177141080937
+1910: 0.007182069461503824
+view: 0.007589446210622489
+daughter: 0.007696835798203202
+influential: 0.007921839184985215
+groups: 0.008407200522913263
+atheist: -0.08802312762603075
+
+-----------------------------------
+Instance 351 out of 364
+Text:   [WelcomeBan]                             [LilyCornerLogo2] [Georgian-bookmark1]
+
+         
+       ...
+Predicted class: atheism
+LIME Explanation:
+missions: 0.020641199892173643
+founders: 0.021264319021295705
+studio: 0.0230362507209052
+cross: 0.02472070069125744
+revised: 0.024908033451003512
+to: 0.028881389534173674
+rights: 0.02900954287260515
+contact: 0.029861848682107395
+comments: -0.1939340784980625
+copyright: -0.1956579760530051
+
+-----------------------------------
+Instance 352 out of 364
+Text:  
+Therefore, if anyone is in Christ,  he is a new creation. The old has passed
+away; behold, the new...
+Predicted class: christianity
+LIME Explanation:
+dwell: 0.012986671098745888
+thrift: 0.013148945457520274
+hand: 0.014038921621857579
+dinners: 0.014303210453470588
+traditional: 0.01465841649966552
+prayed: 0.01485019033134422
+continue: 0.014882603161954621
+pm: 0.015241278066595013
+seas: -0.015959059048215925
+discern: 0.0309393868034165
+
+-----------------------------------
+Instance 353 out of 364
+Text: Skip to content
+
+Thankfully prophecy is not a real thing
+
+Menu
+
+  • Contact
+
+Deception
+
+01/18/1601/1...
+Predicted class: atheism
+LIME Explanation:
+order: 0.0006755387994804787
+shalt: 0.0006910166994786113
+neither: 0.0007487921579092273
+prone: 0.0009678721744641819
+truth: 0.0013517681713538683
+confident: 0.00162010363145529
+communists: 0.0027532953252703608
+worship: 0.002856303286625474
+probability: 0.0030150745314701734
+atheist: -0.009520129555785545
+
+-----------------------------------
+Instance 354 out of 364
+Text: Southeast Wisconsin FreeThinkers
+
+Think Free * Live Free * Be Free
+[cropped-Website-cover]
+Skip to c...
+Predicted class: atheism
+LIME Explanation:
+links: 0.0061195170226621175
+cow: 0.0064588046232222675
+died: -0.007147060195466344
+your: 0.009095056159512477
+gaylor: -0.009698781103338954
+atheists: -0.009783506559954623
+publishing: 0.010240371571968597
+freethought: -0.010434674062195878
+church: -0.01693682213774178
+atheist: -0.030896625462331476
+
+-----------------------------------
+Instance 355 out of 364
+Text: [dove]              Holy Spirit Interactive
+                                                        ...
+Predicted class: christianity
+LIME Explanation:
+successor: 0.022012497987515138
+back: 0.022589234997284827
+growing: 0.02627987190320919
+inside: -0.026770761584454704
+went: -0.027699834066918626
+peter: 0.029820976658877774
+chair: 0.030752716900001753
+are: 0.030949359700764005
+2016: 0.03710738282825152
+first: 0.041814426563245806
+
+-----------------------------------
+Instance 356 out of 364
+Text:  [                    ]
+ Search this site
+
+                 Church of St. Peter
+
+                 
+ ...
+Predicted class: christianity
+LIME Explanation:
+see: 0.012912623127422796
+meeting: 0.014870419278963178
+and: 0.016222262935299242
+go: 0.016339163121212554
+st: 0.016635014866911792
+special: 0.01698229291661963
+day: 0.01877005209047932
+large: 0.018874917066421307
+the: 0.019011539885356407
+church: 0.026711929394156234
+
+-----------------------------------
+Instance 357 out of 364
+Text:     ● [home][News] [Curia] [Addresses] [Carmelite sites] [o.c.d.s.] [emai]
+
+                 The Vir...
+Predicted class: christianity
+LIME Explanation:
+within: 0.017092030298593592
+expression: 0.01719459410019685
+drawn: 0.017451265708962778
+commonly: 0.018008364497539883
+titles: 0.018795894161689128
+constant: 0.019383574411011736
+1447: 0.024062150979204087
+integral: 0.02423248933825948
+1913: -0.06350530671330509
+1911: 0.06562371163329397
+
+-----------------------------------
+Instance 358 out of 364
+Text: Heworth Methodist Church scenes
+Show/hide menu [ ]
+
+  • Worship & Prayer
+      □ Prayer meetings
+   ...
+Predicted class: christianity
+LIME Explanation:
+index: 0.013529680422905884
+groups: 0.015483447649733991
+making: 0.017679807078009372
+changed: 0.018415831164108474
+worship: 0.019040213659998646
+the: 0.020877174862344784
+room: 0.022049112362021416
+and: 0.02205851194430089
+links: 0.02275636200707889
+york: 0.029952890465457967
+
+-----------------------------------
+Instance 359 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 360 out of 364
+Text: Make your own free website on Tripod.com
+Make your own free website on Tripod.com
+                  ...
+Predicted class: atheism
+LIME Explanation:
+very: -0.01631031681803023
+application: 0.018420743313557506
+jean: 0.01879429854075271
+diversity: 0.01927611102178487
+title: 0.020937174384671717
+bytes: 0.023585464328300092
+gif: 0.024988645228375603
+jordan: 0.025203930912175942
+the: 0.04531126168175716
+forum: -0.44513058072265294
+
+-----------------------------------
+Instance 361 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism
+LIME Explanation:
+egypt: 0.0
+egroups: 0.0
+egregious: 0.0
+egotistically: 0.0
+egotistical: 0.0
+egotisms: 0.0
+egot: 0.0
+egos: 0.0
+egwin: 0.0
+ｍａｘドライビングスクール千: 0.0
+
+-----------------------------------
+Instance 362 out of 364
+Text: Friends of Freethought
+
+Annual Meeting of Friends of Freethought 2015
+
+ 
+
+Please join us for our ann...
+Predicted class: atheism
+LIME Explanation:
+regional: -0.025726415455503436
+local: 0.02596503709417948
+feb: 0.027409066663636204
+promote: -0.029904131217781498
+in: 0.029950810136340163
+help: -0.031158076599418712
+playing: 0.03242635689313067
+the: -0.03260147578701587
+of: 0.05736988089140818
+atheist: -0.19274514684938168
+
+-----------------------------------
+Instance 363 out of 364
+Text:                      SERMONS OF THE CURE OF ARS - EXCERPTS
+
+                                        ...
+Predicted class: atheism
+LIME Explanation:
+father: 0.019887506820068665
+impious: -0.01995752295922472
+continue: -0.02057782036894518
+vastly: -0.020872502405080078
+beforehand: -0.02385994413787079
+restitution: 0.024113770985614475
+jeered: 0.02473301544849766
+accompanies: 0.02509804019893108
+abundant: -0.03478194858413682
+murders: -0.4754124400980808
+
+-----------------------------------
+Instance 364 out of 364
+Text: skip to main | skip to sidebar
+The Great American God-Out presented by Atheists United for a Rationa...
+Predicted class: atheism
+LIME Explanation:
+dictators: -0.0072053002562608515
+became: -0.007695136917551869
+we: 0.008134158282880641
+think: 0.008325222726957413
+affiliates: 0.008838591124965357
+freethoughtaction: 0.008910129368909836
+november: 0.009386458276110513
+joining: -0.010789313474249454
+atheists: -0.02669671652228551
+atheist: -0.037167606576006734
+
+-----------------------------------

@@ -18,6 +18,9 @@ test_accuracy = accuracy_score(test_labels, test_predictions)
 print("Training accuracy:", train_accuracy)
 print("Test accuracy:", test_accuracy)
 
+tree_rules = export_text(classifier, feature_names=list(unique_words))
+print(tree_rules)
+
 # # Display the classifications for the training data
 # print("\nTraining Data Classifications:")
 # for text, label, prediction in zip(train_vectors, train_labels, train_predictions):
