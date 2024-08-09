@@ -91,28 +91,19 @@ def fit_local_model(perturbations, weights, predictions, num_features):
 
 
 # Fit a model using random k features
-def fit_random_k_features_model(perturbations, weights, predictions, num_features):
-    # transform the perturbations into vectors
+def fit_random_k_features_model(perturbations, num_features):
+    # Transform the perturbations into vectors
     pert_vectors_k_features = bag_of_word.transform(perturbations).toarray()
-    # here we randomly select k features randomly
+
+    # Randomly select k features
     feature_indices = np.random.choice(
         pert_vectors_k_features.shape[1], num_features, replace=False)
-    selected_features = pert_vectors_k_features[:, feature_indices]
 
-    # standardize the data, fit the data and then transform it
-    scaler = StandardScaler()
-    selected_features = scaler.fit_transform(selected_features)
-
-    # we are using linear regression to fit the model here
-    model = LinearRegression()
-    model.fit(selected_features, predictions, sample_weight=weights)
-
-    # getting all the feature name here
+    # Get the selected feature names
     feature_names = bag_of_word.get_feature_names_out()
-    # getting the selected feature names
     selected_feature_names = [feature_names[i] for i in feature_indices]
 
-    return {selected_feature_names[i]: model.coef_[i] for i in range(num_features)}
+    return selected_feature_names
 
 
 # # Fit a greedy model by selecting features iteratively
@@ -156,7 +147,6 @@ def fit_random_k_features_model(perturbations, weights, predictions, num_feature
 
 #     return {feature_names[i]: best_coef for i in selected_features}
 
-
 # Function to run the explainer
 def run_explainer(explainer, classifier, text, num_perturbations=1000, num_features=10):
     perturbations = perturb_text(text, num_perturbations)
@@ -168,18 +158,16 @@ def run_explainer(explainer, classifier, text, num_perturbations=1000, num_featu
         explanation = fit_local_model(
             perturbations, weights, predictions[:, 1], num_features)
     elif explainer == 'random_k_features':
-        explanation = fit_random_k_features_model(
-            perturbations, weights, predictions[:, 1], num_features)
+        explanation = fit_random_k_features_model(perturbations, num_features)
     # elif explainer == 'greedy':
-    #     explanation = fit_greedy_model(
-    #         perturbations, weights, predictions[:, 1], num_features)
+    #     explanation = fit_greedy_model(text, classifier, perturbations)
     return explanation
 
 
-# total test instances = 364 instances
+# # total test instances = 364 instances
+total_instances = len(test_data)
 # Generate LIME explanations for each instance in the test set and write to a file
 output_file = 'lime_explanations.txt'
-total_instances = len(test_data)
 with open(output_file, 'w', encoding='utf-8') as f:
     for i, text_instance in enumerate(test_data):
         print(f"Instance {i+1} out of {total_instances} in LIME")
@@ -204,7 +192,6 @@ with open(output_file, 'w', encoding='utf-8') as f:
 
 # Generate Random K Features explanations for each instance in the test set and write to a file
 output_file = 'random_k_features_explanations.txt'
-total_instances = len(test_data)
 with open(output_file, 'w', encoding='utf-8') as f:
     for i, (text_instance, true_label) in enumerate(zip(test_data, test_labels)):
         print(f"Instance {i+1} out of {total_instances} in Random K Features")
@@ -217,8 +204,8 @@ with open(output_file, 'w', encoding='utf-8') as f:
         explanation = run_explainer('random_k_features',
                                     classifier, text_instance, num_features=10)
         f.write("Random K Features Explanation:\n")
-        for feature, weight in explanation.items():
-            f.write(f"{feature}: {weight}\n")
+        for feature in explanation:
+            f.write(f"{feature}\n")
         f.write("\n-----------------------------------\n")
 
     print(f"Random K Features explanations written to {output_file}")
@@ -244,7 +231,8 @@ with open(output_file, 'w', encoding='utf-8') as f:
 #     print(f"Greedy explanations written to {output_file}")
 
 
-#  Function to get the gold set of features from the decision tree
+#   function to get the gold set of features from the decision tree
+#   this is used to measure the recall of the explainer
 def get_gold_features(model, num_features=10):
     feature_importance = model.feature_importances_
     top_indices = np.argsort(feature_importance)[-num_features:]
@@ -263,7 +251,10 @@ def measure_explainer_recall(explainer, classifier, test_data, num_perturbations
 
         explanation = run_explainer(
             explainer, classifier, text, num_perturbations, num_features)
-        explanation_features = list(explanation.keys())
+        if explainer == 'random_k_features':
+            explanation_features = explanation
+        else:
+            explanation_features = list(explanation.keys())
         explanation_features_set.append(explanation_features)
 
     # Flatten the lists
@@ -277,7 +268,7 @@ def measure_explainer_recall(explainer, classifier, test_data, num_perturbations
         explanation_features_flat)) / len(set(gold_features_flat))
     return recall
 
-
+# Train a decision tree model with max depth of 10 and max features of 10 for the gold set
 decision_tree_model = DecisionTreeClassifier(max_depth=10, max_features=10)
 decision_tree_model.fit(bag_of_word.transform(test_data), test_labels)
 
