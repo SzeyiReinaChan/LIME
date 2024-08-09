@@ -1,0 +1,2549 @@
+Instance 1:
+LIME Features: shenandoah, wednesdays, additional, presbytery, each, services, and, job, the, photo
+Random K Features: pzwd, restates, resuelto, blade, distind, ibid, gaze, jü², vowels, korea
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 2:
+LIME Features: church, resources, we, you, others, give, involved, and, don, learn
+Random K Features: syndication, propos, palace, livescience, parabola, schaffer, overflows, statementthe, iconmenu, c380
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 3:
+LIME Features: get, church, have, yet, science, classified, text, paranormal, history, the
+Random K Features: sometime, barged, baalsrud, outmoded, very, pillow, timed, genomic, charny, religi
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 4:
+LIME Features: haggai, injustice, obadiah, tittle, science, next, and, interpretation, more, apocrypha
+Random K Features: tricorder, avatar_5f5, gas, byrne, puerto, 55pm, noisy, tavris, overplayed, reentry
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 5:
+LIME Features: belief, atheist, superstition, have, are, atheists, proof, sam, and, the
+Random K Features: appear, 3jj, coil, legit, snowpiercer, back_4x4, wordsorth, 33823, adversity, backstrap
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 6:
+LIME Features: , for, our, broadcasters, hope, in, blog, phone, now, faith
+Random K Features: decal, jyoti, wildernessvoice, asmodean, 50ºf, altman, misshapen, bce, 1078, friedenstag
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 7:
+LIME Features: , mailing, www, copyright, tours, fax, com, embed, login, the
+Random K Features: interlopers, c435, trincoll, 20140118, 6762, divider1, lap, czv, fukushima, worcester
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 8:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: particularities, družba, supplements, nicksaystw, nederlands, mtr9, serena, doser, followups, spr04br
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 9:
+LIME Features: audio, down, inspiration, growing, are, video, guestbook, top, kjv, the
+Random K Features: passionate, faintness, f_m, twisting, whim, assuage, cuckoos, atoning, validation, stimulants
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 10:
+LIME Features: us, handbook, association, girl, private, parent, apply, and, science, annual
+Random K Features: bullock, creationoctober, blip, tag1, ching, scelto, boot, lem, ahab, parishioners
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 11:
+LIME Features: magazine, soon, con, re, and, vote, gerbic, comic, the, license
+Random K Features: openparachute, lebanon, onto, 0000088303, spencer, personal, facebookyoutube, 9780664234133, 1680, falsifiable
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 12:
+LIME Features: atrocities, let, atheist, economic, away, blog, atheists, online, judy, arguing
+Random K Features: downside, timidly, bartstatue, worst, blogads, coatbridge, overcoming, 548, tara, r2
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 13:
+LIME Features: pm, photos, contact, jun, atheist, of, tom, com, skeptics, science
+Random K Features: aqs, church_interior_1_lowres, occassionally, potbelly, fiddles, りますが, modeling, nonconformist, hereafter, unchallenged
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 14:
+LIME Features: to, website, for, prayer, up, like, from, we, ministries, spacer
+Random K Features: flowers, hecktown, begining, auctioned, streak, humanlike, ip, cookie, b_cqlg_w4aaplpc, sealed
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 15:
+LIME Features: , that, it, atheist, drawn, just, perhaps, between, dave, note
+Random K Features: programme, ovadia, rebuffed, byword, fivefundamentals, furnish, 43613, embers, altrimenti, repose
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 16:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: zf, handshakes, kestler, determinism, liturgia, kinetics, concepts, 20110907, northfield, الشرق
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 17:
+LIME Features: university, panda, resources, of, org, ediacara, home, stuff, online, the
+Random K Features: vicariously, waldstein, global_446038419, _rê, hairless, randl, pooches, unseen, hypotheses, unappeasable
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 18:
+LIME Features: for, extra, their, told, working, and, spirit, why, one, ministry
+Random K Features: priory, kamilafki, î¼, requiring, codependent, thumb_7819, impreciseness, vids, effects, medici
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 19:
+LIME Features: were, to, temporarily, place, rights, church, was, atheist, and, biography
+Random K Features: century, thumb_4454, ladders, 3213, characterless, drash, builders, detergent, 29th, thiefologian
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 20:
+LIME Features: index, egomaniac, javascript_disabled, egot, egon, egos, ｍａｘドライビングスクール千, tp, egotisms, egotistically
+Random K Features: smith83k, qatar, thetheinkingatheist, stalls, monarchical, missy, pryce, comparison, swaddling, index_0015
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 21:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: d9, substitutions, formulated, overlord, foscarini, monday, 1079, punches, 7x7, barbers
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 22:
+LIME Features: get, find, lite, terms, sec, version, your, page, the, one
+Random K Features: 3301, memorizing, give_webbanner_950x323, 19482, groin, poblocki, extremis, motion, crumbling, bd2
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 23:
+LIME Features: paint, awana, plans, tales, four, blame, seven, reveal, development, cotton
+Random K Features: freshest, royal, worldwide_church_of_god_splits, 7c, evolutionism, deceiver, ellie, paroles, charny, frustrates
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 24:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: easkey, newton, 486922, cette, dissensions, stophatedumptrump, sponsor, elysium, rie, sumc
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 25:
+LIME Features: into, doubt, christian, feel, watch, are, first, events, usa, more
+Random K Features: cevhpd3, unanticipated, hagerstown, springtime, halbe, 1793, mazel, norby, riemermann, april
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 26:
+LIME Features: get, comments, informed, pittsburgh, fire, you, meet, reddit, see, science
+Random K Features: qkè, tarbon, ql0, 1597, 13472, crops, iii, dexterous, courageous, wpda8245e3
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 27:
+LIME Features: , staying, please, atheist, up, attempt, recent, all, forum, wouldn
+Random K Features: 91105, 224, coreligionists, nekoliko, jeconiah, linkbar_r16_c2, placental, landmark16, patently, bha
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 28:
+LIME Features: , また, なります, ax, copyright, all, しています, です, ます, reserved
+Random K Features: yieldedsomewhat, evangelizing, hickman, hebjas1pe2pe, brouwer, craver, escapade, pъjы, coralle, tpe
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 29:
+LIME Features: info, academy, visit, here, greater, org, image, sundays, services, online
+Random K Features: wowslider, trove, needeth, earmarked, south, ishness, български, predecessor, st_kathari, wildlife
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 30:
+LIME Features: secular, educational, means, jew, as, became, history, the, lucas, quotation
+Random K Features: ciripiciéu, 699, longevity, murala, midcoast, 324x160, grail, rosary, fortin, instgram
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 31:
+LIME Features: studies, advanced, disclaimer, be, unicorn, cr, groups, atheists, and, the
+Random K Features: lwg, index_header, legalized, ищ0рz3zwhщыч, notched, steely, withethical, storms, 群馬, crappy
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 32:
+LIME Features: this, place, church, up, discussion, fax, one, fr, dame, ministry
+Random K Features: vestrup, 4a1f, evan, unequivocally, johannes, forester, v_img1, paine, luminary, kjv
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 33:
+LIME Features: fear, that, get, to, about, science, and, with, forum, humanist
+Random K Features: muppetsmos, imams, frightening, scourged, cheer, marvelous, keahn, vests, 2011, christianet
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 34:
+LIME Features: , service, log, search, hymns, hymn, copyright, privacy, preston, code
+Random K Features: pseudohistory, bewail, gspodcast, woodland, newlands, global_309361892, filament, beneficially, manifested, spacetime
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 35:
+LIME Features: , whenever, that, visit, you, spiritual, in, your, and, vital
+Random K Features: いま時分は車の下取りをしてもらうよりも, galena, lutz, strongly, saft, postponing, presbyteries, figuer, mmic, ev
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 36:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: k3, amf, certainly, lamasabachne, consumeristic, loudon, bemused, salinas, 2ê¼, fenton
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 37:
+LIME Features: january, log, creation, culture, broken, nice, skeptics, science, several, familiar
+Random K Features: 2015october, vapid, manner, picker22, foraged, reaffirms, videri, googling, anticipated, podium
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 38:
+LIME Features: , debate, proofs, about, hg, russell, after, death, universe, iv
+Random K Features: baronius, oblats, jup, players, 1310, revelationtv, つまり, music, yca, skepticon7logo
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 39:
+LIME Features: marian, small, join, devotions, priests, identity, com, saint, made, the
+Random K Features: pragmatist, garvey, 11124, threlkel, movement, sina, upharsin, mato, perangkap, necessarium
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 40:
+LIME Features: pantheon, when, newly, gas, only, canonized, your, christ, reasonable, rarely
+Random K Features: mccbulleti, speakers, 5330, hae, blalock, thesword_superkids, lakeretreats, agreeing, posturing, tablettacialis
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 41:
+LIME Features: programme, that, some, at, restoration, will, top, continues, or, june
+Random K Features: て歯列を直すという事は, panoply, humanistlife, ima, pz, imprecise, panpsychism, 神様定休日だったのかもしれませんが, global_17953176, 1311
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 42:
+LIME Features: reconciliation, middle, education, out, religious, formation, online, god, apostles, bishop
+Random K Features: 012b19b0, humanists, lighten, coffin, fredcor, more_artic, according, skillful, thumb_3716, doxology
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 43:
+LIME Features: get, yelling, byrne, last, apatow, uk, your, making, my, sandwiches
+Random K Features: respecting, contatti, wreckage, pedigree, bodies, eï, dudeist, ë², experiencers, plait
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 44:
+LIME Features: can, our, by, you, other, are, elderly, recent, driven, the
+Random K Features: mississippi, civilize, songring, media, shutdown, musicyou, realization, hopper, barbequed, ceive
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 45:
+LIME Features: newsletters, us, powered, message, site, the, and, page, had, sign
+Random K Features: erj, portages, 12479528_1643, þ³9y, obtains, garrett, mejora, conservation, illegal, るような面接テクを伝えてくれ
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 46:
+LIME Features: , council, omaha, xii, footer, officers, you, each, christ, the
+Random K Features: andblack, joyleers, adfac5, sparkable, global_343550, 339, lrg2, chiang, rationality, ruggles
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 47:
+LIME Features: us, our, to, latest, church, be, course, school, wordpress, writing
+Random K Features: pedophilia, front_06_08, surfcoast, parle, 免許合宿を楽しむためには, neck, 31the, 3a43the, privatdozent, 273
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 48:
+LIME Features: , albion, help, jan, part, category, during, forum, the, outreach
+Random K Features: 796, blahing, 2webready, lithuania, client, overviews, wanda, yearreauthorization, kernel, awj
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 49:
+LIME Features: pm, cost, what, meetup, lived, free, somers, site, low, the
+Random K Features: cannibal, tackers, redefining, christianmanuscriptsubmissions, nsc, buttershug, sauven, fuendstream, enforced, license
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 50:
+LIME Features: register, they, last, new, tree, pages, made, as, rearranged, enjoying
+Random K Features: lindborg, biruma, faustian, 9dq, tenn, 847, mann, par, asimov, pangasinan
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 51:
+LIME Features: guide, surgeon, lectures, medicine, force, co, an, my, skeptical, science
+Random K Features: preplife, playthings, disused, categorizing, ideology, coursework, deserter, surmised, なども多少は違ってきます, humor
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 52:
+LIME Features: darwin, douglas, please, required, stand, good, and, science, engaged, humanist
+Random K Features: verema, martyrs, unscrupulous, 3998, seagulls, recommends, cinderella, quaap, passwordauthentication, recommendations
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 53:
+LIME Features: , 12th, get, elementary, join, opponents, here, hometown, children, hearts
+Random K Features: olice, stmarks, emf_200pxghost, r2m, politischen, lapping, 185kb, obvious, sweatervest, baptist
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 54:
+LIME Features: origins, could, accurate, edition, search, have, in, fountains, comprehensive, center
+Random K Features: lustful, wane, troops, tithes, debasing, toxin, postcritical, eines, 9z, zieht
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 55:
+LIME Features: average, us, , get, this, day, shape, com, each, god
+Random K Features: hera, popularize, prendergast, oldwireroadchurch, hammond, 2i, norling, 12but, patristic, pratchett
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 56:
+LIME Features: to, this, do, ultimate, articles, taught, site, fry, the, humanist
+Random K Features: _7m, fawley, alteredmind, copenhagen, opossumsal1, vinyl, felders, borealis, falconers, global_250359572
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 57:
+LIME Features: can, specialist, day, of, seventh, need, take, password, receipted, faith
+Random K Features: expounds, _sy344_bo1, mother1, parishioner, redwood, peppered, 0000088385, uppers, irrational, platforms
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 58:
+LIME Features: before, links, structure, popular, cathars, begins, in, and, became, paperback
+Random K Features: ancaster, lippstadt, hsgp, fascist, valeri, 100610, sz_f_banne, ibka, pay_button, electability
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 59:
+LIME Features: service, humanists, help, members, up, meetup, humanism, atheist, atheists, password
+Random K Features: patterson, enthusiastic, atheistchat, excursion, 873, coordinate, 1166, consueto, 20051013, wflag_norw
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 60:
+LIME Features: state, by, atheist, address, departments, 50s, nice, citizens, credit, silverman
+Random K Features: unavoidable, erfassung, lp, fvkeudeqh0, sigal, abyss, 9216c, diplomacy, radiates, rona
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 61:
+LIME Features: maps, per, about, of, available, applications, possible, history, the, staff
+Random K Features: wingate, om, prevent, 2795, smugglers, holier, austhink, wgl, dtg, belli
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 62:
+LIME Features: loading, from, members, of, new, groups, answers, the, yahoo, food
+Random K Features: cypher, beggar, cndzyrnaae4, mefford, thumb_9650, lion3, 2fdd393, pathetically, repeater, strengthened
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 63:
+LIME Features: , glory, church, lived, glorious, told, portrait, crown, cleanseth, life
+Random K Features: buirmann, disembarking, suitably, adolph, cartwright, loring, peopled, sorority, thumb_1208, madras
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 64:
+LIME Features: , there, stumble, about, women, of, you, science, april, marriage
+Random K Features: rehoboam, buller, matched, sexism, 1081, séculaire, surveyed, invite, 20080617204713im_, c3i
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 65:
+LIME Features: humanists, belief, free, sitestats, conversation, atheists, think, and, common, people
+Random K Features: wordworth, cuttlefish, probation, kindle, organizing, 大宮の矯正歯科の裏には神社が, 376, paternalistic, otd, vielhauer
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 66:
+LIME Features: , please, church, divorced, genesis, found, beatitudes, mt, sex, antiochus
+Random K Features: nickell, img, gethsamaneandgardentombheaderimage, should, aristocrats, kjung, decr, maranatha, implied, gregg
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 67:
+LIME Features: seen, to, is, of, you, also, his, and, him, no
+Random K Features: 1056, antipas, gruiformes, 4493, accomplices, 155, shaher, potenzmittel, accommodations, login
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 68:
+LIME Features: that, talk, live, church, new, science, work, pass, humanist, week
+Random K Features: thanked, rabelais, mortenson, 575684303, facebook_3, priestbutton1, tenner, nachbarn, shmeity, bravenet
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 69:
+LIME Features: discuss, , hardware, bankruptcy, christmas, blanket, atheist, homer, suffer, three
+Random K Features: elaahh, avatar_5f5, telethon, 241, fcc, smote, ノーマライズの連絡くれたコンサルタントの方が男性の方で女性の方がよかったので女, opiates, cfr, allowed
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 70:
+LIME Features: , preparatory, transport, triumph, school, fax, information, against, the, prep
+Random K Features: groun, amuck, catches, ipf, decreed, endusmilitarism, prácticas, 6447_82857, atelier, floats
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 71:
+LIME Features: has, what, this, javascript, london, published, social, products, science, april
+Random K Features: undertaken, pasolini, 9ú²zzb, ipbforumskins, responsibilities, 2014, transports, unsaleable, pizzagels, black_agenda_radio
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 72:
+LIME Features: , january, university, based, stories, chiropractic, and, vaccination, anti, activities
+Random K Features: stephens, supplémentaire, 91105, ikdr, mba, 945078, hardship, ku0, 1577, caresden
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 73:
+LIME Features: us, to, pm, church, groups, and, page, classes, the, food
+Random K Features: einführung, evoked, spenser, gist, generated1, haley, abbotsford, coots, 559, hopeless
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 74:
+LIME Features: packing, for, calendar, purifies, holding, light, every, accompany, with, heart
+Random K Features: contre, wartburg, traumatic, 8662, smallest, carnaval, googleplus, tracytonumc, iscrèche, dhj
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 75:
+LIME Features: , follow, missionaries, missions, connected, stay, macedonia, subscribe
+Random K Features: net, schreck, succinct, metalware, hooks, valhalla, changin, 2202c, observe, blast
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 76:
+LIME Features: , for, white, del, day, first, saturday, pen, sanctuaries, beautiful
+Random K Features: wendell, maida, stuff, generative, zurückgekämmt, footing, ripley, couplet, gymnastic, gloriously
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 77:
+LIME Features: live, church, news, spiritual, taught, good, christ, facilities, car, and
+Random K Features: thumb_2128, sp_altar, greeds, sandwiched, playworth, 11782, fooling, その途中に見慣れない石仏が, topbox, 485976
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 78:
+LIME Features: evangelism, mission, churches, resource, church, calendar, st, leadership, indian, nurture
+Random K Features: jî, strawmen, が出るのか比較してみるのもいい手です, deepening, mathboard, commerciale, deep, nestor, protestant, burnt
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 79:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: eve, margherita, havens, unconstrained, deanna, grandparent, verger, 980, fbi, freiburg
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 80:
+LIME Features: , to, university, reason, and, on, science, short, humanist
+Random K Features: taufe, afar, wannabe, participitant, mountaintop, selfhood, reduces, thumb_1675, madeira, 5793
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 81:
+LIME Features: church, mid, winter, you, science, ups, header, re, hang, cropped
+Random K Features: urim, tyranny, kcrepertorytheatre, bettany, だから, robert_tilton, disturbed, demille, 46528, dadabhoy
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 82:
+LIME Features: , down, university, at, admissions, pathways, here, utm, martin, the
+Random K Features: slippin, 4nz, oppositional, necessity, global_289855222, dues, exports, mormonlinks, griffith, sanitation
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 83:
+LIME Features: heavy, true, person, instruments, consider, those, sex, phil, or, thrown
+Random K Features: alain, reduced, keynote, kolman, argento, dowm, hennessey, unpunishable, 61olx3s50ml, skepdic
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 84:
+LIME Features: for, website, design, have, domain, in, very, ssl, currently, the
+Random K Features: quranimaniacs, 1696, espa, 4lo, ï¾v, ratzinger, willink, yea, dumain, gudbrandsdalen
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 85:
+LIME Features: , walk, by, atheist, friday, conditions, hosted, first, kate, winery
+Random K Features: soph, lisping, augustus, actions, eagchurch, 310, najkvalitetnije, gjcoc, occured, baobab
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 86:
+LIME Features: get, fact, write, myself, worship, fulfilling, price, submit, beautiful, hearts
+Random K Features: ritual, thumb_4351, capades, ricki, corinthians, importancia, elliott, presidents, leeway, cen
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 87:
+LIME Features: , water, copyright, news, of, hope, lift, first, page, staff
+Random K Features: 2oz, d0795c8eb0, carbon, thursdays, ricky, containted, invading, motivated, mythos, n5
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 88:
+LIME Features: title, store, it, of, cows, yet, atheists, time, make, me
+Random K Features: judas, biblije, ash, mish, maturation, betonung, albans, 3003, packaging, paralegal
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 89:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: pounce, portrush, scotsmen, joanna, frontiers, revisited, receding, terminology, zê², omelet
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 90:
+LIME Features: association, atheist, founded, com, science, atheists, more, http, brights, learn
+Random K Features: dogmatism, ultimate, orihons, physiologically, k1, zedekiah, ee, thumb_1816, header3, sperling
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 91:
+LIME Features: , can, this, when, newsletter, be, bell, enter, experience, the
+Random K Features: letting, global_433525349, uy, ccb, comicsgonebad, cytokine, gï, sidetop_home, theywillbelieveth, 432
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 92:
+LIME Features: executive, photos, idea, www, atheist, culturati, of, address, event, and
+Random K Features: bgstars, 244th, desires, illicitly, mheyd, writers, 嬶絿脳2, norling, geir, detriments
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 93:
+LIME Features: for, to, alpha, community, be, we, thursday, acts, and, the
+Random K Features: corceo, detective, scour, mí, newcombe, fyê, capehart, k9, windowless, unmasking
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 94:
+LIME Features: , comments, from, of, prohibited, may, the
+Random K Features: worldwide_church_of_god_splits, respiration, image005, preferred, playoff, inventions, sande, 2fetsuatheists, beneath, trench
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 95:
+LIME Features: , about, national, greater, as, embed, making, on, the, main
+Random K Features: aggregating, plutocracy, cuppa, thumb_1492, collegial, 0000088214, 担当の方と一緒になって就職活動をしているように感じる, mobsters, hotmail, moloch
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 96:
+LIME Features: webcasts, jama, final, counter, other, published, resume, awards, work, me
+Random K Features: grotesquerie, 貸し渋る業者もあるそうです, cornell, mons, garnica, animan, goofy, rays, 1133, 1000s
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 97:
+LIME Features: churches, donations, heath, peter, of, st, nave, glass, banners, where
+Random K Features: pasthacon, signe, computational, wil, falsehood, surmounted, haut, ahsstudents, motif, rehearsing
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 98:
+LIME Features: our, get, church, in, so, supermarket, called, piety, jesus, piwik
+Random K Features: wp6e6e7503, mundo, housewife, extremists, affordability, toolbox, gotgtemplate2_r8, pb67, magyar, pornocracy
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 99:
+LIME Features: , email, get, our, about, here, untitled, the
+Random K Features: revolutionize, athanasius, keble, texto, 3590, ipm, eugenics, unsettling, microbe, fats
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 100:
+LIME Features: comfortable, wv, before, hands, categories, discipling, in, christ, sunday, on
+Random K Features: doubtful, pausing, poe, hardasnails, edgelawn, uofl, northshorientation, puppeteer, gerneric, unceasing
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 101:
+LIME Features: , name, atheist, in, different, would, with, bars, kind, humanist
+Random K Features: 6鐐广偦銉冦, 0000053247, bassett, compatibilism, elaborations, sftp, conformed, 20090209, ia9, jewelery
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 102:
+LIME Features: , eternally, safest, nothingness, acts, portrait, sex, observation, confessing, hers
+Random K Features: predisposed, arrayed, drummer, consumers, musicbrainz, thumb, prichard, spiritaliter, darn, together
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 103:
+LIME Features: , rights, atheist, tees, account, top, one, reserved, subscribe
+Random K Features: wealthier, 48067, savagery, deductable, global_289, 762d3837c384a36e72d8434540273bbb, uok, hphc, swizz, chafing
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 104:
+LIME Features: op, misused, pertinent, depend, wilted, spoke, tastes, routes, tire, ethically
+Random K Features: licensescience, tarkowsky, vanity, broga, formatted, enclyclopedia, makeup, pennway, ccccfront5, wahren
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 105:
+LIME Features: , nations, before, live, church, and, teaching, posts
+Random K Features: eleni, amok, illnesses, aalc, azalea, お後が, begrudging, 4487, stil, recidivism
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 106:
+LIME Features: , skip, comments, like, apply, how, host, science, where
+Random K Features: sanctary, numismatics, eð, flexons, nawaz, inlet, uccam, zemun, synch, hope_behin
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 107:
+LIME Features: twittershare, up, salvation, on, his, devotional, me, thoughts, big, man
+Random K Features: wolverine, challenged, briggs, viewer, chemclouds, hobgoblin, revenues, nicholls, brock, zoroastrian
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 108:
+LIME Features: email, peace, homepage, gifts, of, serra, justice, become, promoting, and
+Random K Features: innumerable, liebevolle, freechurch, penalized, blaskiewicz, vr, pîµaf, conservatives, stricture, 12_bulletin
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 109:
+LIME Features: sergio, state, humanists, karaoke, jpeg, agnostics, rsvp, church, atheist, try
+Random K Features: 1990, omniscient, 4ts, unknowingly, rosarubicondior15, destroy, ishmaelites, lubienski, snobbery, nadab
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 110:
+LIME Features: hell, to, of, be, not, in, all, god, the, piwik
+Random K Features: sç, inclined, locations_webbanner_950x323, global_441044925, 77948, popolari, payoff, intrinsically, beg, pocetna
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 111:
+LIME Features: us, contact, find, of, ministries, com, christ, staff, directions, ministry
+Random K Features: 2199, accountable, pantheon, realizzarlo, ßª, leander, sayin, suspensions, surviving, img_50
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 112:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: hypertasks, christianize, absurdly, farnham, まず簡単に, dammann, 2012345, 88kb, petzold, confer
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 113:
+LIME Features: , by, association, start, jobs, atheists, pick, and, march, alabama
+Random K Features: 635x310, melampo, ditt, ivins, apollos, hë, esteem, butts, upset, elizabethan
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 114:
+LIME Features: choice, always, brain, spread, and, hats, science, forum, button, gear
+Random K Features: ridiculous, nesina, stupidity, lrh, coldness, folder, ree, stagnant, unlike, rouses
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 115:
+LIME Features: , us, for, love, nursery, of, are, sunday, lutheran, god
+Random K Features: eccentricities, diminishes, 1783, marseille, advancedministry, channels, pyjamas, warm, exit, moments
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 116:
+LIME Features: , get, issues, served, last, organization, globally, beliefs, protected, suffering
+Random K Features: concerns, spawning, calladus, sem, kahneman, derby, desmond, sismondo, 60637, newspring
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 117:
+LIME Features: be, post, other, menu, your, forums, evidence, skeptics, science, or
+Random K Features: greyson, dunkleman, laicite, moralist, 11_rnm_log, mudwrestling, bolton, 11110, umc, houser
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 118:
+LIME Features: our, what, moral, relationship, structure, hope, development, and, material, cultural
+Random K Features: 1092, teeny, nasreen, accreditations, nbga, soulscarves, giuseppe, whiff, 56548, generates
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 119:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: incline, galileans, ison, unleavened, barters, worldnetdaily, dirtied, irrational, wig, première
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 120:
+LIME Features: policy, freethought, atheist, february, show, com, part, thumb_, march, sign
+Random K Features: thumb_1233, shown, noscript, gradgrinds, 復職活動に満足できたのは, bergland, avatar_3f5, thumb_2001, dervetski, antithesis
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 121:
+LIME Features: , america, to, of, fax, in, ny, his, things, elegantly
+Random K Features: tuttle, eub, uncaged, 406, shuffle, builder61, jurors, china, jshh_365da, image4
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 122:
+LIME Features: , church, money, friendly, user, events, common, science, ministry, activities
+Random K Features: pree, shone, 523, accepted, 906, commion, instigation, xè, cashier, cesspools
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 123:
+LIME Features: to, charities, about, book, articles, are, atheists, aim, skeptics, the
+Random K Features: ureport, seminary_b, godwinson, farrakhan, s03e05, 098, counselor, 2491, 1148, hardbound
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 124:
+LIME Features: organizer, pm, pri, extraordinaire, menu, terms, atheists, secularism, with, the
+Random K Features: poloniae, dozing, reassuring, circumstances, stoics, dwelled, hardened, arias, opposing, configuration
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 125:
+LIME Features: on, site, usa, and, worth, random, talking, read, the, recommended
+Random K Features: mia, refurbishment, casualty, londonderry, mammals, luminous, heightens, quantcast, mere, shrug
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 126:
+LIME Features: church, assembly, day, salvation, backs, break, christ, header, mt, the
+Random K Features: 千葉ガラスコーティングの日, yz3, agostino, newhall, anzac, comprises, gud, 6kad, bi, confere
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 127:
+LIME Features: adventures, final, jackson, church, is, last, going, god, ii, network
+Random K Features: prevented, declareth, retaliate, 1595, stupidity, nebucadnezzar, plot, lauds, revolved, sums
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 128:
+LIME Features: , humanists, clear, university, critics, distinct, intellectually, chance, regulation
+Random K Features: widespread, noah_ark, orbit, feline, bulimie, sulphurous, 200px, delà, klux, request
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 129:
+LIME Features: our, design, majestic, programs, youth, employment, own, retreats, center, the
+Random K Features: coordinators, alchemy, ruthenian, smog, ujl, serendipitously, saaj, 18am, roberto, tearing
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 130:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: dartboard, círculo, racine, camperdown, wwic, feminismskepticism, assent, abuses, pulmonary, avatar_4dd
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 131:
+LIME Features: review, eventually, russell, emperor, correlation, as, conspiracy, radio, gave, ro
+Random K Features: activation, marianna, childhood, spastic, font, conspiracy, penrith, double, x8, kensington
+Common Features: conspiracy
+Overlap Percentage: 10.00%
+-----------------------------------
+
+Instance 132:
+LIME Features: , wife, jun, be, pray, cant, stay, spread, every, ministry
+Random K Features: autumnal, congregacional, armenia, dietmar, scorching, pacem, decommission, recreates, whs, territory
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 133:
+LIME Features: , for, atheist, frankston, we, re, sam, and, different, science
+Random K Features: theiner, graveyard, tigerseye, sayeth, decorated, protein, clarinet, bt48, いるのかもしれない, highssa
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 134:
+LIME Features: , to, christian, about, visit, foxholes, evangelical, christ, and, science
+Random K Features: ascended, snuck, however, stoically, maksimovych, 84403, replace, 4488, 5101_5105, 教習所は全国各地にあり北は北海道から南は沖縄まで様々です
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 135:
+LIME Features: what, candidate, who, news, of, however, more, jesus, with, check
+Random K Features: busque, ù³, gods, disable, 20037, πέρας, remotes, dp, easkeyrathlee, noticias
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 136:
+LIME Features: choice, weekly, growth, full, free, watch, online, student, the, ministry
+Random K Features: mickler, wohlfarter, fail, zak, menu03, nuleadership, 歯科を選ぶ事が出来るのです, allergy, fur, crc_marque
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 137:
+LIME Features: , our, what, media, reverend, and, center, pass, activities
+Random K Features: bombers, ctbanner, 4919, proclaimers, committeedetails, tribute, 711, ûµj, jubby, 154416_10151146081482105_1631964890_n
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 138:
+LIME Features: , map, our, historic, school, worship, all, and, the
+Random K Features: vaud, mn, 0y, bensimon, crinkle, pachomius, incurable, strict, misquotes, subscriber
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 139:
+LIME Features: that, our, to, prc, church, of, below, line, browse, the
+Random K Features: 0000049085, begetter, home47, khakis, challis, mumps, validation, avatar_e35, lehigh, lepers
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 140:
+LIME Features: creepy, , letter, church, atheist, personal, somebody, trademarks, science, read
+Random K Features: box_21, unfounded, unrestricted, latvia, gaestebud, extend, mushrooming, g6v, plateau, tearfund
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 141:
+LIME Features: , courts, by, atheist, employers, various, open, how, with
+Random K Features: eccentricities, gregorian, improvisations, kabbalism, cinnamon, kailo, 13who, buhlen, 1041_01, testament
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 142:
+LIME Features: north, newsletters, , about, from, prayer, 00am, dean, ccr, on
+Random K Features: realbadreligion, usare, aggregative, variation, hosted, faiola, amazonless, arraign, ordained, marlowe
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 143:
+LIME Features: , director, powered, of, org, auction, questionnaire, staff
+Random K Features: elden, presumption, 20operates, wicked, нбoмцу0двужрmуюжb5r, illumi, pachomius, walker, documents, reitmeier
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 144:
+LIME Features: , delusion, belief, atheist, ben, reverend, zero, science, pharyngula
+Random K Features: surgeon, thoughtlessly, restrain, undergarment, met, pollitt, dogs, reccorddr, revolt, forth
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 145:
+LIME Features: hell, worshipers, atheist, audacity, collectivism, devil, out, today, making, exactly
+Random K Features: busque, windscreen, cagliostro, performancing, spicing, euu5, compensate, avatar_d70, fleece, öª
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 146:
+LIME Features: humans, by, conscious, keep, free, provide, are, science, regulating, mutations
+Random K Features: draft, scrolls, hepworth, 485, vantage, deposition, 転職先との面接は自分の魅力を充分に伝えられました, iovino, carmelites, 340308_101
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 147:
+LIME Features: learning, centre, whose, including, copyright, trips, fee, and, expect, students
+Random K Features: scoliosis, gerard, infrared, warming, thumb_1006, dalot, oive, histor, moval, hvz
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 148:
+LIME Features: policy, myrrh, box, king, releases, all, dedication, returns, sign, welcome
+Random K Features: aman, pero, ahaman, distinguishes, unimaginative, stands, empowers, 0000089060, lindeman, 1809
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 149:
+LIME Features: for, landover, pastor, church, is, news, tips, not, baptist, within
+Random K Features: alleging, gentile, ceus, blueread, background_briefing, 5æ, 49a, magnificat, hdd, serial
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 150:
+LIME Features: this, atheist, certainty, home, levels, bigotry, stumbling, or, veneration, normally
+Random K Features: visit, 1140, playdying, storybooks, insignia, herzl, 12921, londonconference, catholicity, 1510
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 151:
+LIME Features: get, harm, atheist, quiz, harrison, widely, most, worship, forums, then
+Random K Features: predilection, minsteracres, jublilee, plotting, pkwy, panderfest, unstuckpgh, autumn, expense, religi
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 152:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: oar, freemen, councilors, 3418314907, suicid, delighted, attentive, micki, 16as, isnt
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 153:
+LIME Features: , september, appear, suggestions, ages, words, most, and, the
+Random K Features: dich, http, skype, earnestly, hologram, nampa, それなら, 市立枚方市民病院は, esperance, roueu
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 154:
+LIME Features: university, christian, prayer, church, office, clergy, home, route, on, the
+Random K Features: designed, zeitpunkt, textus, betrayal, flinched, political, cliftonsnotes, nightclub, conformed, global_444710923
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 155:
+LIME Features: term, 3a, dec, hear, terror, sun, light, on, elizabeth, 3f
+Random K Features: comment, geodesic, crippling, bloggapedia, apru, headache, onen, svd, fleshed, avatar_b34
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 156:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: bethany, robstown, avatar_0ef, gallus, monrovia, pomeroy, nexus, 0066_01, kinds, brights
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 157:
+LIME Features: yoga, what, comments, about, church, ministry, blog, in, the, catholic
+Random K Features: italy, scarves, affections, cancers, lacuna, occum, paulson, parsecs, canmore, zieht
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 158:
+LIME Features: , church, pre, school, worship, sunday, involved, the
+Random K Features: pluto, rts, politician, htmthe, feather, hampered, ply, isobel, morning, discomfited
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 159:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: waldste, bluster, laurentius, paciencia, karenina, 2133, unbolted, hofman, tranquilizing, 0879758341
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 160:
+LIME Features: title, cover, this, join, of, adobe, you, 00am, history, sandwiches
+Random K Features: rejoins, assizes, 02453, gern, risque, chappaqua, unwelcome, trustworthiness, 3061c, rookie
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 161:
+LIME Features: some, by, front, commentary, not, the, on, proud, places, boots
+Random K Features: tbn, amazon, religioni, bizjournals, chonicles, synapse, ahlberg, appliances, beeeyeah, hvz
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 162:
+LIME Features: , humanists, its, members, atheist, nonbelievers, privacy, surrounding, thumb_, feminism
+Random K Features: grothe, asset, detroit, apartments, それでも看護, latinas, zwei, mcneely, 223, newspaper
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 163:
+LIME Features: , dishes, pm, potluck, by, youth, an, leadership, fundraiser, the
+Random K Features: ballooned, language, revamped, dpb, christening, ice, stay, refractive, bravado, weighs
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 164:
+LIME Features: are, format, site, and, page, with, icons, the, history, main
+Random K Features: cedarparkunited, topless, chunks, defenses, tdps512png, 376, nepoznavanje, linkstop, adulteries, lukemuehlhauser
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 165:
+LIME Features: ex, pm, to, get, meetupstatic, www, religion, at, atheist, and
+Random K Features: mamba, extort, manipulators, larkpremium, vicarious, 272563, u_, left_1, pmumc, sheep_eating_grass_edit021
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 166:
+LIME Features: , university, members, atheist, san, com, and, skeptics, science, humanist
+Random K Features: 14395, colonizers, newsreal, prerequisites, watermark, scriptuer, mindedness, 4575, reeve, plait
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 167:
+LIME Features: wi, for, to, welcomed, hospitality, newsletter, will, liturgy, visitors, the
+Random K Features: 総合的な治療を行っているところまで, synthetic, nì, temas, kofc3, martyn, unfrequently, maleficarium, rhythmical, otc
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 168:
+LIME Features: get, to, church, youth, in, today, leaving, teaching, the, 600x
+Random K Features: wtg, livelihood, birkinshaw, sails, canaan, fallaci, cubilia, thanking, stanton, thumb_8945
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 169:
+LIME Features: can, red, these, is, church, an, think, least, spun, trek
+Random K Features: infers, acrid, abrahams, flops, s_, bmc, weirdwildweb, mosquitoes, tst, newituness
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 170:
+LIME Features: newsletters, books, elementary, university, church, we, you, preschool, above, lds
+Random K Features: vinyasa, rizwan, richie, yan, mapuche, paar, russell__10_1_16_, shoestring, b2b, shit
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 171:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: landover, 799, placement, cos, abutting, excommunicates, 480505_327957117296464_355165305_n, animan, mirjana, pratchett
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 172:
+LIME Features: university, form, please, aaron, an, joshua, atheists, primary, assigned, works
+Random K Features: definitive, notify, deploring, daniel, straightforward, atoned, seeping, wflag_port, mcconnell, idiot
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 173:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: cherubim, の見積もりを行ってくれる, shahak, ï³9h, dodgy, riverview, vexing, lenny, 135537348221, dccf
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 174:
+LIME Features: can, everything, extraordinary, in, science, zazzle, and, skeptics, paranormal, archives
+Random K Features: ἀποκεκρυμμένον, academyaccom, mammuth, nizam, bishopric, brink, promos, mysteriously, ofwashington, jakefw
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 175:
+LIME Features: , poor, intercourse, scarcely, events, ideas, 30th, thou, dreams
+Random K Features: jedi, catfish, rts, react, sues, lybia, farenhold, merck, 829, mw4
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 176:
+LIME Features: , また, rights, copyright, all, top, reserved, そして
+Random K Features: hagan, rapturous, phrased, dietrich, millenarianism, breach, nonreligious, thumb_1292, congressmen, pamper
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 177:
+LIME Features: , about, many, science, christ, copied, make, why, crumbling
+Random K Features: rumoured, gifted, asshat, chaoticsoul, 1969, maximos, laicità, rog, digested, momma
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 178:
+LIME Features: , slider, lac, rights, via, atheist, human, atheists, and, la
+Random K Features: superwomen, jhoanna, 393, img_3972, adaptions, stillborn, handelsblad, notches, dd2, telefonisch
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 179:
+LIME Features: , there, christian, by, 30am, bible, tuesday, sooner, children, room
+Random K Features: perry5, 1340, understanding, aloha, 1625, loftus, _openvpn, ご丁寧に対応してもらい, coloring, creedsin
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 180:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: kriss, advocating, blogpress, global_351101862, thumb_9571, ncrlogo, exit, moyers, capitalism, mongolian
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 181:
+LIME Features: , up, programs, more, nav, retreat, mob, overview, with, joy
+Random K Features: informants, reckon, alleee, 12thgo, macarthur, auditively, arriving, 車の綺麗になって, possible, indecency
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 182:
+LIME Features: for, visit, dunlop, west, methodist, truth, calling, seek, page, the
+Random K Features: krasnjansky, lux, 48066, hoppers, anniversary, decision, barbed, siring, ofwashington, kwolek
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 183:
+LIME Features: junior, saints, book, school, employment, communication, and, why, portals, tuckshop
+Random K Features: negligible, immodest, act, grade, peele, calculation, receding, thames, rudy, kuwait
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 184:
+LIME Features: , total, by, media, new, hotdog, insanity, parallel, forum, lol
+Random K Features: 722, roald, wrongful, newhof, venery, mollie, ftgani, realizes, 500mg, edd
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 185:
+LIME Features: , humanists, http, atheist, need, planning, page, different, second, plan
+Random K Features: 43004, seafloor_ma, o1, tolerantly, arial, teeth, charlottesville, mt, siddall, accompaniments
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 186:
+LIME Features: insisted, atheist, such, yet, home, image, make, science, ultimately, myself
+Random K Features: 5060, jokes, czech, benhamu, mentioned, overshadow, clerks, commentator, dhea, global_207476672
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 187:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: katy, paraphrasing, plainness, nç, sensationalist, brew, 589, testaments, dosing, aggravated
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 188:
+LIME Features: to, january, brill, post, truth, and, cruz, science, voices, photo
+Random K Features: incentive, stavlund, yj, iam, 275k, gibson, worshippers, tropospheric, prosocial, percepire
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 189:
+LIME Features: small, copyright, pastor, liberty, church, of, pre, here, children, the
+Random K Features: wm5, yanss, 72032, reflexology, subtheories, turbulent, m8, 1001, मध, hess
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 190:
+LIME Features: can, designed, faithhighway, questions, rights, bg, news, distributed, you, window
+Random K Features: arteaga, global_16157285, bot, 726692095, yé, alters, paar, mmmm, unfulfilling, minors
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 191:
+LIME Features: une, september, to, info, search, copyright, pas, wordpress, jeu, poker
+Random K Features: danster, bait, killala, trinkets, sleeplessness, relates, buckcash, mammothembedthe, 58th, hab
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 192:
+LIME Features: elmer, back, join, appears, it, purpose, is, avenue, more, highland
+Random K Features: circumspect, overwhelmingly, devonshire, corpus, unfitting, backwoods, kuće, elysian, boats, polyamorous
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 193:
+LIME Features: some, spoof, guy, sayings, atheist, he, quotes, challenge, page, real
+Random K Features: hamiltonian, oki, automated, indicating, loudun, hallucination, strangeness, socials, freethoughtfortwayne, yca
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 194:
+LIME Features: state, that, athletic, year, who, field, volleyball, science, ceremony, wear
+Random K Features: gotquestions, 2laugh, live, neuman, mtr11, thumb_4088, theywillbelieveth, grillers, left_header, 89703
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 195:
+LIME Features: contact, love, info, fort, bender, person, area, in, bridge, program
+Random K Features: mettowee, embryo, 39187, brian, 8484, reassemble, firepower, uta, adaptitude, archaeology
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 196:
+LIME Features: us, to, this, wish, of, march, offers, jesus, death, larger
+Random K Features: lifeline, refute, reactions, discomfort, lobes, tacos, complexities, website_bu, benefiting, sherman
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 197:
+LIME Features: walkers, non, am, at, assembly, we, schedule, god, frank, the
+Random K Features: prevailing, dino, podcast, pinpoint, delight, marshes, usnh, lamont, thumb_3516, logo4
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 198:
+LIME Features: to, they, it, is, head, you, course, person, dreamed, abandonment
+Random K Features: 2359, commandments, _hebrew, 02445, erreichbar, dhs, associate, outstanding, burgess, elke
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 199:
+LIME Features: , this, by, from, patron, atheist, money, are, changers, the
+Random K Features: pst, journeyman, で帰る彼に初めて本名を伝えたのは半年後の事でした, game_al, gladly, unofficially, emperors, description, velamin, pornstar
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 200:
+LIME Features: , january, event, calendar, covenant, 18th, eugene, learn
+Random K Features: quaker, jest, villains, loosening, shb, ruffle, preunderstandings, edens, pantalaimon, influences
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 201:
+LIME Features: form, from, raise, happened, worship, duggar, christ, science, secrecy, protection
+Random K Features: sharks, 02445, former, implicated, kibbutzim, hijo, wieland, ъцщb, fixe, ppc
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 202:
+LIME Features: , to, growing, association, its, bible, president, usa, developing, the
+Random K Features: icon_downl, sitebogus, colne, playwright, apatow, klein, compile, unresolved, dallas, diocal
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 203:
+LIME Features: us, day, community, we, methodist, services, gallery, share, on, britain
+Random K Features: definitive, breakthrough, parishfran, cmusicmail, 11110, grounded, album, ieuo1esm, solve, rebuttal
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 204:
+LIME Features: opinion, atheist, was, omitted, should, we, are, science, caliphate, mind
+Random K Features: 1775, ц6бяфmyыeёf8uцщpafюкapапхa9х, ncpd, late, lyý, crux_2015_cover, kindrgarten, agocologne, indict, necessarly
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 205:
+LIME Features: , net, afternoon, mychurchwebsite, 5th, hour, going, know, so, and
+Random K Features: caterpillar, coworking, start, avatar_6f8, レンガ造りの庭にガネーシャの石仏が, 1h, avatar_a93, img_50, amber, wallpaper
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 206:
+LIME Features: whats, edition, media, you, preschool, and, driven, five, the, week
+Random K Features: serialism, hyphens, nej, proposte, malkovich, languor, friendlyath, zkl, brackin, quotation
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 207:
+LIME Features: , email, for, their, traditional, rights, is, neighborhoods, ii, the
+Random K Features: glorify, wx5obl, terminologies, nancy, 1453, gorbachev, deepen, takenaka, cliché, tinker
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 208:
+LIME Features: name, wednesday, communion, first, mass, candles, center, women, charcoal, tables
+Random K Features: kos, schlabach, websites, eighty, brunch, 2000_, babylonians, histbutton1, philanthropists, 112112
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 209:
+LIME Features: has, manner, this, assume, intermittently, readership, page, generally, one, she
+Random K Features: hblogo300px, patch, valero, lisinopril, udruga, plagiarise, sorcery, 1ère, 方向性をどのくらいの給料が, ridsdale
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 210:
+LIME Features: , books, ebay, name, talk, monthly, atheist, feel, and, science
+Random K Features: theosophist, monuments, iyw, scheduled, 276, aaas, 1617954818, xxix, onepagebio_mar2014_250, borrowings
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 211:
+LIME Features: cursillo, church, options, more, liturgical, kay, advent, now, buy, arrivals
+Random K Features: scisters, door, schoolsout, thumb_4412, establishment, skepconguide, outperforming, turner, c1a, bist
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 212:
+LIME Features: get, past, extra, noun, by, up, meetup, various, your, code
+Random K Features: heb, accomplishes, plague, 関連施設, drrachie2, firemen, misterio, imperishably, 3215c, septa
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 213:
+LIME Features: , choir, by, pedal, saying, requests, worship, with, ministry, orchestra
+Random K Features: kuća, incoherence, hum, muslimish, greatlife, the_skeptic_zone_369_151115, ctrl, teaser, piwik, treasurer
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 214:
+LIME Features: , to, come, www, address, have, perfect, usa, the, rosaries
+Random K Features: visualized, reasonableness, fjeldal, priority, 183197_dsp, avatar_03c, avatar_7c5, sjprep, chanel, taters
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 215:
+LIME Features: university, really, about, atheist, truly, of, frequently, promises, events, running
+Random K Features: 1ghzr, millenia, brauchte, smart, westwood, consent, besr, exits, thess, fortresses
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 216:
+LIME Features: , for, mine, immediately, church, be, have, and, me
+Random K Features: 226, doubters, groundwater, ministri, lobortis, de6, image16, mainstreet, c4, vastness
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 217:
+LIME Features: to, contact, it, is, pop, many, dvd, science, want, promoted
+Random K Features: skeptv, funnest, derek_xmas_special_463_netflix_trail, yep, cloaking, authoritarianism, sema, cpnschool, mulgrew, blag
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 218:
+LIME Features: , to, december, august, gazette, co, operation, month, the, archives
+Random K Features: wbrs, psh, mouvant, pbs, functionally, rell, sneaking, hawken, chandra, umlog
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 219:
+LIME Features: , at, 2pm, of, articles, services, if, using
+Random K Features: meandering, fussiness, adopt, owl_snowy, woken, remodeling, elephant, markdown, cordially, arkansas
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 220:
+LIME Features: their, created, help, intolerance, religion, by, atlas, own, hosting, the
+Random K Features: weekly, acknowledgments, banner_boo, heist, experiencing, lioness, 037, cyberchutele, 9904, politician
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 221:
+LIME Features: , copyright, pastor, church, of, we, reader, home, which, work
+Random K Features: clotheir, signalling, 1054, transgression, nowhere, brick, expired, boosters, aesthetically, effaced
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 222:
+LIME Features: , what, celebrating, blues, cd, gregory, worth, holding, the, faithful
+Random K Features: fca, cheerfullly, prothero, nosha, fiefs, doohickey, mutjinga, adore, nomalaria2, droppings
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 223:
+LIME Features: us, to, love, changes, community, daily, everyone, god, the, tell
+Random K Features: kurt, 瀹屽２銆, 7304, disseminated, plod, disarmament, reporter, downloadable, ナースの不足が背景にあるので, morti
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 224:
+LIME Features: email, 30pm, master, statistics, alumni, 8am, page, bibliotheca, ministry, life
+Random K Features: wymering, episcopalian, inaugural, overruling, avatar_75b, 331217, 94507, eleventh, vorlesungen, better
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 225:
+LIME Features: , https, full, background, co
+Random K Features: lsd, ἰησοῦ, vj, fmpontiac, computation, deserves, averick, meditation, gura, bettering
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 226:
+LIME Features: university, flights, community, organized, opening, skepticamp, list, and, 26th, signs
+Random K Features: u7, molto, changes, clef, wet1, gaining, zumba, campaigner, voluptuousness, voluntariado
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 227:
+LIME Features: , email, ministry, upcoming, 10am, jan, social, meets, staff
+Random K Features: 782383, sats, morrissette, insist, 51epaq7ct1l, liddel, communism, han, ditty, leaffoney
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 228:
+LIME Features: website, individual, by, loftus, fire, articles, interrupt, and, science, may
+Random K Features: coralville, schooljune, revolutionized, xnyagvmgzn, hts, faq, blueprint, keeffe, 29607, torreys
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 229:
+LIME Features: invite, love, dependence, through, of, patience, an, and, histor, the
+Random K Features: vondelstr, edmond, sweeper, deserter, pic_13, offret, ペアーズで婚活してみた, vitz, memescape, prized
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 230:
+LIME Features: city, church, content, office, boy, services, page, safer, children, the
+Random K Features: syntaxcreative, 637, apse, nuccitelli, advil, ms2, benign, aligncenter, fuckbuddy, sudrania
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 231:
+LIME Features: dale, to, graphic, ima, please, it, of, south, pages, the
+Random K Features: terminates, インターネットの中古車買取の一括査定サイトで, その日は色々な疲労でグロッキー, î¼, devs, circled, explosion, bookclub, epitome, inhabits
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 232:
+LIME Features: donald, get, atheist, various, near, terms, made, pleasures, rationality, normal
+Random K Features: kayaking, 5kì¼, ritterchor, contradicts, 150, prophetess, chime, curiously, bobby, dedicated
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 233:
+LIME Features: , for, up, denomination, of, conference, worship, sex, science
+Random K Features: queer, tyrrell, 41, noodles, render, 7uut, revolt, 172, jon, pamlico
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 234:
+LIME Features: , attendance, we, org, bible, know, information, knowledge, christ, challenge
+Random K Features: zc3, c1572, flops, aa50years, dunker, slide4, well, unsheathe, nissart, apelike
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 235:
+LIME Features: , map, to, ave, click, email, vbs, gallery, breaking
+Random K Features: kbu, walmart, ursula, representation, depresion, 6du, transwomen, 8754, mourdock, 72756
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 236:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: harpenden, traffickers, trying, egil, johnsen, defrocked, orange, orator, 25303, psych
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 237:
+LIME Features: class, for, prize, of, we, have, others, also, and, with
+Random K Features: 7313, ux5, 6é²q, efraim, googleplus, falsely, drug, thedisorders, subscribesubscribedunsubscribe327, ustalk
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 238:
+LIME Features: of, we, library, com, so, an, offers, with, the, yahoo
+Random K Features: plugins, z9s, recoil, monstrous, val, defrocked, craftshow, 2019, gtuï, isaacson
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 239:
+LIME Features: , to, from, church, home, list, quarterly, history, fl
+Random K Features: concocting, hsglogo, furnished, resusitated, liégeoise, galileans, unorthodox, dunning, avatar_f28, mantua
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 240:
+LIME Features: for, stewardship, is, have, department, entire, in, out, 10th, profiling
+Random K Features: anomaly, ですので, nordic, biz, citizenship, 0000089279, sé, consummated, unlike, olney
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 241:
+LIME Features: , carry, church, like, atheistic, christ, take, science, intense, position
+Random K Features: yout, yearvanilla, commit, shownotes, ２０本以上の歯を残しやすくなる傾向にあります, img4, mascaras, indx, 2012年9月5日, thumb_2421
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 242:
+LIME Features: www, of, inter, denominational, org, in, christ, http, jpg, faith
+Random K Features: delahunt, grundkurs, shirtless, hannibaldressed_copyrightpt, adulterers, polymerase, worthwhile, corkers, beltline, まず矯正歯科に
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 243:
+LIME Features: log, at, atheist, meetup, wed, your, group, science, 7pm, learn
+Random K Features: 3d29139, underpants, sackler, bushy, 7620, breadcrumbs, photius, joie, smothering, 49024
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 244:
+LIME Features: name, voice, nuts, truth, his, on, more, the, ministry, valley
+Random K Features: sullivan, ecumenical, dicker, capernaum, dunkard, em, atwill, paulo, georgetown, пппending
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 245:
+LIME Features: roman, sure, place, idea, world, atheist, guild, found, jewish, sacrificial
+Random K Features: epl, piept, präsentieren, img5241, ricko, caliph, 08_14, demonstration, anjuhxrgq8o, impediments
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 246:
+LIME Features: , tim, january, anthony, jefferies, atheists, science, history, huxley
+Random K Features: attentions, dusting, esaminando, tenuous, scratches, dejection, voterjust, godsattitude, employ, mscd
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 247:
+LIME Features: pm, to, about, saved, through, grace, site, web, the, eternal
+Random K Features: characteristically, mellow, angels, xaquri, hopslider, devastate, sedevacantist, 3r, apatheticagnostic, ig_banner_
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 248:
+LIME Features: has, much, http, in, lyrics, will, getty, more, spacer, samples
+Random K Features: popup, freesat, bids, gifhudson, midst, synagogue, cholera, 27527, bandaging, mouvement
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 249:
+LIME Features: example, humanists, schmucks, december, become, and, read, reisman, brill, secret
+Random K Features: rise, mcconkie, hazards, culp, 4128356621, wayside, arch, breathed, compounded, wheels
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 250:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: arizona, kilmer, thumb_9820, usurping, pucherie, stain, greenblatt, mcdade, cicero, highres_324771312
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 251:
+LIME Features: bowl, at, who, where, parole, games, group, him, five, teens
+Random K Features: dayananda, contestants, mst3k, singleton_bible, goodreads, wisdomdiocesan, stigmatized, maneuvered, yearwithoutgod, leash
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 252:
+LIME Features: orthodox, of, european, succession, in, others, an, christ, science, the
+Random K Features: ofm, foyer, statehood, isms, ts2, whitechapel, ma, thumb_2461, 4be22e513c, arianism
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 253:
+LIME Features: is, of, may, you, wah, fall, and, fonda, excavated, village
+Random K Features: bd04, equinox, embryo, diaphragm, 20150725_144100, amalgamated, map_idaho, 4957, beggeth, rosaries
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 254:
+LIME Features: , final, struck, at, church, atheist, ruling, religious, science, reports
+Random K Features: boisei, notwithstanding, sowing, rejuvenating, rube, hooks, bbq, kneel, 1040, singin
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 255:
+LIME Features: , 日記, ます
+Random K Features: aroura, dissuade, 1248, checked, kehrseite, phuckpolitics, heloise, nailed, diane, fertized
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 256:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: john_lennox_and_chri, oblivion, 13dolores, tucson, gopers, readmitted, teenhome, afforded, 002, solar
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 257:
+LIME Features: , love, church, we, hope, in, part, and, welcome
+Random K Features: kx, criticizes, methodeviations, amazingatheist, 600_333031, pacelli, bookings, unanimity, conformity, dubai
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 258:
+LIME Features: pastors, bag, unchanged, thinks, com, inventions, sex, challies, she, battle
+Random K Features: kellie, 00minutes, ecso, 4a, valuations, elected, fulminate, uruguay, gilt, ennis
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 259:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: payzant, rag, rosiesquee, erupts, rsrsmokesatanictemple, frenzied, cheer, disenfranchised, referenti, proceeding
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 260:
+LIME Features: , that, non, palaeontology, is, essays, science, which, scientific, work
+Random K Features: 1590s, num, moslem, pharmacychecker, wwjd, threw, churchfront, gestapo, debunkatron, nntp
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 261:
+LIME Features: , gatherings, we, various, mail, video, trip, the
+Random K Features: emf_200pxghost, uyx, secularophobia, warfare, nebucadnezzar, afoot, reverent, hired, horman, t6
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 262:
+LIME Features: pm, kjv, prayer, road, son, surrounding, the, more, mixture, meeting
+Random K Features: chromosomal, 近所に庭の外構工事をしている住宅があるのですが, walkways, exopolitics, 4984, comb, ricotta, amaze, istock_000006042218_small, index_0014
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 263:
+LIME Features: could, wanted, get, guessed, by, we, wait, contest, the, great
+Random K Features: blasphemous, hillestad, rcn, ok, herding, riese, 78254, infallible, ni, 358
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 264:
+LIME Features: our, welcoming, ministries, home, lewes, events, group, job, sons, outreach
+Random K Features: prayerdecember, thumb_5483, roamed, myths, 480, 女性の職業としては他の平均に比べると収入の高い看護の待遇で, disinfect, hemingway, 1971, rebuttal
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 265:
+LIME Features: , draft, atheist, early, you, and, science
+Random K Features: messed, lirey, elemental, commingling, thelazygeniuscollective, pesach, ký¼, fruitfully, ssf, vindictive
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 266:
+LIME Features: get, learning, university, copyright, www, going, issue, worship, tv, the
+Random K Features: reg, fmylife, stalls, this, uel, pillage, programing, 2012november, vivisectus, aponte
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 267:
+LIME Features: , campus, at, island, store, science, basketball, uniforms, with, vs
+Random K Features: invisible, gervis, shapes, ravening, universitario, emic, upstanding, implied, angleur, unsure
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 268:
+LIME Features: , this, at, atheist, need, in, forum, room, than, humanist
+Random K Features: celestin, fastв, 3000, 153, 1731, baron, biallowons, outcries, pageprint, nazare
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 269:
+LIME Features: , their, was, high, ok, wright, after, time, month, she
+Random K Features: anwhtbkg, interpretive, 2513, collingswood, illusions, geiger, brutal, aberrations, land, りにいける場所や自宅近辺かどうかでも違います
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 270:
+LIME Features: to, select, world, card, office, mail, whether, one, the, deductible
+Random K Features: 0x006699, monies, j90, mainmenud, financije, unpunishable, cakes, opinionem, global_386137172, heckuva
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 271:
+LIME Features: can, growing, before, membership, home, wa, and, mark, run, faith
+Random K Features: empathize, jî, wù, pevensey, spamming, aural, fcyc, stato, succinctly, chirka
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 272:
+LIME Features: , happening, find, treasure, have, org, home, feeling, just, and
+Random K Features: baidar, 1888, 6tt, 1599, reconsideration, thumb_2465, 4491, lifemissions, メディサポに無料登録したのですが, f6_tx
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 273:
+LIME Features: , mereatheism, church, atheist, affirms, based, com, bad, biblically, shouldn
+Random K Features: trudeau, minstries, tenaciously, spalshbar, grin, column, turbofool, fängst, そういった健康の面で矯正歯科に通う人, godlessgoth
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 274:
+LIME Features: , get, ethical, finding, humanist, childcare, forum, reserved, single
+Random K Features: hounds, psh, carelessly, indispensables, cantharides, aural, 1mci5p4, similarly, dissenter, 56321
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 275:
+LIME Features: friends, , to, about, we, graphics, swf, under
+Random K Features: sage, hug, cake, alen, teas, fk13, カテゴリー, animés, lehnertz, liancuh
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 276:
+LIME Features: , sociology, church, years, thu, hidden, christianity, ramblings, science
+Random K Features: redirect, 1534, mpg, charmed, thug, behe, lethargy, luddites, taoism, sharpener
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 277:
+LIME Features: , pm, dinner, podcasts, what, jesus, with, encourage
+Random K Features: forensics, kool, nys, overrode, weren, integrative, fortuna, lifelink, statix, bob
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 278:
+LIME Features: to, get, team, little, cornerstone, weekend, upper, md, events, november
+Random K Features: wikinews, spreaker, global_437555339, dì, avatar_0fd, weeding, ulc, dinkar, scilicet, everett
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 279:
+LIME Features: , topics, master, tech, financial, course, first, experience, forum, educating
+Random K Features: pathfinders, mosher, communityg, spiritual_belief, dorf, davide, arne, crowe, solomonsed, 2015give
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 280:
+LIME Features: our, to, jesus, that, who, in, all, directions, believe, the
+Random K Features: saustin, disclosure, bequests, feathered, unprovable, joyfully, dyer, 4eq, swordsman, mri
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 281:
+LIME Features: there, evil, author, atheist, we, new, had, on, then, don
+Random K Features: curve, vuuren, abdicate, cornfield, boy, biotechnologyresources, buc, videos, eâ, redeemer
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 282:
+LIME Features: our, to, partnership, team, church, green, and, with, cum, stephen
+Random K Features: hala, childmyths, glaringly, czerski, reproducible, masquerade, deliberat, rabbit, raise, global_270227682
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 283:
+LIME Features: counter, join, we, office, pray, first, how, lutheran, step, with
+Random K Features: círculo, conflicts, reinvention, chichester, 1986, k8, pamg, 98203, saintgabriel, whitepaula
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 284:
+LIME Features: to, get, belief, dirty, wrong, should, healing, of, church, god
+Random K Features: praythelord, 11999667_1497130180611600_1852414860693703555_o, euthyphro, vineyards, fumcaberdeen, pirest, paxman, disbelievers, あちこちのバザーをのぞいていますが, consultative
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 285:
+LIME Features: , get, february, based, atheists, and, science, if, believe, stephen
+Random K Features: aristotilian, radin, relief, crosses, defined, tuggeranong, hence, hula, bobcat, pruritis
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 286:
+LIME Features: service, futile, report, dinners, church, atheist, conference, games, meetups, reviews
+Random K Features: vent, zeldin, oxlx1ws9f5j, 12886, software, producers, tenner, hartwig, accrues, portico
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 287:
+LIME Features: , repertoire, blu, proper, signature, association, news, de, various, orders
+Random K Features: 483, issn, nader, unsavory, caricatured, gw, sayville, profiting, incurred, derbyshire
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 288:
+LIME Features: , university, introduction, church, half, wonder, stories, between, and, science
+Random K Features: lighten, adorned, jesuschrist, fretboard, goodly, obajonmicnah, staple, anchor, marriott, merciful
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 289:
+LIME Features: reflected, not, reformation, lamp, spread, creeds, work, expressed, the, word
+Random K Features: kx, onto, bootleg, pieces, cxä, wattsupwiththat, leaflets, hw, eventful, harbors
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 290:
+LIME Features: our, is, through, you, getting, english, services, and, vision, congregation
+Random K Features: stables, turtles, 儸銉炽偢銉炪儖銈, fire, backpacking, aussieht, autocracy, initial, calvert, thumb_4408
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 291:
+LIME Features: comedy, is, of, you, comedian, in, fresh, and, the, ministry
+Random K Features: unsophisticated, flickrset, rollicking, global_14428055, oculus, 9d02e5d7143ff936a25752c0a9609c8b63, resourecesforpast, carman, rickman_credit_david, gk3z
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 292:
+LIME Features: help, designs, voice, atheist, sorry, nice, atheists, all, with, forum
+Random K Features: evolutionposter, amateur, mythicism, barest, 6064, gilberto, underground, health, troposphere, 440
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 293:
+LIME Features: , messages, select, copyright, church, print, people, edit, reserved, permissions
+Random K Features: support, latitudes, 26482, ruhrgebiets, colossal, 254pb3, erreichbar, thumb_4267, naughty, fats
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 294:
+LIME Features: , described, eventually, com, in, science, christ, flying, completely, covered
+Random K Features: cross5, commitment, avatar_8e3, reinhardt, skutten, 735, jpc, pcw, dialectical, batm
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 295:
+LIME Features: humanists, member, church, atheist, mates, you, always, english, charitable, the
+Random K Features: 七尾自動車学校, jò, cubik, baphometstatuedonate, delicious, paedophile, quails, wpa5b74166, freshmen, lorenzo
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 296:
+LIME Features: value, christian, from, atheist, media, of, rants, core, religious, the
+Random K Features: odes, 色んな人とチャットで会話を楽しんでいました, glbt, intermarriages, deities, saintjamescambridge, opher, withstand, sandberg, torrey
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 297:
+LIME Features: cover, please, gospels, davidic, of, gif, book, john, the, mark
+Random K Features: scarceness, phillips, ipsec, stentano, stmarksporthope, persian, distillation, petzold, capim, hughes
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 298:
+LIME Features: , picture, scale, from, science, answers, bloke, on, britain, collection
+Random K Features: alcott, sm3, timidly, elcome, halle, maajid, 3374, unionists, menzies, courted
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 299:
+LIME Features: , january, by, ptc, calendar, parent, on, 15am, benefits
+Random K Features: キャラクターで, moose, frassati, alighted, deport, hilarious, rsчрb, snds, earthshatteringly, deener
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 300:
+LIME Features: , concept, to, droves, brain, comedian, will, think, ins, the
+Random K Features: mouthwash, linkbar_r23_c2, pantyhose, prick, accosting, bord, minutely, global_148948942, assocation, forlorn
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 301:
+LIME Features: , twitter, 30pm, before, through, worship, christ, science, 7pm, word
+Random K Features: hypertextualized, quaeri, avatar_949, highway, retirees, jag, hockey, hm9j, doubles, 770x785
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 302:
+LIME Features: original, saints, pray, course, necessitated, matt, flock, commandment, streaming, almost
+Random K Features: 1337, 20101113, everything, hatcher, drash, messianiclinks, 66kb, održati, nee, 3d29164
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 303:
+LIME Features: praised, disappointing, truly, words, imagined, zita, if, carmel, days, may
+Random K Features: patagonia, 26but, tennis, medina, leeringly, stanislavov, dren, blameworthy, meddling, spiritism
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 304:
+LIME Features: , mission, to, mile, campaign, made, events, prison, volunteer, highlighting
+Random K Features: svenska, exercising, superstitious, sessions, resentful, vie, んですぐに帰宅したのでした, queereka, dumont, everence
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 305:
+LIME Features: when, university, by, commercial, estes, poll, recommend, decreased, online, inflate
+Random K Features: 20051221, playing, 6541, interpretive, impotence, cmusicmail, yahoogroups, abolitionists, horrifying, fumc
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 306:
+LIME Features: , star, knowing, bottom, easter, atheist, is, serenity, wonder, gay
+Random K Features: cloth, 28the, bockman, perr, respectably, roslyn, refresheth, didn, classified, posted
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 307:
+LIME Features: belief, details, community, who, resurrection, in, argument, with, the, external
+Random K Features: lte, nancybasmajian, sk7, thumb_2451, 2624, 東京, gentium, emotions, albemarle, acupuncturists
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 308:
+LIME Features: proponents, explicitly, religion, you, science, and, logs, cam, forum, effects
+Random K Features: clotting, 8509c, c1523, disclosures, avuto, reconncilitation, шщл, て笑っていてくれました, 1445108157, bcisive
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 309:
+LIME Features: , us, to, stewardship, am, special, church, school, home, the
+Random K Features: varsity, kauai, crests, 77certain, treatment, illicitly, 215_lion, riffing, 2992, oceanzero_cup
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 310:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: pngon, summed, sweaty, moan, bilbically, 13c45b942c, asa, etzioni, 相場価格より高めの金額, mattresses
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 311:
+LIME Features: to, at, church, of, contents, journey, grace, his, on, the
+Random K Features: tangle, rescinds, illumicorp, diehard, checking, callout, cssr, oref, layer, hast
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 312:
+LIME Features: , william, pastor, by, of, person, are, uniqueness, people, the
+Random K Features: imu, avatar_aaa, but, insensitivity, various, 知人も喜んでくれたし, oratione, 埼玉, domini, ayaan
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 313:
+LIME Features: reply, lincoln, atheism, atheist, october, nuances, elysium, neo, catholic, clara
+Random K Features: advise, airborne, midway, knells, 2015on, _a, memorization, lascivious, epistemology, men
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 314:
+LIME Features: ve, rights, from, world, archive, see, wide, conservative, wayne, the
+Random K Features: clohessy, fà, again, illicit, parentheticals, forfeitures, ö½, kenn, rsrfire, solicit
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 315:
+LIME Features: , us, to, our, coming, church, memorials, good, tapestries
+Random K Features: jeweleryb, soccer, macaulays, sonia, rob_bell0, requests, bundled, necessities, caree, burlington
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 316:
+LIME Features: , sets, copyright, news, of, school, account, mr, the, mark
+Random K Features: 394567, soundtrack, rodgers, brief, brien, thumb_4440, didn, rounded, global_5201912, fauna
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 317:
+LIME Features: call, am, who, pic, upcoming, forgiveness, hundreds, md, events, men
+Random K Features: reposting, stopping, tmqcrispysea, warnings, plant, version3, thrivent, proportioned, langdon, israelites
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 318:
+LIME Features: , help, atheist, upcoming, meetups, list, photograph, page, safe, tell
+Random K Features: prospective, marian, 191, builders, 48150, 0sí, 周りを散歩していたら宝くじ売り場が, csgns, verringern, pfv
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 319:
+LIME Features: , human, day, emergency, here, methodist, home, services, zekiel
+Random K Features: gerda, aboobacker, abgeschlossenem, twins, gupta, adroitly, heiroglyphs, denuded, physicist, ingham
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 320:
+LIME Features: , that, news, front, book, your, than, spacer, better
+Random K Features: islamkristen, monarchs, principles, gats, bareheaded, babcock, thumb_3921, dos, clergyjero, arrows
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 321:
+LIME Features: , come, looks, mid, occult, salem, todd, christ, science, belong
+Random K Features: devouring, riuscita, repopulation, litem, nocturnal, wallon, 050404, beads0002navbox1, liechti, edwords4
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 322:
+LIME Features: our, adults, church, community, youth, upcoming, org, requests, events, pathway
+Random K Features: 彼がどうして, narcissism, feline, chonicles, otgateway, 7é, debased, ascribes, sidebar_bottom, 1726
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 323:
+LIME Features: fan, minutes, religion, atheist, your, adultery, his, majority, bigots, married
+Random K Features: choices, gumnutbannerhomefilter, carr, quartunciae, worship, slack, purgat, plead, bloch, 31
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 324:
+LIME Features: to, info, belief, tax, org, in, atheists, think, deductible, welcome
+Random K Features: ailuropoda, wet, diazapam, blanc, ggreenwald, dallying, breakout, awful, avt, callisto
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 325:
+LIME Features: service, growth, mother, february, prayer, of, discipleship, clips, social, april
+Random K Features: xí, thumb_2814, knives, o6nuo, reformation, holybooks, 花婿と花嫁が指輪, kosovo, mscd, entreating
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 326:
+LIME Features: , messages, have, catholic, and, indifference, me, had, editorials, condemn
+Random K Features: alaa, treasre, satan, cashumn, 70s, focus, 2_, transcriptionist, razelle, preventive
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 327:
+LIME Features: atheist, pages, yet, summary, religious, torturers, also, regret, few, history
+Random K Features: jama, noida, roundly, slamming, 8540, wukasch, cartshopping, tonal, ldsmn_mast, spatial
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 328:
+LIME Features: this, tales, please, years, new, you, bibles, ebooks, relating, ancora
+Random K Features: payback, ourdailytrain, monsters, ἐφανερώθη, 6r, bred, contrails, figswfl, tyvm, という程度
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 329:
+LIME Features: , pm, monthly, church, atheist, free, com, therapy, atheists, http
+Random K Features: 無神論, dealt, jasa, 460_boston, cheerleader, declines, uax, 1033, eigenheit, bled
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 330:
+LIME Features: toward, bless, fodder, sunk, called, attractive, drank, sounds, myself, ministry
+Random K Features: baptismal, cobram, epilogue, freeatheism, hspt, sportsmen, inexistent, billboards, testes, 3þ
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 331:
+LIME Features: , us, reconciling, newsletter, 45am, in, sonja, see, care
+Random K Features: resembles, infect, flattery, i8, rekindles, stvorena, mobilised, prosperities, 23a, malik
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 332:
+LIME Features: , to, paypal, at, available, near, online, with, months, learn
+Random K Features: breivik, young, larg, ptsd, coal, religieuses, mcdowell, dead, placentia, missouri
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 333:
+LIME Features: entertainers, our, quality, atheist, rings, custom, helped, an, bulk, now
+Random K Features: nanking, 490, new1, 4chan, rosalind, chase, io9, macaroon, calmness, bretby
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 334:
+LIME Features: , business, see, political, sunday, christ, jose, science, the, said
+Random K Features: ccg, sot, reflecting, explo, icc_leadershiplifestyles, avatar_4c2, appetites, cultivate, rauf, overlay_grace
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 335:
+LIME Features: to, weekly, purpose, ministries, kid, worship, more, fellowship, plan, welcome
+Random K Features: dodgens, 6522, programmatically, wassail, clickhole, maybe, filtering, minora, sef, deslandes
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 336:
+LIME Features: , 30pm, this, number, drinks, be, of, alongside, curious, the
+Random K Features: uncongenial, looketh, theclan, churchwide, outlets, noon, nitrogen, retina, linskaill, story
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 337:
+LIME Features: service, humanists, debates, belief, demand, atheists, different, well, science, soon
+Random K Features: reagents, insurability, hartsook, mana, leases, waldorf, bbcs, unforgettable, global_439207194, surprise
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 338:
+LIME Features: , is, warming, parish, thirty, based, formation, more, fair, ministry
+Random K Features: hegel, peterborough, roster, logopsp_, judah, naral, wellnigh, 209, türkiye, septa
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 339:
+LIME Features: moral, christian, atheism, godlessness, atheist, hate, we, make, the, buy
+Random K Features: sorely, jingoism, utilities, leeds, todays, kosky, bos, countercultural, coveting, global_17953176
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 340:
+LIME Features: weekly, thought, research, regular, atheist, org, prefer, pr, reference, science
+Random K Features: bryan, darnley, johnswort, winace, accompagnamento, commericial, skinheads, logo_s, valera, brandicon
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 341:
+LIME Features: , to, 6th, rights, is, 5th, important, course, in, on
+Random K Features: m5p, hr, universiteit, thumb_1078, wonder, lime, wheldondan, unemployable, selfless, 764
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 342:
+LIME Features: what, thought, feed, atheist, out, and, nirmukta, updates, dvd, interview
+Random K Features: eugene, ateliers, amenable, coleraine, abriéndose, phylogenomics, deborah, 痛みを伴, dsc09605_2, federalism
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 343:
+LIME Features: catechism, audio, from, find, belgic, provided, scriptures, or, the, might
+Random K Features: watchlist, mornings, tibetans, ascension, coffman, advancing, absolutist, 00154, cowards, facade
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 344:
+LIME Features: , egomaniac, img, rights, copyright, egoism, all, ます, サイトマップ, reserved
+Random K Features: i2, monteiro, panels, ify, onlinecialis, 6563, loovali, bandwidths, molinay, ½4
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 345:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: maryl, execu, provenance, strive, hsg, 1235, satantom, churchwide, went, skepchickcon
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 346:
+LIME Features: , continue, website, our, click, enrolment, prospectus, academic, and, no
+Random K Features: hardbound, kettering, staid, burnee, risks, intelligene, minona, unremarkable, thumb_3802, sparklines
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 347:
+LIME Features: , some, luke, numbers, bit, translation, deuteronomy, modified, fun, john
+Random K Features: perish, 歯科治療の分野は細分化が進んでいます, progressions, portraying, nish, elinor, lemon, acappellaswfellow200, religionfacts, wff
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 348:
+LIME Features: adoption, email, january, culture, again, going, you, and, the, wellspring
+Random K Features: directortheresa, abn, pe, razi, antwerp, plague, cancellation, theorize, decks, neeza
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 349:
+LIME Features: mailing, by, content, less, enough, possible, six, icons, week, lives
+Random K Features: walkers, infunduntur, apatow, bairche, question, 6aköª, 探し出せるようです, vanityfair_, 6987, nimis
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 350:
+LIME Features: , prevented, named, atheist, through, long, witnesses, erected, tablet, global
+Random K Features: huntsman, lanciato, nederlands, 2322, lengths, player, compilations, nasties, blackwells, reusing
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 351:
+LIME Features: , african, copyright, georgian, statement, associate, cross, street, history, missions
+Random K Features: cheeseburgers, millenarian, 8566717881_58f36f5a37_z, connexional, sheathing, ewd, durable, uni, global_318, unity
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 352:
+LIME Features: into, , us, world, like, ability, been, fine, say, might
+Random K Features: suzuki, rumors, tele, dissenting, cows, 96802475_8, morphine, summarised, tft, blogsite
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 353:
+LIME Features: already, coincidences, atheist, of, any, myself, and, negligent, yours, said
+Random K Features: anarkali, adventitia, requirementsstyleguidefeedstrainingnews, durganand, cfibuttonb, 7050, reaffirmed, thumb_1702, campsite, 1йрs
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 354:
+LIME Features: , state, american, do, v, please, atheist, how, universities
+Random K Features: enhancing, washer, 7511, roland, exceeds, negligently, peasants, sauven, unmarked, format3
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 355:
+LIME Features: comments, suggestions, was, day, again, him, and, spirit, coloring, rule
+Random K Features: midweek, rhason, waltzed, abbeville, ole, hedington, aviso, 197, smartly, 9781400205394
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 356:
+LIME Features: service, , powered, in, bin, embed, picasaweb, page, summer
+Random K Features: saltpans, avatar_0c0, advancements, chasse, kjvz, telephoning, wanamaker, violated, seductive, lowes
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 357:
+LIME Features: were, honouring, family, since, some, at, spirituality, brought, sons, now
+Random K Features: jedinstveni, limber, beneficence, scientist, thurmond, spontaneity, transmits, 8337, behave, renounces
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 358:
+LIME Features: to, church, find, does, be, based, other, in, operation, index
+Random K Features: remotest, 14th, networking, 98xñ, pngwhy, 3am, 16pm, irgens, uprightly, nu7
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 359:
+LIME Features: egotisms, egot, egroups, egos, egypt, egwin, egregious, ｍａｘドライビングスクール千, egotistical, egotistically
+Random K Features: redline, weight, ritenbaugh, います, compatriots, t7, 2819, chacun, soundly, galley
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 360:
+LIME Features: , net, bytes, reflect, common, forum, the, http, netscape
+Random K Features: washer, characterization, tops, implants, preconceived, wynn, humaniststudies, erred, krelnik, bible__13_5_15_
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 361:
+LIME Features: secure, kids, some, thinking, atheist, thumb_, close, science, believe, interested
+Random K Features: christof, theologyweb, distinction, burning, medics, make, sus, cast, nephilim, ceaseless
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 362:
+LIME Features: , for, atheist, comic, of, times, drink, on, helping, beach
+Random K Features: 7q0, baroness, nopwcialis, conflicting, sideb, chatting, pharma, ただ, frédéric, diligence
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 363:
+LIME Features: caprice, misfortune, grieving, nearly, cursed, training, practically, slipping, exactly, coarse
+Random K Features: gallahue, programing, 8e89b19975, galton, cemetery, eased, cameo, condemnest, foreknowledge, nerdstock
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Instance 364:
+LIME Features: , september, american, fan, atheist, play, also, embed, atheists, god
+Random K Features: sediment, fuckups, juhnke, irib, controlled, dock, mediumgrace, ethicalunion, ballincollig, hunter
+Common Features: 
+Overlap Percentage: 0.00%
+-----------------------------------
+
+Overall Average Overlap Percentage: 0.03%
