@@ -10,16 +10,16 @@ Falling Waters Presbyterian Church
   •...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-chri: 0.0
-screencapt: 0.0
-emporium: 0.0
-liquida: 0.0
-philological: 0.0
-xyz: 0.0
-pollen: 0.0
-dhlgfn3cnrk: 0.0
-overkill: 0.0
-boiled: 0.0
+jehenne: 0.0
+2206: 0.0
+steeves: 0.0
+brettt: 0.0
+explosion: 0.0
+hour_god: 0.0
+reappearance: 0.0
+２０本以上の歯を残しやすくなる傾向にあります: 0.0
+mayim: 0.0
+collimated: 0.0
 
 -----------------------------------
 Instance 2 out of 364
@@ -32,16 +32,16 @@ Text: Logo Logo Logo Logo Logo
   • Re...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-rvz: 0.0
-thumb_1791: 0.0
-flier: 0.0
-creating: 0.0
-diverting: 0.0
-searchlight: 0.0
-importation: 0.0
-pfa: 0.0
-thumb_7407: 0.0
-85281: 0.0
+appraise: 0.0
+nightwatch: 0.0
+1458: 0.0
+することが可能です: 0.0
+refugees: 0.0
+bv: 0.0
+singleness: 0.0
+idealistic: 0.0
+avatar_e03: 0.0
+8ql: 0.0
 
 -----------------------------------
 Instance 3 out of 364
@@ -53,16 +53,16 @@ Fred Rice
 You have loaded The Skeptic...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-coughing: 0.0
-hvú: 0.0
-wasatch: 0.0
-lunacy: 0.0
-veg: 0.0
-chattering: 0.0
-vitellius: 0.0
-allege: 0.0
-nekoliko: 0.0
-lockout: 0.0
+faculte: 0.0
+pornography: 0.0
+hindu: 0.0
+paces: 0.0
+その人と話が弾んでしまって: 0.0
+malle: 0.0
+novy: 0.0
+title2: 0.0
+coast: 0.0
+quilts: 0.0
 
 -----------------------------------
 Instance 4 out of 364
@@ -73,32 +73,32 @@ Text: [sabtop] [kora] [morm]
 [sabcropped]              Hebrew Scriptures                   ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-sassy: 0.0
-tire: 0.0
-infinitesimal: 0.0
-475: 0.0
-impeccable: 0.0
-529: 0.0
-seperated: 0.0
-qhd: 0.0
-ws7î: 0.0
-dwuser: 0.0
+0000089060: 0.0
+booksrace: 0.0
+krishnamurti: 0.0
+gatherer: 0.0
+broomball: 0.0
+ails: 0.0
+uterine: 0.0
+psalmist: 0.0
+mainframe: 0.0
+needs: 0.0
 
 -----------------------------------
 Instance 5 out of 364
 Text: ^theNew Atheists                                                                                    ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-nigger: 0.0
-mike: 0.0
-saaq: 0.0
-21502: 0.0
-android_ic: 0.0
-bellinger: 0.0
-ù¹: 0.0
-nukes: 0.0
-287451http: 0.0
-lccn: 0.0
+craftshow: 0.0
+joyous: 0.0
+lyly: 0.0
+endicottadventist: 0.0
+77080: 0.0
+euthanized: 0.0
+revision: 0.0
+chatter: 0.0
+optimistic: 0.0
+横手自動車学校: 0.0
 
 -----------------------------------
 Instance 6 out of 364
@@ -110,16 +110,16 @@ Text: *
   • Jan 11 Truth and L...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-minist: 0.0
-departmental: 0.0
-refugestrength: 0.0
-pseudomedicine: 0.0
-脱毛が完了するまでの回数は: 0.0
-comet2: 0.0
-7203: 0.0
-enron: 0.0
-clicked: 0.0
-schippertellen: 0.0
+twisting: 0.0
+無痛治療を行なってくれるから痛みのない治療を受けられます: 0.0
+gett: 0.0
+astra: 0.0
+odissus: 0.0
+code: 0.0
+naturalists: 0.0
+subtracts: 0.0
+700x300: 0.0
+umcr: 0.0
 
 -----------------------------------
 Instance 7 out of 364
@@ -133,16 +133,16 @@ Click on the slide!
   • ...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-seemed: 0.0
-quantifiable: 0.0
-cline: 0.0
-juppiter: 0.0
-flint: 0.0
-unfollowing: 0.0
-lindy: 0.0
-greys: 0.0
-networ: 0.0
-9237: 0.0
+kiwi6: 0.0
+hotbird: 0.0
+gleb: 0.0
+jefferies: 0.0
+soured: 0.0
+finereader: 0.0
+asiatic: 0.0
+glaciercam: 0.0
+bigfeet: 0.0
+qhg4i: 0.0
 
 -----------------------------------
 Instance 8 out of 364
@@ -151,16 +151,16 @@ Text:                             Famous Dead Nontheists
 A list of famous dead people who have rejected G...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-0g: 0.0
-lasn: 0.0
-driveway: 0.0
-underfunded: 0.0
-diary: 0.0
-hambleton: 0.0
-microchips: 0.0
-createspace: 0.0
-kin: 0.0
-obstruction: 0.0
+gance: 0.0
+apocalypse: 0.0
+pusher: 0.0
+5026: 0.0
+plestina: 0.0
+asura: 0.0
+croppedlogofrontpage: 0.0
+canadiana: 0.0
+butter: 0.0
+slowley: 0.0
 
 -----------------------------------
 Instance 9 out of 364
@@ -170,16 +170,16 @@ Login   Search
                  Skip Navi...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-anytime: 0.0
-joycemeyer: 0.0
-church_news_ad1: 0.0
-greene: 0.0
-というものがあり: 0.0
-front_07: 0.0
-radicalised: 0.0
-floating6: 0.0
-inspire: 0.0
-spartanburg: 0.0
+nai: 0.0
+79909042071: 0.0
+melodi: 0.0
+pooling: 0.0
+modestly: 0.0
+ネット婚活で結婚することは可能です: 0.0
+84403: 0.0
+lit: 0.0
+victoria: 0.0
+airplay: 0.0
 
 -----------------------------------
 Instance 10 out of 364
@@ -193,16 +193,16 @@ Text: Skip Navigation
 ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-xxxviii: 0.0
-superintel: 0.0
-c570: 0.0
-hss__lmbvg: 0.0
-218: 0.0
-20spurl: 0.0
-maries: 0.0
-magill_gun: 0.0
-practicable: 0.0
-persecute: 0.0
+17the: 0.0
+eckhart: 0.0
+weakness: 0.0
+1859: 0.0
+mak: 0.0
+allurements: 0.0
+towards: 0.0
+juppiter: 0.0
+5060: 0.0
+2f8007: 0.0
 
 -----------------------------------
 Instance 11 out of 364
@@ -216,16 +216,16 @@ A COMIC ABOUT SCIENCE AND RELATIONSHIPS
   • Med...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-3321: 0.0
-neville: 0.0
-selina: 0.0
-forall: 0.0
-qlcхгйndвq7dхкw3g: 0.0
-demonstrations: 0.0
-2ki: 0.0
-image5: 0.0
-distinction: 0.0
-stereotyping: 0.0
+zajedno: 0.0
+matildaandme: 0.0
+summery: 0.0
+frivolity: 0.0
+2178: 0.0
+differentiated: 0.0
+776: 0.0
+minuit: 0.0
+vapez: 0.0
+mmc: 0.0
 
 -----------------------------------
 Instance 12 out of 364
@@ -233,16 +233,16 @@ Text:             [gen_48]
                  AboutBuy 'Godless in America'Buy 'mere atheism'My Blog/What's ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-jer: 0.0
-struggling: 0.0
-transience: 0.0
-mathew: 0.0
-1570: 0.0
-premiership: 0.0
-hanging_sign: 0.0
-communion200: 0.0
-4nû: 0.0
-disconfirmed: 0.0
+rde: 0.0
+nods: 0.0
+pendant: 0.0
+árbol: 0.0
+spotlights: 0.0
+sixtieth: 0.0
+1813: 0.0
+marko: 0.0
+inhabits: 0.0
+authorities: 0.0
 
 -----------------------------------
 Instance 13 out of 364
@@ -258,16 +258,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-capitalize: 0.0
-8he: 0.0
-blamed: 0.0
-domini: 0.0
-tür: 0.0
-rethink: 0.0
-psyche: 0.0
-buxto: 0.0
-intentions: 0.0
-1170: 0.0
+syndicate: 0.0
+va: 0.0
+wp14c86d27_0f: 0.0
+denied: 0.0
+humanlight: 0.0
+stud: 0.0
+biblicalperspectives: 0.0
+skufiya: 0.0
+incalculable: 0.0
+spiritualitymy: 0.0
 
 -----------------------------------
 Instance 14 out of 364
@@ -276,16 +276,16 @@ Make your own free website on Tripod.com
 [spacer]          ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-worldview: 0.0
-gifs: 0.0
-indefinite: 0.0
-supermarkets: 0.0
-abstinenceshoes: 0.0
-genealogical: 0.0
-divas: 0.0
-logosofia: 0.0
-mary: 0.0
-sanctified: 0.0
+fwn: 0.0
+99: 0.0
+serendib: 0.0
+lgjernes: 0.0
+worldhand: 0.0
+1966: 0.0
+palatine: 0.0
+vacations: 0.0
+20080404: 0.0
+antisuperstition: 0.0
 
 -----------------------------------
 Instance 15 out of 364
@@ -295,34 +295,34 @@ This is a picture of The Atheist Pig A hammy critic of religion and nonsensical
 bel...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-specialists: 0.0
-movement: 0.0
-matching: 0.0
-dumbfounded: 0.0
-greenvillenontheists: 0.0
-75023: 0.0
-epworth: 0.0
-intensifying: 0.0
-sensations: 0.0
-地域教会: 0.0
+rodin: 0.0
+no_atheists: 0.0
+nicol: 0.0
+irsbanner: 0.0
+cabal: 0.0
+huayu: 0.0
+lawrence: 0.0
+amanda: 0.0
+chirobase: 0.0
+testis: 0.0
 
 -----------------------------------
 Instance 16 out of 364
 Text: bg image(grnprch.jpg)
 
                                                                COPYRIGHT NOTI...
-Predicted class: atheism, True class: christianity
+Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-arrival: 0.0
-downward: 0.0
-okus: 0.0
-discharge: 0.0
-afghanistan: 0.0
-6回で満足できる人が大半です: 0.0
-firsthand: 0.0
-alban: 0.0
-incompatable: 0.0
-joyful: 0.0
+saiu: 0.0
+الجمهورية: 0.0
+didmosesexi: 0.0
+hits: 0.0
+encourages: 0.0
+cattle: 0.0
+ecf: 0.0
+christina: 0.0
+bissirinians: 0.0
+legitimize: 0.0
 
 -----------------------------------
 Instance 17 out of 364
@@ -333,16 +333,16 @@ The Virtual University's Virtual Home
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-disjointed: 0.0
-nastiest: 0.0
-devolved: 0.0
-navajo: 0.0
-fly: 0.0
-lexiconc: 0.0
-tourism: 0.0
-understandable: 0.0
-ipadre: 0.0
-remedia: 0.0
+belts: 0.0
+slavemap: 0.0
+fas: 0.0
+saith: 0.0
+but: 0.0
+thumb_5674: 0.0
+gen16gr: 0.0
+hitch: 0.0
+emulsifier: 0.0
+nisu: 0.0
 
 -----------------------------------
 Instance 18 out of 364
@@ -353,16 +353,16 @@ Text:                                   [Bethsbeat]
         On a rainy Friday night, one of CCM's fai...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-cohabitating: 0.0
-341: 0.0
-homead: 0.0
-cot: 0.0
-carignano: 0.0
-378: 0.0
-jj: 0.0
-aapanel: 0.0
-semper: 0.0
-lobbed: 0.0
+erectile: 0.0
+acolytes: 0.0
+minors: 0.0
+basle: 0.0
+murk: 0.0
+frequencies: 0.0
+anim_baom_ch: 0.0
+265: 0.0
+lccn: 0.0
+birkenhead: 0.0
 
 -----------------------------------
 Instance 19 out of 364
@@ -375,16 +375,16 @@ Biographies
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-vouchermap15: 0.0
-jenni: 0.0
-riddle: 0.0
-chrestus: 0.0
-eminence: 0.0
-melety: 0.0
-recommending: 0.0
-slowly: 0.0
-elementum: 0.0
-1698: 0.0
+jugoslavia: 0.0
+juin: 0.0
+global_20929226: 0.0
+137: 0.0
+overtime: 0.0
+12244544_10201279960518583_236896922: 0.0
+accompanied: 0.0
+mistrial: 0.0
+stewards: 0.0
+1652: 0.0
 
 -----------------------------------
 Instance 20 out of 364
@@ -392,16 +392,16 @@ Text: [javascript_disabled]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-2007: 0.0
-84093: 0.0
-80c920: 0.0
-macerat: 0.0
-siepker: 0.0
-enewsad: 0.0
-arbiter: 0.0
-reframing: 0.0
-272: 0.0
-banner_img02: 0.0
+slideshow6: 0.0
+r5: 0.0
+planners: 0.0
+275k: 0.0
+hailstorm: 0.0
+afternoon: 0.0
+foil: 0.0
+oê: 0.0
+webbring: 0.0
+dozen: 0.0
 
 -----------------------------------
 Instance 21 out of 364
@@ -414,16 +414,16 @@ Got A Title for My Next Published Book
 By J...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-takayoshi: 0.0
-î¾a: 0.0
-cor: 0.0
-841: 0.0
-2087: 0.0
-wvi: 0.0
-groupsconnect: 0.0
-mercy2016: 0.0
-secretly: 0.0
-インターネットを利用した中古車査定一括取得サービスは: 0.0
+remedia: 0.0
+明確な治療費を提示してくれる医院が良いです: 0.0
+global_437: 0.0
+palacios: 0.0
+kgb: 0.0
+貸し付けてもらう金額の大きさによっても金利は違うものになりますから: 0.0
+insomuch: 0.0
+2262: 0.0
+penguin: 0.0
+nationalities: 0.0
 
 -----------------------------------
 Instance 22 out of 364
@@ -435,16 +435,16 @@ Email or Phone       Password
    ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-brackets: 0.0
-nun: 0.0
-upholds: 0.0
-redesigned: 0.0
-elicit: 0.0
-nancybasmajian: 0.0
-whippin: 0.0
-singleness: 0.0
-slobodno: 0.0
-intake: 0.0
+たとえばお金がないなら安いプランで安い教習所を選ぶとか学生なら春休みや夏休み: 0.0
+perso: 0.0
+市立枚方市民病院は: 0.0
+imposent: 0.0
+pervert: 0.0
+salutes: 0.0
+expelled_ma: 0.0
+አማርኛ: 0.0
+stlouis: 0.0
+ustream: 0.0
 
 -----------------------------------
 Instance 23 out of 364
@@ -458,16 +458,16 @@ Growing Kids Ministry
 Sha...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-regnum: 0.0
-145th: 0.0
-nauseating: 0.0
-circuitry: 0.0
-whatiscs1: 0.0
-2v9: 0.0
-zweimal: 0.0
-blackmail: 0.0
-2myjsgngblagkop: 0.0
-jaymie: 0.0
+atheiblogleave: 0.0
+plake: 0.0
+sacramentally: 0.0
+overflows: 0.0
+bootwatch: 0.0
+merle: 0.0
+wcvc: 0.0
+payers: 0.0
+spacer_5_px: 0.0
+clumps: 0.0
 
 -----------------------------------
 Instance 24 out of 364
@@ -481,16 +481,16 @@ Text:   • About
   • Best ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-sutton: 0.0
-wó: 0.0
-dazbog: 0.0
-behalf: 0.0
-i20: 0.0
-mondiale: 0.0
-limited: 0.0
-testing: 0.0
-urbana: 0.0
-chairs: 0.0
+2oz: 0.0
+geschieht: 0.0
+acquisitions: 0.0
+doctorish: 0.0
+gomer: 0.0
+9w: 0.0
+2v: 0.0
+drone: 0.0
+thumb_5001: 0.0
+siteinternal: 0.0
 
 -----------------------------------
 Instance 25 out of 364
@@ -504,16 +504,16 @@ Text:   • Welcome!
   ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ナースバンクと異なる違いは: 0.0
-hoary: 0.0
-3029: 0.0
-nymphomania: 0.0
-_ow: 0.0
-thank: 0.0
-muscular: 0.0
-rct: 0.0
-gifhudson: 0.0
-freethoughtaz: 0.0
+slator: 0.0
+fatigued: 0.0
+transfiguration: 0.0
+windsurfer: 0.0
+wagnall: 0.0
+enemies: 0.0
+infirmarian: 0.0
+harvestcall: 0.0
+statement: 0.0
+efffects: 0.0
 
 -----------------------------------
 Instance 26 out of 364
@@ -523,16 +523,16 @@ Text: Refresh (0 sec) https://mobile.twitter.com/i/nojs_router?path=%2F
 See what’s happen...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-mauihope: 0.0
-technological: 0.0
-conjugation: 0.0
-20s30s: 0.0
-pblogo300px: 0.0
-zk6: 0.0
-lanternshark: 0.0
-olde: 0.0
-sbn: 0.0
-mitra: 0.0
+stealthy: 0.0
+502013140_: 0.0
+2k: -0.0710768337961806
+headquarters: 0.0
+logo_daybookw: 0.0
+vulgar: 0.0
+januaryactivities: 0.0
+demanding: 0.0
+00cad: 0.0
+therefor: 0.0
 
 -----------------------------------
 Instance 27 out of 364
@@ -546,16 +546,16 @@ Urban Legends
   • Urban Lege...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-collations: 0.0
-vlog: 0.0
-summoned: 0.0
-helpful: 0.0
-éduqués: 0.0
-share_face: 0.0
-rebates: 0.0
-anymore: 0.0
-3942: 0.0
-biobäuerin: 0.0
+fiddles: 0.0
+gj: 0.0
+pompano: 0.0
+deviant: 0.0
+creator: 0.0
+thandy: 0.0
+deleterious: 0.0
+ripe: 0.0
+gamer: 0.0
+illy: 0.0
 
 -----------------------------------
 Instance 28 out of 364
@@ -571,16 +571,16 @@ Text: 化粧水口コミ　ランキングおすすめ
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-scottish: 0.0
-1268: 0.0
-mcalister: 0.0
-suzan: 0.0
-1024x150: 0.0
-decadence: 0.0
-hollows: 0.0
-ophthalmologist: 0.0
-18am: 0.0
-patagonia: 0.0
+avatar_f82: 0.0
+jacobovici: 0.0
+dozing: 0.0
+vfr: 0.0
+2512: 0.0
+panthests: 0.0
+railing: 0.0
+teens: 0.0
+izleti: 0.0
+bitching: 0.0
 
 -----------------------------------
 Instance 29 out of 364
@@ -595,16 +595,16 @@ Menu
   ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-psychologies: 0.0
-israelis: 0.0
-preparacion: 0.0
-tranquillity: 0.0
-fecund: 0.0
-0000088019: 0.0
-1609987_10: 0.0
-trapped: 0.0
-renã: 0.0
-549891_374543499235079_143877665634998: 0.0
+allegorization: 0.0
+freethoughts: 0.0
+shipment: 0.0
+linkedinth: 0.0
+rachel: 0.0
+remax: 0.0
+1851: 0.0
+memorial: 0.0
+oversimplified: 0.0
+progra: 0.0
 
 -----------------------------------
 Instance 30 out of 364
@@ -620,18 +620,18 @@ Menu
   •  
   • Bookstore
   • Ki...
-Predicted class: atheism, True class: atheism
+Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-retrieve: 0.0
-liv: 0.0
-cochrane: 0.0
-spambacks: 0.0
-warmers: 0.0
-fixes: 0.0
-trice: 0.0
-5am: 0.0
-logooyjtu7: 0.0
-joined: 0.0
+field: 0.0
+gbio: 0.0
+testability: 0.0
+10_bulletin: 0.0
+nepotist: 0.0
+conferencei: 0.0
+karmelita: 0.0
+shootout: 0.0
+oom: 0.0
+eiserner: 0.0
 
 -----------------------------------
 Instance 31 out of 364
@@ -641,16 +641,16 @@ Text:   Institute for Advanced Abrahamic Religious Studies The dead man-god fict
                     ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-refinements: 0.0
-clubhouse: 0.0
-janitors: 0.0
-withholdeth: 0.0
-billows: 0.0
-cloth: 0.0
-penances: 0.0
-më¼43p3: 0.0
-0j: 0.0
-zeppelin: 0.0
+chambers: 0.0
+forums: 0.0
+feasible: 0.0
+400k: 0.0
+administration: 0.0
+christ: 0.0
+lewinsky: 0.0
+counterpoint: 0.0
+tyrashow: 0.0
+teeth: 0.0
 
 -----------------------------------
 Instance 32 out of 364
@@ -658,16 +658,16 @@ Text: bg image(Images/background%201.jpg)
 ┌───────────────────────────────────────────────────────────────...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-offsets: 0.0
-thumb_2414: 0.0
-arundell: 0.0
-darwin_august_400: 0.0
-nq8: 0.0
-zzzamazon: 0.0
-nicephori: 0.0
-crucial: 0.0
-tied: 0.0
-text6: 0.0
+spinal: 0.0
+tohttp: 0.0
+dunderheads: 0.0
+negatively: 0.0
+preciousness: 0.0
+5fdj: 0.0
+phages: 0.0
+aegrorum: 0.0
+runge: 0.0
+theives: 0.0
 
 -----------------------------------
 Instance 33 out of 364
@@ -678,16 +678,16 @@ NNFR   • About
 Science Based Living- Shedding Fear and Superstition ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-sîª: 0.0
-solidified: 0.0
-deliv: 0.0
-252: 0.0
-planck: 0.0
-cabriolet: 0.0
-sellers: 0.0
-skemorgen: 0.0
-ul_blue_logo_03: 0.0
-beitsch: 0.0
+giovanni: 0.0
+azaña: 0.0
+wwjd: 0.0
+gwiazda: 0.0
+unison: 0.0
+unveils: 0.0
+emotions: 0.0
+hts: 0.0
+lk: 0.0
+handles: 0.0
 
 -----------------------------------
 Instance 34 out of 364
@@ -703,16 +703,16 @@ Text: Toggle navigationHymnGuru
 Logo 4bc629...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-ignored: 0.0
-utnzapahkdmcnyyumj6id4: 0.0
-escorts: 0.0
-erstaunen: 0.0
-0000065717: 0.0
-bandit: 0.0
-ts20: 0.0
-huckabee: 0.0
-rolos: 0.0
-indyretreats: 0.0
+segment: 0.0
+wigston: 0.0
+tuam: 0.0
+donazioni: 0.0
+knee: 0.0
+illusions: 0.0
+2752: 0.0
+30pm17: 0.0
+thinly: 0.0
+wpa1dfeed0: 0.0
 
 -----------------------------------
 Instance 35 out of 364
@@ -730,16 +730,16 @@ image
          Image 1 Image 2 Image 3 Image 4 Ima...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-llet: 0.0
-pervy: 0.0
-rigby: 0.0
-wohnrecht: 0.0
-offensivi: 0.0
-radiance: 0.0
-christain: 0.0
-explosives: 0.0
-eleventh: 0.0
-3078934: 0.0
+mirage: 0.0
+182: 0.0
+scrapings: 0.0
+platter: 0.0
+apo: 0.0
+wpumc: 0.0
+transitions: 0.0
+shake: 0.0
+400th: 0.0
+2001: 0.0
 
 -----------------------------------
 Instance 36 out of 364
@@ -750,18 +750,18 @@ Text: Advertisement
 Science Blogs
 
 Go to [Select Blog...                                     ...
-Predicted class: christianity, True class: atheism
+Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-automate: 0.0
-propagates: 0.0
-spartanburg: 0.0
-memorization: 0.0
-56kb: 0.0
-paupers: 0.0
-dmoz: 0.0
-girgashites: 0.0
-84401: 0.0
-mponda: 0.0
+theodd1btm: 0.0
+donnis: 0.0
+thinking_allowed: 0.0
+502013307_: 0.0
+escuela: 0.0
+btn_viewca: 0.0
+20furl: 0.0
+eventuate: 0.0
+stop: 0.0
+un: 0.0
 
 -----------------------------------
 Instance 37 out of 364
@@ -777,16 +777,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-undesignating: 0.0
-4379057b: 0.0
-pathological: 0.0
-tailed: 0.0
-winery: 0.0
-hrdlicka: 0.0
-1263983: 0.0
-potentiale: 0.0
-verlench: 0.0
-ck: 0.0
+jude: 0.0
+dissertation: 0.0
+untouchable: 0.0
+tessio: 0.0
+spatio: 0.0
+thumb_3880: 0.0
+reformiert: 0.0
+tealize: 0.0
+bizarreries: 0.0
+cady: 0.0
 
 -----------------------------------
 Instance 38 out of 364
@@ -798,16 +798,16 @@ Text:
           ☆ L...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-wisdom: -0.0007456890369130859
-geistliche: 0.0
-charlottesvi: 0.0
-publish: 0.0
-blackout: 0.0
-egroups: 0.0
-indoctrination: 0.0
-dimissory: 0.0
-forthcoming: 0.0
-stoebenau: 0.0
+terminate: 0.0
+buber: 0.0
+zuc: 0.0
+pursuits: 0.0
+iona: 0.0
+caso: 0.0
+josé: 0.0
+99712: 0.0
+gómez: 0.0
+1413779927: 0.0
 
 -----------------------------------
 Instance 39 out of 364
@@ -816,16 +816,16 @@ Text: Domestic-Church.Com
                                                                                ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-scary: 0.0
-weniger: 0.0
-succeed: 0.0
-ig_banner_for: 0.0
-inuit: 0.0
-foeting: 0.0
-16g: 0.0
-australians: 0.0
-goering: 0.0
-infusions: 0.0
+9080: 0.0
+06040: 0.0
+td: 0.0
+problems: 0.0
+thumb_3131: 0.0
+flotilla: 0.0
+drummond: 0.0
+ideas: 0.0
+554: 0.0
+bracikowski: 0.0
 
 -----------------------------------
 Instance 40 out of 364
@@ -841,34 +841,34 @@ Text: ┌─────┐
 Ramblings on false beliefs
 
        ...
-Predicted class: christianity, True class: atheism
+Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-hawker: 0.0
-986: 0.0
-rallying: 0.0
-120m: 0.0
-reasonably: 0.0
-farms: 0.0
-steadily: 0.0
-merchandising: 0.0
-meglomaniac: 0.0
-bobhunteriii: 0.0
+pé: 0.0
+brooklynmu: 0.0
+inebriate: 0.0
+refurbished: 0.0
+blasphemers: 0.0
+0408: 0.0
+global_21080622: 0.0
+predictable: 0.0
+84771: 0.0
+baam: 0.0
 
 -----------------------------------
 Instance 41 out of 364
 Text:                                        [new]                                                        ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-veiled: 0.0
-sidewalk: 0.0
-tarir: 0.0
-explodes: 0.0
-aztec: 0.0
-rh: 0.0
-screenwriter: 0.0
-dedicate: 0.0
-warpath: 0.0
-9132: 0.0
+gay: 0.0
+jonny: 0.0
+56: 0.0
+kraigen: 0.0
+uttermost: 0.0
+rls: 0.0
+asshat: 0.0
+tbt: 0.0
+granddaughter: 0.0
+lcc: 0.0
 
 -----------------------------------
 Instance 42 out of 364
@@ -880,16 +880,16 @@ Holy Apostles Catholic Church
   • ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-tgp: 0.0
-newman: 0.0
-cormariæ: 0.0
-fj: 0.0
-wealth: 0.0
-買取: 0.0
-ucw: 0.0
-607569137: 0.0
-actively: 0.0
-squirrels: 0.0
+searchbox_: 0.0
+buckminster: 0.0
+egocentric: 0.0
+useth: 0.0
+spokeswoman: 0.0
+cove: 0.0
+debunk: 0.0
+thraldom: 0.0
+pleaded: 0.0
+alicen: 0.0
 
 -----------------------------------
 Instance 43 out of 364
@@ -907,16 +907,16 @@ Troy Conrad
 We Are Capable of...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-curran: 0.0
-üben: 0.0
-reverand: 0.0
-hasn: 0.0
-subside: 0.0
-gelization: 0.0
-vocabulary: 0.0
-stegeman: 0.0
-global_216580732: 0.0
-acknowledgments: 0.0
+diy: 0.0
+mossa: 0.0
+hwu2: 0.0
+prebiotic: 0.0
+deserved: 0.0
+a7m: 0.0
+sirens: 0.0
+csicop: 0.0
+depend: 0.0
+debi: 0.0
 
 -----------------------------------
 Instance 44 out of 364
@@ -929,16 +929,16 @@ Text: Skip links
   • Skip to content ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-makingcontact: 0.0
-celebratory: 0.0
-手助けになります: 0.0
-ossossane: 0.0
-fortnightly: 0.0
-spirituallysmart: 0.0
-artichoke: 0.0
-7zx: 0.0
-п2: 0.0
-8ix: 0.0
+livest: 0.0
+conniving: 0.0
+11618: 0.0
+plc: 0.0
+peterenns: 0.0
+brushing: 0.0
+alanon: 0.0
+watchdog: 0.0
+ntcanon: 0.0
+blazing: 0.0
 
 -----------------------------------
 Instance 45 out of 364
@@ -951,16 +951,16 @@ Text: St Joseph Catholic Primary School
   • Fo...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-druggist: 0.0
-komen: 0.0
-lordship: 0.0
-8581: 0.0
-shout: 0.0
-choices: 0.0
-garden: 0.0
-despot: 0.0
-patting: 0.0
-ex: 0.0
+thumb_4358: 0.0
+precisely: 0.0
+ceived: 0.0
+thumb_3600: 0.0
+choirs: 0.0
+parkway: 0.0
+armies: 0.0
+veliz: 0.0
+hoggishly: 0.0
+ecu: 0.0
 
 -----------------------------------
 Instance 46 out of 364
@@ -971,16 +971,16 @@ Text: bg image(bgblue2.jpg)
                  Pope Pius XII Council 5045...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-edmond: 0.0
-marin: 0.0
-58102: 0.0
-prescientific: 0.0
-bedfellow: 0.0
-fundraisers: 0.0
-croaked: 0.0
-cyclones: 0.0
-surreal: 0.0
-501: 0.0
+sk: 0.0
+internationals: 0.0
+leapfrogged: 0.0
+jeffrey: 0.0
+seaclock: 0.0
+9978: 0.0
+mocking: 0.0
+machiavelli: 0.0
+guidelines: 0.0
+goodies: 0.0
 
 -----------------------------------
 Instance 47 out of 364
@@ -989,16 +989,16 @@ Text: The Singing School at Abilene Christian University
 …doing all things for the building up of the chu...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-experimenting: 0.0
-sagarellas: 0.0
-vms: 0.0
-8f: 0.0
-nancy: 0.0
-croaked: 0.0
-luxuries: 0.0
-cameos: 0.0
-movemountainequivocation: 0.0
-discernmentministriesinternational: 0.0
+ringleader: 0.0
+mff: 0.0
+dnaof: 0.0
+redrawn: 0.0
+ory: 0.0
+opinon: 0.0
+elves: 0.0
+violating: 0.0
+audacious: 0.0
+lecherous: 0.0
 
 -----------------------------------
 Instance 48 out of 364
@@ -1012,16 +1012,16 @@ Text: Log in or Sign up
   ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-trec: 0.0
-highres_237834732: 0.0
-23_at_11: 0.0
-cardiac: 0.0
-boomer: 0.0
-antagonisms: 0.0
-go: 0.0
-dpuf: 0.0
-minn: 0.0
-expectations: 0.0
+outbreak: 0.0
+figure: 0.0
+doerr: 0.0
+pele: 0.0
+ministiries: 0.0
+index_0015: 0.0
+godvertising: 0.0
+renegades: 0.0
+global_23054026: 0.0
+muppet: 0.0
 
 -----------------------------------
 Instance 49 out of 364
@@ -1037,16 +1037,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-lombardi: 0.0
-speakpigeon: 0.0
-engrained: 0.0
-turnaments: 0.0
-munditiis: 0.0
-pearly: 0.0
-castlefield: 0.0
-angelina: 0.0
-stems: 0.0
-castilian: 0.0
+1551: 0.0
+juxtaposed: 0.0
+attentive: 0.0
+1326: 0.0
+modalidades: 0.0
+testability: 0.0
+me: 0.0
+batman_catwomanbodysuit: 0.0
+farrar: 0.0
+diameter: 0.0
 
 -----------------------------------
 Instance 50 out of 364
@@ -1059,18 +1059,18 @@ Text: Jump to navigation
       □ Virginia
       □ Ken
       □ Go...
-Predicted class: atheism, True class: atheism
+Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-obsessive: 0.0
-submission: 0.0
-brains: 0.0
-umama: 0.0
-oceanfront: 0.0
-experimenters: 0.0
-slaying: 0.0
-meretricious: 0.0
-faucibus: 0.0
-fortuneteller: 0.0
+lin: 0.0
+kneeling: 0.0
+megachurch: 0.0
+assaulting: 0.0
+banner7: 0.0
+age40: 0.0
+51bf9fi752l: 0.0
+skeptalk: 0.0
+hvl: 0.0
+civ: 0.0
 
 -----------------------------------
 Instance 51 out of 364
@@ -1078,32 +1078,32 @@ Text:                                 The SkepDoc
 [design_0063_5]                 ━━━━━━━━━━━━━━━━━━━━━━━━...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-志布志自動車学校: 0.0
-fightin: 0.0
-polka: 0.0
-gosateizm: 0.0
-1705: 0.0
-srn: 0.0
-expressly: 0.0
-linkbar_r18_c2: 0.0
-proved: 0.0
-loathe: 0.0
+thumb_2685: 0.0
+8ú: 0.0
+scientists: 0.0
+chatto: 0.0
+pervade: 0.0
+sympathizing: 0.0
+progressing: 0.0
+refining: 0.0
+dominance: 0.0
+peripetee: 0.0
 
 -----------------------------------
 Instance 52 out of 364
 Text:                                   [humtoplogo3]                                                     ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-newness: 0.0
-exactly: 0.0
-loafers: 0.0
-weder: 0.0
-buening: 0.0
-たとえば合宿免許プラスならカップルで免許を取りに行きたいという方にはカップル宿: 0.0
-subforum_o: 0.0
-lascola: 0.0
-resized: 0.0
-deceptive: 0.0
+businessmen: 0.0
+pythagorean: 0.0
+beck: 0.0
+unsullied: 0.0
+process: 0.0
+redheads: 0.0
+sanger: 0.0
+0000089455: 0.0
+bol: 0.0
+proximity: 0.0
 
 -----------------------------------
 Instance 53 out of 364
@@ -1119,16 +1119,16 @@ Quicklinks
   ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-overriding: 0.0
-hichens: 0.0
-randie: 0.0
-unblemished: 0.0
-skapinker: 0.0
-confected: 0.0
-changes: -0.10249523564591707
-hoh_logo_new: 0.0
-bog: 0.0
-psyche: 0.0
+sardis: 0.0
+devereux: 0.0
+productively: 0.0
+recollected: 0.0
+ohß: 0.0
+tile: 0.0
+cohabit: 0.0
+molestation: 0.0
+tuttle: 0.0
+belton: 0.0
 
 -----------------------------------
 Instance 54 out of 364
@@ -1137,18 +1137,18 @@ Text: Skip to navigation Skip to content
 Center for Scientific Creation
 
 In the Beginning: Compelling Evi...
-Predicted class: christianity, True class: christianity
+Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-97ò: 0.0
-rethinkingtraffickinginamerica: 0.0
-b929710f0fa0: 0.0
-54401: 0.0
-marlowe: 0.0
-volunteerism: 0.0
-ensler: 0.0
-íµf: 0.0
-bâ: 0.0
-undeniable: 0.0
+townsman: 0.0
+hippie: 0.0
+ob: 0.0
+bowies: 0.0
+missing: 0.0
+sonorous: 0.0
+glow: 0.0
+unprecedented: 0.0
+advertisers: 0.0
+priestbutton1: 0.0
 
 -----------------------------------
 Instance 55 out of 364
@@ -1162,16 +1162,16 @@ Text: HOME
     ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-superfluidity: 0.0
-operation: 0.0
-foodsas: 0.0
-image17: 0.0
-annihilation: 0.0
-uî: 0.0
-formulaire: 0.0
-fabmvision: 0.0
-192038563726335968048: 0.0
-2045: 0.0
+apologise: 0.0
+text1: 0.0
+philosphy: 0.0
+playin: 0.0
+td_: 0.0
+antounin: 0.0
+pompey: 0.0
+17yrs: 0.0
+unterfangen: 0.0
+propoganda: 0.0
 
 -----------------------------------
 Instance 56 out of 364
@@ -1183,16 +1183,16 @@ Articles, investigations and commentary about paranormal claims
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-flotsam: 0.0
-cä: 0.0
-steinberg: 0.0
-2nded: 0.0
-map_wiscon: 0.0
-2226: 0.0
-lyda: 0.0
-campagna: 0.0
-irreducibly: 0.0
-darwish: 0.0
+2800: 0.0
+23_at_12: 0.0
+numerate: 0.0
+qur: 0.0
+744400494: 0.0
+pps: 0.0
+金属アレルギーは相談: 0.0
+5ß: 0.0
+gastropod: 0.0
+gladly: 0.0
 
 -----------------------------------
 Instance 57 out of 364
@@ -1207,16 +1207,16 @@ Text: Adventist Virtual Learning Network
   • Co...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-pirouette: 0.0
-swerving: 0.0
-eü: 0.0
-hinges: 0.0
-pub: 0.0
-nov302015: 0.0
-sick: 0.0
-noticeboard: 0.0
-impossibilities: 0.0
-breadcrumbs: 0.0
+simiar: 0.0
+______________________________________________: 0.0
+uç: 0.0
+oclc: 0.0
+heitzman: 0.0
+2341: 0.0
+successful: 0.0
+sagar: 0.0
+v_img2: 0.0
+surmised: 0.0
 
 -----------------------------------
 Instance 58 out of 364
@@ -1228,16 +1228,16 @@ The Cathars
 Ma...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-gaithersburg: 0.0
-buzzard: 0.0
-spectrometry: 0.0
-green: 0.0
-penetangui: 0.0
-unsuspicious: 0.0
-1106: 0.0
-ste: 0.0
-removable: 0.0
-どうもはっきりとした確信がないようなんですが: 0.0
+tailored: 0.0
+thiefologian: 0.0
+sequenced: 0.0
+wardrobe: 0.0
+renderings: 0.0
+mapperley: 0.0
+sexuals: 0.0
+adversarial: 0.0
+4063: 0.0
+circadian: 0.0
 
 -----------------------------------
 Instance 59 out of 364
@@ -1253,16 +1253,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-平均で1日に354: 0.0
-ãª: 0.0
-phylogenetic: 0.0
-septa: 0.0
-coders: 0.0
-level: 0.0
-portfolio: 0.0
-expenditure: 0.0
-gwinnett: 0.0
-ox: 0.0
+taciturnity: 0.0
+geometry: 0.0
+naaman: 0.0
+rns1: 0.0
+dimness: 0.0
+unreflexive: 0.0
+uspto: 0.0
+お後が: 0.0
+結婚指輪は: 0.0
+safe_subscribe_logo: 0.0
 
 -----------------------------------
 Instance 60 out of 364
@@ -1277,16 +1277,16 @@ Text:   • Home
 Notice: Call for Nomin...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-jubilate: 0.0
-blinn: 0.0
-confluence: 0.0
-9l: 0.0
-97708: 0.0
-tabloid: 0.0
-yas: 0.0
-recopied: 0.0
-armory: 0.0
-cunha: 0.0
+geater: 0.0
+twilight: 0.0
+potential: 0.0
+subscription: 0.0
+thumb_4317: 0.0
+forming: -0.0009676842073496509
+ontologist: 0.0
+research: 0.0
+alltime10s: 0.0
+fungus: 0.0
 
 -----------------------------------
 Instance 61 out of 364
@@ -1306,16 +1306,16 @@ Text:   •
   • ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-rationalwiki: 0.0
-親切なアドバイザーには大変感謝しています: 0.0
-cheer: 0.0
-maui: 0.0
-sei: 0.0
-unflinchingly: 0.0
-85267284: 0.0
-catchlightpro: 0.0
-eg: 0.0
-chatwebbutton: 0.0
+3e: 0.0
+jerrold: 0.0
+heeled: 0.0
+anne: 0.0
+revolutionoflove: 0.0
+permanents: 0.0
+49minutes: 0.0
+uplift: 0.0
+adam: 0.0
+staupitz: 0.0
 
 -----------------------------------
 Instance 62 out of 364
@@ -1327,16 +1327,16 @@ Sign In
       □...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-55379: 0.0
-phillips: 0.0
-mailman: 0.0
-8n: 0.0
-hobo: 0.0
-chopping: 0.0
-chaplain: 0.0
-flying: 0.0
-85739: 0.0
-daybooks: 0.0
+ingenious: 0.0
+bruner: 0.0
+udruga: 0.0
+koliko: 0.0
+1518: 0.0
+相談してきたんです: 0.0
+aiming: 0.0
+wallbuilders: 0.0
+arizona_skeptic: 0.0
+2388: 0.0
 
 -----------------------------------
 Instance 63 out of 364
@@ -1348,16 +1348,16 @@ December 14, 1836, Astley, Worcestershire, England.
 June 3, 1879, Caswell Bay (...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-instrumentalities: 0.0
-mychangepoint: 0.0
-pred: 0.0
-e1453390395921: 0.0
-wackiest: 0.0
-troy: 0.0
-consulate: 0.0
-iæ: 0.0
-9777: 0.0
-middlemorality: 0.0
+fsmas: 0.0
+pesticides: 0.0
+motherhood: 0.0
+fi38: 0.0
+observe: 0.0
+6792: 0.0
+irresistible: 0.0
+brabant: 0.0
+hikers: 0.0
+526: 0.0
 
 -----------------------------------
 Instance 64 out of 364
@@ -1374,16 +1374,16 @@ Text: About.com
       □ Aut...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-teeny: 0.0
-hn: 0.0
-stiefel: 0.0
-fingerprint: 0.0
-pamuk: 0.0
-dividerbar: 0.0
-emmaus: 0.0
-fleas: 0.0
-little: -0.05208248096728861
-9222: 0.0
+ªz: 0.0
+action: 0.0
+omnipotent: 0.0
+1497: 0.0
+assumption: 0.0
+24th: 0.0
+sextape: 0.0
+slideshow2: 0.0
+intentionality: 0.0
+od: 0.0
 
 -----------------------------------
 Instance 65 out of 364
@@ -1394,16 +1394,16 @@ Text: Freethinkers of Ventura County
 free-think-er n. A person who forms opinions on t...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-75051: 0.0
-combining: 0.0
-proportionate: 0.0
-ripon: 0.0
-ligonier: 0.0
-antechinus: 0.0
-dci: 0.0
-tone: 0.0
-measure: 0.0
-breakin: 0.0
+williamson: 0.0
+webdrive: 0.0
+brainwipe: 0.0
+identifies: 0.0
+då³: 0.0
+paradoxically: 0.0
+tryon: 0.0
+lavatory: 0.0
+wearisome: 0.0
+boutique: 0.0
 
 -----------------------------------
 Instance 66 out of 364
@@ -1417,16 +1417,16 @@ Source: [sab]
 Book: [All]...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-bundled: 0.0
-2525: 0.0
-subnav_rig: 0.0
-nationalism: 0.0
-gô: 0.0
-aboriginal: 0.0
-moody: 0.0
-launguage: 0.0
-retributory: 0.0
-zines: 0.0
+1264: 0.0
+showmessage: 0.0
+logo_7_quick_takes_c27: 0.0
+gist: 0.0
+rápida: 0.0
+oppress: 0.0
+thumb_2213: 0.0
+pentagon: 0.0
+1782: 0.0
+6there: 0.0
 
 -----------------------------------
 Instance 67 out of 364
@@ -1441,16 +1441,16 @@ Wylie Church of Christ
   • Contact U...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-wgea: 0.0
-iheu300: 0.0
-gents: 0.0
-人それぞれ重視するポイントは違うと思います: 0.0
-rescue: 0.0
-universist: 0.0
-d4064625: 0.0
-palimpsest: 0.0
-spouted: 0.0
-kreeft: 0.0
+3378: 0.0
+homeright: 0.0
+goring: 0.0
+atheiblogleave: 0.0
+18thgo: 0.0
+1310: 0.0
+écrits: 0.0
+osce: 0.0
+f01: 0.0
+20am: 0.0
 
 -----------------------------------
 Instance 68 out of 364
@@ -1471,16 +1471,16 @@ About
 HNPS is a non-profit 501(c)(3...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-churchofengland: 0.0
-lord: 0.0
-establisheth: 0.0
-rowlett: 0.0
-balanced: 0.0
-ethical: -0.025841823723200978
-verily: 0.0
-exceptionalism: 0.0
-interviewees: 0.0
-dobromil: 0.0
+christakis: 0.0
+sx: 0.0
+untrustworthiness: 0.0
+gahannachurchofchrist: 0.0
+jewish: 0.0
+sovereigns: 0.0
+wechsler: 0.0
+gazing: 0.0
+1900: 0.0
+vick: 0.0
 
 -----------------------------------
 Instance 69 out of 364
@@ -1491,16 +1491,16 @@ Life is not meant to be lived in a straight line. Bend the rail.
 Wednesday, November 4...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-neurobiology: 0.0
-uzzah: 0.0
-resizedimage300225: 0.0
-modo: 0.0
-fq0: 0.0
-qrytext: 0.0
-rosebrough: 0.0
-carmina: 0.0
-4rt: 0.0
-augustus: 0.0
+1280px: 0.0
+mereatheism: 0.0
+countryside: 0.0
+bolster: 0.0
+xt3v: 0.0
+battlefront: 0.0
+had: -0.010302475541689435
+9636: 0.0
+ybs: 0.0
+apes: 0.0
 
 -----------------------------------
 Instance 70 out of 364
@@ -1513,16 +1513,16 @@ Welcome to Rydal Penrhos School
 Swimming: Final preparati...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-complacently: 0.0
-unwitting: 0.0
-suspicious: 0.0
-laytonville: 0.0
-hilo: 0.0
-restores: 0.0
-panties: 0.0
-thumb_2848: 0.0
-wrn: 0.0
-cheeba: 0.0
+xenu: 0.0
+creative: 0.0
+11178: 0.0
+diplomats: 0.0
+exteriorly: 0.0
+dustcircle: 0.0
+chortle: 0.0
+nightline: 0.0
+igrajući: 0.0
+caraccioli: 0.0
 
 -----------------------------------
 Instance 71 out of 364
@@ -1535,16 +1535,16 @@ Your cart is empty.
 ...you'll find more products in the...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-warraq: 0.0
-5q: 0.0
-sensitiveness: 0.0
-spiritwild: 0.0
-movement: 0.0
-explored: 0.0
-ブーツ携帯買取白ロム買取: 0.0
-one: -0.0016977478094873356
-å¹: 0.0
-emert: 0.0
+thom_hartmann_program: 0.0
+neuronal: 0.0
+funk: 0.0
+calico: 0.0
+bttn_wakesfuneralsv2: 0.0
+awful: 0.0
+withheld: 0.0
+thumb_4363: 0.0
+pleasing: 0.0
+frater: 0.0
 
 -----------------------------------
 Instance 72 out of 364
@@ -1561,16 +1561,16 @@ Australian Skeptics Inc
       □ E...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-jangling: 0.0
-chickened: 0.0
-financejan: 0.0
-squeeze: 0.0
-hoodwink: 0.0
-topchristianhits: 0.0
-legali: 0.0
-fakery: 0.0
-pid: 0.0
-proposto: 0.0
+deliv: 0.0
+herein: 0.0
+memo: 0.0
+glocks: 0.0
+0h: 0.0
+iò: 0.0
+cheektowaga: 0.0
+grandsons: 0.0
+bachmann: 0.0
+1baltimore: 0.0
 
 -----------------------------------
 Instance 73 out of 364
@@ -1583,16 +1583,16 @@ Text:   • About Us
     ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-1142: 0.0
-黒人ミュージシャンが魂なき音楽として: 0.0
-rhythmic: 0.0
-janiculum: 0.0
-records: 0.0
-zin: 0.0
-platz: 0.0
-lemon: 0.0
-専門の査定員がいるためリサイクルショップと比較しても高額になる: 0.0
-abita: 0.0
+statt: 0.0
+eh3: 0.0
+yl: 0.0
+mucus: 0.0
+shelley: 0.0
+walter: 0.0
+zellers: 0.0
+dó: 0.0
+11jul199: 0.0
+whisnants: 0.0
 
 -----------------------------------
 Instance 74 out of 364
@@ -1603,16 +1603,16 @@ Text: [header]
 [ind] Home    About  Ministries Sacraments Events T...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-uzp: 0.0
-他の勤め先も苦労なく: 0.0
-flathead: 0.0
-grownups: 0.0
-marque: 0.0
-rhetological: 0.0
-04th: 0.0
-56kb: 0.0
-thetonights: 0.0
-qsi: 0.0
+3f57a3: 0.0
+seekingtruth: 0.0
+agatha: 0.0
+prizes: 0.0
+outlet: 0.0
+phrenologists: 0.0
+red_div_h: 0.0
+overpopulation: 0.0
+microbiota: 0.0
+withoutabox: 0.0
 
 -----------------------------------
 Instance 75 out of 364
@@ -1627,16 +1627,16 @@ Text: Macedonia World Baptist Missions, Inc.
   • Ab...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-glamorous: 0.0
-dragnet: 0.0
-linkbar_r4_c2: 0.0
-railing: 0.0
-tarkowsky: 0.0
-nom_sa_300: 0.0
-senders: 0.0
-11047106756_7499efcc1e_o: 0.0
-unimpeachable: 0.0
-pï: 0.0
+thewallstre: 0.0
+nuremberg: 0.0
+root: 0.0
+waterfall: 0.0
+rmfq: 0.0
+dordoni: 0.0
+blanchi: 0.0
+blunderbuss: 0.0
+juno: 0.0
+springdale: 0.0
 
 -----------------------------------
 Instance 76 out of 364
@@ -1644,16 +1644,16 @@ Text: 216 Wyoming Mill Road - Dover, DE 19904 Sundays: 8:30am (Praise) | 9:45pm
 (Worship Together!)| 11:00...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-veils: 0.0
-jobsanger: 0.0
-colonialism: 0.0
-tut: 0.0
-sniperman: 0.0
-cataclysmic: 0.0
-tearfund: 0.0
-admiral: 0.0
-razi: 0.0
-medicis: 0.0
+thatnerdysciencegirl: 0.0
+ingolstadt: 0.0
+1848: 0.0
+energy: 0.0
+qmul: 0.0
+r_q: 0.0
+intermarriage: 0.0
+hades: 0.0
+spirito: 0.0
+gotgtemplate2_r1_c6: 0.0
 
 -----------------------------------
 Instance 77 out of 364
@@ -1667,16 +1667,16 @@ Text: [logo]
       □ Ses...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-latet: 0.0
-spook: 0.0
-3060: 0.0
-rehabilitate: 0.0
-consolidation: 0.0
-revd: 0.0
-substitute: 0.0
-menstrual: 0.0
-plotting: 0.0
-cognizing: 0.0
+sydneyatheists: 0.0
+arouses: 0.0
+torturous: 0.0
+patterson: 0.0
+usc: 0.0
+zwar: 0.0
+turtles: 0.0
+rickross: 0.0
+49326: 0.0
+婚約: 0.0
 
 -----------------------------------
 Instance 78 out of 364
@@ -1690,16 +1690,16 @@ Text: Image
       □ Stated Meeting...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-rendez: 0.0
-graciously: 0.0
-prince: 0.0
-header02: 0.0
-diocletian: 0.0
-schreck: 0.0
-_2ö: 0.0
-paradisal: 0.0
-accountability: 0.0
-dal: 0.0
+abita: 0.0
+elist: 0.0
+1640: 0.0
+93170180_8: 0.0
+isms: 0.0
+mortensen: 0.0
+kî: 0.0
+occupation: 0.0
+2369400919: 0.0
+micki: 0.0
 
 -----------------------------------
 Instance 79 out of 364
@@ -1714,16 +1714,16 @@ Home
 Marg...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-musicae: 0.0
-nmr: 0.0
-sewers: 0.0
-germanic: 0.0
-abruptly: 0.0
-eü: 0.0
-wpa4542b9a: 0.0
-persuaded: 0.0
-batma: 0.0
-arianism: 0.0
+ityfiabmctt: 0.0
+ioannidis: 0.0
+ezrnehestjob: 0.0
+dancer: 0.0
+natured: 0.0
+slþ: 0.0
+collaboration: 0.0
+reformata: 0.0
+mandela: 0.0
+recalls: 0.0
 
 -----------------------------------
 Instance 80 out of 364
@@ -1731,16 +1731,16 @@ Text: The CFI Web Network [-----  Make a Selection  -----]
 Our Mission   |   Newsroom   |   Contact Us   |...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-wud: 0.0
-resourcing: 0.0
-global_109475002: 0.0
-survivability: 0.0
-scheming: 0.0
-firefly: 0.0
-26thgo: 0.0
-gecewicz: 0.0
-robot: 0.0
-prosphora: 0.0
+credulous: 0.0
+contemptible: 0.0
+crouched: 0.0
+tomrjerk2: 0.0
+gmx: 0.0
+dvm: 0.0
+eyring: 0.0
+objections: 0.0
+dansk: 0.0
+marcionites: 0.0
 
 -----------------------------------
 Instance 81 out of 364
@@ -1750,16 +1750,16 @@ AwayPoint: Between An Island of Certainties and the Unknown Shore
 [cropped-header...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-fingers: 0.0
-sarpi: -6.938893903907228e-18
-od: 0.0
-paragraphs: 0.0
-series: -0.043696229588500134
-bloc: 0.0
-violationcontact: 0.0
-hankey: 0.0
-balked: 0.0
-アテネの政治家であるデモステネスがリングの石に毒を入れて持: 0.0
+moval: 0.0
+offer: 0.0
+deuterocanonical: 0.0
+ambulabam: 0.0
+undesignating: 0.0
+научный: 0.0
+lingering: 0.0
+numb: 0.0
+seidensticker: 0.0
+misleadingly: 0.0
 
 -----------------------------------
 Instance 82 out of 364
@@ -1773,16 +1773,16 @@ Text:
   • ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-menschenaffen: 0.0
-mô: 0.0
-alchemy: 0.0
-hssblogoco: 0.0
-way_of_the_cr: 0.0
-vogt: 0.0
-vicitims: 0.0
-naručiti: 0.0
-virgin: 0.0
-1ñ: 0.0
+lapsley: 0.0
+mychurchwebsite: 0.0
+decked: 0.0
+robb: 0.0
+mounts: 0.0
+neurosciencethe: 0.0
+cheapened: 0.0
+shuruq: 0.0
+rtk: 0.0
+ucs: 0.0
 
 -----------------------------------
 Instance 83 out of 364
@@ -1797,16 +1797,16 @@ Site Search powered by Ajax
   •...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-project: 0.0
-fever: 0.0
-z4i: 0.0
-新潟中央自動車学校: 0.0
-ritz: 0.0
-avatar_82f: 0.0
-rockets: 0.0
-85739: 0.0
-broadest: 0.0
-fccbrla: 0.0
+vita: 0.0
+ncbc: 0.0
+muelhoff: 0.0
+hpt: 0.0
+proxies: 0.0
+rau: 0.0
+adams_400: 0.0
+club: 0.0
+palacios: 0.0
+punishments: 0.0
 
 -----------------------------------
 Instance 84 out of 364
@@ -1817,16 +1817,16 @@ gkg.net logo
   • Domain Na...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-editions: 0.0
-additives: 0.0
-global_392577562: 0.0
-quiénes: 0.0
-passerine: 0.0
-lion2: 0.0
-gaulle: 0.0
-reclaimed: 0.0
-sears: 0.0
-garvey: 0.0
+global_120: 0.0
+deadliest: 0.0
+gregarious: 0.0
+avatar_441: 0.0
+invents: 0.0
+queens: 0.0
+overloaded: 0.0
+revelations: 0.0
+migliore: 0.0
+badge: 0.0
 
 -----------------------------------
 Instance 85 out of 364
@@ -1842,34 +1842,34 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-cockburn: 0.0
-yrs: 0.0
-disingenuously: 0.0
-theres: 0.0
-thumb_1696: 0.0
-holysmoke: 0.0
-1275: 0.0
-riverwestradio: 0.0
-illuminations: 0.0
-otley: 0.0
+usb: 0.0
+talmage: 0.0
+dishonorable: 0.0
+hindu: 0.0
+agag: 0.0
+telepathically: 0.0
+capriciously: 0.0
+rapidly: 0.0
+ooxå: 0.0
+m5p: 0.0
 
 -----------------------------------
 Instance 86 out of 364
 Text:                          Chinese translation in traditional & simplified script
 
                    ...
-Predicted class: christianity, True class: christianity
+Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-fanjet: 0.0
-polemiche: 0.0
-11jul199: 0.0
-worldwidechurchgod: 0.0
-quasi: 0.0
-ranked: 0.0
-harry: 0.0
-gta: 0.0
-karamazov: 0.0
-smc: 0.0
+721248: 0.0
+slavery: 0.0
+grey: 0.0
+bat: 0.0
+utc: 0.0
+855: 0.0
+revolution: 0.0
+enzyte: 0.0
+jq: 0.0
+tripling: 0.0
 
 -----------------------------------
 Instance 87 out of 364
@@ -1885,16 +1885,16 @@ Text: [ico_facebo] [ico_twitte]
 Staff of ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-poem: 0.0
-1375: 0.0
-8ú: 0.0
-09zcuploa7: 0.0
-conforms: 0.0
-dirmod: 0.0
-stony: 0.0
-hurriedly: 0.0
-9009858: 0.0
-gloria: 0.0
+cm: 0.0
+ibnxadj: 0.0
+southerner: 0.0
+auspices: 0.0
+seaside: 0.0
+irenaeus: 0.0
+isil: 0.0
+1038709305: 0.0
+absolutists: 0.0
+heeled: 0.0
 
 -----------------------------------
 Instance 88 out of 364
@@ -1912,16 +1912,16 @@ Text:
   • Episo...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-discovered: 0.0
-dyre: 0.0
-1127: 0.0
-flue: 0.0
-behaved: 0.0
-church_1_0: 0.0
-espouses: 0.0
-analyses: 0.0
-testicular: 0.0
-大垣自動車学校: 0.0
+mamba: 0.0
+loxton: 0.0
+wdiy: 0.0
+distorting: 0.0
+strangle: 0.0
+488: 0.0
+dfd: 0.0
+greenfield: 0.0
+326369: 0.0
+corfe: 0.0
 
 -----------------------------------
 Instance 89 out of 364
@@ -1936,16 +1936,16 @@ Text: logo
   • War...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-pendegrass: 0.0
-hints: 0.0
-whitt: 0.0
-avatar_d8d: 0.0
-taurid: 0.0
-blasphemer: 0.0
-educacion: 0.0
-thingie: 0.0
-lepage: 0.0
-1599: 0.0
+dimmed: 0.0
+4640: 0.0
+global_38271991: 0.0
+drinks: 0.0
+valparaiso: 0.0
+nawalparasi: 0.0
+comments: 0.0
+nailing: 0.0
+aspirant: 0.0
+thumbnail_d: 0.0
 
 -----------------------------------
 Instance 90 out of 364
@@ -1961,16 +1961,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-repositioned: 0.0
-italian: 0.0
-nth: 0.0
-threefold: 0.0
-vowels: 0.0
-fallmeetin: 0.0
-tje: 0.0
-elke: 0.0
-先日悲劇に直面し神様の存在を疑いました: 0.0
-xrayman: 0.0
+karmelita: 0.0
+travlled: 0.0
+pseudepigrapha: 0.0
+riverview: 0.0
+sitepatrick: 0.0
+satanists: 0.0
+lebat: 0.0
+thumb_2848: 0.0
+contends: 0.0
+horrendous: 0.0
 
 -----------------------------------
 Instance 91 out of 364
@@ -1984,16 +1984,16 @@ Text: LogoLogoLogoLogo
       □...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-announcements: 0.0
-fcc: 0.0
-skylines: 0.0
-global_223: 0.0
-acm: 0.0
-exhibitionism: 0.0
-easters: 0.0
-loaf: 0.0
-picture1: 0.0
-valenti: 0.0
+ainscough: 0.0
+conscience: 0.0
+4942: 0.0
+wrapping: 0.0
+nimble: 0.0
+moment: 0.0
+dictator: 0.0
+papercuts: 0.0
+chaque: 0.0
+blaisdell: 0.0
 
 -----------------------------------
 Instance 92 out of 364
@@ -2009,16 +2009,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-linkbar_r11_c2: 0.0
-_5: 0.0
-1ò: 0.0
-discretion: 0.0
-neuroscientists: 0.0
-speyer: 0.0
-cortex: 0.0
-gotham: 0.0
-ocoee: 0.0
-emancipated: 0.0
+subsite: 0.0
+wisecrack: 0.0
+volusion: 0.0
+sweat: 0.0
+ö²: 0.0
+tþ: 0.0
+enzyte: 0.0
+4684: 0.0
+frmaximos8: 0.0
+abortusa: 0.0
 
 -----------------------------------
 Instance 93 out of 364
@@ -2030,16 +2030,16 @@ Text: Skip to content
       □ Our Faith...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-78254: 0.0
-orderly: 0.0
-mutjinga: 0.0
-colie: 0.0
-wpa04becf5: 0.0
-shui: 0.0
-usual: 0.0
-rooms: 0.0
-botton: 0.0
-pless: 0.0
+domino: 0.0
+envying: 0.0
+affiliation: 0.0
+continuation: 0.0
+1700: 0.0
+bathvlog_10: 0.0
+uus: 0.0
+lbs: 0.0
+____________________________________________________________________________________________________: 0.0
+cpac: 0.0
 
 -----------------------------------
 Instance 94 out of 364
@@ -2049,32 +2049,32 @@ Text: bg image()
         ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-tetzel: 0.0
-寂しさからだったと思います: 0.0
-48cd852fa2: 0.0
-sorts: 0.0
-slide_blog: 0.0
-marset: 0.0
-techniques: 0.0
-dribbble: 0.0
-dragons: 0.0
-speedily: 0.0
+strongholds: 0.0
+mich: 0.0
+easing: 0.0
+dir: 0.0
+dreadful: 0.0
+foreg: 0.0
+img_12: 0.0
+daze: 0.0
+fornos: 0.0
+absorb: 0.0
 
 -----------------------------------
 Instance 95 out of 364
 Text: [left_co_top] embed(fla/main.swf)                                                            [right_...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ムダ毛は: 0.0
-vr: 0.0
-natura: 0.0
-safely: 0.0
-frequency: 0.0
-756: 0.0
-interventions: 0.0
-gratian: 0.0
-bernadino: 0.0
-billhardt: 0.0
+spiderweb: 0.0
+menfolk: 0.0
+discursive: 0.0
+w9g5w3: 0.0
+kumbayah: 0.0
+buzzfeed_10: 0.0
+mailed: 0.0
+advantages: 0.0
+abou: 0.0
+novice: 0.0
 
 -----------------------------------
 Instance 96 out of 364
@@ -2086,16 +2086,16 @@ Text: homepage
                  Web site and contents (C...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-libs: 0.0
-drehung: 0.0
-lighthouse9979: 0.0
-mating: 0.0
-arky: 0.0
-mailman: 0.0
-jamhal: 0.0
-serve: 0.0
-繁體中文: 0.0
-prepared: 0.0
+cadenced: 0.0
+troubles: 0.0
+foreword: 0.0
+tyrol: 0.0
+evansnew: 0.0
+patronising: 0.0
+butt: 0.0
+phylowiki: 0.0
+aryeh: 0.0
+更新履歴: 0.0
 
 -----------------------------------
 Instance 97 out of 364
@@ -2103,16 +2103,16 @@ Text: [topleft]      Church of St.Peter, Bushey Heath, Hertfordshire       [topr
                     ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-strumpets: 0.0
-farmhouse: 0.0
-shfg: 0.0
-gal: 0.0
-ï½: 0.0
-chiasmic: 0.0
-krauss: 0.0
-gaiety: 0.0
-deaths: 0.0
-hefty: 0.0
+sanctimommy: 0.0
+terce: 0.0
+rankings: 0.0
+lifemissions: 0.0
+6c: 0.0
+caiden: 0.0
+fertilize: 0.0
+trisha: 0.0
+myspace_ad: 0.0
+masons: 0.0
 
 -----------------------------------
 Instance 98 out of 364
@@ -2125,16 +2125,16 @@ Sidebar[Skip]
 Leviticus 11:3 You may eat any animal that has a sp...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-gtf: 0.0
-その為: 0.0
-viewers: 0.0
-shrank: 0.0
-126th: 0.0
-constantius: 0.0
-zc3: 0.0
-gyrating: 0.0
-sheaffer: 0.0
-ninian: 0.0
+lark: 0.0
+06762: 0.0
+1000: 0.0
+20t00: 0.0
+closures: 0.0
+nazair: 0.0
+bis_contributer_logo_300: 0.0
+impracticability: 0.0
+trompe: 0.0
+rehnquist: 0.0
 
 -----------------------------------
 Instance 99 out of 364
@@ -2146,18 +2146,18 @@ The Oasis The Oasis
       □ Welcome
       □ Our Beliefs
       □ Our Missio...
-Predicted class: atheism, True class: christianity
+Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-chronicler: 0.0
-mcvay: 0.0
-58pm: 0.0
-volleyball: 0.0
-camera: 0.0
-reliability: 0.0
-mumford: 0.0
-20021022: 0.0
-chromosomes: 0.0
-hoadley: 0.0
+1449185670: 0.0
+warsecond: 0.0
+istvan: 0.0
+surgical: 0.0
+predatorsв: 0.0
+sprouts_1: 0.0
+explorer: 0.0
+pw: 0.0
+topflash: 0.0
+theorems: 0.0
 
 -----------------------------------
 Instance 100 out of 364
@@ -2167,16 +2167,16 @@ Site RSS Site
         The Baptist      CELEBRATING LIFE IN     [             ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-satisfy: 0.0
-64: 0.0
-rwwebbutton: 0.0
-grandsons: 0.0
-0046_01: 0.0
-vexiuxign: 0.0
-pilfered: 0.0
-unconfessed: 0.0
-fêtes: 0.0
-thumb_1033: 0.0
+crystaldreaming: 0.0
+mcc: 0.0
+boom: 0.0
+buckcash: 0.0
+arnoume: 0.0
+33: 0.0
+filleth: 0.0
+googlegroups: 0.0
+gusto: 0.0
+stylistic: 0.0
 
 -----------------------------------
 Instance 101 out of 364
@@ -2192,16 +2192,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-devoid: 0.0
-newcomer: 0.0
-lucy: 0.0
-afp: 0.0
-genomes: 0.0
-vicious: 0.0
-aestholatry: 0.0
-booker: 0.0
-fondazione: 0.0
-irascible: 0.0
+global_436672925: 0.0
+img_pastor: 0.0
+love: 0.0
+overfill: 0.0
+polanski: 0.0
+4228: 0.0
+garry: 0.0
+qualification: 0.0
+319: 0.0
+plumjam: 0.0
 
 -----------------------------------
 Instance 102 out of 364
@@ -2210,16 +2210,16 @@ Text: bg image(../background.gif)
 Returning now to what I was saying about locutions, these may come from...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-451: 0.0
-sais: 0.0
-immigration: 0.0
-whangdoodle: 0.0
-961: 0.0
-stephanie: 0.0
-oversell: 0.0
-baloney: 0.0
-joplin: 0.0
-ql0: 0.0
+pasta: 0.0
+racked: 0.0
+falsifiable: 0.0
+4494: 0.0
+visitation: 0.0
+claims2let: 0.0
+hss__3ql58: 0.0
+wildhorsessunsetsearch: 0.0
+susanlyn: 0.0
+183197_lup: 0.0
 
 -----------------------------------
 Instance 103 out of 364
@@ -2235,16 +2235,16 @@ Text: top-menu
 CultOfDusty...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-carly: 0.0
-azodicarbonamide: 0.0
-escalating: 0.0
-joints: 0.0
-v_img2: 0.0
-commandments: 0.0
-90036: 0.0
-esoterica: 0.0
-d1: 0.0
-engine: 0.0
+sheathed: 0.0
+more_artic: 0.0
+allegiance: 0.0
+egg: 0.0
+awp: 0.0
+radest: 0.0
+nomi: 0.0
+amours: 0.0
+texashumanists: 0.0
+hewn: 0.0
 
 -----------------------------------
 Instance 104 out of 364
@@ -2256,16 +2256,16 @@ Download Acrobat version
                        ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-falsely: -0.049676909012949425
-10when: 0.0
-funerailles: 0.0
-nai: 0.0
-upset: 0.0
-petrol: 0.0
-tempe: 0.0
-clickhere: 0.0
-1251: 0.0
-quacks: 0.0
+madisonwhen: 0.0
+responsorial: -1.734723475976807e-18
+felicia: 6.938893903907228e-18
+hfcc: 0.0
+12h: 1.7105694144590052e-49
+guru: -2.127007175050195e-63
+harvest: -0.006319437932818863
+circling: 0.0
+jshh_gbc_facebook: 0.0
+antichristian: -0.022694244476191068
 
 -----------------------------------
 Instance 105 out of 364
@@ -2274,16 +2274,16 @@ Text: Welcome, Guest. Please login or register.
 January 12, 2016, 05:12...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-あとは神頼みだね: 0.0
-thermals: 0.0
-moq: 0.0
-eccius: 0.0
-hearing: 0.0
-42: 0.004666390002684083
-herdingcats: 0.0
-munster: 0.0
-reprisal: 0.0
-decals: 0.0
+invents: 0.0
+aea13ganrgq: 0.0
+badge: 0.0
+jas: 0.0
+signatur: 0.0
+loins: 0.0
+fecundated: 0.0
+somehow: 0.0
+officiate: 0.0
+bayard: 0.0
 
 -----------------------------------
 Instance 106 out of 364
@@ -2297,16 +2297,16 @@ Text: skip to main | skip to sidebar
     info, officer...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-審美歯科は銀座にもありますが: 0.0
-μαρτυρῶν: 0.0
-skeena: 0.0
-vó: 0.0
-holy: 0.0
-latitude: 0.0
-reiser: 0.0
-img_5: 0.0
-banbury: 0.0
-eulogized: 0.0
+lamarck: 0.0
+posits: 0.0
+norvasc: 0.0
+pendulum: 0.0
+barn: 0.0
+patriarchal: 0.0
+prooftexts: 0.0
+studley: 0.0
+d5wah: 0.0
+christmase: 0.0
 
 -----------------------------------
 Instance 107 out of 364
@@ -2315,16 +2315,16 @@ Text: Encounter Devotionals by Zach Wood
 Welcome to my Encounter Devotionals Blog Site. I appreciate you ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-dashed: 0.0
-crossescrosses: 0.0
-index_r2_c7: 0.0
-scapulars: 0.0
-heward: 0.0
-mort: 0.0
-d3ad: 0.0
-photocar: 0.0
-packers: 0.0
-rationalists: 0.0
+pastures: 0.0
+inquiring: 0.0
+chili: 0.0
+site_layouts: 0.0
+championship: 0.0
+freeflo: 0.0
+circumspect: 0.0
+greek: 0.0
+vicarage: 0.0
+2f11: 0.0
 
 -----------------------------------
 Instance 108 out of 364
@@ -2339,18 +2339,18 @@ Follow Us:
 
   • About
     ...
-Predicted class: atheism, True class: christianity
+Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-seidensticker: 0.0
-disse: 0.0
-remembers: 0.0
-broadcasters: 0.0
-sunart: 0.0
-roald: 0.0
-foothi: 0.0
-leadmari2016: 0.0
-acoustic: 0.0
-cwl: 0.0
+peacht: 0.0
+drips: 0.0
+dijon: 0.0
+barcelona: 0.0
+impromptu: 0.0
+eldoret: 0.0
+esperto: 0.0
+giant: 0.0
+twincities_stpaul: 0.0
+ishmael: 0.0
 
 -----------------------------------
 Instance 109 out of 364
@@ -2366,16 +2366,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-scitt: 0.0
-bonding: 0.0
-sombrero: 0.0
-undoubted: 0.0
-aufgelöste: 0.0
-fecundity: 0.0
-potrebe: 0.0
-eakins: 0.0
-offensivi: 0.0
-ascend: 0.0
+lî: 0.0
+bulgars: 0.0
+témoignage: 0.0
+secretary: 0.0
+1168217240: 0.0
+classics200: 0.0
+entailed: 0.0
+glaze: 0.0
+deign: 0.0
+bqphljkcmaeo9gy: 0.0
 
 -----------------------------------
 Instance 110 out of 364
@@ -2392,16 +2392,16 @@ bloodyclams
 Sat...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-braga: 0.0
-ryl: 0.0
-brands: 0.0
-australian: 0.0
-ちなみに私も合宿免許プラスを運営するナンバメイトを利用して合宿に行って免許をと: 0.0
-didst: 0.0
-variation: 0.0
-zxj: 0.0
-group_jan: 0.0
-cornell: 0.0
+poorest: 0.0
+sprightly: 0.0
+spotlights: 0.0
+whales: 0.0
+führte: 0.0
+plc: 0.0
+gregorius: 0.0
+portrayals: 0.0
+maeanna: 0.0
+455: 0.0
 
 -----------------------------------
 Instance 111 out of 364
@@ -2413,16 +2413,16 @@ Text:   • Home
       □ Youth ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ldl: 0.0
-unhealthfully: 0.0
-deviating: 0.0
-arbitrator: 0.0
-superprize: 0.0
-protester: 0.0
-krugel: 0.0
-tribune: 0.0
-actually: 0.0
-aol: 0.0
+_2ö: 0.0
+1368: 0.0
+hcct_01: 0.0
+gannon: 0.0
+zillman: 0.0
+closeted: 0.0
+felony: 0.0
+somos: 0.0
+ascendency: 0.0
+darklady: 0.0
 
 -----------------------------------
 Instance 112 out of 364
@@ -2436,16 +2436,16 @@ Secular Student Alliance
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-mansbridge: 0.0
-global_517: 0.0
-overlords: 0.0
-日頃から自分でできる毛皮の手入れ: 0.0
-spots: 0.0
-barkun: 0.0
-0000089793: 0.0
-manhood: 0.0
-実際に婚活する人と: 0.0
-kimmel: 0.0
+nonwhite: 0.0
+almsgiver: 0.0
+caton: 0.0
+32m: 0.0
+hes: 0.0
+shatnerology: 0.0
+brubakken: 0.0
+millicent: 0.0
+買取査定額の値段の相違が明示されるので: 0.0
+合病院は: 0.0
 
 -----------------------------------
 Instance 113 out of 364
@@ -2461,16 +2461,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-barest: 0.0
-658: 0.0
-facebook_account: 0.0
-obuka: 0.0
-molecules: 0.0
-nick: 0.0
-36the: 0.0
-syncopated: 0.0
-gotham: 0.0
-182: 0.0
+speedy: 0.0
+coop: 0.0
+yasser: 0.0
+liturgy: 0.0
+catalysts: 0.0
+098: 0.0
+suicides: 0.0
+situation: 0.0
+innsolvent: 0.0
+richfield: 0.0
 
 -----------------------------------
 Instance 114 out of 364
@@ -2481,16 +2481,16 @@ Text: LifeRing Secular Recovery
       □ New to LifeRing?...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-2mths: 0.0
-rev: 0.0
-johnson: 0.0
-begs: 0.0
-insecure: 0.0
-ndé: 0.0
-accelerating: 0.0
-ivn: 0.0
-854: 0.0
-encourages: 0.0
+header_log: 0.0
+widely: 0.0
+fools: 0.0
+john_lennox_and_chri: 0.0
+measurably: 0.0
+filament: 0.0
+vô: 0.0
+inflammation: 0.0
+assurance: 0.0
+nonresident: 0.0
 
 -----------------------------------
 Instance 115 out of 364
@@ -2503,16 +2503,16 @@ Text:   • Welcome
 Prince of Peace Lutheran ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-mohammad: 0.0
-transmitted: 0.0
-2013年8月15日: 0.0
-vf0lrjtl2y: 0.0
-healthy: 0.0
-overholt: 0.0
-squatting: 0.0
-wrongs: 0.0
-supervises: 0.0
-unprejudiced: 0.0
+omnipotence: 0.0
+steviepinhead: 0.0
+jr9rvwb: 0.0
+mps: 0.0
+7412345: 0.0
+paulist: 0.0
+zvi: 0.0
+implode: 0.0
+partie: 0.0
+initiator: 0.0
 
 -----------------------------------
 Instance 116 out of 364
@@ -2524,16 +2524,16 @@ Text: The AHA FoundationThe AHA Foundation
       □ Our Peop...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-chiropractic: 0.0
-mazomanie: 0.0
-erase: 0.0
-nuys: 0.0
-coalesced: 0.0
-unholier: 0.0
-šaljem: 0.0
-jurisdictional: 0.0
-cesarean: 0.0
-trivialized: 0.0
+neighbourly: 0.0
+ecdvdcover: 0.0
+cripples: 0.0
+poplin: 0.0
+soulful: 0.0
+extremo: 0.0
+hide: -0.043410114648171995
+netrsvasvylt: 0.0
+sostieni: 0.0
+risposto: 0.0
 
 -----------------------------------
 Instance 117 out of 364
@@ -2544,33 +2544,33 @@ Offering an alternative to the religious groups on campus since 2009
 Search [     ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-allud: 0.0
-2080: 0.0
-b6: 0.0
-areasontobelieve: 0.0
-metaphysical: 0.0
-webguy: 0.0
-service: 0.0
-ccr: 0.0
-もっと詳しくいろいろ知りたいという方はこちらの自動車免許を合宿でとりに行くなら: 0.0
-ô½ü: 0.0
+943: 0.0
+taked: 0.0
+nascent: 0.0
+mapperley: 0.0
+wanyonyi: 0.0
+tf: 0.0
+scienceexpress: 0.0
+dolores: 0.0
+birthplace: 0.0
+surpassing: 0.0
 
 -----------------------------------
 Instance 118 out of 364
 Text: bg image(../2.jpg)
 ┏━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
-Predicted class: christianity, True class: atheism
+Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-5567: 0.0
-tightening: 0.0
-passes: 0.0
-for_dummie: 0.0
-prochurch: 0.0
-givingonline: 0.0
-misspelled: 0.0
-dilated: 0.0
-centerforinquiry: 0.0
-foundered: 0.0
+j56: 0.0
+upgrader: 0.0
+enlightened: 0.0
+2475: 0.0
+sidebarsep: 0.0
+pinprick: 0.0
+athletically: 0.0
+35260475: 0.0
+leaps: 0.0
+solicitations: 0.0
 
 -----------------------------------
 Instance 119 out of 364
@@ -2584,16 +2584,16 @@ Secular Yakking header image 1
 Epid...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-supertasks: 0.0
-disbelieves: 0.0
-sired: 0.0
-prebiotic: 0.0
-busboys: 0.0
-whips: 0.0
-kino: 0.0
-zealanders: 0.0
-2452: 0.0
-congregants: 0.0
+seminary: 0.0
+maricopa: 0.0
+ipswich: 0.0
+norwood: 0.0
+moutons: 0.0
+14a: 0.0
+capitulation: 0.0
+dreamers: 0.0
+civile: 0.0
+spiderman: 0.0
 
 -----------------------------------
 Instance 120 out of 364
@@ -2609,16 +2609,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-9x_br: 0.0
-remove: 0.0
-linkbar_r10_c2: 0.0
-volunteer: 0.0
-bewitched: 0.0
-foreseeable: 0.0
-yan: 0.0
-xo1: 0.0
-whereupon: 0.0
-sc002198: 0.0
+3degc: 0.0
+免許合宿を楽しむためにはを更新しました: 0.0
+της: 0.0
+enemas: 0.0
+alam: 0.0
+expelled: 0.0
+trepidation: 0.0
+senese: 0.0
+spill: 0.0
+heaving: 0.0
 
 -----------------------------------
 Instance 121 out of 364
@@ -2627,16 +2627,16 @@ Home Bishop of Stamford Eparchy of Stamford Parishes Safe Environment Media
 Related Li...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-浜松自動車学: 0.0
-crown: 0.0
-unkillable: 0.0
-fatcow: 0.0
-300ad: 0.0
-talking: 0.0
-año: 0.0
-maris: 0.0
-fsmidlands: 0.0
-elric: 0.0
+terrific: 0.0
+enucleating: 0.0
+righteousness: 0.0
+po5: 0.0
+occasionals: 0.0
+rapture: 0.0
+virgiliu: 0.0
+kadampa: 0.0
+winace: 0.0
+opie: 0.0
 
 -----------------------------------
 Instance 122 out of 364
@@ -2652,16 +2652,16 @@ Text: [Fellowship]
   •...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-gm: 0.0
-rheeformers: 0.0
-banner6: 0.0
-historicity: 0.0
-cerritos: 0.0
-rests: 0.0
-amf: 0.0
-icing: 0.0
-ἀνταναπληρῶ: 0.0
-deported: 0.0
+cockroaches: 0.0
+3280915: 0.0
+ringing: 0.0
+infe: 0.0
+cbm: 0.0
+rcamid: 0.0
+981: 0.0
+showing: 0.0
+rossi: 0.0
+pregnancies: 0.0
 
 -----------------------------------
 Instance 123 out of 364
@@ -2672,16 +2672,16 @@ Text: [counter]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-avoiding: 0.0
-surveying: 0.0
-surrogate: 0.0
-introductory: 0.0
-revives: 0.0
-kew: 0.0
-photographers: 0.0
-experiences: 0.0
-verbum: 0.0
-separated: 0.0
+teilnehmerin: 0.0
+vesiculae: 0.0
+wwv: 0.0
+1029: 0.0
+pardoned: 0.0
+severin: 0.0
+taunts: 0.0
+abbreviation: 0.0
+whistorn: 0.0
+touches: 0.0
 
 -----------------------------------
 Instance 124 out of 364
@@ -2697,16 +2697,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-oxen: 0.0
-global_5072813: 0.0
-ambush: 0.0
-lxxx: 0.0
-undercuts: 0.0
-1038709305: 0.0
-wondering: 0.0
-leere: 0.0
-oñ: 0.0
-powerful: 0.0
+taunts: 0.0
+pomp: 0.0
+objectives: 0.0
+jerome: 0.0
+steadfast: 0.0
+outgrowths: 0.0
+rno: 0.0
+williston: 0.0
+morbidly: 0.0
+reitmeiers: 0.0
 
 -----------------------------------
 Instance 125 out of 364
@@ -2716,16 +2716,16 @@ Text: Principia Discordia - Welcome to our FNORD
   • Read the Black Iron...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-southpawssmall: 0.0
-valkenburg: 0.0
-iscrizione: 0.0
-izitru: 0.0
-zone_: 0.0
-09pm: 0.0
-fdr: 0.0
-grimaldi: 0.0
-bleyer: 0.0
-coursework: 0.0
+avatar_2b5: 0.0
+07794: 0.0
+overworked: 0.0
+maga: 0.0
+trade: 0.0
+79: 0.0
+tvs: 0.0
+vittorio: 0.0
+seidensticker: 0.0
+entreating: 0.0
 
 -----------------------------------
 Instance 126 out of 364
@@ -2733,16 +2733,16 @@ Text:                                Welcome to Christ's Church Online
   • Navigation Menu               h...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-lieing: 0.0
-lite: 0.0
-friary: 0.0
-geocentric: 0.0
-²ã: 0.0
-obligatory: 0.0
-philanthropists: 0.0
-fdr: 0.0
-fresher: 0.0
-4995: 0.0
+grows: 0.0
+1323: 0.0
+somerville: 0.0
+wonderers: 0.0
+sewer: 0.0
+leclerc: 0.0
+sherine: 0.0
+fayette: 0.0
+betrunken: 0.0
+91761: 0.0
 
 -----------------------------------
 Instance 127 out of 364
@@ -2751,16 +2751,16 @@ Text: Thinking big (and little) thoughts about
 God, salvation, the gospel, church, life, war, people, mus...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-eag: 0.0
-stronger: 0.0
-truman: 0.0
-様々な意味することに使われてきました: 0.0
-fundamentalist: 0.0
-80c920: 0.0
-threat: 0.0
-2ï: 0.0
-finalidad: 0.0
-stolar: 0.0
+collard: 0.0
+cupcakes: 0.0
+mills: 0.0
+notation: 0.0
+transnational: 0.0
+blinn: 0.0
+particularity: 0.0
+xýµ: 0.0
+rosies: 0.0
+ronaldo: 0.0
 
 -----------------------------------
 Instance 128 out of 364
@@ -2769,16 +2769,16 @@ Logo
                     ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-rossen: 0.0
-1112: 0.0
-walgreens: 0.0
-bhm: 0.0
-humanity: 0.0
-0x54abd6: 0.0
-projets: 0.0
-gotgtemplate2: 0.0
-elisabeth: 0.0
-diffusion: 0.0
+moderno: 0.0
+bisexuals: 0.0
+talon: 0.0
+thumb_3720: 0.0
+1280px: 0.0
+fevers: 0.0
+henhouse: 0.0
+bl: 0.0
+0000026183: 0.0
+kosky: 0.0
 
 -----------------------------------
 Instance 129 out of 364
@@ -2789,16 +2789,16 @@ Text:                                      Home
                 ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-whos_onlin: 0.0
-meekness: 0.0
-45202: 0.0
-rochester: 0.0
-smuggle: 0.0
-therapeutic: 0.0
-johnlangwo: 0.0
-lexington: 0.0
-covert: 0.0
-portraite: 0.0
+145844: 0.0
+mercury: 0.0
+3424395333: 0.0
+zeland: 0.0
+0000026183: 0.0
+hagee: 0.0
+shutting: 0.0
+antiquityvirgin: 0.0
+rakes: 0.0
+will: 0.0
 
 -----------------------------------
 Instance 130 out of 364
@@ -2812,16 +2812,16 @@ Text: Toggle navigation [nqlogo2]
   ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-lawmaking: 0.0
-europeans: 0.0
-coworking: 0.0
-sylvan: 0.0
-traditionally: 0.0
-exhaustive: 0.0
-csgns: 0.0
-insinuations: 0.0
-nab: 0.0
-flashed: 0.0
+nfp: 0.0
+intensifying: 0.0
+inwarrior: 0.0
+criminalising: 0.0
+shunammite: 0.0
+facon: 0.0
+pepperoni: 0.0
+saddens: 0.0
+4nû: 0.0
+jettison: 0.0
 
 -----------------------------------
 Instance 131 out of 364
@@ -2834,16 +2834,16 @@ From Uncyclopedia, the content-free encyclopedia
 Jump to: navigation, sear...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-8816: 0.0
-hteral: 0.0
-atheismunited: 0.0
-secreting: 0.0
-stepping: 0.0
-eidos: 0.0
-salutes: 0.0
-drips: 0.0
-gueules: 0.0
-unbecoming: 0.0
+despised: 0.0
+mojtaba: 0.0
+romaine: 0.0
+dec23: 0.0
+adjunct: 0.0
+2514: 0.0
+biaseal4: 0.0
+aristocratic: 0.0
+alan: 0.0
+condos: 0.0
 
 -----------------------------------
 Instance 132 out of 364
@@ -2851,18 +2851,18 @@ Text: embed
 (
 dovel_new.swf)
                       Read        Emergency               Submit Your All Abo...
-Predicted class: christianity, True class: christianity
+Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-0000: 0.0
-american: 0.0
-gremln: 0.0
-mahometan: 0.0
-thisishelllogo: 0.0
-img_plus: 0.0
-dians: 0.0
-demonstrations: 0.0
-ussr: 0.0
-integrating: 0.0
+graveyard_view_1: 0.0
+614x412: 0.0
+artifact: 0.0
+abolitionists: 0.0
+jealousy: 0.0
+l5n: 0.0
+190: 0.0
+modo: 0.0
+westerly: 0.0
+looketh: 0.0
 
 -----------------------------------
 Instance 133 out of 364
@@ -2878,16 +2878,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-thumb_4352: 0.0
-departmental: 0.0
-carrying: 0.0
-discernible: 0.0
-wä: 0.0
-gruppen: 0.0
-25but: 0.0
-counterspin: 0.0
-evildoer: 0.0
-53tx: 0.0
+maledictory: 0.0
+sz_5: -2.168404344971009e-19
+church2715: 0.0
+events: 0.0007983210817837705
+bryce: 0.0
+secularstudents_headerphotos1_b: 0.0
+kdu: 0.0
+streaminggodsword: 0.0
+index: 0.0
+keanu: 0.0
 
 -----------------------------------
 Instance 134 out of 364
@@ -2899,16 +2899,16 @@ Text: Military Association of Atheists & Freethinkers
       □ Me...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-joachim: 0.0
-tithing: 0.0
-848: 0.0
-theologicae: 0.0
-practical: 0.0
-excessus: 0.0
-uncompromisingly: 0.0
-skeptability_logo_menu: 0.0
-0qr: 0.0
-avatar_e1b: 0.0
+5357: 0.0
+infilitration: 0.0
+rankers: 0.0
+protocol: 0.0
+enniscrone: 0.0
+violations: 0.0
+359: 0.0
+barbecue: 0.0
+pudenda: 0.0
+teancum: 0.0
 
 -----------------------------------
 Instance 135 out of 364
@@ -2917,16 +2917,16 @@ Text:                                      • Home
           ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-dispensary: 0.0
-275k: 0.0
-95608: 0.0
-記念に家族写真を撮ることになった: 0.0
+david5: 0.0
+ann: 0.0
 supremely: 0.0
-futile: 0.0
-rtk: 0.0
-kanadischen: 0.0
-oceanfront: 0.0
-diligently: 0.0
+ment: 0.0
+hedley: 0.0
+duignan: 0.0
+seminary: 0.0
+pacifica: 0.0
+ever: 0.0
+k3: 0.0
 
 -----------------------------------
 Instance 136 out of 364
@@ -2941,16 +2941,16 @@ Menu Close [logo]
       □ Our ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-coherence: 0.0
-outsourcingoffshore: 0.0
-roddenberry: 0.0
-16012111093: 0.0
-bulb: 0.0
-strains: 0.0
-avdat: 0.0
-marjorie: 0.0
-brilligtove: 0.0
-fours: 0.0
+certifies: 0.0
+program_id: 0.0
+zentner: 0.0
+overmann: 0.0
+xx: 0.0
+facebook164: 0.0
+mendacious: 0.0
+cdlog: 0.0
+blacksburg: 0.0
+correctional: 0.0
 
 -----------------------------------
 Instance 137 out of 364
@@ -2959,16 +2959,16 @@ Text: bg image(backgrounds/tileBkgrd.jpg)
          Home  *  Our Pastor  *   Directions  *  Audio / Video ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-gt: 0.0
-typical: 0.0
-buying: 0.0
-zalewski: 0.0
-elgin: 0.0
-27th: 0.0
-cú¾u: 0.0
-ako: 0.0
-squid: 0.0
-newbooks_1: 0.0
+npov: 0.0
+inflexible: 0.0
+sanitizer: 0.0
+ibka: 0.0
+metter: 0.0
+coulougneta: 0.0
+disgrace: 0.0
+err: 0.0
+tfp: 0.0
+70th: 0.0
 
 -----------------------------------
 Instance 138 out of 364
@@ -2980,32 +2980,32 @@ Text: Little Chapel United Methodist Church
   • Our Missio...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-enforcer: 0.0
-pontifex: 0.0
-pwv: 0.0
-rationalizer: 0.0
-classmate: 0.0
-jihadis: 0.0
-relent: 0.0
-awakening: 0.0
-idiosyncrasy: 0.0
-shatter: 0.0
+lakota: 0.0
+opportune: 0.0
+nodes: 0.0
+saliba: 0.0
+mcmanus: 0.0
+presbyterian: 0.0
+traverse: 0.0
+karolz: 0.0
+osteopathy: 0.0
+greer: 0.0
 
 -----------------------------------
 Instance 139 out of 364
 Text: Phoenix Revival Center                                                                              ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-marianhigh: 0.0
-player: 0.0
-wakefield: 0.0
-map_wiscon: 0.0
-jobs: 0.0
-outcomes365: 0.0
-wohnrecht: 0.0
-privacyresources: 0.0
-hb: 0.0
-deviously: 0.0
+subsitute: 0.0
+orus: 0.0
+wp639a9660: 0.0
+48105: 0.0
+pyramids: 0.0
+beauty: 0.0
+2287: 0.0
+inhibit: 0.0
+shim: 0.0
+ß½: 0.0
 
 -----------------------------------
 Instance 140 out of 364
@@ -3014,16 +3014,16 @@ my subreddits
 announcementsArtAskRedditaskscienceawwblogbookscreepydataisbeautifulDI...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-spraypaint: 0.0
-nodes: 0.0
-misinformed: 0.0
-leaned: 0.0
-acappellahymns200: 0.0
-bohemia: 0.0
-11803: 0.0
-faraday: 0.0
-inflation: 0.0
-swjvv: 0.0
+440d: 0.0
+eyeful: 0.0
+tobago: 0.0
+quitting: 0.0
+patoka: 0.0
+duvet: 0.0
+mémoire: 0.0
+fiddling: 0.0
+quickcam: 0.0
+mousy: 0.0
 
 -----------------------------------
 Instance 141 out of 364
@@ -3032,16 +3032,16 @@ Text: Where are we headed?
 humanism, atheism, நாத்திகம், am not ok, senseless thoughts, where are we head...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-haarklou: 0.0
-greensborough: 0.0
-podcast2016: 0.0
-plug: 0.0
-lulz: 0.0
-aliaa: 0.0
-tianjin: 0.0
-stephenson: 0.0
-enclaves: 0.0
-spout: 0.0
+elections: -0.02499059993081863
+seek: 0.0
+jeopardy: 0.0
+domainyes: 0.0
+tearfund: 0.0
+stoffer: 0.0
+fiat: 0.0
+tampon: 0.0
+global_216580662: 0.0
+sophisticated_top: 0.0
 
 -----------------------------------
 Instance 142 out of 364
@@ -3052,16 +3052,16 @@ Text: youtubeiconFollow us on TwitterFollow us on Facebook
       □ Spirituality of...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-thumb_5435: 0.0
-yyr: 0.0
-slide9: 0.0
-04074: 0.0
-quee: 0.0
-aleut: 0.0
-whitsitt: 0.0
-aierdi: 0.0
-1256: 0.0
-attenborough: 0.0
+logoft: 0.0
+exemplars: 0.0
+saber: 0.0
+matthias: 0.0
+george: 0.0
+heretics: 0.0
+oconomowoc: 0.0
+byu: 0.0
+anglican: 0.0
+insect: 0.0
 
 -----------------------------------
 Instance 143 out of 364
@@ -3074,16 +3074,16 @@ Christikon
       □ Christikon C...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-quebecois: 0.0
-bã: 0.0
-incumbrances: 0.0
-2ft: 0.0
-themarkedward: 0.0
-joebobathei: 0.0
-preferences: 0.0
-goggle: 0.0
-procrastination: 0.0
-atheismeducation: 0.0
+cams: 0.0
+multifaceted: 0.0
+heeding: 0.0
+pollack: 0.0
+seelos_counter: 0.0
+fats: 0.0
+left_11: 0.0
+premise: 0.0
+oive: 0.0
+ferried: 0.0
 
 -----------------------------------
 Instance 144 out of 364
@@ -3094,16 +3094,16 @@ articles and opinions on the absurdity and danger of religious beliefs
   • ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-fitzroy: 0.0
-offends: 0.0
-futurism: 0.0
-gator: 0.0
-あの時が幸せだったのかぁ: 0.0
-simplicity: 0.0
-allam: 0.0
-scibabe: 0.0
-yonder: 0.0
-forestall: 0.0
+avatar_164: 0.0
+specialprize1350x107: 0.0
+iscrizione: 0.0
+2012gacatt: 0.0
+rcoles: 0.0
+umcofnewcanaan: 0.0
+au7: 0.0
+2026: 0.0
+1740: 0.0
+pimslibrar: 0.0
 
 -----------------------------------
 Instance 145 out of 364
@@ -3111,18 +3111,18 @@ Text: [logo]
                                   [INS::INS]
 
 The towns are stunned by the sound of the muezz...
-Predicted class: christianity, True class: atheism
+Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-windus: 0.0
-marlo: 0.0
-41qtzcmass: 0.0
-aibs: 0.0
-articledesc: 0.0
-7th: 0.0
-particularised: 0.0
-1796: 0.0
-lifeyear: 0.0
-husks: 0.0
+minerals: 0.0
+reportnew: 3.7947076036992655e-19
+juvenilia: 8.673617379884035e-19
+ago: -0.00206441820602597
+commutes: 0.0
+satuday: 0.0
+memorable: 0.0
+sjdr_3: 0.0
+capable: -0.003918317921843434
+mons: 0.0
 
 -----------------------------------
 Instance 146 out of 364
@@ -3132,16 +3132,16 @@ Text:                                 Is there a God?
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-872: 0.0
-creature: 0.0
-1a: 0.0
-tylzen: 0.0
-mah: 0.0
-broadcasts: 0.0
-slide_02: 0.0
-caton: 0.0
-thumb_2638: 0.0
-tucking: 0.0
+nchem: 0.0
+sofit: 0.0
+pacs: 0.0
+staid: 0.0
+mensa: 0.0
+gaulin: 0.0
+035: 0.0
+len: 0.0
+aninternetstore: 0.0
+nx550: 0.0
 
 -----------------------------------
 Instance 147 out of 364
@@ -3153,16 +3153,16 @@ Black Forest Academy Black Forest Academy
       □...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-cappella: 0.0
-overthrew: 0.0
-breaching: 0.0
-humanistic: 0.0
-eliz: 0.0
-mcmann: 0.0
-newly: 0.0
-spicing: 0.0
-8n: 0.0
-nenslo: 0.0
+burnie: 0.0
+co: 0.0
+incommensurability: 0.0
+lovecraft: 0.0
+hartline: 0.0
+16the: 0.0
+thud: 0.0
+geiger: 0.0
+sealing: 0.0
+paull: 0.0
 
 -----------------------------------
 Instance 148 out of 364
@@ -3173,16 +3173,16 @@ b
 ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-caesarea: 0.0
-stealthily: 0.0
-tunics: 0.0
-bigoted: 0.0
-ê½: 0.0
-arriving: 0.0
-giovane: 0.0
-purported: 0.0
-extraordinaire: 0.0
-godlessness: 0.0
+whitehouse: 0.0
+gerneric: 0.0
+shenango: 0.0
+condensed: 0.0
+5442: 0.0
+paul: 0.0
+wipe: 0.0
+lynell: 0.0
+demonstrably: 0.0
+1844: 0.0
 
 -----------------------------------
 Instance 149 out of 364
@@ -3190,16 +3190,16 @@ Text: Landover Baptist is America's Favorite Church!
  CHURCH SEARCH™ | NEWS ARCHIVES | READER MAIL | RSS F...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-drewe: 0.0
-579: 0.0
-humaniststudies: 0.0
-builder61: 0.0
-brooks: 0.0
-caen: 0.0
-0g: 0.0
-dorset: 0.0
-disastrous: 0.0
-1568: 0.0
+banner6: 0.0
+barely: 0.0
+alles: 0.0
+tokyo: 0.0
+flare: 0.0
+godsend: 0.0
+onw: 0.0
+本気でハードなものだと思います: 0.0
+youderian: 0.0
+5856: 0.0
 
 -----------------------------------
 Instance 150 out of 364
@@ -3216,16 +3216,16 @@ About.com
   • T...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-crucifix: 0.0
-wooing: 0.0
-madness: 0.0
-mccaul: 0.0
-sizzled: 0.0
-gervis: 0.0
-fingertips: 0.0
-mcdonnell: 0.0
-んだって: 0.0
-newsatheist: 0.0
+dpr: 0.0
+atheistfrontier: 0.0
+reconnoitre: 0.0
+newer: 0.0
+201504988v4_1: 0.0
+skepkon: 0.0
+shaky: 0.0
+valera: 0.0
+adjusts: 0.0
+xvi: 0.0
 
 -----------------------------------
 Instance 151 out of 364
@@ -3240,16 +3240,16 @@ Main menu
       ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-quem: 0.0
-sachiko: 0.0
-ù³: 0.0
-eå¼: 0.0
-1129494848: 0.0
-consecuencia: 0.0
-780: 0.0
-relates: 0.0
-jogged: 0.0
-principled: 0.0
+infect: 0.0
+ganley: 0.0
+objectors: 0.0
+8290: 0.0
+whatcom: 0.0
+pamela: 0.0
+0qt: 0.0
+international2: 0.0
+worthily: 0.0
+pip: 0.0
 
 -----------------------------------
 Instance 152 out of 364
@@ -3258,16 +3258,16 @@ Text:  Style: [BT Regular][Change]
       H...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-burnett: 0.0
-yocom: 0.0
-annoucements: 0.0
-frege: 0.0
-sneak: 0.0
-dsc_6921ed: 0.0
-newbury: 0.0
-annette: 0.0
-scientologists: 0.0
-thumb_4314: 0.0
+truthy: 0.0
+1365: 0.0
+manifeste: 0.0
+1120: 0.0
+lepricon: 0.0
+justices: 0.0
+tqï: 0.0
+relic: 0.0
+deface: 0.0
+redwoods: 0.0
 
 -----------------------------------
 Instance 153 out of 364
@@ -3275,18 +3275,18 @@ Text: Gregory the Great
 
 Gregory the Great was pope from 590-604 and left behind a substantial literary
 he...
-Predicted class: christianity, True class: christianity
+Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-impart: 0.0
-mnner: 0.0
-mariealena: 0.0
-historicity: 0.0
-qy: 0.0
-comply: 0.0
-epigonation: 0.0
-gustav: 0.0
-internetdemographics: 0.0
-746: 0.0
+chords: 0.0
+makkadah: 0.0
+0882: 0.0
+ayaan: 0.0
+barrie: 0.0
+northpoint: 0.0
+998200588: 0.0
+lawfully: 0.0
+polytheism: 0.0
+perizzites: 0.0
 
 -----------------------------------
 Instance 154 out of 364
@@ -3298,16 +3298,16 @@ St Simon's Parish of Partick, Glasgow, Scotland
   • Hist...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-calculated: 0.0
-48101: 0.0
-lovett: 0.0
-pièusouleta: 0.0
-posterity: 0.0
-freefall: 0.0
-sö: 0.0
-vestiges: 0.0
-wasnt: 0.0
-plotted: 0.0
+cd267: 0.0
+mercy: 0.0
+mq: 0.0
+ire: 0.0
+po6: 0.0
+arbeit: 0.0
+global_393278762: 0.0
+gerda: 0.0
+0f: 0.0
+australasian: 0.0
 
 -----------------------------------
 Instance 155 out of 364
@@ -3320,16 +3320,16 @@ Text: Black Sun Journal - Atheism - Religion
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-ê²: 0.0
-generosity: 0.0
-ebibletools: 0.0
-disparate: 0.0
-waldorf: 0.0
-granddaughters: 0.0
-googleads: 0.0
-6187: 0.0
-absurdum: 0.0
-tдьirзq: 0.0
+thomases: 0.0
+hole: 0.0
+cainedas: 0.0
+federico: 0.0
+1964: 0.0
+laurie: 0.0
+770x785: 0.0
+jails: 0.0
+gratulationis: 0.0
+typological: 0.0
 
 -----------------------------------
 Instance 156 out of 364
@@ -3337,16 +3337,16 @@ Text: Home Bay Area Skeptics                               Search this site:
                             ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-wcci: 0.0
-espace: 0.0
-adam: 0.0
-kjbp: 0.0
-following: 0.0
-greek: 0.0
-wflag_dani: 0.0
-wept: 0.0
-potato: 0.0
-rescheduled: 0.0
+outsourced: 0.0
+lift: 0.0
+allusion: 0.0
+bogie: 0.0
+csaba: 0.0
+beerandhym: 0.0
+promo_img3: 0.0
+lslm0xhca: 0.0
+x0c: 0.0
+728: 0.0
 
 -----------------------------------
 Instance 157 out of 364
@@ -3360,16 +3360,16 @@ US Catholic Faith in Real Life
 ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-assistenza: 0.0
-atmospheres: 0.0
-alphabet: 0.0
-global_139: 0.0
-nd: 0.0
-reestablished: 0.0
-radiofairfax: 0.0
-l7: 0.0
-thumbnail_e: 0.0
-epist: 0.0
+42nd: 0.0
+oversight: 0.0
+64683: 0.0
+nefarious: 0.0
+10_days_of: 0.0
+atheistaudiobooks: 0.0
+global_213830622: 0.0
+handled: 0.0
+richards: 0.0
+kitto: 0.0
 
 -----------------------------------
 Instance 158 out of 364
@@ -3386,32 +3386,32 @@ Skip to content
   • Ge...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-pragmatist: 0.0
-56126: 0.0
-emblematic: 0.0
-0000085256: 0.0
-profits: 0.0
-yashanet: 0.0
-女性の職業としては他の平均に比べると収入の高い看護の待遇で: 0.0
-aleut: 0.0
-narly9999: 0.0
-裏目ばかりで気分は超ブルー: 0.0
+morgen: 0.0
+exorcisms: 0.0
+headpiece: 0.0
+mc: 0.0
+tmqcrispysea: 0.0
+desolate: 0.0
+garret: 0.0
+church_picture: 0.0
+untiringly: 0.0
+dubs: 0.0
 
 -----------------------------------
 Instance 159 out of 364
 Text:            Metroplex Atheists                                                                       ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-anubis: 0.0
-islington: 0.0
-assassin: 0.0
-publicity: 0.0
-pains: 0.0
-universals: 0.0
-301872: 0.0
-dano: 0.0
-repubblica: 0.0
-button_sub: 0.0
+elevatorgate: 0.0
+nissan: 0.0
+faye: 0.0
+y2k: 0.0
+incensed: 0.0
+franchise: 0.0
+curtail: 0.0
+210x300: 0.0
+immaterialism: 0.0
+歯周病や健康に悪影響が出る可能性が高いので子供が歯並びが悪: 0.0
 
 -----------------------------------
 Instance 160 out of 364
@@ -3429,16 +3429,16 @@ DUMC Logo (2)
 Blended Worship 9:30 Sunday Morni...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-facebooktwitter: 0.0
-escape: 0.0
-unqualified: 0.0
-secretive: 0.0
-datasets: 0.0
-coen: 0.0
-ioannis: 0.0
-acquires: 0.0
-h2: 0.0
-mittlere: 0.0
+ruchlis: 0.0
+referee: 0.0
+extirpation: 0.0
+powderhorn: 0.0
+thumb_6612: 0.0
+cavin: 0.0
+aspiration: 0.0
+macs: 0.0
+tobymac: 0.0
+unforgivable: 0.0
 
 -----------------------------------
 Instance 161 out of 364
@@ -3447,16 +3447,16 @@ Text: bg image(images/backgrounds/bluestripe.gif)
 *                                 ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-silvia: 0.0
-around: 0.002008214242702571
-indignation: 0.0
-dabin: 0.0
-reese: 0.0
-interchanged: 0.0
-tedious: 0.0
-2108: 0.0
-120x60: 0.0
-gault: 0.0
+metabunk: 0.0
+futility: 0.0
+jyoti: 0.0
+stralen: 0.0
+firstpreslogan: 0.0
+027: 0.0
+the_skeptic_zone_376_160103: 0.0
+text7: 0.0
+observa: 0.0
+stalk: 0.0
 
 -----------------------------------
 Instance 162 out of 364
@@ -3472,16 +3472,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-glibly: 0.0
-incandescent: 0.0
-sire: 0.0
-nouvé: 0.0
-strichcodes: 0.0
-portray: 0.0
-sildenafil: 0.0
-entrance: 0.0
-popularizer: 0.0
-diabetic: 0.0
+crystallography: 0.0
+scholars: 0.0
+envisage: 0.0
+interpellations: 0.0
+著名な消費者金融業者だと: 0.0
+vernard: 0.0
+0n: 0.0
+rcmain: 0.0
+shipwrecked: 0.0
+restoring: 0.0
 
 -----------------------------------
 Instance 163 out of 364
@@ -3492,16 +3492,16 @@ Sunday Worship: 9 am | 11 am
 1580 Pe...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-loads: 0.0
-c418: 0.0
-5736: 0.0
-práctica: 0.0
-reblog: 0.0
-omnivore: 0.0
-begin: 0.0
-pioneers: 0.0
-detours: 0.0
-calamitous: 0.0
+amoeba: 0.0
+mugannexe: 0.0
+patton: 0.0
+tapestry: 0.0
+_q: 0.0
+przemysl: 0.0
+thumb_1334: 0.0
+roof: 0.0
+pressures: 0.0
+thumb_2472: 0.0
 
 -----------------------------------
 Instance 164 out of 364
@@ -3512,16 +3512,16 @@ Text: --FRAME--
                                               ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-wp36fecf86: 0.0
-butler: 0.0
-reasearch: 0.0
-billenness: 0.0
-jkhsaleooa: 0.0
-lectio: 0.0
-tutors: 0.0
-yii: 0.0
-2747: 0.0
-spotty: 0.0
+lounges: 0.0
+szb: 0.0
+918: 0.0
+39when: 0.0
+nipissing: 0.0
+undeniably: 0.0
+rabbinical: 0.0
+78382: 0.0
+630_church_front_2015: 0.0
+ansley: 0.0
 
 -----------------------------------
 Instance 165 out of 364
@@ -3537,16 +3537,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-zra: 0.0
-dreaded: 0.0
-theocracies: 0.0
-jp2: 0.0
-gychurch: 0.0
-huckaby: 0.0
-eventleftsnippet: 0.0
-kjol: 0.0
-misconduct: 0.0
-kulick: 0.0
+cantú: 0.0
+verbo: 0.0
+owasso: 0.0
+32803: 0.0
+ccr: 0.0
+fratricelli: 0.0
+ssf: 0.0
+glaucoma: 0.0
+thereby: 0.0
+hails: 0.0
 
 -----------------------------------
 Instance 166 out of 364
@@ -3562,16 +3562,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-skemorgen: 0.0
-perished: 0.0
-holtzclaw: 0.0
-genitals: 0.0
-devastating: 0.0
-192x300: 0.0
-egestas: 0.0
-popper: 0.0
-saul: 0.0
-dunkirk: 0.0
+programshare: 0.0
+conversational: 0.0
+union_edge_1: 0.0
+tiếng: 0.0
+selector: 0.0
+articlestop: 0.0
+milner: 0.0
+mmo: 0.0
+diabetes: 0.0
+10人の認: 0.0
 
 -----------------------------------
 Instance 167 out of 364
@@ -3581,16 +3581,16 @@ Make a Donation
 St. Benedict's Abb...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-iliad: 0.0
-shalt: 0.0
-flicks: 0.0
-hitchhikers_movie11: 0.0
-participated: 0.0
-intoning: 0.0
-notepads: 0.0
-complimentary: 0.0
-discriminators: 0.0
-jrj: 0.0
+ov: 0.0
+unwh: 0.0
+prasch: 0.0
+newslatest: 0.0
+overcomers: 0.0
+strongside: 0.0
+minangkabau: 0.0
+29607: 0.0
+gretta: 0.0
+airstrike: 0.0
 
 -----------------------------------
 Instance 168 out of 364
@@ -3602,16 +3602,16 @@ Leading our community home to Christ
       □ Meet Ou...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-cecelia: 0.0
-horrid: 0.0
-flocks: 0.0
-akira: 0.0
-5247: 0.0
-leavening: 0.0
-stardust: 0.0
-dramas: 0.0
-eco: 0.0
-elemental: 0.0
+farhat: 0.0
+mishmash: 0.0
+temperley: 0.0
+lower: 0.0
+knoxville: 0.0
+色んな人とチャットで会話を楽しんでいました: 0.0
+pollen: 0.0
+rename: 0.0
+3pm: 0.0
+police: 0.0
 
 -----------------------------------
 Instance 169 out of 364
@@ -3621,16 +3621,16 @@ Text: ━━━━━━━━━━━━━━━━━━━━━━━━�
      Don't let the...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-quarreling: 0.0
-4478: 0.0
-transcendentalism: 0.0
-friendship: 0.0
-wizardry: 0.0
-devotions: 0.0
-uc67: 0.0
-tpdq: 0.0
-amc: 0.0
-solutionsreligion: 0.0
+ascetism: 0.0
+augustine: 0.0
+icelanders: 0.0
+goggles: 0.0
+buffoons: 0.0
+oj: 0.0
+今日は神の宿る: 0.0
+burke: 0.0
+uca: 0.0
+revisted: 0.0
 
 -----------------------------------
 Instance 170 out of 364
@@ -3639,16 +3639,16 @@ Text: bg image(images/worldbg.gif)
                                                                 There ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-wherefore: 0.0
-podcastathon: 0.0
-brownskin: 0.0
-rationalize: 0.0
-xsilverphinx: 0.0
-founds: 0.0
-polygamy: 0.0
-зyбаoщmhмe11crkбn7феsэемqцn: 0.0
-childfree: 0.0
-skiffington: 0.0
+botha: 0.0
+yell: 0.0
+koko: 0.0
+codified: 0.0
+intestinal: 0.0
+lustre: 0.0
+_discussion: 0.0
+gse_multipart18091: 0.0
+spke: 0.0
+toxicity: 0.0
 
 -----------------------------------
 Instance 171 out of 364
@@ -3656,16 +3656,16 @@ Text: The Atheist Doctor Podcast podcast of a Filipino Atheist Doctor on atheism
 science, social issues, ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-caf4e: 0.0
-wfgc: 0.0
-adiaphora: 0.0
-snedkers: 0.0
-waging: 0.0
-culprit: 0.0
-umanista: 0.0
-deliberat: 0.0
-1467: 0.0
-theconversation: 0.0
+avatar_fd7: 0.0
+botton: 0.0
+athirst: 0.0
+freddieb42: 0.0
+trumping: 0.0
+principalities: 0.0
+if: 0.0
+resolvable: 0.0
+2w7: 0.0
+radicalised: 0.0
 
 -----------------------------------
 Instance 172 out of 364
@@ -3677,16 +3677,16 @@ Stanford University
     See All ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-flying: 0.0
-501: 0.0
-noni: 0.0
-jillette: 0.0
-landmark_bap: 0.0
-domicile: 0.0
-721: 0.0
-mlikiw: 0.0
-misunderstands: 0.0
-16012111093: 0.0
+minding: 0.0
+delivers: 0.0
+ccfcca: 0.0
+marxism: 0.0
+the_skeptic_zone_375_151227: 0.0
+70th: 0.0
+hubmaier: 0.0
+soaked: 0.0
+47203051_b: 0.0
+rancid: 0.0
 
 -----------------------------------
 Instance 173 out of 364
@@ -3703,16 +3703,16 @@ Text: Foundation Beyond Belief
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-pier: 0.0
-polanski: 0.0
-alterations: 0.0
-juniors: 0.0
-securely: 0.0
-church_hmb: 0.0
-cities: 0.0
-downplayed: 0.0
-avatar_a0c: 0.0
-この頃に製作された: 0.0
+madewithov: 0.0
+0x6b8ab6: 0.0
+cheeseburgers: 0.0
+subdomains: 0.0
+nanjing: 0.0
+fi: 0.0
+grip: 0.0
+på: 0.0
+engineered: 0.0
+asylums: 0.0
 
 -----------------------------------
 Instance 174 out of 364
@@ -3727,33 +3727,33 @@ Text: Skip to content
       □ RS...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-mauihope: 0.0
-audibletrial: 0.0
-xhß½: 0.0
-erich: 0.0
-homeric: 0.0
-nunc: 0.0
-canoes: 0.0
-derided: 0.0
-060: 0.0
-utm: 0.0
+polarize: 0.0
+ranty: -2.7755575615628914e-17
+podcast: -0.11875284609807442
+voyages: 0.0
+usartists: 0.0
+1241: 0.0
+plutz: 0.0
+minstries: 0.0
+mizewell: 0.0
+deepak: 0.0
 
 -----------------------------------
 Instance 175 out of 364
 Text:                                    [cdinfo]
                   Sacred Texts  Evil  Index  Previous  N...
-Predicted class: atheism, True class: atheism
+Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-hypospadias: 0.0
-5forë: 0.0
-revisited: 0.0
-40197188_s: 0.0
-skorea: 0.0
-sparing: 0.0
-crowdfunding: 0.0
-safety: 0.0
-howcanihelpbox: 0.0
-yiddish: 0.0
+communist: 0.0
+excessive: 0.0
+fbe: 0.0
+pima: 0.0
+adduces: 0.0
+pngsam: 0.0
+noodly: 0.0
+bands: 0.0
+uûº: 0.0
+affections: 0.0
 
 -----------------------------------
 Instance 176 out of 364
@@ -3777,16 +3777,16 @@ Text: 住宅の在り方：店舗併用住宅へのリフォーム
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-ransacked: 0.0
-2016: 0.0
-diminishment: 0.0
-split: 0.0
-hardcover: 0.0
-gadgets: 0.0
-812: 0.0
-britain: 0.0
-7u: 0.0
-tetanus: 0.0
+9v: 0.0
+currentcov: 0.0
+pantries: 0.0
+impulses: 0.0
+canvas: 0.0
+popoff: 0.0
+prostrate: 0.0
+4822: 0.0
+tolf2c: 0.0
+mrmmarsh: 0.0
 
 -----------------------------------
 Instance 177 out of 364
@@ -3798,16 +3798,16 @@ Text: [index_grlabel3]
 Download the updated version Th...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-summertime: 0.0
-usccb: 0.0
-09zcuploa7: 0.0
-さらに: 0.0
-devenick: 0.0
-mindscape: 0.0
-swam: 0.0
-reviewstop: 0.0
-alternatim: 0.0
-defeasible: 0.0
+disparity: 0.0
+overall: 0.0
+privileges: 0.0
+hailstones: 0.0
+spendthrift: 0.0
+equating: 0.0
+いろんなダイエット方法にチャレンジしては失敗の繰り返し: 0.0
+splc: 0.0
+thumb_3798: 0.0
+addressed: 0.0
 
 -----------------------------------
 Instance 178 out of 364
@@ -3824,16 +3824,16 @@ CFI-Okanagan
    ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-unprofitable: 0.0
-ful: 0.0
-covetise: 0.0
-campolo: 0.0
-assyria: 0.0
-barnabus: 0.0
-mindset: 0.0
-kaminer: 0.0
-hanson: 0.0
-catamenial: 0.0
+11am: 0.0
+which: 0.0
+defined: 0.0
+bemidji: 0.0
+buttershug: 0.0
+gratia: 0.0
+grafton: 0.0
+tripchecks: 0.0
+どの店に売れば得策かも判別できますからお手軽です: 0.0
+5741: 0.0
 
 -----------------------------------
 Instance 179 out of 364
@@ -3846,16 +3846,16 @@ Sunday Worship 10:25am & 5:00pm
 Wednesday Evening 7:0...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-fourteen: 0.0
-dulwich: 0.0
-4749: 0.0
-4069: 0.0
-boro: 0.0
-ancyra: 0.0
-20100520: 0.0
-take: 0.0
-20090402: 0.0
-lifecycles: 0.0
+c50df40b480ea146ffff85f6ffffe41e: 0.0
+contained: 0.0
+lottery: 0.0
+bartholow: 0.0
+hti: 0.0
+monstrous: 0.0
+ova: 0.0
+operating: 0.0
+follows: 0.0
+accountability: 0.0
 
 -----------------------------------
 Instance 180 out of 364
@@ -3869,16 +3869,16 @@ Text: The Ottawa Skeptics
       □ ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-2webdesign: 0.0
-acute: 0.0
-ears: 0.0
-silas: 0.0
-dystopia: 0.0
-guatemala: 0.0
-va: 0.0
-deadlier: 0.0
-rw_ani: 0.0
-20036: 0.0
+相場価格より高めの金額: 0.0
+thumb_2052: 0.0
+chaz: 0.0
+disarm: 0.0
+rounds: 0.0
+wading: 0.0
+horsea: 0.0
+choosers: 0.0
+hardy: 0.0
+congregational: 0.0
 
 -----------------------------------
 Instance 181 out of 364
@@ -3891,16 +3891,16 @@ Text: [logo]
   • D...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ent: 0.0
-prevailing: 0.0
-vivaldi: 0.0
-thumb_5481: 0.0
-tomas: 0.0
-pic_09: 0.0
-bulldozer: 0.0
-contributions: 0.0
-proves: 0.0
-joycebio: 0.0
+shapeimage_4_link_0: 0.0
+85280: 0.0
+horoscope: 0.0
+trembled: 0.0
+judea: 0.0
+maté: 0.0
+firming: 0.0
+limped: 0.0
+fiend: 0.0
+acapmelodies200: 0.0
 
 -----------------------------------
 Instance 182 out of 364
@@ -3911,16 +3911,16 @@ Torrington Road, Ruislip
 Faith Exploration....
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-treacherously: 0.0
-respiration: 0.0
-otterbeinumccarlisle: 0.0
-pragmatist: 0.0
-mikvah: 0.0
-hichens: 0.0
-institutionalize: 0.0
-gui_ml1qkqe: 0.0
-kindoms: 0.0
-knocked: 0.0
+tbk: 0.0
+unbelievers: 0.0
+奇跡: 0.0
+cliches: 0.0
+soapbox: 0.0
+finely: 0.0
+overlook: 0.0
+trak: 0.0
+nicknames: 0.0
+debauch: 0.0
 
 -----------------------------------
 Instance 183 out of 364
@@ -3931,16 +3931,16 @@ Register Now [facebook] [twitter] [search-ico] [key]
       □ Headmaster'...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-woefully: 0.0
-回数無制限で安いので: 0.0
-coel: 0.0
-ediacaran: 0.0
-dinosaur: 0.0
-spectator: 0.0
-gmj: 0.0
-_f: 0.0
-canne: 0.0
-dozing: 0.0
+32503: 0.0
+brights: 0.0
+footfall: 0.0
+reveries: 0.0
+nipple: 0.0
+inform: 0.0
+notify: 0.0
+oran: 0.0
+636x460design_01: 0.0
+attractively: 0.0
 
 -----------------------------------
 Instance 184 out of 364
@@ -3954,16 +3954,16 @@ Text:   •
   • Kn...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-пппstarting: 0.0
-rudd: 0.0
-thumb_2136: 0.0
-gilmore: 0.0
-competed: 0.0
-dixon: 0.0
-interdisciplinary: 0.0
-median: 0.0
-caskets: 0.0
-clarity: 0.0
+isabella: 0.0
+asset: 0.0
+2012年8月23日: 0.0
+precision: 0.0
+duchy: 0.0
+postcard: 0.0
+unleavened: 0.0
+tedx: 0.0
+jef: 0.0
+beneficially: 0.0
 
 -----------------------------------
 Instance 185 out of 364
@@ -3977,16 +3977,16 @@ Promoting free thought at City College
   ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-shedding: 0.0
-punchline: 0.0
-decimation: 0.0
-bravenet: 0.0
-spasm: 0.0
-2519: 0.0
-molded: 0.0
-mammuth: 0.0
-wouldn: 0.0
-epidurals: 0.0
+tavolo: 0.0
+anachronistic: 0.0
+49: 0.0
+pg_80_120c: 0.0
+osterman: 0.0
+w_gv: 0.0
+550: 0.0
+sprees: 0.0
+hyperbolic: 0.0
+stpatspic3__2_: 0.0
 
 -----------------------------------
 Instance 186 out of 364
@@ -4000,16 +4000,16 @@ Search Form Keyword [search keyword ...       ] [ ]
 T...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-c2morrow: 0.0
-adele: 0.0
-bfy: 0.0
-e1404887229928: 0.0
-argentine: 0.0
-abend: 0.0
-1275: 0.0
-widgets: 0.0
-energize: 0.0
-nucleare: 0.0
+_v: 0.0
+abolishing: 0.0
+μεγαλωσύνης: 0.0
+sweats: 0.0
+msbiljanica: 0.0
+flynt: 0.0
+lustful: 0.0
+defies: 0.0
+top: 0.0
+不思議なことですが: 0.0
 
 -----------------------------------
 Instance 187 out of 364
@@ -4025,16 +4025,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-schizphrenia: 0.0
-theos: 0.0
-sacrad: 0.0
-eyebrow: 0.0
-ryle: 0.0
-staged: 0.0
-gouging: 0.0
-issa: 0.0
-rubicondior: 0.0
-differently: 0.0
+doctrinal: 0.0
+necromancy: 0.0
+bigots: 0.0
+clockwork: 0.0
+escondido: 0.0
+border: 0.0
+nickle: 0.0
+apostatical: 0.0
+chrstian: 0.0
+breeches: 0.0
 
 -----------------------------------
 Instance 188 out of 364
@@ -4047,16 +4047,16 @@ TheHumanist.com
 Search for: [             ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-groaned: 0.0
-ordeal: 0.0
-bicycles: 0.0
-liller: 0.0
-leedy: 0.0
-繁体: 0.0
-1452111664247: 0.0
-kr: 0.0
-admirer: 0.0
-todays: 0.0
+_ã¹: 0.0
+goyo: 0.0
+functionality: 0.0
+185390804824946: 0.0
+violently: 0.0
+complexity: 0.0
+keebler: 0.0
+smacks: 0.0
+sustenance: 0.0
+ariz: 0.0
 
 -----------------------------------
 Instance 189 out of 364
@@ -4072,16 +4072,16 @@ Menu
           ☆ Lead Pasto...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-uzala: 0.0
-22931: 0.0
-authority: 0.0
-wehi: 0.0
-11jul199: 0.0
-spirals2: 0.0
-11245: 0.0
-τούτῳ: 0.0
-speeding: 0.0
-equivalence: 0.0
+missionarymall: 0.0
+macroevolution: 0.0
+nolensville: 0.0
+polarization: 0.0
+wretchedness: 0.0
+christianized: 0.0
+refurbishment: 0.0
+mediocre: 0.0
+swansoncruzd: 0.0
+51370f86c8: 0.0
 
 -----------------------------------
 Instance 190 out of 364
@@ -4099,16 +4099,16 @@ bg image(/images/Image/bg.jpg)
      ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-1001: 0.0
-wingswhen: 0.0
-roemmele: 0.0
-zuî: 0.0
-hitcount: 0.0
-mckay: 0.0
-smirk: 0.0
-visibilem: 0.0
-inssupport: 0.0
-social: 0.0
+lemonade: 0.0
+guardians: 0.0
+riddance: 0.0
+televised: 0.0
+rubbished: 0.0
+adoremus: 0.0
+エステでもいいかな: 0.0
+clambake: 0.0
+webprsten: 0.0
+uno: 0.0
 
 -----------------------------------
 Instance 191 out of 364
@@ -4121,16 +4121,16 @@ Le jeu 5-Card Stud
 5-Card Stud poker était à la fois le favori de tou...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-antagonists: 0.0
-instigating: 0.0
-birther: 0.0
-implausibility: 0.0
-downloaded: 0.0
-swee: 0.0
-gerd: 0.0
-prev: 0.0
-こういう物には魂は宿るのか: 0.0
-macdougall: 0.0
+exorasson: 0.0
+skapinker: 0.0
+qrs: 0.0
+thumb_4153: 0.0
+thinnest: 0.0
+اللبنانية: 0.0
+raffle: 0.0
+mined: 0.0
+看護roo: 0.0
+annex: 0.0
 
 -----------------------------------
 Instance 192 out of 364
@@ -4139,16 +4139,16 @@ Text: bg image(back.gif)
                         ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-pantalaimon: 0.0
-llanishen: 0.0
-principality: 0.0
-doreen: 0.0
-textual: 0.0
-gully: 0.0
-winery: 0.0
-ukwe: 0.0
-yazdânism: 0.0
-adores: 0.0
+الفلسطينية: 0.0
+bloglines: 0.0
+tyson_credit_national: 0.0
+plight: 0.0
+eji: 0.0
+broadbent: 0.0
+茨城県: 0.0
+quests: 0.0
+hamadi: 0.0
+45th: 0.0
 
 -----------------------------------
 Instance 193 out of 364
@@ -4157,16 +4157,16 @@ Text: bg image(whitestreak.gif)
 [bibletrashTITLE]                                                        ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-obituary: 0.0
-dreiser: 0.0
-elijiah: 0.0
-ulcers: 0.0
-transcendentalist: 0.0
-interlopers: 0.0
-btn_donate_lg_annual: 0.0
-unaided: 0.0
-exerting: 0.0
-resolvable: 0.0
+gayety: 0.0
+buttonwork: 0.0
+julia: 0.0
+producer: 0.0
+zs: 0.0
+armenia: 0.0
+22_1171: 0.0
+rhyming: 0.0
+mmus: 0.0
+godiva: 0.0
 
 -----------------------------------
 Instance 194 out of 364
@@ -4185,18 +4185,18 @@ Text:
   • [fader_06]
 
  ...
-Predicted class: christianity, True class: christianity
+Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-forming: 0.0
-nonfiction: 0.0
-repetitions: 0.0
-presley: 0.0
-epiphania: 0.0
-6704: 0.0
-montrose: 0.0
-lieu: 0.0
-_bln: 0.0
-triumphal: 0.0
+driveway: 0.0
+mastering: 0.0
+churchified: 0.0
+laster: 0.0
+couplet: 0.0
+reminisced: 0.0
+postbutton: 0.0
+prosphora: 0.0
+devolve: 0.0
+sweatervest: 0.0
 
 -----------------------------------
 Instance 195 out of 364
@@ -4210,16 +4210,16 @@ Text: Faith Presbyterian
 ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-recognizing: 0.0
-antisocial: 0.0
-unlocked: 0.0
-patrologia: 0.0
-thumb_1203: 0.0
-abound: 0.0
-bruno: 0.0
-teetotallers: 0.0
-stated: 0.0
-groove: 0.0
+poignant: 0.0
+newport: 0.0
+p8p: 0.0
+hassle: 0.0
+misanthropic: 0.0
+krutch: 0.0
+ascended: 0.0
+dedicates: 0.0
+layperson: 0.0
+437: 0.0
 
 -----------------------------------
 Instance 196 out of 364
@@ -4228,16 +4228,16 @@ Make your own free website on Tripod.com
                   ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-filestudent: 0.0
-yß: 0.0
-trip: 0.0
-3iw: 0.0
-omitting: 0.0
-exteriors: 0.0
-thumb_2836: 0.0
-collapsing: 0.0
-tugs: 0.0
-lawanddisorder: 0.0
+skepticallypwnd: 0.0
+84003: 0.0
+questionnaire: 0.0
+acyoa: 0.0
+moriscos: 0.0
+ちなみに私も合宿免許プラスを運営するナンバメイトを利用して合宿に行って免許をと: 0.0
+115deg: 0.0
+badgem: 0.0
+524: 0.0
+tumblr: 0.0
 
 -----------------------------------
 Instance 197 out of 364
@@ -4246,16 +4246,16 @@ Home | What We Believe | Sermon | Ministries | God's Saving Grace | New
 Christians | Our St...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-inititation: 0.0
-ultraconservative: 0.0
-dersirest: 0.0
-dilemnas: 0.0
-ask: 0.0
-kneading: 0.0
-ariela: 0.0
-beers: 0.0
-doobie: 0.0
-kilogram: 0.0
+funvax: 0.0
+2015at: 0.0
+159: 0.0
+williamson: 0.0
+lapping: 0.0
+prayewr: 0.0
+overloaded: 0.0
+petrolpetal: 0.0
+eric: 0.0
+troops: 0.0
 
 -----------------------------------
 Instance 198 out of 364
@@ -4264,16 +4264,16 @@ Make your own free website on Tripod.com
 [nature_t_top_l] [...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-seafloor_map1_800: 0.0
-psychokinesis: 0.0
-nature_t_top_l: 0.0
-umbelifera: 0.0
-benchmarks: 0.0
-67202: 0.0
-ccb: 0.0
-thumb_1911: 0.0
-630_church_front_2015: 0.0
-04106: 0.0
+shutterstock_149282762: 0.0
+8d0a74d899b36f56: 0.0
+snaking: 0.0
+footprint: 0.0
+desertion: 0.0
+archeological: 0.0
+0000012558: 0.0
+gravelly: 0.0
+transsaturated: 0.0
+8321: 0.0
 
 -----------------------------------
 Instance 199 out of 364
@@ -4289,16 +4289,16 @@ Text: nakedpastor
   • T...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-sundeck: 0.0
-comprehending: 0.0
-liturgicum: 0.0
-aä: 0.0
-indulgently: 0.0
-13472: 0.0
-excised: 0.0
-dwelt: 0.0
-attest: 0.0
-overtaxed: 0.0
+codice: 0.0
+propria: 0.0
+claimed: 0.0
+thither: 0.0
+sprain: 0.0
+applewhite: 0.0
+714: 0.0
+bissirinians: 0.0
+erance: 0.0
+لن: 0.0
 
 -----------------------------------
 Instance 200 out of 364
@@ -4312,16 +4312,16 @@ Toggle navigation
       □ Affilia...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-moderatorts: 0.0
-laag: 0.0
-listopedia: 0.0
-deemed: 0.0
-optimum: 0.0
-1534: 0.0
-socially: 0.0
-shoptalk: 0.0
-firstclass: 0.0
-mummy: 0.0
+zak_bagans_stupid: 0.0
+現在はクリスマス: 0.0
+2013年4月5日: 0.0
+exiled: 0.0
+grullon: 0.0
+invites: 0.0
+theredeemerpa: 0.0
+licence: 0.0
+forums: 0.0
+downton_season_6_ep_4aphoto: 0.0
 
 -----------------------------------
 Instance 201 out of 364
@@ -4335,18 +4335,18 @@ Awkward Moments Children's Bible
   • Buy Signed Copies!
 
 N...
-Predicted class: christianity, True class: atheism
+Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-nenslo: 0.0
-kingwood: 0.0
-campbellton: 0.0
-microbiologist: 0.0
-buried: 0.0
-demonstrations: 0.0
-218379083v4_1: 0.0
-uper: 0.0
-gotgtemplate2_r1_c6: 0.0
-resolves: 0.0
+desiderabilis: 0.0
+ein: 0.0
+pinkeri: 0.0
+ceremoniously: 0.0
+brainerd: 0.0
+rationallyspeaking: 0.0
+synonyms: 0.0
+1075: 0.0
+ø³: 0.0
+grandbaby: 0.0
 
 -----------------------------------
 Instance 202 out of 364
@@ -4359,16 +4359,16 @@ Changing lives…to change the World!
      ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-rift: 0.0
-dynasties: 0.0
-militarism: 0.0
-thumb_8316: 0.0
-mlk_8834cwhidbey: 0.0
-prime: 0.0
-flimsy: 0.0
-dfatd: 0.0
-scandinavia: 0.0
-rjg: 0.0
+jay: 0.0
+financepat: 0.0
+sanhedrim: 0.0
+distinctively: 0.0
+castes: 0.0
+filmfest: 0.0
+lasted: 0.0
+packs: 0.0
+happier: 0.0
+studio10au: 0.0
 
 -----------------------------------
 Instance 203 out of 364
@@ -4379,16 +4379,16 @@ In the heart of the Rossendale Valley
 Main menu: Home | About Us | Cale...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-8130: 0.0
-preunderstanding: 0.0
-spaceflight: 0.0
-217: 0.0
-funvax: 0.0
-haplography: 0.0
-horsea: 0.0
-mickler: 0.0
-採用担当: 0.0
-82deg: 0.0
+seamstress: 0.0
+zla: 0.0
+ef: 0.0
+reduce: 0.0
+files: 0.0
+4337: 0.0
+1676: 0.0
+jellybeans: 0.0
+monodia: 0.0
+davidmills: 0.0
 
 -----------------------------------
 Instance 204 out of 364
@@ -4400,16 +4400,16 @@ Your last stop before eternal enlightenment
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-riconoscerle: 0.0
-david_mill: 0.0
-rise: 0.0
-statistically: 0.0
-mcnaughton: 0.0
-paper: 0.0
-passionmail: 0.0
-eindringlich: 0.0
-b4917a2439434ec69d686ecc2aa0136a: 0.0
-catalogue: 0.0
+mdus: 0.0
+undercutting: 0.0
+cssr: 0.0
+reji: 0.0
+1500: 0.0
+inherit: 0.0
+oracles: 0.0
+favoritefavoritefavoritefavorite: 0.0
+beatitudes: 0.0
+lambert: 0.0
 
 -----------------------------------
 Instance 205 out of 364
@@ -4428,16 +4428,16 @@ Morgan Mill UMC
       □ ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-joints: 0.0
-as: 0.0
-louviers: 0.0
-mesut: 0.0
-squarepants: 0.0
-adherent: 0.0
-unregistered: 0.0
-lier: 0.0
-urge: 0.0
-sequitur: 0.0
+naturist: 0.0
+ipsum: 0.0
+impugn: 0.0
+coddling: 0.0
+sternberg: 0.0
+deposed: 0.0
+rudolf: 0.0
+pour: 0.0
+implantations: 0.0
+preventive: 0.0
 
 -----------------------------------
 Instance 206 out of 364
@@ -4447,16 +4447,16 @@ Text: --FRAME--
     , will grab the attention of you...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-extracted: 0.0
-exercised: 0.0
-340308_101: 0.0
-folkways: 0.0
-cheapen: 0.0
-solvable: 0.0
-installed: 0.0
-210kb: 0.0
-edmond: 0.0
-gerson: 0.0
+otterbeinumccarlisle: 0.0
+columbarium_2: 0.0
+pitched: 0.0
+roquelaure: 0.0
+andean: 0.0
+1445108157: 0.0
+home41: 0.0
+sso: 0.0
+pettish: 0.0
+bowel: 0.0
 
 -----------------------------------
 Instance 207 out of 364
@@ -4466,16 +4466,16 @@ Home Book Excerpts Purchase Press Kit Contact Us
 [zfrancis-window] [znd-...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-wards: 0.0
-provides: 0.0
-398: 0.0
-incubus: 0.0
-unalike: 0.0
-ideologies: 0.0
-parachurch: 0.0
-overthrowing: 0.0
-precinct: 0.0
-experment: 0.0
+findus: 0.0
+burmese: 0.0
+eò: 0.0
+monger: 0.0
+journalistic: 0.0
+airporttele: 0.0
+exhibiting: 0.0
+act002: 0.0
+mjt: 0.0
+calendar_i: 0.0
 
 -----------------------------------
 Instance 208 out of 364
@@ -4489,16 +4489,16 @@ Text: Call Us Today! Toll Free: 800.553.0025
 [Product S...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ghraib: 0.0
-arete: 0.0
-herders: 0.0
-armistice: 0.0
-1626: 0.0
-deportations: 0.0
-dissident: 0.0
-4667: 0.0
-freewheeling: 0.0
-émis: 0.0
+hadcrut4: 0.0
+poetically: 0.0
+roditelje: 0.0
+facebookshare: 0.0
+ansley: 0.0
+unmitigated: 0.0
+huffpo_logo_lightbox: 0.0
+physiologists: 0.0
+opieandanth: 0.0
+knlr: 0.0
 
 -----------------------------------
 Instance 209 out of 364
@@ -4507,16 +4507,16 @@ Text:                               [D3C74430DE] Image
    Serving an international readership with the Ol...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-nightclub: 0.0
-097: 0.0
-randi: 0.0
-rowan: 0.0
-bullarium: 0.0
-behold: 0.0
-energetic: 0.0
-domebf: 0.0
-appreciating: 0.0
-geelong: 0.0
+pfingston: 0.0
+commenter: 0.0
+smashers: 0.0
+extrait: 0.0
+vilna: 0.0
+cybersecurity: 0.0
+rohn: 0.0
+resiliency: 0.0
+fangs: 0.0
+successive: 0.0
 
 -----------------------------------
 Instance 210 out of 364
@@ -4532,16 +4532,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-rodeon: 0.0
-phrygian: 0.0
-scratches: 0.0
-riding: 0.0
-peeps: 0.0
-furnishes: 0.0
-greg: 0.0
-greta: 0.0
-poisoned: 0.0
-serie: 0.0
+gulfport: 0.0
+caning: 0.0
+ï¼: 0.0
+cearly: 0.0
+magician: 0.0
+fetish: 0.0
+gingrich: 0.0
+aciolytes: 0.0
+tuddenham: 0.0
+nitude: 0.0
 
 -----------------------------------
 Instance 211 out of 364
@@ -4550,18 +4550,18 @@ Text: Episcopal Bookstore
 Order online or by phone (800) 803-6223
 
 Weekdays: 9:30am - 5:30pm - Saturday: ...
-Predicted class: atheism, True class: christianity
+Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-booty: 0.0
-finale: 0.0
-crown: 0.0
-gmail: 0.0
-neuroquest: 0.0
-nonwhite: 0.0
-2173: 0.0
-exspencive: 0.0
-webservices: 0.0
-mistrial: 0.0
+commion: 0.0
+vulgarest: 0.0
+demanding: 0.0
+χριστοῦ: 0.0
+selling: 0.0
+1527: 0.0
+altingius: 0.0
+20is: 0.0
+rso: 0.0
+beneficence: 0.0
 
 -----------------------------------
 Instance 212 out of 364
@@ -4575,16 +4575,16 @@ Podcast: The Mythicist Milwaukee Show
 Li...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-break: 0.0
-regenerating: 0.0
-scientifically: 0.0
-1720: 0.0
-condolences: 0.0
-repetitious: 0.0
-staying: 0.0
-fourteen: 0.0
-execrable: 0.0
-thumb_2520: 0.0
+frills: 0.0
+untruthfulness: 0.0
+cancerous: 0.0
+मध: 0.0
+swee: 0.0
+dahl: 0.0
+normalised: 0.0
+651: 0.0
+auditively: 0.0
+covertmessiah: 0.0
 
 -----------------------------------
 Instance 213 out of 364
@@ -4598,16 +4598,16 @@ Sunday@9:30 am
 Join...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-blasphemed: 0.0
-vaginal: 0.0
-unlv: 0.0
-ios8: 0.0
-piercing: 0.0
-tycoon: 0.0
-cajoling: 0.0
-rosedarling: 0.0
-anzac: 0.0
-morgana: 0.0
+electroshocking: 0.0
+domiciles: 0.0
+indignant: 0.0
+compartmentalised: 0.0
+8_: 0.0
+20070926: 0.0
+utmost: 0.0
+jasa: 0.0
+resizedimage300225: 0.0
+serra: 0.0
 
 -----------------------------------
 Instance 214 out of 364
@@ -4615,16 +4615,16 @@ Text: ┏━━━━━━━━┯━━━━━━━━━━━━━━�
 ┃Rosaries│Chaplets, an...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-blitzschnell: 0.0
-40deg: 0.0
-ebbed: 0.0
-cartridges: 0.0
-tacos: 0.0
-premio: 0.0
-summerbreeze: 0.0
-î¾ï: 0.0
-millicent: 0.0
-battering: 0.0
+gazebo: 0.0
+stl: 0.0
+advertising5: 0.0
+chromosome: 0.0
+nightmarish: 0.0
+olden: 0.0
+asked: 0.0
+1or: 0.0
+ptolemies: 0.0
+ointment: 0.0
 
 -----------------------------------
 Instance 215 out of 364
@@ -4635,16 +4635,16 @@ A society for atheists, rationalists, secularists and humanists
 Skip to c...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-occasioned: 0.0
-prizer: 0.0
-foote: 0.0
-iakovos: 0.0
-redekop: 0.0
-theologate: 0.0
-clinicians: 0.0
-observing: 0.0
-revolution: -0.0008300088726346717
-104141412_: 0.0
+autoankauf: 0.0
+ivpbuwnedb: 0.0
+jfk: 0.0
+overtaking: 0.0
+percival: 0.0
+skepdoc: 0.0
+robust: 0.0
+postmillennialsim: 0.0
+kuću: 0.0
+mordechai: 0.0
 
 -----------------------------------
 Instance 216 out of 364
@@ -4658,34 +4658,34 @@ Home
 Home | Church in Abingdon ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-entertainmentlearn: 0.0
-wflag_span: 0.0
-groupings: 0.0
-comment1: 0.0
-ceremonies: 0.0
-hypertext: 0.0
-wand: 0.0
-capturing: 0.0
-ditty: 0.0
-vom: 0.0
+militarist: 0.0
+hamark: 0.0
+9z8: 0.0
+katch: 0.0
+utahans: 0.0
+koine: 0.0
+sponsordate: 0.0
+mojtaba: 0.0
+principles: 0.0
+convicted: 0.0
 
 -----------------------------------
 Instance 217 out of 364
 Text:                                           Here Be Dragons
 
                                          ...
-Predicted class: atheism, True class: atheism
+Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-rootedness: 0.0
-zra: 0.0
-hpim3334: 0.0
-colavitoby: 0.0
-13344: 0.0
-246: 0.0
-alaa: 0.0
-9414: 0.0
-explanations: 0.0
-rounseville: 0.0
+lancer: 0.0
+yearns: 0.0
+glynnis: 0.0
+quieting: 0.0
+を受ける: 0.0
+pismo: 0.0
+bolingbroke: 0.0
+lenticular: 0.0
+nancybasmajian: 0.0
+shepherd: 0.0
 
 -----------------------------------
 Instance 218 out of 364
@@ -4699,16 +4699,16 @@ Text: [cropped-rsz_1gazlogo]
   • B...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-standardto: 0.0
-35210: 0.0
-tails: 0.0
-someways: 0.0
-ô¹m: 0.0
-holidays: 0.0
-herresthal: 0.0
-nympha: 0.0
-humiliations: 0.0
-presse: 0.0
+schulz: 0.0
+poncing: 0.0
+capere: 0.0
+organi: 0.0
+superbrain: 0.0
+palsy: 0.0
+pulling: 0.0
+global_445334597: 0.0
+disrespectful: 0.0
+burchill: 0.0
 
 -----------------------------------
 Instance 219 out of 364
@@ -4724,16 +4724,16 @@ St George's Magill
       □ Ser...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-unbelievable: 0.0
-0060655186: 0.0
-toiled: 0.0
-thyroid: 0.0
-zhang: 0.0
-surge: 0.0
-wharves: 0.0
-avatar_f1e: 0.0
-canonici: 0.0
-nxp: 0.0
+exc_astore: 0.0
+gallagher15: 0.0
+bossy: 0.0
+chartwells: 0.0
+869: 0.0
+loafers: 0.0
+sculptors: 0.0
+graders: 0.0
+brandenburg: 0.0
+guidelines: 0.0
 
 -----------------------------------
 Instance 220 out of 364
@@ -4743,18 +4743,18 @@ Order Now
 TRUE TRUTHS 
 The Deceit, Arrogance, and Corruption of Religion  
 by ...
-Predicted class: christianity, True class: atheism
+Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-signage: 0.0
-mardick: 0.0
-東京: 0.0
-自分でインターネットで探るよりも無駄のない就: 0.0
-confere: 0.0
-marrant: 0.0
-trees: 0.0
-warriors: 0.0
-judgementalism: 0.0
-7l6: 0.0
+ソウル: 0.0
+nalbandian: 0.0
+begrüßungsworte: 0.0
+lkb: 0.0
+breakthrough: 0.0
+anomie: 0.0
+translink: 0.0
+7itaogg2x: 0.0
+simplified: 0.0
+coordinators: 0.0
 
 -----------------------------------
 Instance 221 out of 364
@@ -4766,16 +4766,16 @@ Text: image displayed if flash reader not installed
   • Salvat...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-woollens: 0.0
-thumb_7717: 0.0
-profoundly: 0.0
-participation: 0.0
-umcmarket: 0.0
-5092: 0.0
-jê: 0.0
-860: 0.0
-band: 0.0
-strengthscoach: 0.0
+randal: 0.0
+hospitality: 0.0
+truthful: 0.0
+pcusalogo: 0.0
+tattoos: 0.0
+soul: 0.0
+codesh: 0.0
+caprice: 0.0
+thoughts: 0.0
+e1435939434361: 0.0
 
 -----------------------------------
 Instance 222 out of 364
@@ -4787,16 +4787,16 @@ Trucking For Jesus,
 Beating The ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ranjan: 0.0
-spielberg: 0.0
-ojuro: 0.0
-058: 0.0
-smolin: 0.0
-wiped: 0.0
-nite: 0.0
-cooperman: 0.0
-okie: 0.0
-foreclosure: 0.0
+capaciusque: 0.0
+woke: 0.0
+billions: 0.0
+material: 0.0
+cinematografica: 0.0
+lenski: 0.0
+expression: 0.0
+greenland: 0.0
+annika: 0.0
+macros: 0.0
 
 -----------------------------------
 Instance 223 out of 364
@@ -4809,16 +4809,16 @@ St Pauls Egham Hythe
       □ Inclu...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-thoughtlife: 0.0
-11_bulletin: 0.0
-leibes: 0.0
-0000057078: 0.0
-debilitated: 0.0
-thumb_2110: 0.0
-condensation: 0.0
-handwaves: 0.0
-bullseye: 0.0
-bangin: 0.0
+tmi: 0.0
+newbook: 0.0
+marqworshi: 0.0
+mann: 0.0
+intangible: 0.0
+travels: 0.0
+littlest: 0.0
+freemen: 0.0
+subscribing: 0.0
+6am: 0.0
 
 -----------------------------------
 Instance 224 out of 364
@@ -4827,16 +4827,16 @@ DTS Website Library Book Center Alumni Email CampusNet Community Online
 Login...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-女性が多く取得している: 0.0
-unduly: 0.0
-lovel: 0.0
-skye: 0.0
-recruits: 0.0
-timeless: 0.0
-yee: 0.0
-composer: 0.0
-comic: 0.0
-attributing: 0.0
+assn: 0.0
+arnaud: 0.0
+nurture: 0.0
+swim: 0.0
+passover: 0.0
+中文: 0.0
+locale: 0.0
+communism: 0.0
+t_bibles019: 0.0
+22all: 0.0
 
 -----------------------------------
 Instance 225 out of 364
@@ -4846,18 +4846,18 @@ Text: The Dominican Friars of the Province of St. Albert the Great
 The Dominican Central Province
 
   • ...
-Predicted class: christianity, True class: christianity
+Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-journo: 0.0
-embedded: 0.0
-just4u: 0.0
-bundles: 0.0
-cubbies: 0.0
-0048_01: 0.0
-yf: 0.0
-heretix: 0.0
-jaxfreethought: 0.0
-chaossection: 0.0
+eigenheit: 0.0
+initially: 0.0
+kleines: 0.0
+sq_black: 0.0
+choice: 0.0
+sbin: 0.0
+glascott: 0.0
+loftiest: 0.0
+repayment: 0.0
+robin: 0.0
 
 -----------------------------------
 Instance 226 out of 364
@@ -4866,16 +4866,16 @@ Text: logo
                   ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-obeisance: 0.0
-counterfeits: 0.0
-201: 0.0
-sbschafer: 0.0
-impersonal: 0.0
-instigate: 0.0
-tris: 0.0
-sermoan: 0.0
-sfc: 0.0
-98371: 0.0
+droid: 0.0
+exactly: 0.0
+prosocial: 0.0
+oysters: 0.0
+mcl: 0.0
+domingo: 0.0
+krebs: 0.0
+ceramics: 0.0
+robbery: 0.0
+hhmm: 0.0
 
 -----------------------------------
 Instance 227 out of 364
@@ -4883,16 +4883,16 @@ Text:                  4101 Norbeck Road, Rockville, MD 20853 [Map]
                              Phone: (3...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-wig: 0.0
-endorsing: 0.0
-colleen: 0.0
-clemmer: 0.0
-古代ギリシャの伝説の中にあります: 0.0
-let: 0.0
-mumba: 0.0
-charlene: 0.0
-93138: 0.0
-criticized: 0.0
+prayerclackmannanshire: 0.0
+dartboard: 0.0
+motors: 0.0
+sub_front1: 0.0
+52245: 0.0
+webbhotell: 0.0
+americas: 0.0
+vomits: 0.0
+eggs: 0.0
+fellowshipping: 0.0
 
 -----------------------------------
 Instance 228 out of 364
@@ -4916,16 +4916,16 @@ Search CSI:
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-simpatizzanti: 0.0
-emailusername: 0.0
-qd7: 0.0
-faculties: 0.0
-unveils: 0.0
-ガタガタ前歯とはもうオサラバ: 0.0
-breton: 0.0
-equipments: 0.0
-southwest: 0.0
-poker: 0.0
+f4r: 0.0
+井之頭病院の近くにある教会なのですが: 0.0
+sectarian: 0.0
+trilakeschurch: 0.0
+homeopath: 0.0
+chastity: 0.0
+lamott: 0.0
+102084365_: 0.0
+huguenots: 0.0
+hymn: 0.0
 
 -----------------------------------
 Instance 229 out of 364
@@ -4935,16 +4935,16 @@ Text: _
                                [top_banner...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-lerry: 0.0
-ambroise: 0.0
-expensive: 0.0
-exiled: 0.0
-singleton: 0.0
-sunni: 0.0
-basing: 0.0
-gern: 0.0
-corinthian: 0.0
-inyang: 0.0
+sophisticated_top: 0.0
+lough: 0.0
+conscientiously: 0.0
+dwarfed: 0.0
+suscite: 0.0
+solutio: 0.0
+immaterial: 0.0
+submitclear: 0.0
+pollutions: 0.0
+discourses: 0.0
 
 -----------------------------------
 Instance 230 out of 364
@@ -4957,16 +4957,16 @@ OFFICE HOURS: M-F 9AM - 12:30PM, 1:30 - 5PM
 ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-mammothembedthe: 0.0
-1452136270_special: 0.0
-archaic: 0.0
-proves: 0.0
-conspire: 0.0
-greville: 0.0
-846: 0.0
-avatar_e9e: 0.0
-say: 0.0
-carve: 0.0
+fahlstad: 0.0
+cartoonist: 0.0
+polluting: 0.0
+kcrepertorytheatre: 0.0
+displacements: 0.0
+reinvention: 0.0
+stewarded: 0.0
+powell: 0.0
+ceremonious: 0.0
+apologeisthai: 0.0
 
 -----------------------------------
 Instance 231 out of 364
@@ -4978,16 +4978,16 @@ Welcome to the Italy Missions Home Page!
 This page is sponso...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-l8v: 0.0
-hibakusha: 0.0
-authy: 0.0
-avatar_739: 0.0
-c53p: 0.0
-dorsey: 0.0
-quackery: 0.0
-cut: 0.0
-155: 0.0
-shutterstock_259200623: 0.0
+bentonville: 0.0
+sideswipes: 0.0
+hatchets: 0.0
+cocksure: 0.0
+chosest: 0.0
+hurst: 0.0
+1562: 0.0
+brewer: 0.0
+6447_82857: 0.0
+charts: 0.0
 
 -----------------------------------
 Instance 232 out of 364
@@ -4998,16 +4998,16 @@ A view of right and wrong, good and evil, in a universe without gods.
 Saturday, J...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-em: 0.0
-avatar_986: 0.0
-wines: 0.0
-phrygian: 0.0
-dauphine: 0.0
-club: 0.0
-stmarkscollege: 0.0
-interactives: 0.0
-smashed: 0.0
-laine: 0.0
+1353313050: 0.0
+robert_tilton: 0.0
+cristiana: 0.0
+bitchy: 0.0
+2unnamed: 0.0
+icf: 0.0
+fingernail: 0.0
+cincopa: 0.0
+orignal: 0.0
+1600s: 0.0
 
 -----------------------------------
 Instance 233 out of 364
@@ -5021,16 +5021,16 @@ sign in
   • Em...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-脱毛の仕組みをご紹介: 0.0
-分でしょう: 0.0
-patchwork: 0.0
-villages: 0.0
-patarins: 0.0
-ndeed: 0.0
-crispysea: 0.0
-lutero: 0.0
-ratify: 0.0
-205_happening_button: 0.0
+reinforce: 0.0
+thumb_2215: 0.0
+powerhouse: 0.0
+sauras: 0.0
+cowardly: 0.0
+riddlebarger: 0.0
+preempt: 0.0
+afflicted: 0.0
+wflag_japa: 0.0
+threaded: 0.0
 
 -----------------------------------
 Instance 234 out of 364
@@ -5038,16 +5038,16 @@ Text: Logo                                                               Home Pa
 BeliefsStaffMinistriesG...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-10comm: 0.0
-thumb_4413: 0.0
-global_440298223: 0.0
-unsurprisingly: 0.0
-古代ギリシャの伝説の中にあります: 0.0
-monomyth: 0.0
-gail: 0.0
-dasheth: 0.0
-cours: 0.0
-tio: 0.0
+preparation: 0.0
+emerald: 0.0
+columba: 0.0
+philippe: 0.0
+dcos: 0.0
+hoppers: 0.0
+bkgrd: 0.0
+pajaro: 0.0
+charting: 0.0
+pastorjimfoster: 0.0
 
 -----------------------------------
 Instance 235 out of 364
@@ -5062,16 +5062,16 @@ Text: Haysville United Methodist Church
   • ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ribbons: 0.0
-infinitesimal: 0.0
-minati: 0.0
-bluff: 0.0
-dangled: 0.0
-anton: 0.0
-00a: 0.0
-bash: 0.0
-disfellowshipped: 0.0
-cfx: 0.0
+annoys: 0.0
+9781581690583: 0.0
+solascriptura: 0.0
+finitude: 0.0
+alia: 0.0
+radically: 0.0
+info: 0.0
+schuld: 0.0
+philippians: 0.0
+elemental: 0.0
 
 -----------------------------------
 Instance 236 out of 364
@@ -5084,16 +5084,16 @@ Menu Skip to content
   • Hom...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-wr: 0.0
-woods: 0.0
-meetupfacebook: 0.0
-sermon: 0.0
-aquatic: 0.0
-inculcate: 0.0
-sye: 0.0
-した方の話を交えながら考えてくれました: 0.0
-appadurai: 0.0
-nautical: 0.0
+appraise: 0.0
+leclaire: 0.0
+hv: 0.0
+kcac: 0.0
+thumb_3633: 0.0
+darrell: 0.0
+debuting: 0.0
+temporaliter: 0.0
+iow: 0.0
+1082: 0.0
 
 -----------------------------------
 Instance 237 out of 364
@@ -5106,32 +5106,32 @@ Text:   • Home
   • Give Onl...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-1658798151038751: 0.0
-tism: 0.0
-metadata: 0.0
-1486: 0.0
-mô: 0.0
-stifling: 0.0
-sitewherefore: 0.0
-islamicization: 0.0
-26070: 0.0
-orb: 0.0
+ugla: 0.0
+congregational: 0.0
+families: 0.0
+lahti: 0.0
+companionship: 0.0
+1641: 0.0
+bar: 0.0
+parchment: 0.0
+神を知るには: 0.0
+globalized: 0.0
 
 -----------------------------------
 Instance 238 out of 364
 Text: ┏━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-na27: 0.0
-floating7: 0.0
-atm: 0.0
-global_206478182: 0.0
-differnet: 0.0
-sarrazin: 0.0
-trinitys: 0.0
-conditionally: 0.0
-chroniclers: 0.0
-columbia: 0.0
+andrews: 0.0
+moralists: 0.0
+7230: 0.0
+unborn: 0.0
+archeoastronomy: 0.0
+davin: 0.0
+histology: 0.0
+swerves: 0.0
+fusions: 0.0
+supergospel: 0.0
 
 -----------------------------------
 Instance 239 out of 364
@@ -5140,16 +5140,16 @@ Tuesday, January 12, 2016
 1501 W. Eau Gallie Blvd, Melbourne FL 3293...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-yacht: 0.0
-223991: 0.0
-hannah: 0.0
-nehmen: 0.0
-thumb_1670: 0.0
-the_nondescript_atheist_2016: 0.0
-ahaman: 0.0
-coreg: 0.0
-viral: 0.0
-d00ds: 0.0
+journals: 0.0
+boudry: 0.0
+1pe: 0.0
+continuous: 0.0
+rocketown: 0.0
+mirrors: 0.0
+artistica: 0.0
+testifies: 0.0
+octobris: 0.0
+6g: 0.0
 
 -----------------------------------
 Instance 240 out of 364
@@ -5160,16 +5160,16 @@ Text: [adw-logo]
       □ A...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-sanctifies: 0.0
-noble: 0.0
-xbm: 0.0
-daikan: 0.0
-effervescent: 0.0
-mauricio: 0.0
-polio: 0.0
-crossed: 0.0
-satori: 0.0
-motorcycle: 0.0
+zzzzzz: 0.0
+accompanies: 0.0
+spouted: 0.0
+deciso: 0.0
+scandinavian: 0.0
+theskepticsguide: 0.0
+7u: 0.0
+haplogroup: 0.0
+bassist: 0.0
+pittsburghcor: 0.0
 
 -----------------------------------
 Instance 241 out of 364
@@ -5185,16 +5185,16 @@ Feeds:
  ...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-homebtns: 0.0
-commonsenseatheism: 0.0
-partial: 0.0
-women_religious_abuse_graphic: 0.0
-orbs: 0.0
-centre_tt: 0.0
-aflame: 0.0
-sptimes: 0.0
-jesuits: 0.0
-von: 0.04663020269300071
+clamour: 0.0
+professors: 0.0
+surrounded: 0.08690619872479347
+gastrich: 0.0
+thumb_2154: 0.0
+cataloged: 0.0
+mistletoe: 0.0
+mentored: 0.0
+commuted: 0.0
+openbsd: 0.0
 
 -----------------------------------
 Instance 242 out of 364
@@ -5207,16 +5207,16 @@ Via de Cristo
 of Eastern Pennsyl...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ingest: 0.0
-effervescent: 0.0
-rahim: 0.0
-ophthalmology: 0.0
-chameleon: 0.0
-avatar_7f2: 0.0
-marvels: 0.0
-weighted: 0.0
-dundin: 0.0
-codifier: 0.0
+b6lxtvnaq94: 0.0
+intraprenurialresources: 0.0
+offerimg: 0.0
+ãµu: 0.0
+disunity: 0.0
+stiefel: 0.0
+tackling: 0.0
+innovating: 0.0
+rihu: 0.0
+ann: 0.0
 
 -----------------------------------
 Instance 243 out of 364
@@ -5232,16 +5232,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-quizzed: 0.0
-neither: 0.0
-advanced: 0.0
-downer: 0.0
-soundwagon: 0.0
-porn: 0.0
-caesarean: 0.0
-zelazo: 0.0
-contemorary: 0.0
-vésubie: 0.0
+abuse2: 0.0
+brandicon: 0.0
+blasphemy: 0.0
+sacerdotus: 0.0
+generous: 0.0
+2wz5l: 0.0
+farhan: 0.0
+mikeledo: 0.0
+定看護師資格を持った看護師が看護しています: 0.0
+img_0716: 0.0
 
 -----------------------------------
 Instance 244 out of 364
@@ -5250,16 +5250,16 @@ Make your own free website on Tripod.com
                   ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-coach: 0.0
-íµf: 0.0
-dave8: 0.0
-059896: 0.0
-telegraph: 0.0
-middlesex: 0.0
-bmus: 0.0
-高値の査定が提案される: 0.0
-drowsy: 0.0
-imaginary: 0.0
+schlock20160113: 0.0
+hunk: 0.0
+avatar_f66: 0.0
+708: 0.0
+alienazione: 0.0
+ἀλλὰ: 0.0
+追加費用: 0.0
+plight: 0.0
+darkangel: 0.0
+morrischapma: 0.0
 
 -----------------------------------
 Instance 245 out of 364
@@ -5269,16 +5269,16 @@ Text: Atheists for Jesus
 Mo...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-ruby: 0.0
-bluegrass: 0.0
-down2: 0.0
-campquestok: 0.0
-humiliate: 0.0
-481: 0.0
-logistics: 0.0
-dokumenti: 0.0
-keefes: 0.0
-s9: 0.0
+conciliorum: 0.0
+thar: 0.0
+fransen: 0.0
+alarmist: 0.0
+servizi: 0.0
+intrigues: 0.0
+parkes: 0.0
+paradise: 0.0
+63: 0.0
+thumb_5001: 0.0
 
 -----------------------------------
 Instance 246 out of 364
@@ -5293,16 +5293,16 @@ Primary Menu Skip to content
 ...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-haverhill: 0.0
-assistance: 0.0
-populated: 0.0
-canuck: 0.0
-ihrem: 0.0
-optical: 0.0
-biweekly: 0.0
-flingsock: 0.0
-itself: 0.0
-malaria_11: 0.0
+chemosh: 0.0
+openvpn_bsdauth: 0.0
+specialised: 0.0
+jan13: 0.0
+uì: 0.0
+weiland: 0.0
+dispenser: 0.0
+fsm: 0.0
+lrå: 0.0
+kindness: 0.0
 
 -----------------------------------
 Instance 247 out of 364
@@ -5315,32 +5315,32 @@ Owatonna Church of Christ
  ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-983: 0.0
-ъzме: 0.0
-premised: 0.0
-sevits: 0.0
-skeptik: 0.0
-albrecht: 0.0
-marais: 0.0
-approx: 0.0
-ext: 0.0
-irritative: 0.0
+128281457254014: 0.0
+youtube: 0.0
+taize: 0.0
+gaggle: 0.0
+bellahouston: 0.0
+bloodless: 0.0
+derr: 0.0
+wiltshire: 0.0
+godlessblogger: 0.0
+jacobs: 0.0
 
 -----------------------------------
 Instance 248 out of 364
 Text:  [revisedhom]                                                                                       ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-p7r: 0.0
-gagarin: 0.0
-avatar_9cd: 0.0
-stainedglass1: 0.0
-barred: 0.0
-orationis: 0.0
-upkeep: 0.0
-ef: 0.0
-stolen: 0.0
-waste: 0.0
+andean: 0.0
+pace: 0.0
+educated: 0.0
+vcc: 0.0
+thay: 0.0
+molestation: 0.0
+colors: 0.0
+delighted: 0.0
+uniting: 0.0
+virginal: 0.0
 
 -----------------------------------
 Instance 249 out of 364
@@ -5353,16 +5353,16 @@ TheHumanist.com
 Search for: [             ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-hamill: 0.0
-putter: 0.0
-dhf: 0.0
-chalked: 0.0
-ql0: 0.0
-²li: 0.0
-bandaid: 0.0
-lecaudey: 0.0
-manhatten: 0.0
-bishopsblogbutton: 0.0
+vidura: 0.0
+myopia: 0.0
+tqï: 0.0
+eastside: 0.0
+communist: 0.0
+estates: 0.0
+faves: 0.0
+sapping: 0.0
+brauchte: 0.0
+colorfulness: 0.0
 
 -----------------------------------
 Instance 250 out of 364
@@ -5382,16 +5382,16 @@ FAQs
 Auth...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-gentler: 0.0
-découvrez: 0.0
-608: 0.0
-zalewski: 0.0
-ygis25l1lt: 0.0
-wswbook: 0.0
-i4m: 0.0
-firms: 0.0
-arianism: 0.0
-saguenay: 0.0
+zuists: 0.0
+alexa: 0.0
+faid: 0.0
+ripping: 0.0
+byzantine: 0.0
+edge_pic: 0.0
+cybersafevic1: 0.0
+puesto: 0.0
+iæ: 0.0
+paramilitary: 0.0
 
 -----------------------------------
 Instance 251 out of 364
@@ -5406,16 +5406,16 @@ Navigation
       □ Vision St...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-trifling: 0.0
-amounted: 0.0
-filmography: 0.0
-parish_but: 0.0
-preferences: 0.0
-sontag: 0.0
-wit: 0.0
-turley: 0.0
-tmrì: 0.0
-overight: 0.0
+portugalpt: 0.0
+kidneys: 0.0
+ns: 0.0
+sharialaworonelawforall: 0.0
+jogging: 0.0
+payable: 0.0
+albums: 0.0
+farebbe: 0.0
+reeves: 0.0
+qualia: 0.0
 
 -----------------------------------
 Instance 252 out of 364
@@ -5423,16 +5423,16 @@ Text: bg image(romim/romgr.gif)
 Constantine                      [ In Greek ]                       Consta...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-fawley: 0.0
-raising: 0.0
-shoemaker: 0.0
-accessibility: 0.0
-gat: 0.0
-supernova: 0.0
-ashveville: 0.0
-unproven: 0.0
-playoff: 0.0
-s0: 0.0
+maori: 0.0
+greeted: 0.0
+durham_uni: 0.0
+malign: 0.0
+organizations: 0.0
+global_50467141: 0.0
+montage: 0.0
+loraine: 0.0
+turquoise1: 0.0
+huss: 0.0
 
 -----------------------------------
 Instance 253 out of 364
@@ -5448,16 +5448,16 @@ Welcome statement
   • Kateri's Sto...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-2014年6月: 0.0
-90175338: 0.0
-clar: 0.0
-aoy: 0.0
-6am: 0.0
-kickoff: 0.0
-naturopathic: 0.0
-linkffrf_3: 0.0
-najkvalitetnije: 0.0
-unzoned: 0.0
+fresh: 0.0
+g0: 0.0
+clees: 0.0
+jourgensen: 0.0
+3mb: 0.0
+razionalisti: 0.0
+teachihngs: 0.0
+unbiased: 0.0
+0000069408: 0.0
+speciation: 0.0
 
 -----------------------------------
 Instance 254 out of 364
@@ -5469,16 +5469,16 @@ Text:   • Home
       □ Staff and Boar...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-licenced: 0.0
-32961: 0.0
-pawn: 0.0
-ecards: 0.0
-sidney: 0.0
-gentlemanly: 0.0
-ammonian: 0.0
-growths: 0.0
-satirically: 0.0
-nominations: 0.0
+accidentes: 0.0
+existed: 0.0
+02906: 0.0
+anita: 0.0
+bea: 0.0
+zep: 0.0
+uncouth: 0.0
+leur: 0.0
+outhouses: 0.0
+reef: 0.0
 
 -----------------------------------
 Instance 255 out of 364
@@ -5493,16 +5493,16 @@ Text: 情報とお金-にじいろ
 ...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-divinatory: 0.0
-cheam: 0.0
-ballroom: 0.0
-それからというもの車いじりが趣味になり: 0.0
-légende: 0.0
-lugubert: 0.0
-manifestos: 0.0
-dictator: 0.0
-phoning: 0.0
-080315old_: 0.0
+starter: 0.0
+poachers: 0.0
+rovers: 0.0
+enzyme: 0.0
+refutal: 0.0
+fiancé: 0.0
+metaphysical: 0.0
+bavarian: 0.0
+744400494: 0.0
+20mg: 0.0
 
 -----------------------------------
 Instance 256 out of 364
@@ -5513,16 +5513,16 @@ Experience Links
    ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-езхdzvгuфzяоющqгд5пьюmщ: 0.0
-superhumans: 0.0
-chronologies: 0.0
-image0: 0.0
-abstandhalter: 0.0
-7z: 0.0
-cmusicmail: 0.0
-beuf: 0.0
-chunky: 0.0
-doors: 0.0
+parsimony: 0.0
+monotheism: 0.0
+68137: 0.0
+pretension: 0.0
+purist: 0.0
+refractory: 0.0
+se14: 0.0
+hazing: 0.0
+zz: 0.0
+stimbo: 0.0
 
 -----------------------------------
 Instance 257 out of 364
@@ -5534,16 +5534,16 @@ Text: bg image(files/QuickSiteImages/bkgd.gif)
 [navBar...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-holum: 0.0
-raving: 0.0
-lraftery: 0.0
-obstetricians: 0.0
-ulcer: 0.0
-mahabharata: 0.0
-suzdal: 0.0
-transformed: 0.0
-pitilessly: 0.0
-óµï: 0.0
+avatar_278: 0.0
+ongoing: 0.0
+harassment: 0.0
+dino: 0.0
+granules: 0.0
+594: 0.0
+daisy: 0.0
+global_206476722: 0.0
+calumnies: 0.0
+cape: 0.0
 
 -----------------------------------
 Instance 258 out of 364
@@ -5557,16 +5557,16 @@ Pages
   ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-wang: 0.0
-minimally: 0.0
-quintet: 0.0
-oikos: 0.0
-pronouncement: 0.0
-kaboo: 0.0
-catarrh: 0.0
-まずはエステサロンのわき脱毛から始めてみた: 0.0
-appetites: 0.0
-otterbeinumccarlisle: 0.0
+forsworn: 0.0
+flooding: 0.0
+sibrel: 0.0
+excoriations: 0.0
+laborers: 0.0
+souvenirs: 0.0
+privileging: 0.0
+holywordcafe: 0.0
+sustainable: 0.0
+sundayschool_homead: 0.0
 
 -----------------------------------
 Instance 259 out of 364
@@ -5582,16 +5582,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-z6: 0.0
-35th: 0.0
-thumb_3899: 0.0
-retorted: 0.0
-06492: 0.0
-sanctifies: 0.0
-imprudently: 0.0
-dans: 0.0
-encapsulated: 0.0
-texture: 0.0
+lamanites: 0.0
+fortnight: 0.0
+kind29th: 0.0
+recompensed: 0.0
+r9ns: 0.0
+img_2: 0.0
+3451: 0.0
+ceiling: 0.0
+distribuita: 0.0
+refrained: 0.0
 
 -----------------------------------
 Instance 260 out of 364
@@ -5600,16 +5600,16 @@ Text:                                  [index_htm_]
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-ecurrent: 0.0
-bagpipes: 0.0
-workinprogressradio: 0.0
-2221960: 0.0
-posso: 0.0
-disputatious: 0.0
-a0: 0.0
-1094: 0.0
-nagata: 0.0
-dpb: 0.0
+consumerism: 0.0
+eupraxsophy: 0.0
+laboratory: 0.0
+banner_boo: 0.0
+washed: 0.0
+rjl: 0.0
+katie: 0.0
+resourcedir_param: 0.0
+goesaroundcomesaround: 0.0
+cosmological: 0.0
 
 -----------------------------------
 Instance 261 out of 364
@@ -5624,18 +5624,18 @@ Toggle navigation
   • Audio
   • Video
 ...
-Predicted class: atheism, True class: christianity
+Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-hd_pic_1: 0.0
-eyesight: 0.0
-9378: 0.0
-bookshelves: 0.0
-meats: 0.0
-thumbnail_j: 0.0
-inquisitional: 0.0
-waldensians: 0.0
-bf: 0.0
-speciation: 0.0
+whippin: 0.0
+latinmass: 0.0
+ludwig: 0.0
+なんて考えて帰ったら: 0.0
+honestly: 0.0
+mu: 0.0
+warrior: 0.0
+sojourner_truth_1: 0.0
+moroni: 0.0
+crossroads_baker_explosion: 0.0
 
 -----------------------------------
 Instance 262 out of 364
@@ -5647,16 +5647,16 @@ A Lighthouse Of Hope For Hurting People
   • Basic Beliefs...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-wandern: 0.0
-1262349: 0.0
-migraine: 0.0
-amboy: 0.0
-johnsa: 0.0
-prototypical: 0.0
-thumb_4435: 0.0
-相談してきたんです: 0.0
-impurity: 0.0
-global_442: 0.0
+allure: 0.0
+adendum: 0.0
+feynam: 0.0
+01swedish: 0.0
+kayakers: 0.0
+evolutionary: 0.0
+中身は発砲スチロール: 0.0
+thetonights: 0.0
+jan022016: 0.0
+nyamuk: 0.0
 
 -----------------------------------
 Instance 263 out of 364
@@ -5674,16 +5674,16 @@ Camp Cedar Cliff
 ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-nigerians: 0.0
-superman: 0.0
-jsp: 0.0
-shadowline: 0.0
-bluffton: 0.0
-extremis: 0.0
-dios: 0.0
-luanne: 0.0
-cheated: 0.0
-hour: 0.0
+sextape: 0.0
+crw_8048: 0.0
+cþ: 0.0
+hem: 0.0
+grudging: 0.0
+cdc: 0.0
+chastened: 0.0
+schocken: 0.0
+ratio: 0.0
+fixtures: 0.0
 
 -----------------------------------
 Instance 264 out of 364
@@ -5696,16 +5696,16 @@ Menu
       □ Sta...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-891: 0.0
-grabs: 0.0
-chaining: 0.0
-fridge: 0.0
-rescinds: 0.0
-commitments: 0.0
-houstonpress: 0.0
-testis: 0.0
-addons: 0.0
-timid: 0.0
+d8j: 0.0
+induces: 0.0
+comitato: 0.0
+jk6ilzaaami: 0.0
+companies: 0.0
+massen: 0.0
+cheerfullly: 0.0
+gallon: 0.0
+willpower: 0.0
+1133938: 0.0
 
 -----------------------------------
 Instance 265 out of 364
@@ -5719,16 +5719,16 @@ Text:
 Updated every Monday, Wednesday and ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-masticated: 0.0
-j56: 0.0
-unsubstantial: 0.0
-fertilizes: 0.0
-239: 0.0
-crown: 0.0
-deliberative: 0.0
-andreas09: 0.0
-conversely: 0.0
-fused: 0.0
+4426: 0.0
+thucydides: 0.0
+gaytán: 0.0
+dispenses: 0.0
+roared: 0.0
+502013266_: 0.0
+hmtna3: 0.0
+high: 0.0
+widen: 0.0
+hounds: 0.0
 
 -----------------------------------
 Instance 266 out of 364
@@ -5737,18 +5737,18 @@ Text:
 
  Header 2
  Home | About  | Worship | Need...
-Predicted class: christianity, True class: christianity
+Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-ignoring: 0.0
-643: 0.0
-ada: 0.0
-rancor: 0.0
-fellini: 0.0
-bedamned: 0.0
-canadahelps: 0.0
-f3â: 0.0
-beekeeping: 0.0
-noel: 0.0
+gradient: 0.0
+thumb_2177: 0.0
+kacm: 0.0
+candellog: 0.0
+bsh: 0.0
+保証の件までしっかりと提示している医院なら安心して通院できます: 0.0
+dominionists: 0.0
+dsc_5391: 0.0
+bockman: 0.0
+18thgo: 0.0
 
 -----------------------------------
 Instance 267 out of 364
@@ -5759,16 +5759,16 @@ Monsignor Matthew F. Clarke
   •...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-artifact: 0.0
-masonic: 0.0
-231144: 0.0
-accounted: 0.0
-800x600: 0.0
-wp39de865e: 0.0
-toy: 0.0
-unavoidably: 0.0
-rig: 0.0
-roistering: 0.0
+meted: 0.0
+patronised: 0.0
+interchangeably: 0.0
+nanjing: 0.0
+reinvigorate: 0.0
+built: 0.0
+karaoke: 0.0
+usurped: 0.0
+outfit: 0.0
+bibliology: 0.0
 
 -----------------------------------
 Instance 268 out of 364
@@ -5784,16 +5784,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-mattered: 0.0
-thumb_4375: 0.0
-exclaiming: 0.0
-3504: 0.0
-word: 0.0
-morons: 0.0
-lifechange: 0.0
-clares: 0.0
-reviewer: 0.0
-あぁ神様がいる: 0.0
+myths: 0.0
+bluejeans: 0.0
+20140410_gm_parts_recall: 0.0
+absolutist: 0.0
+pic_17: 0.0
+blundered: 0.0
+4w: 0.0
+gays: 0.0
+78028: 0.0
+appointment: 0.0
 
 -----------------------------------
 Instance 269 out of 364
@@ -5802,16 +5802,16 @@ January 12, 2016
 [bodyBG_L]      ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-例えば食事: 0.0
-pakistan: 0.0
-ohioans: 0.0
-hallmark: 0.0
-thumb_3206: 0.0
-helped: 0.0
-disques: 0.0
-54618: 0.0
-hibernation: 0.0
-lindsey: 0.0
+complain: 0.0
+erdős: 0.0
+bitten: 0.0
+ý³0: 0.0
+amenábar: 0.0
+eagle: 0.0
+trashing: 0.0
+bifurcation: 0.0
+افغانستان: 0.0
+wiki: 0.0
 
 -----------------------------------
 Instance 270 out of 364
@@ -5819,16 +5819,16 @@ Text:   • District Church Directory
   • District MinistriesCityServeEastern District GatewayHispanic Missi...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-verily: 0.0
-meridian: 0.0
-swallows: 0.0
-sherwin: 0.0
-prevents: 0.0
-catalogs: 0.0
-fads: 0.0
-repudiate: 0.0
-einstein: 0.0
-dividern: 0.0
+geekdom: 0.0
+epic: 0.0
+strapped: 0.0
+orus: 0.0
+maher: 0.0
+joined: 0.0
+2451: 0.0
+ferguson: 0.0
+nacc: 0.0
+extend: 0.0
 
 -----------------------------------
 Instance 271 out of 364
@@ -5836,16 +5836,16 @@ Text: Warning! This website requires javascript to run correctly. Please enable
 javascript in your browser...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-sech: 0.0
-thumb_4329: 0.0
-cosplay: 0.0
-fearful: 0.0
-ts: 0.0
-ni: 0.0
-f6s: 0.0
-sjdrparish: 0.0
-toggle: 0.0
-campfires: 0.0
+1555: 0.0
+harkrider: 0.0
+operation: 0.0
+persuade: 0.0
+presidentialprayerteam: 0.0
+toy: 0.0
+rosalyn: 0.0
+monolith: 0.0
+alia: 0.0
+cartography: 0.0
 
 -----------------------------------
 Instance 272 out of 364
@@ -5855,16 +5855,16 @@ Building Friendships...Building Families...Building Faith.
   ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-unspeakably: 0.0
-authorization: 0.0
-wgea: 0.0
-taliban: 0.0
-cowvpz: 0.0
-cookie: 0.0
-medline: 0.0
-signez: 0.0
-0000088303: 0.0
-citation: 0.0
+cabby: 0.0
+5u: 0.0
+bequeathed: 0.0
+chauvinists: 0.0
+3405: 0.0
+philanthro: 0.0
+collations: 0.0
+medhunters: 0.0
+gail: 0.0
+fulfils: 0.0
 
 -----------------------------------
 Instance 273 out of 364
@@ -5872,16 +5872,16 @@ Text: "And kill every woman who has slept with a man but save for yourselves eve
 girl who has never slep...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-neologisms: 0.0
-terra: 0.0
-rpumcbanner: 0.0
-hitch: 0.0
-bostonians: 0.0
-clefs: 0.0
-tapping: 0.0
-distracts: 0.0
-arlingtonlibquestionofweek: 0.0
-promofeat: 0.0
+lraftery: 0.0
+walter: 0.0
+elton: 0.0
+domestic: 0.0
+dmft: 0.0
+chlorosis: 0.0
+ipmdvd4: 0.0
+smith83k: 0.0
+cfcs: 0.0
+thumb_1658: 0.0
 
 -----------------------------------
 Instance 274 out of 364
@@ -5896,32 +5896,32 @@ More News
   • M...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-avatar_9fb: 0.0
-opportunists: 0.0
-anton: 0.0
-gutmann: 0.0
-virovitica: 0.0
-2015schreibe: 0.0
-vivant: 0.0
-recalls: 0.0
-scrutinized: 0.0
-2020: 0.0
+vorlesungen: 0.0
+buttonwork: 0.0
+avi: 0.0
+gmail: 0.0
+read_more: 0.0
+hypothesize: 0.0
+singers: 0.0
+p14: 0.0
+undefiled: 0.0
+mdo: 0.0
 
 -----------------------------------
 Instance 275 out of 364
 Text:                                                                                                     ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-profound: 0.0
-ritenbaugh: 0.0
-alyse: 0.0
-vinegar: 0.0
-公的機関の職業紹介所として一般的に利用されているのが地元のハローワークです: 0.0
-summarizes: 0.0
-corrosive: 0.0
-ipadregist: 0.0
-gilley: 0.0
-contractors: 0.0
+wikiwatchdog: 0.0
+s7þ: 0.0
+7é: 0.0
+csicop: 0.0
+jackpot: 0.0
+halsall: 0.0
+craving: 0.0
+westland: 0.0
+customer: 0.0
+trajectory: 0.0
 
 -----------------------------------
 Instance 276 out of 364
@@ -5931,16 +5931,16 @@ Donate
               Debatin...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-invades: 0.0
-2015june: 0.0
-dittography: 0.0
-achieves: 0.0
-vb: 0.0
-response: 0.0
-educacion: 0.0
-beckwith: 0.0
-incursion: 0.0
-vague: 0.0
+leaves: 0.0
+nin: 0.0
+dancr: 0.0
+linkbar_r11_c2: 0.0
+vorgriff: 0.0
+crockery: 0.0
+apocrypha: 0.0
+wives: 0.0
+centric: 0.0
+4942: 0.0
 
 -----------------------------------
 Instance 277 out of 364
@@ -5953,16 +5953,16 @@ Sunday Service Time: 10:00 am
 [Home                                ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-guys: 0.0
-hotpocket: 0.0
-freemen: 0.0
-dillons: 0.0
-lagr: 0.0
-5010: 0.0
-72076: 0.0
-hana: 0.0
-adventistchurchconnect: 0.0
-enjoining: 0.0
+_h: 0.0
+venezuela: 0.0
+hutchison: 0.0
+5g: 0.0
+importance: 0.0012436748598864357
+birthed: 0.0
+quite: 0.0
+segura: 0.0
+peneological: 0.0
+doubleday: 0.0
 
 -----------------------------------
 Instance 278 out of 364
@@ -5979,16 +5979,16 @@ Text:
 Fly with Chr...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-brains: 0.0
-image007: 0.0
-requirements: 0.0
-accesses: 0.0
-alltrials: 0.0
-adonai: 0.0
-quacky: 0.0
-mndaustralia: 0.0
-unbirthday: 0.0
-tarred: 0.0
+shooter: 0.0
+veneficium: 0.0
+charities: 0.0
+e1441499480757: 0.0
+petitioning: 0.0
+dimming: 0.0
+newbies: 0.0
+psychomotor: 0.0
+većina: 0.0
+märz: 0.0
 
 -----------------------------------
 Instance 279 out of 364
@@ -6001,16 +6001,16 @@ nursing degrees online [nebraska-m]
   • ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-fraud: 0.0
-global_83908732: 0.0
-obligation: 0.0
-melksham: 0.0
-kimball: 0.0
-levant: 0.0
-ironed: 0.0
-thumb_1675: 0.0
-smedley: 0.0
-nether: 0.0
+marred: 0.0
+googled78e9c30f16b2b43: 0.0
+discutiendo: 0.0
+beeping: 0.0
+creech: 0.0
+continuare: 0.0
+rigor: 0.0
+polycarp: 0.0
+jun: 0.0
+convoked: 0.0
 
 -----------------------------------
 Instance 280 out of 364
@@ -6023,16 +6023,16 @@ Text: bg image(ltgray_backer.gif)
        ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ujv: 0.0
-guo: 0.0
-deviously: 0.0
-タイトル: 0.0
-prowess: 0.0
-272829303112345678910111213: 0.0
-oct2015_be: 0.0
-metre: 0.0
-fidalgo: 0.0
-jeopardizing: 0.0
+cry: 0.0
+sixties: 0.0
+derbyshire: 0.0
+burqa: 0.0
+biology: 0.0
+10356224_754727244579412_6340918199644362542_n: 0.0
+insitution: 0.0
+tough: 0.0
+caiphas: 0.0
+maricopa: 0.0
 
 -----------------------------------
 Instance 281 out of 364
@@ -6042,16 +6042,16 @@ Text: ASK ATHEISTS quotes forum books sign up / login
 [arrow_l] [13354 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-postage: 0.0
-emphasizing: 0.0
-deigned: 0.0
-score: 0.0
-tom: 0.0
-naure: 0.0
-nta2014vote: 0.0
-intimacy: 0.0
-lollardy: 0.0
-backs: 0.0
+gleb: 0.0
+disappointingly: 0.0
+wpjc: 0.0
+biblekeeper: 0.0
+vanuatu: 0.0
+pmvanessa: 0.0
+knl: 0.0
+用も高いですから: 0.0
+5790: 0.0
+immoralists: 0.0
 
 -----------------------------------
 Instance 282 out of 364
@@ -6065,16 +6065,16 @@ Tudeley cum Capel with Five Oak Green LEP
  ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-outposts: 0.0
-sustenance: 0.0
-pellet: 0.0
-40ae9bdbfd: 0.0
-professionalised: 0.0
-ledgewoodbaptist: 0.0
-キャラクターで: 0.0
-のが: 0.0
-rocketed: 0.0
-are: 0.0
+img_3972: 0.0
+assessment: 0.0
+ironchariots: 0.0
+avatar_7bb: 0.0
+lineone: 0.0
+ryle: 0.0
+perennial: 0.0
+tertullian: 0.0
+fv: 0.0
+clears: 0.0
 
 -----------------------------------
 Instance 283 out of 364
@@ -6083,16 +6083,16 @@ Text:                                Important Links:
                   ---------------------------------...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-avatar_739: 0.0
-camphor: 0.0
-mofo: 0.0
-mejora: 0.0
-röntgen: 0.0
-batm: 0.0
-solve: 0.0
-mangled: 0.0
-students: 0.0
-til: 0.0
+ては脱毛は完了しないのですヨ: 0.0
+common: 0.0
+mckay: 0.0
+経験したことがある: 0.0
+global_16097572: 0.0
+hchc: 0.0
+artisteer: 0.0
+sanitary: 0.0
+ø½: 0.0
+figuratively: 0.0
 
 -----------------------------------
 Instance 284 out of 364
@@ -6102,16 +6102,16 @@ For so the Lord has commanded us: ‘I have set you as a light to the Gentiles,
 That yo...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-supremely: 0.0
-bellas: 0.0
-identifying: 0.0
-deregulation: 0.0
-updates: 0.0
-elmira: 0.0
-propitiatory: 0.0
-food_for_freethought_flyer_final_copy: 0.0
-7g: 0.0
-emulsion: 0.0
+polyphony: 0.0
+日町自動車学校: 0.0
+ity: 0.0
+dandenongs: 0.0
+1129: 0.0
+shenango: 0.0
+jointed: 0.0
+laagers: 0.0
+challenges: 0.0
+01463: 0.0
 
 -----------------------------------
 Instance 285 out of 364
@@ -6124,16 +6124,16 @@ T-shirt time!
 Please click here to ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-continents: 0.0
-874431155976870: 0.0
-unaffiliatedmeanwhile: 0.0
-unpromising: 0.0
-wraps: 0.0
-knife: 0.0
-copying: 0.0
-backbiting: 0.0
-phylowiki: 0.0
-stehen: 0.0
+diderot: 0.0
+demolishing: 0.0
+csi: 0.0
+journey: 0.0
+luxembourg: 0.0
+baalsrud: 0.0
+gse_multipart15285: 0.0
+simurgh: 0.0
+citizens: 0.0
+illuminates: 0.0
 
 -----------------------------------
 Instance 286 out of 364
@@ -6149,16 +6149,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-diligis: 0.0
-galilee: 0.0
-2471: 0.0
-namsoon: 0.0
-cybersmart: 0.0
-ªz: 0.0
-founders: 0.0
-quarterback: 0.0
-1490: 0.0
-1556355815: 0.0
+keen: 0.0
+recruiting: 0.0
+chatroom: 0.0
+tres: 0.0
+quilting: 0.0
+rot: 0.0
+ricerca: 0.0
+cialas: 0.0
+beem: 0.0
+across: 0.0
 
 -----------------------------------
 Instance 287 out of 364
@@ -6171,16 +6171,16 @@ The Internet's Premier Classical Music Source
   • Comp...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-septiembre: 0.0
-ocs: 0.0
-ctwr: 0.0
-ensures: 0.0
-probabilities: 0.0
-dodging: 0.0
-virtual: 0.0
-speckhardt: 0.0
-37312: 0.0
-fried: 0.0
+0000091262: 0.0
+purports: 0.0
+scrutinized: 0.0
+36a7: 0.0
+qualification: 0.0
+shirk: 0.0
+poprocki: 0.0
+surplus: 0.0
+relates: 0.0
+tutz: 0.0
 
 -----------------------------------
 Instance 288 out of 364
@@ -6193,16 +6193,16 @@ Text: Faith For Today
   • Abou...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-parking: 0.0
-spillman: 0.0
-souvenirs: 0.0
-anglicare: 0.0
-44060: 0.0
-flemming: 0.0
-homme: 0.0
-durango: 0.0
-frontline: 0.0
-tlc: 0.0
+1000071798: 0.0
+studenata: 0.0
+dignities: 0.0
+kasese: 0.0
+troyes: 0.0
+passionately: 0.0
+apex: 0.0
+uneasiness: 0.0
+menendez: 0.0
+support_button: 0.0
 
 -----------------------------------
 Instance 289 out of 364
@@ -6215,16 +6215,16 @@ Text: Reformed Churches
   • Where...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-died: 0.0
-k0q: 0.0
-disrespectfully: 0.0
-roles: 0.0
-mesut: 0.0
-rove: 0.0
-pipeline: 0.0
-taiwanese: 0.0
-z1a: 0.0
-albrecht: 0.0
+tyczkowski: 0.0
+homoplasy: 0.0
+covenanted: 0.0
+northumbria: 0.0
+welt: 0.0
+soulful: 0.0
+enriching: 0.0
+vd_sunday2016_1: 0.0
+564: 0.0
+3220: 0.0
 
 -----------------------------------
 Instance 290 out of 364
@@ -6232,16 +6232,16 @@ Text: International English Baptist Church of Hamburgenglish speaking church ger
 - services ministries...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-front_06_08: 0.0
-news24: 0.0
-anthrosciguy: 0.0
-imitating: 0.0
-cutler: 0.0
-cha: 0.0
-primordial: 0.0
-8g: 0.0
-superiority: 0.0
-satellites: 0.0
+92w: 0.0
+oconomowoc: 0.0
+avatar_db7: 0.0
+usg: 0.0
+isnt: 0.0
+過去に交通事故で大事をとって検査入院した友人が: 0.0
+insulate: 0.0
+topchristianhits: 0.0
+wapo: 0.0
+werde: 0.0
 
 -----------------------------------
 Instance 291 out of 364
@@ -6250,16 +6250,16 @@ Jonnie W's Youtube Jonnie W's Facebook Jonnie W's Twitter Jonnie W's Instagram
 Jonnie...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-js_gbc07: 0.0
-vqõ: 0.0
-mit: 0.0
-volkswalkers: 0.0
-leefella: 0.0
-1556: 0.0
-exoplanet: 0.0
-ewwww: 0.0
-251: 0.0
-rsstwitterfacebookgoogle: 0.0
+cullen: 0.0
+do: 0.0
+goner: 0.0
+ermanno: 0.0
+yii: 0.0
+4â: 0.0
+blackhawks: 0.0
+gatekeeper: 0.0
+recognitions: 0.0
+exploited: 0.0
 
 -----------------------------------
 Instance 292 out of 364
@@ -6274,16 +6274,16 @@ Text:   • Home
   • Save...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-listener: 0.0
-circumvent: 0.0
-replacement: 0.0
-integrally: 0.0
-i93: 0.0
-narayana: 0.0
-9йаbтgxйуъj: 0.0
-onesiphorus: 0.0
-roberson: 0.0
-childcare: 0.0
+bothersome: 0.0
+despising: 0.0
+gnōsis: 0.0
+endangered: 0.0
+1593: 0.0
+deflecting: 0.0
+regalia: 0.0
+conseguido: 0.0
+669: 0.0
+cramming: 0.0
 
 -----------------------------------
 Instance 293 out of 364
@@ -6296,16 +6296,16 @@ Log In Sign Up
       □ Volunt...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-icon_profi: 0.0
-mulek: 0.0
-actuales: 0.0
-distention: 0.0
-savanna: 0.0
-merianae: 0.0
-poncing: 0.0
-nostalgic: 0.0
-lugli: 0.0
-beux: 0.0
+8a: 0.0
+gaol: 0.0
+scienc: 0.0
+sible: 0.0
+connectconnect: 0.0
+leisure: 0.0
+magick: 0.0
+uncredible: 0.0
+grattan: 0.0
+kiwi6: 0.0
 
 -----------------------------------
 Instance 294 out of 364
@@ -6317,16 +6317,16 @@ And when our cubs grow / We'll show you what war is good for
   • Facts About...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-radish: 0.0
-mgtow: 0.0
-swordgate: 0.0
-receives: 0.0
-artist: 0.0
-thumb_4326: 0.0
-ratified: 0.0
-fährt: 0.0
-dove2: 0.0
-erdo: 0.0
+continentals: 0.0
+restart: 0.0
+knibbs: 0.0
+mi5: 0.0
+dive: 0.0
+kerensa: 0.0
+santerian: 0.0
+nuncios: 0.0
+3the: 0.0
+mp4: 0.0
 
 -----------------------------------
 Instance 295 out of 364
@@ -6342,16 +6342,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-scared: 0.0
-churchdinner: 0.0
-hecatomb: 0.0
-神様でも宗教の力で: 0.0
-confess: 0.0
-freising: 0.0
-limbo: 0.0
-clamoring: 0.0
-gangster: 0.0
-athe: 0.0
+fref: 0.0
+bartholow: 0.0
+ebibletools: 0.0
+tamo: 0.0
+kwdf: 0.0
+owls: 0.0
+smcspa: 0.0
+diversions: 0.0
+theorist: 0.0
+2ö: 0.0
 
 -----------------------------------
 Instance 296 out of 364
@@ -6360,16 +6360,16 @@ Text:                        [logo][logo_seper]
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-funday: 0.0
-lettow: 0.0
-adminjanuary: 0.0
-pitch: 0.0
-lovnlit: 0.0
-reina: 0.0
-coyne: 0.0
-book_cover: 0.0
-cod: 0.0
-cooley: 0.0
+overseas: 0.0
+6ò: 0.0
+miq: 0.0
+clipart: 0.0
+athists: 0.0
+clapping: 0.0
+cleary: 0.0
+transcendentalist: 0.0
+couraged: 0.0
+modus: 0.0
 
 -----------------------------------
 Instance 297 out of 364
@@ -6380,16 +6380,16 @@ Text: bg image(cover.gif)
                   ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-σώματος: 0.0
-degree: 0.0
-confrontations: 0.0
-tenfold: 0.0
-david: 0.0
-debiprasad: 0.0
-forester: 0.0
-validly: 0.0
-hac: 0.0
-éº: 0.0
+privately: 0.0
+whitewash: 0.0
+ardvassar: 0.0
+5285: 0.0
+reaming: 0.0
+leibes: 0.0
+ipu: 0.0
+12886: 0.0
+37216: 0.0
+reprieved: 0.0
 
 -----------------------------------
 Instance 298 out of 364
@@ -6400,16 +6400,16 @@ Text: bg image(exptextb.jpg)
                       ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-lucky: 0.0
-canticle: 0.0
-stuffs: 0.0
-grescoe: 0.0
-ccccfront4_0: 0.0
-582637_420997754577663_275373239140116: 0.0
-drobny: 0.0
-539: 0.0
-jewelry: 0.0
-santa_on_the_phone: 0.0
+hochschulen: 0.0
+passivity: 0.0
+18002: 0.0
+behaved: 0.0
+darwinaward: 0.0
+edwina: 0.0
+abobe: 0.0
+templeboy: 0.0
+habitable: 0.0
+40865: 0.0
 
 -----------------------------------
 Instance 299 out of 364
@@ -6422,16 +6422,16 @@ Text: [blank]
       ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-1672: 0.0
-tautology: 0.0
-današnje: 0.0
-19but: 0.0
-そうすると: 0.0
-contactus: 0.0
-exciting: 0.0
-trystan: 0.0
-enroll3: 0.0
-andblack: 0.0
+2013年7月19日: 0.0
+frog: 0.0
+evidenziare: 0.0
+moaned: 0.0
+eh1916: 0.0
+contexts: 0.0
+afflict: 0.0
+z9w: 0.0
+macfarlane: 0.0
+invalids: 0.0
 
 -----------------------------------
 Instance 300 out of 364
@@ -6441,34 +6441,34 @@ Text:   • Home
       □ Cosmic Shorts
       □ Hermaphroditeaphobia
       □ In...
-Predicted class: christianity, True class: atheism
+Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-sarantos: 0.0
-nationalism: 0.0
-0x6b8ab6: 0.0
-monogamy: 0.0
-paddle: 0.0
-vassal: 0.0
-instruments: 0.0
-9uejnezxd7u: 0.0
-oven: 0.0
-よく見るとインドの神様ガネーシャの石仏でした: 0.0
+waveland: 0.0
+55586804_02bb0093ea_z: 0.0
+spouted: 0.0
+chalabi: 0.0
+skutten: 0.0
+copywright: 0.0
+ofttimes: 0.0
+modified: 0.0
+vorlesungen: 0.0
+greenberg: 0.0
 
 -----------------------------------
 Instance 301 out of 364
 Text:                                                                                                     ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-sector: 0.0
-centex: 0.0
-hauptschriften: 0.0
-bills: 0.0
-avatars: 0.0
-angular: 0.0
-ですが他にもあります: 0.0
-fha: 0.0
-sjdr: 0.0
-7e3: 0.0
+_ä: 0.0
+thumb_4331: 0.0
+ecu: 0.0
+fbi: 0.0
+establishments: 0.0
+slaughter: 0.0
+article: 0.0
+plmc: 0.0
+freethinking: 0.0
+hibubbe: 0.0
 
 -----------------------------------
 Instance 302 out of 364
@@ -6481,16 +6481,16 @@ Text: bg image(images/cgbac.gif)
       □ State...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-elevated: 0.0
-goody: 0.0
-sitters: 0.0
-olivier: 0.0
-581157_412030155502620_1149282491_n: 0.0
-emotive: 0.0
-windmill: 0.0
-newslatest: 0.0
-noonday: 0.0
-taboos: 0.0
+measurably: 0.0
+stare: 0.0
+blacklds: 0.0
+greater: 0.0
+analogy: 0.0
+jxå: 0.0
+weaklings: 0.0
+home_foote: 0.0
+169: 0.0
+826: 0.0
 
 -----------------------------------
 Instance 303 out of 364
@@ -6505,16 +6505,16 @@ Monday, June 10, 2013
 Th...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-coem: 0.0
-powdered: 0.0
-thumb_3613: 0.0
-compassionate: 0.0
-weinburg: 0.0
-13the: 0.0
-cotn: 0.0
-ary: 0.0
-robertses: 0.0
-chaoticsoul: 0.0
+cqwchief: 0.0
+андроид: 0.0
+pauling: 0.0
+heward: 0.0
+sehr: 0.0
+idence: 0.0
+ペアーズで婚活を乗り切るために: 0.0
+global_432099177: 0.0
+ksl: 0.0
+1795: 0.0
 
 -----------------------------------
 Instance 304 out of 364
@@ -6525,16 +6525,16 @@ Text: Donate Now
  ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-jessicajonesposter: 0.0
-glared: 0.0
-datil: 0.0
-adjacent: 0.0
-prall: 0.0
-diaper: 0.0
-commenter: 0.0
-woodcut: 0.0
-fragrant: 0.0
-trudging: 0.0
+logics: 0.0
+blogotional: 0.0
+spiders: 0.0
+tectonica: 0.0
+resemblance: 0.0
+ripoll: 0.0
+begetting: 0.0
+validations: 0.0
+wingedbeast: 0.0
+1169790459: 0.0
 
 -----------------------------------
 Instance 305 out of 364
@@ -6552,16 +6552,16 @@ January 16th, 2016 (Permalink)
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-wilted: 0.0
-85211: 0.0
-toto: 0.0
-repost: 0.0
-construed: 0.0
-spliff: 0.0
-unlikelihood: 0.0
-specialprize1350x107: 0.0
-crozer: 0.0
-caring: 0.0
+radnor: 0.0
+1926: 0.0
+northwood: 0.0
+brougham: 0.0
+alike: 0.0
+harvesting: 0.0
+deconverted: 0.0
+shows: 0.0
+thumb_4006: 0.0
+global_854: 0.0
 
 -----------------------------------
 Instance 306 out of 364
@@ -6571,16 +6571,16 @@ There have been an estimated 330 Million gods worshiped throughout history. And
 YOUR god is th...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-rejoiced: 0.0
-seest: 0.0
-punishments: 0.0
-slavemap: 0.0
-wp_0014081341370209: 0.0
-clerics: 0.0
-indicate: 0.0
-posed: 0.0
-eugenics: 0.0
-266: 0.0
+branching: 0.0
+²f: 0.0
+lettering: 0.0
+favors: 0.0
+324x160: 0.0
+roomprogram: 0.0
+penises: 0.0
+interacted: 0.0
+7853: 0.0
+fabrication: 0.0
 
 -----------------------------------
 Instance 307 out of 364
@@ -6591,18 +6591,18 @@ Welcome
 The Pissy Bishop is dedicated to nurturing freethought expression...
 
 The...
-Predicted class: atheism, True class: atheism
+Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-recommenation: 0.0
-interracial: 0.0
-963: 0.0
-almost: 0.0
-pristinailurus: 0.0
-cijele: 0.0
-postpone: 0.0
-compaq: 0.0
-heartwrenching: 0.0
-nar: 0.0
+cube: 0.0
+knig: 0.0
+hea: 0.0
+maudit: 0.0
+gossip: 0.0
+find: 0.0
+the_skeptic_zone_368_151108: 0.0
+3xb: 0.0
+reciting: 0.0
+wassup: 0.0
 
 -----------------------------------
 Instance 308 out of 364
@@ -6615,16 +6615,16 @@ Welcome to RationalWiki!
 Now with less hel...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-j3: 0.0
-move: 0.0
-redrawn: 0.0
-seiner: 0.0
-psychiatric: 0.0
-pietist: 0.0
-leno: 0.0
-trusting: 0.0
-casualty: 0.0
-pronoun: 0.0
+herbal: -0.0028615285806450645
+fringes: -0.002644281946729514
+maltese: 0.0
+sows: 0.0
+epitomized: 0.0
+humanistically: 0.0
+accelerator: 0.0
+ediacaran: 0.0
+jozy: 0.0
+cro: 0.0
 
 -----------------------------------
 Instance 309 out of 364
@@ -6635,16 +6635,16 @@ An Accepting, Loving, and Serving Community of Faith...Welcome Home
   • H...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-thumb_5435: 0.0
-anslem: 0.0
-coaches: 0.0
-1010: 0.0
-エステティシャンとしての資格は持っていても: 0.0
-phi: 0.0
-javascript_disabled: 0.0
-10_bulletin: 0.0
-prols: 0.0
-snohomish: 0.0
+linkbar_r13_c2: 0.0
+c1870: 0.0
+charisa: 0.0
+tension: 0.0
+sasha: 0.0
+tsunamis: 0.0
+comport: 0.0
+hdd: 0.0
+periodicals: 0.0
+degradation: 0.0
 
 -----------------------------------
 Instance 310 out of 364
@@ -6660,16 +6660,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-beheads: 0.0
-burying: 0.0
-pathological: 0.0
-keable: 0.0
-nontheistfriends: 0.0
-unlikeable: 0.0
-ex: 0.0
-ù²c: 0.0
-beide: 0.0
-の相場などの情報を集めるというのが: 0.0
+obstetrical: 0.0
+732: 0.0
+garvanza: 0.0
+selves: 0.0
+judaeo: 0.0
+hurtig: 0.0
+mannikin: 0.0
+gaseous: 0.0
+edy: 0.0
+1302: 0.0
 
 -----------------------------------
 Instance 311 out of 364
@@ -6681,16 +6681,16 @@ Donate
       □ ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-ehrenfeld: 0.0
-dã: 0.0
-overpaid: 0.0
-プラスティック: 0.0
-watchmen: 0.0
-diuguid: 0.0
-hurling: 0.0
-wondrous: 0.0
-planned: 0.0
-01school: 0.0
+maintained: 0.0
+lacinia: 0.0
+kf_140907_: 0.0
+cranking: 0.0
+insightful: 0.0
+twynham: 0.0
+ipmdvd4: 0.0
+verbum: 0.0
+organisations: 0.0
+outermost: 0.0
 
 -----------------------------------
 Instance 312 out of 364
@@ -6699,16 +6699,16 @@ Text: bg image(bg6.jpg)
                          147...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-beget: 0.0
-akr: 0.0
-url: 0.0
-mcfarland: 0.0
-organizes: 0.0
-alpharetta: 0.0
-nailed: 0.0
-pm: 0.0
-1398: 0.0
-subway: 0.0
+noises: 0.0
+fames: 0.0
+n1t: 0.0
+entourages: 0.0
+jeremy: 0.0
+wpf24cc079: 0.0
+kong: 0.0
+τούτῳ: 0.0
+wijit: 0.0
+slavemap: 0.0
 
 -----------------------------------
 Instance 313 out of 364
@@ -6720,16 +6720,16 @@ Skip to primary content
 Skip to second...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-n2: 0.0
-医療機器関連の上: 0.0
-ally_famil: 0.0
-umayyad: 0.0
-80138: 0.0
-graphics: 0.0
-establishes: 0.0
-amount: 0.0
-chrestos: 0.0
-trod: 0.0
+penal: 0.0
+forgave: 0.0
+gush: 0.0
+controller: 0.0
+urethra: 0.0
+30329: 0.0
+typeform: 0.0
+ausbildungsphase: 0.0
+hinson: 0.0
+cui: 0.0
 
 -----------------------------------
 Instance 314 out of 364
@@ -6742,16 +6742,16 @@ Pages Navigation Menu
       □...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-subtracts: 0.0
-michelle: 0.0
-mitre: 0.0
-jaxtrivia: 0.0
-8ksk5: 0.0
-2225: 0.0
-大きな公園のある三鷹で家族写真を撮ることに: 0.0
-reincarnated: 0.0
-9fm: 0.0
-free_download: 0.0
+injecting: 0.0
+zolaboard: 0.0
+aeonetwork: 0.0
+deterioration: 0.0
+699: 0.0
+harald: 0.0
+joyless: 0.0
+bathwater: 0.0
+333: 0.0
+massacre: 0.0
 
 -----------------------------------
 Instance 315 out of 364
@@ -6766,18 +6766,18 @@ Unity fall view
 candle-ceremony
 tapestries west wall
 active-grou...
-Predicted class: atheism, True class: christianity
+Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-essence: 0.0
-paddleboarding: 0.0
-shales: 0.0
-fiction: 0.0
-je: 0.0
-justhope: 0.0
-interposes: 0.0
-sermoan: 0.0
-daisy: 0.0
-blanckenstein: 0.0
+circumspect: 0.0
+billiard: 0.0
+bamberg: 0.0
+fatigues: 0.0
+kj: 0.0
+irrelevance: 0.0
+meth: 0.0
+libbing: 0.0
+874: 0.0
+teamkusum1: 0.0
 
 -----------------------------------
 Instance 316 out of 364
@@ -6793,16 +6793,16 @@ Text: Cranbrook School
   ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-tapeworms: 0.0
-khazan: 0.0
-kqç: 0.0
-tearful: 0.0
-simiar: 0.0
-1132193975: 0.0
-wealthier: 0.0
-qx: 0.0
-stegeman: 0.0
-broadest: 0.0
+8581: 0.0
+factfish1: 0.0
+pmu: 0.0
+kü: 0.0
+tamworth: 0.0
+theory: 0.0
+translink: 0.0
+draper: 0.0
+buzzfeed: 0.0
+olympus: 0.0
 
 -----------------------------------
 Instance 317 out of 364
@@ -6822,16 +6822,16 @@ Children
 ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-charitynavigator: 0.0
-lithospherica: 0.0
-traditionally: 0.0
-epitomize: 0.0
-molnar: 0.0
-pervasiveness: 0.0
-barbeque: 0.0
-nagging: 0.0
-kitzmiller: 0.0
-asunder: 0.0
+speedy: 0.0
+undergone: 0.0
+dropping: 0.0
+disclaimed: 0.0
+thumb_3284: 0.0
+badrescher: 0.0
+20789: 0.0
+wooded: 0.0
+215_lion: 0.0
+32503: 0.0
 
 -----------------------------------
 Instance 318 out of 364
@@ -6847,16 +6847,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-deteriorations: 0.0
-closely: 0.0
-exponents: 0.0
-lambdin: 0.0
-nw: 0.0
-urcna: 0.0
-repro: 0.0
-6ï: 0.0
-columbian: 0.0
-emmerich: 0.0
+avatar_c9d: 0.0
+conferma: 0.0
+donnis: 0.0
+meade: 0.0
+sf34: 0.0
+oppressors: 0.0
+brushes: 0.0
+masculinity: 0.0
+sepuagint: 0.0
+comcast: 0.0
 
 -----------------------------------
 Instance 319 out of 364
@@ -6865,16 +6865,16 @@ Text: First United Methodist Church of Glendale 134 N Kenwood St., Glendale, CA 
 First...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-online_giving: 0.0
-crista: 0.0
-drowsy: 0.0
-13140762: 0.0
-thumb_4428: 0.0
-pinterest: 0.0
-parishfran: 0.0
-overcome: 0.0
-faithhighway: 0.0
-a7: 0.0
+pasadena: 0.0
+female: 0.0
+draft: 0.0
+nunnally: 0.0
+attempted: 0.0
+temper: 0.0
+merchants: 0.0
+headerta: 0.0
+granada: 0.0
+remarked: 0.0
 
 -----------------------------------
 Instance 320 out of 364
@@ -6883,16 +6883,16 @@ Make your own free website on Tripod.com
 Make your own free ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-door: 0.0
-scheduled: 0.0
-zolaboard: 0.0
-dogmadebate: 0.0
-sensuale: 0.0
-night: 0.0
-hangover: 0.0
-fas: 0.0
-pic3: 0.0
-933: 0.0
+ですが他にもあります: 0.0
+disbeliever: 0.0
+dbts_homep: 0.0
+haggardsaint3: 0.0
+etree: 0.0
+spareth: 0.0
+inevitable: 0.0
+cantonese: 0.0
+dwellings: 0.0
+3l: 0.0
 
 -----------------------------------
 Instance 321 out of 364
@@ -6900,18 +6900,18 @@ Text:                                Tract Dissections
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━...
-Predicted class: atheism, True class: atheism
+Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-9ctiontl6ss: 0.0
-sealed: 0.0
-cfibuttonb: 0.0
-docket: 0.0
-tiếng: 0.0
-ranjan: 0.0
-1234: 0.0
-atlas: 0.0
-exhibited: 0.0
-newsfilm: 0.0
+astringents: 0.0
+je: 0.0
+bench: 0.0
+dbe: 0.0
+pièusouleta: 0.0
+rfp: 0.0
+verbatim: 0.0
+alannah: 0.0
+blackhillsft: 0.0
+apparatuses: 0.0
 
 -----------------------------------
 Instance 322 out of 364
@@ -6925,16 +6925,16 @@ Text: Pathway Community Church
       ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-trumpeted: 0.0
-mindell: 0.0
-wizenedsage: 0.0
-jefe: 0.0
-araluen: 0.0
-portugalpt: 0.0
-nast: 0.0
-thumb_2201: 0.0
-136: 0.0
-thumb_3899: 0.0
+today: 0.0
+1347: 0.0
+immediate: 0.0
+をしてまた数時間かけて帰ってくれました: 0.0
+zlp: 0.0
+carsadoc: 0.0
+287: 0.0
+thumb_1925: 0.0
+gentleness: 0.0
+crises: 0.0
 
 -----------------------------------
 Instance 323 out of 364
@@ -6943,16 +6943,16 @@ Illini Secular Student Alliance
 About | Calendar | Facebook | ISSA Sh...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-メディサポの優良な転職先は他の看護師転職サイトと比べて内容が良くて驚かされまし: 0.0
-fiscale: 0.0
-uzóª: 0.0
-constitution: 0.002007601729973549
-dual: 0.0
-mainstreaming: 0.0
-9ñ: 0.0
-hopi: 0.0
-bauchgefühl: 0.0
-madeira: 0.0
+faithworld: 0.0
+rapprochement: 0.0
+tempting: 0.0
+hymnals: 0.0
+provost: 0.0
+fse: 0.0
+worldaccessnet: 0.0
+mbc_header_logo: 0.0
+gullibility: 0.0
+foodsas: 0.0
 
 -----------------------------------
 Instance 324 out of 364
@@ -6961,16 +6961,16 @@ Text: Inland Northwest Freethought Society
 Inl...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-sherwin: 0.0
-unimaginative: 0.0
-crossescrosses: 0.0
-ugly: 0.0
-impractical: 0.0
-then: 0.0
-cinquième: 0.0
-tshirts: 0.0
-examinatio: 0.0
-tasmani: 0.0
+strawman: 0.0
+incense: 0.0
+p1010492_f: 0.0
+numbing: 0.0
+home: 0.0
+posthumously: 0.0
+2236: 0.0
+map_new: 0.0
+hh18: 0.0
+ravingatheist: 0.0
 
 -----------------------------------
 Instance 325 out of 364
@@ -7001,16 +7001,16 @@ CAP Money Course
 Children & Yo...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-purgatory: 0.0
-hmm: 0.0
-nin: 0.0
-shrovetuesday2015_01edt: 0.0
-mosovi: 0.0
-icelanders: 0.0
-pin: 0.0
-recovered: 0.0
-nystedt: 0.0
-ourlord_darwin: 0.0
+pete1: 0.0
+achievers: 0.0
+300x229: 0.0
+次の彼の体験談を待ちたいと思います: 0.0
+uncg: 0.0
+apse: 0.0
+peruse: 0.0
+prevnext: 0.0
+immatur: 0.0
+fl1: 0.0
 
 -----------------------------------
 Instance 326 out of 364
@@ -7020,16 +7020,16 @@ Text: bg image(newspnt.jpg)
 ━━━━━━━━━━━━━━━━━━━━━...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-crabbs: 0.0
-torturing: 0.0
-brookings: 0.0
-avatar_fb5: 0.0
-cuba: 0.0
-sections: 0.0
-collaborations: 0.0
-retrospective: 0.0
-ccm: 0.0
-site2: 0.0
+preempt: 0.0
+cal: 0.0
+instrumental: 0.0
+neoconservative: 0.0
+revamped: 0.0
+thumb_3612: 0.0
+blesd: 0.0
+grifters: 0.0
+debaraz: 0.0
+recipes: 0.0
 
 -----------------------------------
 Instance 327 out of 364
@@ -7037,16 +7037,16 @@ Text: EBON MUSINGS: THE ATHEISM PAGES                                     MEDITA
 ━━━━━━━━━━━━━━━━━━━━...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-weaker: 0.0
-exhibits: 0.0
-4227: 0.0
-無神論: 0.0
-2degc: 0.0
-linen: 0.0
-findley: 0.0
-spink: 0.0
-jacqueline: 0.0
-brightness: 0.0
+dissecting: 0.0
+frustrates: 0.0
+xref: 0.0
+doreen: 0.0
+1426200420: 0.0
+oberman: 0.0
+map_illino: 0.0
+249574: 0.0
+kapaa: 0.0
+huggable: 0.0
 
 -----------------------------------
 Instance 328 out of 364
@@ -7055,16 +7055,16 @@ Text:                                      Sign In  |  Register
              [giftban]                 ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-seedy: 0.0
-blahing: 0.0
-chastelain: 0.0
-brenton: 0.0
-friedrich: 0.0
-neuroscience: 0.0
-208_hymns_of_reverence_v: 0.0
-203: 0.0
-methodeviations: 0.0
-1953: 0.0
+weapons: 0.0
+nymphadora: 0.0
+ova: 0.0
+thumb_3420: 0.0
+archenemy: 0.0
+swri: 0.0
+cavemen: 0.0
+9500: 0.0
+clearance: 0.0
+avatar_74b: 0.0
 
 -----------------------------------
 Instance 329 out of 364
@@ -7080,16 +7080,16 @@ Text:   • Home
  ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-purchasr: 0.0
-pavone: 0.0
-item: 0.0
-heaping: 0.0
-teardrops: 0.0
-dv1: 0.0
-bedridden: 0.0
-harker: 0.0
-tapering: 0.0
-ãµu: 0.0
+discriminate: 0.0
+íµf: 0.0
+circling: 0.0
+fortieth: 0.0
+overhead: 0.0
+681: 0.0
+acfh: 0.0
+goals_jan_feb_2016a: 0.0
+vomiting: 0.0
+progressed: 0.0
 
 -----------------------------------
 Instance 330 out of 364
@@ -7097,16 +7097,16 @@ Text: http://www.esvbible.org/devotions/rss/every-day-in-the-word/The popular re
 plan features a read...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-brought: 0.0
-reluctant: 0.0
-airborne: 0.0
-deaneries: 0.0
-hormones: 0.0
-dehumanize: 0.0
-twenties: 0.0
-ahlc: 0.0
-aog: 0.0
-kenney: 0.0
+likest: 0.0
+voluptuous: 0.0
+stockvault: 0.0
+sumerian: 0.0
+atheistempire: 0.0
+foaled: 0.0
+uc67: 0.0
+title_key: 0.0
+reflections: 0.0
+praying_ha: 0.0
 
 -----------------------------------
 Instance 331 out of 364
@@ -7118,16 +7118,16 @@ Text:   • Home
       □ Jr & S...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-backtracks: 0.0
-pitchforks: 0.0
-odom: 0.0
-qtcxo: 0.0
-cy_: 0.0
-slider3a: 0.0
-grescoe: 0.0
-lebron: 0.0
-homead: 0.0
-drags: 0.0
+1279: 0.0
+cuffs: 0.0
+pange: 0.0
+valen: 0.0
+spaines: 0.0
+evolutionposter: 0.0
+catalog: 0.0
+jeconiah: 0.0
+disappoint: 0.0
+jeune: 0.0
 
 -----------------------------------
 Instance 332 out of 364
@@ -7141,16 +7141,16 @@ Changing lives in time and for eternity...
   • ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-façades: 0.0
-unveil: 0.0
-2632: 0.0
-dilworth: 0.0
-cabin: 0.0
-group: 0.0
-60631: 0.0
-disposition: 0.0
-1136: 0.0
-retrace: 0.0
+patient: 0.0
+shop: 0.0
+proficiency: 0.0
+jazeera: 0.0
+recaps: 0.0
+reproducible: 0.0
+bloy: 0.0
+thereon: 0.0
+gescannt: 0.0
+discuss: 0.0
 
 -----------------------------------
 Instance 333 out of 364
@@ -7165,16 +7165,16 @@ College Student?
 [...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-furthest: 0.0
-gormless: 0.0
-thereunto: 0.0
-accepts: 0.0
-mistrust: 0.0
-athiestparents: 0.0
-alysen: 0.0
-3am: 0.0
-aadhilnet: 0.0
-magale: 0.0
+1e8: 0.0
+lamawe: 0.0
+implemented: 0.0
+bioshock: 0.0
+deeks: 0.0
+yß¼: 0.0
+pune: 0.0
+liquid: 0.0
+compatibility: 0.0
+10s: 0.0
 
 -----------------------------------
 Instance 334 out of 364
@@ -7183,16 +7183,16 @@ Text: ━━━━━━━━━━━━━━━━━━━━━━━━�
 BBCi   NEWS   SPORT   W...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-mistranslated: 0.0
-harpenden: 0.0
-ecumenically: 0.0
-tone: 0.0
-vigils: 0.0
-394x60: 0.0
-bettering: 0.0
-hethens: 0.0
-md: 0.0
-patriotic: 0.0
+sistersstm: 0.0
+palatable: 0.0
+hindered: 0.0
+8496853: 0.0
+limousine: 0.0
+売却に至らなかったとしても: 0.0
+mairileod: 0.0
+キレイにするとべっぴんにしてくれるそうな: 0.0
+nlö: 0.0
+9061246017: 0.0
 
 -----------------------------------
 Instance 335 out of 364
@@ -7206,16 +7206,16 @@ Text: [382708_12_logo-image]
     ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-body_box3: 0.0
-agocfi: 0.0
-dunstan: 0.0
-wwic: 0.0
-body_box4: 0.0
-wallet_80p: 0.0
-socialisation: 0.0
-swathes: 0.0
-sepulchres: 0.0
-2012年9月28日: 0.0
+verbs: 0.0
+13087: 0.0
+jamaican: 0.0
+immaculate: 0.0
+tac: 0.0
+unappeasable: 0.0
+1118: 0.0
+vwö: 0.0
+asset: 0.0
+afb: 0.0
 
 -----------------------------------
 Instance 336 out of 364
@@ -7230,16 +7230,16 @@ Text: WOOF logo
 This group's wish...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-busibka: 0.0
-classrooms: 0.0
-global_430646942: 0.0
-bible_9704cnp: 0.0
-priapism: 0.0
-mcrae: 0.0
-jarrett: 0.0
-toss: 0.0
-courtesan: 0.0
-newspirit: 0.0
+hpim3356: 0.0
+crosse: 0.0
+urquhart: 0.0
+c4xõ: 0.0
+intifada: 0.0
+人吉自動車学校: 0.0
+sjdr_school: 0.0
+begriff: 0.0
+canonically: 0.0
+wpda8245e3: 0.0
 
 -----------------------------------
 Instance 337 out of 364
@@ -7250,16 +7250,16 @@ Supporting Science, Reason and the Separation of Church and State
 ...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-archetypal: 0.0
-1209: 0.0
-mulgrew: 0.0
-lancet: 0.0
-担当してくれる方とすぐに返事でき: 0.0
-yuval: 0.0
-ここでは健康: 0.0
-bбя: 0.0
-irreducible: 0.0
-guild: 0.0
+goddy: 0.0
+granados: 0.0
+editorial: 0.0
+632: 0.0
+paese: 0.0
+nonprophet: 0.0
+183197_srr: 0.0
+inclusive: 0.0
+denofgeek_1: 0.0
+thetheinkingatheist: 0.0
 
 -----------------------------------
 Instance 338 out of 364
@@ -7270,16 +7270,16 @@ Text: [episcopal-]
 Toggle navigation [TEC-Sheild] Episcopal Diocese of Los Ang...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-global_412: 0.0
-avatar_964: 0.0
-transhumanists: 0.0
-resolve: 0.0
-discouraged: 0.0
-pudenda: 0.0
-bilious: 0.0
-bt: 0.0
-miguel_slider_3: 0.0
-keep: 0.0
+misery: 0.0
+bergers: 0.0
+hawker: 0.0
+allah: 0.0
+provision: 0.0
+industrially: 0.0
+schama: 0.0
+inhabitant: 0.0
+rumi: 0.0
+mcdb: 0.0
 
 -----------------------------------
 Instance 339 out of 364
@@ -7289,16 +7289,16 @@ Text: You are an atheist!
 at...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-hooking: 0.0
-bonhoeffer: 0.0
-kai: 0.0
-nyetflix: 0.0
-intricate: 0.0
-delivers: 0.0
-cautiously: 0.0
-cartoonists: 0.0
-thumb_3928: 0.0
-facciani: 0.0
+18a: 0.0
+lyndi: 0.0
+καθαρά: 0.0
+concessions: 0.0
+hqdefau: 0.0
+memberstrengthen: 0.0
+screws: 0.0
+flour: 0.0
+newsfilm: 0.0
+330: 0.0
 
 -----------------------------------
 Instance 340 out of 364
@@ -7315,16 +7315,16 @@ Meetings
 Meet...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-8f: 0.0
-jaffrelot: 0.0
-цэtalд: 0.0
-christenings: 0.0
-charges: -0.0021403946245041033
-farmington: 0.0
-televangelists: 0.0
-ant: 0.0
-pander: 0.0
-atack: 0.0
+butter: 0.0
+cessna: 0.0
+wackiest: 0.0
+spliff: 0.0
+sossi: 0.0
+0673: 0.0
+kingdons: 0.0
+them725: 0.0
+spangled: 0.0
+が高いということもあります: 0.0
 
 -----------------------------------
 Instance 341 out of 364
@@ -7337,16 +7337,16 @@ Text: Timberland Drive Church of Christ
   • About Us...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-unending: 0.0
-dissatisfaction: 0.0
-complacency: 0.0
-786: 0.0
-avatar_fcb: 0.0
-renan: 0.0
-scribe: 0.0
-brandeston: 0.0
-checkon_a: 0.0
-edf: 0.0
+知人の息子さんが小学校にあがることになり: 0.0
+cultured: 0.0
+ionic: 0.0
+bk_3: 0.0
+022: 0.0
+افغانستان: 0.0
+imaginable: 0.0
+wnac: 0.0
+rationalism: 0.0
+pagelines: 0.0
 
 -----------------------------------
 Instance 342 out of 364
@@ -7361,16 +7361,16 @@ Text: ↓ Skip to Main Content
 rationalt...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-16when: 0.0
-prayerful: 0.0
-church_picture: 0.0
-agreeing: 0.0
-q6y: 0.0
-gotta: 0.0
-tacos: 0.0
-danes: 0.0
-goals_nov_dec_1: 0.0
-35so: 0.0
+aprobación: 0.0
+alfonso: 0.0
+christianity: 0.0
+stansbury: 0.0
+philanthropists: 0.0
+foolish: 0.0
+u9: 0.0
+netmundial: 0.0
+conceivably: 0.0
+161: 0.0
 
 -----------------------------------
 Instance 343 out of 364
@@ -7381,16 +7381,16 @@ A URCNA congregation in Apple Valley/Victorville, California
   ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-armistice: 0.0
-bergoglio: 0.0
-tangelo: 0.0
-morrischapma: 0.0
-renewer: 0.0
-kieran: 0.0
-jars: 0.0
-byproducts: 0.0
-ahimsa: 0.0
-sightless: 0.0
+uninfluenced: 0.0
+thumbs_st: 0.0
+bedes: 0.0
+agm: 0.0
+procrastinating: 0.0
+2015zombiewalk: 0.0
+negrospirituals: 0.0
+aof_facebook: 0.0
+理由で矯正歯科治療をする人も多いと言えます: 0.0
+tabetha: 0.0
 
 -----------------------------------
 Instance 344 out of 364
@@ -7408,16 +7408,16 @@ Text: 人身事故の定義
       □...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-h0: 0.0
-1927355459: 0.0
-harris: 0.0
-nightly: 0.0
-socratics: 0.0
-meditative: 0.0
-jamhal: 0.0
-diminishing: 0.0
-matrimonial: 0.0
-weirdwildweb: 0.0
+3441967047: 0.0
+spectacular: 0.0
+focus11: 0.0
+94827699_8: 0.0
+acorns: 0.0
+handswe: 0.0
+criss: 0.0
+miraculously: 0.0
+embrace: 0.0
+alaskan: 0.0
 
 -----------------------------------
 Instance 345 out of 364
@@ -7427,16 +7427,16 @@ Facebook Pinterest
 PayPal - The safer, easier way to pay online!...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-942: 0.0
-innocents: 0.0
-湘南美容外科クリニック: 0.0
-account: 0.0
-その日は急いでいました: 0.0
-ingersoll: 0.0
-wayman: 0.0
-dissenter: 0.0
-coloring: 0.0
-multigenerational: 0.0
+ゴスペルのワークショップを開くそうです: 0.0
+crop1: 0.0
+ateistiyhdistys: 0.0
+dowling: 0.0
+dasheth: 0.0
+institutio: 0.0
+cogntive: 0.0
+kant: 0.0
+gondii: 0.0
+balustrades: 0.0
 
 -----------------------------------
 Instance 346 out of 364
@@ -7448,16 +7448,16 @@ Text: Genazzano
       □...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-flagg: 0.0
-conclusively: 0.0
-velamin: 0.0
-nicholls: 0.0
-teenagers: 0.0
-sav: 0.0
-honors: 0.0
-betsey: 0.0
-sixtieth: 0.0
-ardis: 0.0
+kinship: 0.0
+reorientation: 0.0
+quite: 0.0
+tumbleweed: 0.0
+deua: 0.0
+07û: 0.0
+flame: 0.0
+impacts: 0.0
+hazel: 0.0
+smoothies: 0.0
 
 -----------------------------------
 Instance 347 out of 364
@@ -7472,16 +7472,16 @@ OH HAI!
 New Testamen...
 Predicted class: christianity, True class: atheism
 Random K Features Explanation:
-uqø: 0.0
-majoring: 0.0
-fright: 0.0
-ruthenians: 0.0
-behave: 0.0
-frappr: 0.0
-spermatorrhoea: 0.0
-global_438826971: 0.0
-relativist: 0.0
-3441967019: 0.0
+luddite: 0.0
+sgm_home_h: 0.0
+exploits: 0.0
+doctrinal: 0.0
+thumb_2641: 0.0
+revolution: 0.0
+dormitory: 0.0
+ther: 0.0
+jones: 0.0
+buenos: 0.0
 
 -----------------------------------
 Instance 348 out of 364
@@ -7493,16 +7493,16 @@ Password
 [                  ...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-redemption: 0.0
-pethidine: 0.0
-787e33332f: 0.0
-figurehead: 0.0
-unknown: 0.0
-cheerful_giver: 0.0
-1000071798: 0.0
-bibviz: 0.0
-facebookrss: 0.0
-explain: 0.0
+swsbs: 0.0
+fiveredapples: 0.0
+proprietary: 0.0
+vespers: 0.0
+歯並びを治す必要: 0.0
+1662: 0.0
+erobbi: 0.0
+hahaha: 0.0
+principle: 0.0
+capstone: 0.0
 
 -----------------------------------
 Instance 349 out of 364
@@ -7511,16 +7511,16 @@ Text: Orthodox Christian Information Center
 Advertise Contact Ab...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-frugal: 0.0
-yel: 0.0
-veiled: 0.0
-excise: 0.0
-scottkelly_0: 0.0
-7168: 0.0
-horizons: 0.0
-havrilla: 0.0
-hosting: 0.0
-stoney: 0.0
+_openvpnusers: 0.0
+wahhabism: 0.0
+dawson: 0.0
+gotcha: 0.0
+todos: 0.0
+soc: 0.0
+geologicpodcast440: 0.0
+homogenous: 0.0
+8dç: 0.0
+silencing: 0.0
 
 -----------------------------------
 Instance 350 out of 364
@@ -7528,16 +7528,16 @@ Text: [Select Language     ]   http://www.wikio.com Religion Bloglisting.net - T
 internets fastest growi...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-hygiene: 0.0
-takin: 0.0
-corollas: 0.0
-patrick: 0.0
-torpid: 0.0
-quoting: 0.0
-cowby: 0.0
-brothel: 0.0
-pervidi: 0.0
-ravenscroft: 0.0
+rests: 0.0
+pearly: 0.0
+depreciating: 0.0
+brony: 0.0
+united_states_capitol_: 0.0
+js_gbc02: 0.0
+washiqur: 0.0
+isegi5p: 0.0
+martyred: 0.0
+cantú: 0.0
 
 -----------------------------------
 Instance 351 out of 364
@@ -7547,16 +7547,16 @@ Text:   [WelcomeBan]                             [LilyCornerLogo2] [Georgian-boo
        ...
 Predicted class: atheism, True class: christianity
 Random K Features Explanation:
-lobdell: 0.0
-alleviate: 0.0
-vantill: 0.0
-tipplers: 0.0
-eileen: 0.0
-vaginas: 0.0
-blonsky: 0.0
-thickly: 0.0
-allilance: 0.0
-6nz: 0.0
+cornerstone: 0.0
+financially: 0.0
+1coloclerkin: 0.0
+ryle2: 0.0
+jeeks: 0.0
+thatnerdysciencegirl: 0.0
+pangborn: 0.0
+liabilities: 0.0
+706: 0.0
+tansey: 0.0
 
 -----------------------------------
 Instance 352 out of 364
@@ -7565,16 +7565,16 @@ Therefore, if anyone is in Christ,  he is a new creation. The old has passed
 away; behold, the new...
 Predicted class: christianity, True class: christianity
 Random K Features Explanation:
-inerrant: 0.0
-chembob: 0.0
-snl: 0.0
-unfolding: 0.0
-canst: 0.0
-edit: 0.0
-bennet: 0.0
-tp: 0.0
-preti: 0.0
-routinely: 0.0
+spiritualism: 0.0
+diaper: 0.0
+militarists: 0.0
+christmases: 0.0
+nuttery: 0.0
+delrieu: 0.0
+icontwitter: 0.0
+punched: 0.0
+502013115_: 0.0
+quraishi: 0.0
 
 -----------------------------------
 Instance 353 out of 364
@@ -7591,16 +7591,16 @@ Deception
 01/18/1601/1...
 Predicted class: atheism, True class: atheism
 Random K Features Explanation:
-160415: 0.0
-4e2c: 0.0
-cheerleading: 0.0
-nipple: 0.0
-attends: 0.0
-figurehead: 0.0
-fth: 0.0
-singing: 0.0
-curiosity: 0.0
-heron: 0.0
+compelled: 0.0
+bakhtiyar: 0.0
+eddie: 0.0
+unisa: 0.0
+muttered: 0.0
+alleges: 0.0
+oblivious: 0.0
+strain: 0.0
+5240: 0.0
+usticke: 0.0
 
 -----------------------------------
 Instance 354 out of 364
@@ -7610,3 +7610,219 @@ Think Free * Live Free * Be Free
 [cropped-Website-cover]
 Skip to c...
 Predicted class: atheism, True class: atheism
+Random K Features Explanation:
+1256: 0.0
+iu: 0.0
+spammers: 0.0
+peeves: 0.0
+cma: 0.0
+bawden: 0.0
+pharmakeia: 0.0
+evolutionposter: 0.0
+floats: 0.0
+disruption: 0.0
+
+-----------------------------------
+Instance 355 out of 364
+Text: [dove]              Holy Spirit Interactive
+                                                        ...
+Predicted class: christianity, True class: christianity
+Random K Features Explanation:
+hitchslap: 0.0
+chronologynews: 0.0
+motherjones: 0.0
+opinon: 0.0
+jalw: 0.0
+gaultiere: 0.0
+80126: 0.0
+verified_m: 0.0
+tract: 0.0
+_headera: 0.0
+
+-----------------------------------
+Instance 356 out of 364
+Text:  [                    ]
+ Search this site
+
+                 Church of St. Peter
+
+                 
+ ...
+Predicted class: christianity, True class: christianity
+Random K Features Explanation:
+lô: 0.0
+rockhampton: 0.0
+endangered: 0.0
+590_2: 0.0
+_members: 0.0
+politico: 0.0
+contaminated: 0.0
+chalabi: 0.0
+dcf: 0.0
+fission: 0.0
+
+-----------------------------------
+Instance 357 out of 364
+Text:     ● [home][News] [Curia] [Addresses] [Carmelite sites] [o.c.d.s.] [emai]
+
+                 The Vir...
+Predicted class: christianity, True class: christianity
+Random K Features Explanation:
+quantcast: 0.0
+sharia: 0.0
+arriv: 0.0
+irradiance: 0.0
+frequency: 0.0
+flung: 0.0
+romanik: 0.0
+n31eqwyyh8: 0.0
+与体系や職場環境: 0.0
+spoiled: 0.0
+
+-----------------------------------
+Instance 358 out of 364
+Text: Heworth Methodist Church scenes
+Show/hide menu [ ]
+
+  • Worship & Prayer
+      □ Prayer meetings
+   ...
+Predicted class: christianity, True class: christianity
+Random K Features Explanation:
+4397: 0.0
+singe: 0.0
+evade: 0.0
+dism: 0.0
+secularity: 0.0
+comeworshi: 0.0
+herzl: 0.0
+account: 0.0
+feminists: 0.0
+elit: 0.0
+
+-----------------------------------
+Instance 359 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism, True class: atheism
+Random K Features Explanation:
+alongside: 0.0
+24: 0.0
+apostatize: 0.0
+email0: 0.0
+lutte: 0.0
+exoskeletons: 0.0
+submultitude: 0.0
+locket: 0.0
+benny: 0.0
+diocrest: 0.0
+
+-----------------------------------
+Instance 360 out of 364
+Text: Make your own free website on Tripod.com
+Make your own free website on Tripod.com
+                  ...
+Predicted class: atheism, True class: atheism
+Random K Features Explanation:
+harps: 0.0
+able: 0.0
+andronicus: 0.0
+mormon411: 0.0
+20176: 0.0
+missouri: 0.0
+excuse: 0.0
+formazione: 0.0
+danbury: 0.0
+storewide: 0.0
+
+-----------------------------------
+Instance 361 out of 364
+Text:   • Home
+  • Find a Meetup Group
+  •  
+
+    50^%
+
+    OFF
+  • Start a Meetup Group
+  • [English  ]
+ ...
+Predicted class: atheism, True class: atheism
+Random K Features Explanation:
+exempt: 0.0
+screw: 0.0
+wilson: 0.0
+gritty: 0.0
+imaginatively: 0.0
+quality: 0.0
+debuted: 0.0
+fsb: 0.0
+exhume: 0.0
+46202: 0.0
+
+-----------------------------------
+Instance 362 out of 364
+Text: Friends of Freethought
+
+Annual Meeting of Friends of Freethought 2015
+
+ 
+
+Please join us for our ann...
+Predicted class: atheism, True class: atheism
+Random K Features Explanation:
+looten: 0.0
+larycia: 0.0
+wear: 0.0
+fb: 0.0
+acappellaradiance200: 0.0
+そこから恋人になり: 0.0
+stichar: 0.0
+tine: 0.0
+278: 0.0
+ups: 0.0
+
+-----------------------------------
+Instance 363 out of 364
+Text:                      SERMONS OF THE CURE OF ARS - EXCERPTS
+
+                                        ...
+Predicted class: christianity, True class: christianity
+Random K Features Explanation:
+cathy: 0.0
+tasted: 0.0
+amanda: 0.0
+550: 0.0
+principle: 0.0
+listing: 0.0
+outlet: 0.0
+13at: 0.0
+sorensenby: 0.0
+skit: 0.0
+
+-----------------------------------
+Instance 364 out of 364
+Text: skip to main | skip to sidebar
+The Great American God-Out presented by Atheists United for a Rationa...
+Predicted class: atheism, True class: atheism
+Random K Features Explanation:
+pendergrass: 0.0
+instituto: 0.0
+lakewoodchurch: 0.0
+guest_contributors: 0.0
+thors: 0.0
+betwixt: 0.0
+forensic: 0.0
+frickin: 0.0
+hatley: 0.0
+jkhsaleooa: 0.0
+
+-----------------------------------
